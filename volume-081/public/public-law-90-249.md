@@ -1,0 +1,274 @@
+---
+volume: 81
+citation: 81 Stat. 936
+type: Public Law
+number: 249
+congress: 90
+session: 1
+scope: public
+approved: 1968-01-02
+bills: 90/hr-13893
+---
+
+# Public Law 90–249
+
+> AN ACT Making appropriations for Foreign Assistance and related agencies for the fiscal year ending June 30, 1968, and for other purposes.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+That the following sums are appropriated, out of any money in the Treasury not otherwise appropriated, for Foreign Assistance and related agencies for the fiscal year ending June 30, 1968, and for other purposes, namely:
+
+## TITLE I — FOREIGN ASSISTANCE
+
+## Funds Appropriated to the President
+
+For expenses necessary to enable the President to carry out the provisions of the Foreign Assistance Act of 1961, as amended, to remain available until June 30, 1968, unless otherwise specified herein, as follows:
+
+## economic assistance
+
+Technical cooperation and development grants: For expenses authorized by section 212, $180,000,000: Provided, That no part of this appropriation shall be used to initiate any project or activity which has not been justified to the Congress: Provided, however, That no more than $20,000,000 shall be used for family planning.
+
+American schools and hospitals abroad: For expenses authorized by section 214(c),$11,500,000.
+
+American schools and hospitals abroad (special foreign currency program): For assistance authorized by section 214(d), $5,986,000 in foreign currencies which the Treasury Department determines to be excess to the normal requirements of the United States for the following institutions in Israel: $1,000,000 for the Or Hachayim Girl’s College of Israel; $1,986,000 for a school in Israel sponsored by the Israel Training Institute for Boys; $1,000,000 for the Bayit Lepletot Home; $1,000,000 for the Ch’san Sofer Chasan Yecheskel Institute; and $1,000,000 for the Jerusalem College for Women.
+
+Surveys of investment opportunities: For expenses authorized by section 232, $1,250,000.
+
+International organizations and programs: For expenses authorized by section 302(a), $130,000,000: Provided, That the President shall seek to assure that no contribution to the United Nations Development Program authorized by the Foreign Assistance Act of 1961, as amended, shall be used for projects for economic or technical assistance to the Government of Cuba, so long as Cuba is governed by the Castro regime: Provided further, That no part of this appropriation shall be used to initiate any project, activity, or program which has not been justified to the Congress.
+
+Supporting assistance: For expenses authorized by section 402, $600,000,000.
+
+Contingency fund: For expenses authorized by section 451(a), $10,000,000. Unobligated balances as of June 30, 1967, of funds heretofore made available under the authority of the Foreign Assistance Act of 1961, as amended, except as otherwise provided by law, are hereby continued available for the fiscal year 1968, for the same general purposes for which appropriated and amounts certified pursuant to section 1311 of the Supplemental Appropriation Act, 1955, as having been obligated against appropriations heretofore made under the authority of the Foreign Assistance Act of 1961, as amended, for the same gen-eral purpose as any of the subparagraphs under “Economic Assistance” are hereby continued available for the same period as the respective appropriations in such subparagraphs for the same general purpose: Provided, That such purpose relates to a project or program previously justified to Congress and the Committees on Appropriations of the House of Representatives and the Senate are notified prior to the reobligation of funds for such projects or programs.
+
+Alliance for Progress, technical cooperation and development grants: For expenses authorized by section 252(a), $80,000,000.
+
+Alliance for Progress, development loans: For expenses authorized by section 252(a), $389,000,000, together with such dollar amounts as are authorized to be made available for assistance under section 253, all such amounts to remain available until expended.
+
+Alliance for Progress, partners of the alliance: For expenses authorized by sect ion 252 (b), $330,000.
+
+Development loans: For expenses authorized by section 202(a), $435,000,000, together with such amounts as are authorized to be made available for expenses under section 203, all such amounts to remain available until expended: Provided, That this appropriation shall be available without regard to the provisions of section 205 of the Foreign Assistance Act of 1961, as amended, and the President, after consideration of the extent of additional participation by other countries, may make available, on such terms and conditions as he determines, not to exceed 10 per centum of this appropriation to the International Bank for Reconstruction and Development, the International Development Association, the International Finance Corporation, or the Asian Development Bank for use pursuant to the laws governing United States participation in such institutions, if any, and the governing statutes thereof, and without regard to section 201 or any other requirements of the Foreign Assistance Act of 1961, as amended.
+
+Administrative expenses: For expenses authorized by section 637(a), $55,300,000.
+
+Administrative and other expenses: For expenses authorized by section 637(b) of the Foreign Assistance Act of 1961, as amended, and by section 305 of the Mutual Defense Assistance Control Act of 1951, as amended, $3,255,000.
+
+## Military Assistance
+
+Military assistance: For expenses authorized by section 504(a) of the Foreign Assistance Act of 1961, as amended, including administrative expenses authorized by section 636(g)(1) of such Act, which shall not exceed $21,400,000 for the current fiscal year, and purchase of passenger motor vehicles for replacement only for use outside the United States, $400,000,000: Provided, That none of the funds contained in this paragraph shall be available for the purchase of new automotive vehicles outside of the United States: Provided further, That none of the funds contained in this paragraph and none of the funds contained in the military assistance credit sales revolving fund shall be used to finance directly or indirectly the purchase or acquisition of sophisticated weapons systems, such as missile systems and jet aircraft for military purposes, by or for any underdeveloped country other than Greece, Turkey, Iran, Israel, the Republic of China, the Philippines, and Korea unless the President determines that such purchase or acquisition of weapons systems are vital to the national security of the United States and reports within 30 days each such determination to the Congress: Provided further, That the military assistance pro-gram for any country shall not be increased beyond the amount justified to the Congress, unless the President determines that an increase in such program is essential to the national interest of the United States and reports each such determination to the House of Representatives and the Senate within thirty days after each such determination.
+
+## GENERAL PROVISIONS
+
+## § 101.
+
+None of the funds herein appropriated (other than funds appropriated under the authorization for “International organizations and programs”) shall be used to finance the construction of any new flood control, reclamation, or other water or related land resource project or program which has not met the standards and criteria used in determining the feasibility of flood control, reclamation, and other water and related land resource programs and projects proposed for construction within the United States of America as per memorandum of the President dated May 15, 1962.
+
+## § 102.
+
+Obligations made from funds herein appropriated for engineering and architectural fees and services to any individual or group of engineering and architectural firms on any one project in excess of $25,000 shall be reported to the Senate and House of Representatives at least twice annually.
+
+## § 103.
+
+Except for the appropriations entitled “Contingency Fund”, “Alliance for Progress, development loans”, and “Development loans”, not more than 20 per centum of any appropriation item made available by this title shall be obligated and/or reserved during the last month of availability.
+
+## § 104.
+
+None of the funds herein appropriated nor any of the counterpart funds generated as a result of assistance hereunder or any prior Act shall be used to pay pensions, annuities, retirement pay, or adjusted service compensation for any persons heretofore or hereafter serving in the armed forces of any recipient country.
+
+## § 105.
+
+The Congress hereby reiterates its opposition to the seating in the United Nations of the Communist China regime as the representative of China, and it is hereby declared to be the continuing sense of Congress that the Communist regime in China has not demonstrated its willingness to fulfill the obligations contained in the Charter of the United Nations and should not be recognized to represent China in the United Nations. In the event of the seating of representatives of the Chinese Communist regime in the Security Council or General Assembly of the United Nations, the President is requested to inform the Congress, insofar as is compatible with the requirements of national security, of the implications of this action upon the foreign policy of the United States and our foreign relationships, including that created by membership in the United Nations, together with any recommendations which he may have with respect to the matter.
+
+## § 106.
+
+It is the sense of Congress that any attempt by foreign nations to create distinctions because of their race or religion among American citizens in the granting of personal or commercial access or any other rights otherwise available to United States citizens generally is repugnant to our principles; and in all negotiations between the United States and any foreign state arising as a result of funds appropriated under this title these principles shall be applied as the President may determine.
+
+## § 107.
+
+- **(a)** No assistance shall be furnished under the Foreign Assistance Act of 1961, as amended, to any country which sells, furnishes, or permits any ships under its registry to carry to Cuba, so long as it is governed by the Castro regime, in addition to those items contained on the list maintained by the Administrator pursuant to title I of the Mutual Defense Assistance Control Act of 1951, as amended, any arms, ammunition, implements of war, atomic energy materials, or any other articles, materials, or supplies of primary strategic significance used in the production of arms, ammunition, and implements of war or of strategic significance to the conduct of war, including petroleum products.
+- **(b)** No economic assistance shall be furnished under the Foreign Assistance Act of 1961, as amended, to any country which sells, furnishes, or permits any ships under its registry to carry items of economic assistance to Cuba, so long as it is governed by the Castro regime, or to North Vietnam.
+
+## § 108.
+
+Any expenditure made from funds provided in this title for procurement outside the United States of any commodity in bulk and in excess of $100,000 shall be reported to the Senate and the House of Representatives at least twice annually: Provided, That each such report shall state the reasons for which the President determined, pursuant to criteria set forth in section 604(a) of the Foreign Assistance Act of 1961, as amended, that foreign procurement will not result in adverse effects upon the economy of the United States or the industrial mobilization base which outweigh the economic or other advantages to the United States of less costly procurement outside the United States.
+
+## § 109.
+
+- **(a)** No assistance shall be furnished to any nation, whose government is based upon that theory of government known as communism under the Foreign Assistance Act of 1961, as amended, for any arms, ammunition, implements of war, atomic energy materials, or any articles, materials, or supplies, such as petroleum, transportation materials of strategic value, and items of primary strategic significance used in the production of arms, ammunition, and implements of war, contained on the list maintained by the Administrator pursuant to title I of the Mutual Defense Assistance Control Act of 1951, as amended.
+- **(b)** No economic assistance shall be furnished to any nation whose government is based upon that theory of government Known as communism under the Foreign Assistance Act of 1961, as amended (except section 214(b)), unless the President determines that the withholding of such assistance would be contrary to the national interest and reports such determination to the House of Representatives and the Senate. Reports made pursuant to this subsection shall be published in the Federal Register within seven days of submission to the committees and shall contain a statement by the President of the reasons for such determination.
+
+## § 110.
+
+None of the funds appropriated or made available pursuant to this Act for carrying out the Foreign Assistance Act of 1961, as amended, may be used for making payments on any contract for procurement to which the United States is a party entered into after the date of enactment of this Act which does not contain a provision authorizing the termination of such contract for the convenience of the United States.
+
+## § 111.
+
+None of the funds appropriated or made available by this or any predecessor Act for the years subsequent to fiscal year 1962 for carrying out the Foreign Assistance Act of 1961, as amended, may be used to make payments with respect to any contract for the performance of services outside the United States by United States citizens unless the President shall have promulgated regulations that provide for the investigation of such citizens for loyalty and security to the extent necessary to protect the security and other interests of the United States: Provided, That such regulations shall require that any such United States citizen who will have access, in connection with the performance of such services, to information or material classified for security reasons shall be subject to such investigation as may otherwise be provided by law and executive order.
+
+## § 112.
+
+None of the funds appropriated or made available under this Act for carrying out the Foreign Assistance Act of 1961, as amended, may be used to make payments with respect to any capital project financed by loans or grants from the United States where the United States has not directly approved the terms of the contracts and the firms to provide engineering, procurement, and construction services on such projects.
+
+## § 113.
+
+Of the funds appropriated or made available pursuant to this Act not more than $8,000,000 may be used during the fiscal year ending June 30, 1968, in carrying out section 241 of the Foreign Assistance Act of 1961, as amended.
+
+## § 114.
+
+None of the funds appropriated or made available pursuant to this Act for carrying out the Foreign Assistance Act of 1961, as amended, may be used to pay in whole or in part any assessments, arrearages, or dues of any member of the United Nations.
+
+## § 115.
+
+None of the funds made available by this Act for carrying out the Foreign Assistance Act of 1961, as amended, may be obligated for financing, in whole or in part, the direct costs of any contract for the construction of facilities and installations in any underdeveloped country, unless the President shall have promulgated regulations designed to assure, to the maximum extent consistent with the national interest and the avoidance of excessive costs to the United States, that none of the funds made available by this Act and thereafter obligated shall be used to finance the direct costs under such contracts for construction work performed by persons other than qualified nationals of the recipient country or qualified citizens of the United States: Provided, however, That the President may waive the application of this amendment if it is important to the national interest.
+
+## § 116.
+
+No assistance shall be furnished under the Foreign Assistance Act of 1961, as amended, to any country that sells, furnishes, or permits any ships under its registry to carry to North Vietnam any of the items mentioned in subsection 107(a) of this Act.
+
+## § 117.
+
+None of the funds appropriated or made available in this Act for carrying out the Foreign Assistance Act of 1961, as amended, shall be available for assistance to the United Arab Republic, unless the President determines that such availability is essential to the national interest of the United States.
+
+## § 118.
+
+None of the funds appropriated or made available pursuant to this Act for carrying out the Foreign Assistance Act of 1961, as amended, may be used to finance the procurement of iron and steel products for use in Vietnam containing any component acquired by the producer of the commodity, in the form in which imported into the country of production, from sources other than the United States or a country designated as a limited free world country by code number 901 in the September 1964 Geographic Code Book compiled by the Agency for International Development, and at a total cost (delivered to the point of production) that amounts to more than 10 per centum of the lowest price (excluding the cost of ocean transportation and marine insurance) at which the supplier makes the commodity available for export sale (whether or not financed by the Agency for International Development).
+
+## § 119.
+
+The President is directed to withhold economic assistance in an amount equivalent to the amount spent by any underdeveloped country other than Greece, Turkey, Iran, Israel, the Republic of China, the Philippines, and Korea for the purchase of sophisticated weapons systems, such as missile systems and jet aircraft for military purposes from any country, unless the President determines that such purchase or acquisition of weapons systems are vital to the national security of the United States and reports within thirty days each such determination to the Congress.
+
+## § 120.
+
+Hereafter, none of the funds obtained or authorized to be obtained from the sale of notes under authority of paragraph 111(c)(2) of the Economic Cooperation Act. of 1948 or paragraph 413(b)(4)(F) of the Mutual Security Act of 1954 may be used for the purposes of discharging liabilities under any guaranties (exclusive of informational media guaranties) issued under sections 221(b) and 224 of the Foreign Assistance Act of 1961, sections 202(b) and 413 (b)(4) of the Mutual Security Act of 1954, and section 111(b)(3) of the Economic Cooperation Act of 1948. Any portion of the funds in the reserve established pursuant to section 222(e) of the Foreign Assistance Act of 1961 which are attributable to the funds realized from the sale of notes specified in the preceding sentence shall be transferred to the general fund of the Treasury. The Secretary of the Treasury shall cancel all such notes and sums owing and unpaid thereon, including interest to date of cancellation.
+
+## TITLE II — FOREIGN ASSISTANCE (OTHER)
+
+## Funds Appropriated to the President
+
+## peace corps
+
+For expenses necessary to enable the President to carry out the provisions of the Peace Corps Act (75 Stat. 612), as amended, including purchase of not to exceed five passenger motor vehicles for use outside the United States, $107,500,000, of which not to exceed $28,400,000 shall be available for administrative expenses.
+
+## DEPARTMENT OF THE ARMY—CIVIL FUNCTIONS
+
+## Ryukyu Islands, Army
+
+## administration
+
+For expenses, not otherwise provided for, necessary to meet the responsibilities and obligations of the United States in connection with the government of the Ryukyu Islands, as authorized by the Act of July 12, 1960 (74 Stat. 461), as amended (76 Stat. 742); services as authorized by 5 U.S.C. 3109, of individuals not to exceed ten in number; not to exceed $4,000 for contingencies for the High Commissioner, to be expended in his discretion; hire of passenger motor vehicles and aircraft.; purchase of four passenger motor vehicles, for replacement only; and construction, repair, and maintenance of buildings, utilities, facilities, and appurtenances; $14,956,000, of which not to exceed $2,956,000 shall be available for administrative and information expenses: Provided, That expenditures from this appropriation may be made outside continental United States when necessary to carry out its purposes, without regard to sections 355 and 3648, Revised Statutes, as amended, section 4774(d) of title 10, United States Code, civil service or classification laws, or provisions of law prohibiting payment of any person not a citizen of the United States: Provided further, That funds appropriated hereunder may be used, insofar as practicable, and under such rules and regulations as may be prescribed by the Secretary of the Army to pay ocean transportation charges from United States ports, including territorial ports, to ports in the Ryukyus for the movement of supplies donated to, or purchased by, United States voluntary nonprofit relief agencies registered with and recommended by the Advisory Committee on Voluntary Foreign Aid or of relief packages consigned to individuals residing in such areas: Provided further, That the President may transfer to any other department or agency any function or functions provided for under this appropriation, and there shall be transferred to any such department or agency, without reimbursement and without regard to the appropriation from which procured, such property as the Director of the Bureau of the Budget shall determine to relate primarily to any function or functions so transferred: Provided further, That reimbursement shall be made to the applicable military appropriation for the pay and allowances of any military personnel performing services primarily for the purposes of this appropriation.
+
+## Department of Health, Education, and Welfare
+
+## assistance to refugees in the united states
+
+For expenses necessary to carry out the provisions of the Migration and Refugee Assistance Act of 1962 (Public Law 87–510), relating to aid to refugees within the United States, including hire of passenger motor vehicles, and services as authorized by section 3109 of title 5, United States Code, $49,000,000: together with $4,500,000 of the unobligated balance of the appropriation under this head for the fiscal year 1967.
+
+## Department of State
+
+## migration and refugee assistance
+
+For expenses, not otherwise provided for, necessary to enable the Secretary of State to provide, as authorized by law, a contribution to the International Committee of the Red Cross and assistance to refugees, including contributions to the Intergovernmental Committee for European Migration and the United Nations High Commissioner for Refugees; salaries and expenses of personnel and dependents as authorized by the Foreign Service Act of 1946, as amended (22 U.S.C. 801–1158); allowances as authorized by 5 U.S.C. 5921–5925; hire of passenger motor vehicles; and services as authorized by 5 U.S.C. 3109; $5,500,000, of which not to exceed $4,350,000 shall remain available until December 31, 1968: Provided, That no funds herein appropriated shall be used to assist directly in the migration to any nation in the Western Hemisphere of any person not having a security clearance based on reasonable standards to insure against Communist infiltration in the Western Hemisphere.
+
+## Funds Appropriated to the President
+
+## investment in inter-american development bank
+
+For subscription to the Inter-American Development Bank for the first installment of the United States share in the 1968–1970 increase in the resources of the Fund for Special Operations of the Bank, $300,000,000, to remain available until expended.
+
+## subscription to the international development association
+
+For payment of the third installment of the supplementary contributions of the United States to the International Development Association, $104,000,000, to remain available until expended.
+
+## TITLE III — EXPORT-IMPORT BANK OF WASHINGTON
+
+The Export-Import. Bank of Washington is hereby authorized to make such expenditures within the limits of funds and borrowing authority available to such corporation, and in accord with law, and to make such contracts and commitments without regard to fiscal year limitations as provided by section 104 of the Government Corporation Control Act, as amended, as may be necessary in carrying out the program set forth in the budget for the current fiscal year for such corporation, except as hereinafter provided.
+
+## Limitation on Program Activity
+
+Not to exceed $2,672,000,000 (of which not to exceed $2,295,000,000 shall be for equipment and services loans) shall be authorized during the current fiscal year for other than administrative expenses.
+
+## Limitation on Administrative Expenses
+
+Not to exceed $4, 190,000 (to be computed on an accrual basis) shall be available during the current fiscal year for administrative expenses, including services as authorized by 5 U.S.C. 3109, and not to exceed $12,000 for entertainment allowances for members of the Board of Directors: Provided, That (1) fees or dues to international organizations of credit institutions engaged in financing foreign trade, (2) necessary expenses (including special services performed on a contract or fee basis, but not including other personal services) in connection with the acquisition, operation, maintenance, improvement, or disposition of any real or personal property belonging to the Bank or in which it has an interest, including expenses of collections of pledged collateral, or the investigation or appraisal of any property in respect to which an application for a loan has been made, and (3) expenses (other than internal expenses of the Bank) incurred in connection with the issuance and servicing of guarantees, insurance, and reinsurance, shall be considered as nonadministrative expenses for the purposes hereof.
+
+None of the funds made available because of the provisions of this title shall be used by the Export-Import Bank to either guarantee the payment of any obligation hereafter incurred by any Communist country (as defined in section 620(f) of the Foreign Assistance Act of 1961, as amended) or any agency or national thereof, or in any other way to participate in the extension of credit to any such country, agency, or national, in connection with the purchase of any product by such country, agency, or national, except when the President determines that such guarantees would be in the national interest and reports each such determination to the House of Representatives and the Senate within 30 days after such determination.
+
+## TITLE IV — GENERAL PROVISIONS
+
+## § 401.
+
+No part of any appropriation contained in this Act shall be used for publicity or propaganda purposes within the United States not heretofore authorized by the Congress.
+
+## § 402.
+
+None of the funds herein appropriated shall be used for expenses of the Inspector General, Foreign Assistance, after the expiration of the thirty-five day period which begins on the date the General Accounting Office or any committee of the Congress, or any duly authorized subcommittee thereof, charged with considering foreign assistance legislation, appropriations, or expenditures, has delivered to the Office of the Inspector General, Foreign Assistance, a written request that it be furnished any document, paper, communication, audit, review, finding, recommendation, report, or other material in the custody or control of the Inspector General, Foreign Assistance, relating to any review, inspection, or audit arranged for, directed, or conducted by him, unless and until there has been furnished to the General Accounting Office or to such committee or subcommittee, as the case may be, (A) the document, paper, communication, audit, review, finding, recommendation, report, or other material so requested or (B) a certification by the President, personally, that he has forbidden the furnishing thereof pursuant to such request and his reason for so doing.
+
+## § 403.
+
+No part of any appropriation contained in this Act shall remain available for obligation beyond the current fiscal year unless expressly so provided herein.
+
+This Act may be cited as the “Foreign Assistance and Related Agencies Appropriation Act, 1968.”
+
+
+*Approved January 2, 1968.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- January 2, 1968 [H. R. 13893]
+- Foreign Assistance and Related Agencies Appropriation Act, 1968.
+- 75 Stat. 424. 22 USC 2151 note.
+- 22 USC 2172.
+- 77 Stat. 381. 22 USC 2174.
+- 80 Stat. 798.
+- 22 USC 2192.
+- 22 USC 2222.
+- 22 USC 2242.
+- 22 USC 2261.
+- 68 Stat. 830. 31 USC 200.
+- 76 Stat. 258. 22 USC 2212.
+- 22 USC 2213.
+- 22 USC 2162.
+- 22 USC 2163.
+- 80 Stat. 797. 22 USC 2165.
+- 22 USC 2161.
+- 22 USC 2397.
+- 22 USC 1613d.
+- 22 USC 2312. 22 USC 2396.
+- Restriction on purchases for underdeveloped countries.
+- Reports to Congress.
+- Flood control and related projects.
+- Obligation of funds. Restriction.
+- Annuities of military personnel of recipient countries.
+- Communist China.
+- 59 Stat. 1031.
+- Racial and religious discrimination.
+- 22 USC 2151 note.
+- 22 USC 1611 note.
+- 22 USC 2354.
+- Materials of strategic value.
+- Communist countries.
+- 22 USC 2174.
+- Publication in Federal Register.
+- Contracts. Termination provision.
+- Citizens employed outside U.S.
+- 22 USC 2201.
+- Construction in underdeveloped countries.
+- Countries assisting North Vietnam.
+- United Arab Republic.
+- Iron and steel products for use in Vietnam.
+- Expenditures by underdeveloped countries for weapons systems.
+- Presidential determination. Report to Congress.
+- 22 USC 1509 note, 1933 note.
+- 22 USC 2181, 2184. 22 USC 1872 note.
+- 22 USC 2182.
+- 22 USC 2501 note.
+- 80 Stat. 416.
+- 40 USC 255; 31 USC 529. 70A Stat. 269.
+- 76 Stat. 121. 22 USC 2601 note.
+- 60 Stat. 999. 80 Stat. 510.
+- 61 Stat. 584. 31 USC 849.
+- 22 USC 2370.
+- Publicity and propaganda.
+- Inspector General, Foreign Assistance.
+- Short title.
