@@ -1,0 +1,330 @@
+---
+volume: 26
+citation: 26 Stat. 1445
+type: Chapter
+number: 687
+congress: 51
+session: 2
+scope: private
+approved: 1891-03-03
+---
+
+# Chapter 687
+
+> An Act for the allowance of certain claims for stores and supplies taken and used by the U. S. Army, as reported by the Court of Claims under the provisions of the act of March third, eighteen hundred and eighty-three, known as the "Bowman act."
+
+*Be it enacted, by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+That the Secretary of the Treasury be. and is hereby, authorized and required to pay, out of any money in the Treasury not otherwise appropriated, except as hereinafter provided, to the several persons in this act named the several sums mentioned herein, the same being in full for. and the receipt of the same to be taken and accepted in each case as a full and final discharge of, the several claims examined, investigated, and reported favorably by the Court of Claims of the United States under the provisions of the act of March third, eighteen hundred and eighty-three, entitled An act to afford assistance and relief to Congress and the Executive Departments in the investigation of claims and demands against the Government: Provided, however, That no one of the claims hereinafter mentioned, and contingently appropriated for, shall be paid until the Attorney-General shall have certified to the Secretary of the Treasury that he has caused to be examined the evidence heretofore presented to the Court of Claims in support of said claim, and such other pertinent evidence as he shall be able to procure, bearing upon the loyalty of the claimant or claimants, and upon the merits and justice of the claim, and finds upon such evidence no grounds sufficient, in his opinion, to support a motion for a new trial in said case, or until there shall have been filed with said Secretary a duly certified transcript of the proceedings of the Court of Claims denying a motion made by the Attorney-General for a new trial in any one of the claims herein mentioned. The Attorney-General is hereby directed to cause such examination to be made within nine months from the passage of this act, and to make within said period motions for a new trial in all cases in which there shall be. in his opinion, sufficient ground therefor.
+
+The court shall have jurisdiction to hear and determine such motions for a new trial.
+
+As to all said claims in which the Attorney-General shall make a motion for a new trial, and in which the said motion shall be granted by the Court, the findings of the Court, if favorable to the claimant, shall reported to Congress, as under the provisions of existing law, for future action, and no payment of any such claim shall be made under the provisions of this act. The several persons’ claims and sums are as follows:
+
+- To Thomas N. Allison, administrator of James L. Allison, deceased, of Jackson County, Alabama, nine hundred and twenty dollars.
+- To Saint Cecelia’s Academy, of Nashville, Tennessee, nine hundred and thirty dollars.
+- To William W. Anderson, of Harrison County, Kentucky, four hundred and twenty-five dollars.
+- To John R. Watkins, administrator of Matilda W. Anderson, of Haywood County Tennessee, two thousand five hundred and thirty dollars.
+- To T. S. Galloway, administrator of Jackey Armour, deceased, of Fayette County, Tennessee, one thousand one Hundred and thirty-one dollars.
+- To Betty L. Abbington, administratrix of Janies B. Abbington, of Shelby County, Tennessee, two thousand seven hundred and seventy-four dollars and fifty cents.
+- To A. H. Alfrey, of Benton County, Arkansas, four hundred and fifteen dollars.
+- To Anna M. Anderson, administratrix of George A. Anderson, deceased, of Washington County, Maryland, one thousand three hundred and ninety-six dollars and fifty cents.
+- To W. R. Billingslea, administrator of Sarah Billingslea, of Warren County. Mississippi, two thousand two hundred and thirty-three dollars.
+- To Sarah A. Bishard, administratrix of Daniel Bishard, of Bourbon County, Kansas, two hundred and twenty-five dollars.
+- To T. J. Powell, administrator of Warren M. Benton, of East Carroll Parish, Louisiana, fourteen thousand five hundred and eighty- five dollars.
+- To John League, administrator of Elizabeth Becton, of Shelby County. Tennessee, one thousand and fifty-five dollars.
+- To Mary A. Blackwell, of Shelby County, Tennessee, nine hundred and forty dollars.
+- To Henry Bazinsky, administrator of Abraham Bazinsky, of Warren County, Mississippi, twenty-three thousand six hundred and forty-eight dollars.
+- To Urias Buskirk, of Logan County, West Virginia, six hundred and seventy-two dollars.
+- To George W. Bowen and William T. Bowen, administrators of James Bowen, of Culpeper County. Virginia, four thousand four hundred and eighty-eight dollars and eighty-seven cents.
+- To William K. Booe, of Lonoke County, Arkansas, four hundred and twenty dollars.
+- To Mrs. Sarah Agnes Park, Thomas M. Brown, Eliza C. Brown, Mrs. Evelyn Dyer, heirs of Thomas J. Brown, deceased, of Monroe County, Arkansas, one thousand one hundred and sixty-four dollars.
+- To Joshua Baker, of Gibson County, Tennessee, one hundred and fifty-four dollars.
+- T'o Aaron Stanton and James C. Brandon, executors of Charlotte S. Brandon, deceased, of Adams County, Mississippi, five thousand six hundred and two dollars.
+- To Thomas M. Barksdale, of Limestone County, Alabama, one hundred and fifty dollars.
+- To Moses Brooks, of Shelby County, Tennessee, seven hundred and eighty-three dollars.
+- To William H. Borders, of Washington County, Kentucky, one hundred and eighty dollars and fifty cents.
+- To Elizabeth Ann Best, executrix of David Best, deceased, of Frederick County. Maryland, six hundred and seventy-one dollars.
+- To George H. Beckwith, of Jefferson County, West Virginia, one thousand eight hundred and twenty dollars.
+- To J. E. Boswell and W. H. McKinstry, executors of Dixon S. Boswell, of Fayette County, Tennessee, one thousand and twenty-five dollars.
+- To Alfred M. Belt, McGill Belt, and E. Oliver Belt, administrators of John L. Belt, deceased, of Frederick County, Maryland, four hundred and seventy dollars.
+- To R. H. Wood, executor of John H. Bills, deceased, of Hardeman County, Tennessee, two thousand two hundred and nine dollars.
+- To Joseph Blakemore, of Cherokee County, Alabama, four hundred and seventy-live dollars.
+- To Jesse A. Bailes, of Jefferson County, Tennessee, one hundred and ninety-two dollars.
+- To William M. Brewster, of Claiborne County, Tennessee, five hundred and seventy-five dollars and fifty cents.
+- To Ella Bryan, administratrix of William A. Bryan, of Fayette County. Tennessee, seven hundred and twenty-five dollars.
+- To Chesley J. Burnett, of Hamblen County, Tennessee, two hundred and sixty-four dollars and twenty cents.
+- To Oliver G. Butts, of Loudoun County, Virginia, four hundred dollars.
+- To George L. Branscom, of Hardeman County, Tennessee, four hundred and thirty-two dollars.
+- To Levi W. Brooks, of Walker County, Georgia, one thousand three hundred and thirty-two dollars.
+- To Stephen Bird, executor of John Bird, deceased, of Mississippi County, Missouri, seven thousand one hundred and thirty-nine dollars and fifty cents.
+- To James G. Field, administrator of Edmund Bickers, deceased, of Culpeper County, Virginia, one thousand one hundred and fifty- three dollars and fifty cents.
+- To George Cooper of John, of Loudoun County, Virginia, three hundred and fourteen dollars.
+- To John M. Campbell, of Gibson County, Tennessee, one thousand and forty-six dollars and fifty cents.
+- To Anna M. Cogswell, of Hot Springs County, Arkansas, three thousand eight hundred and eighty-four dollar’s.
+- To William H. Cook, senior; of Saint Mary’s Parish, Louisiana two thousand and eighty-five dollars.
+- To George W. Chapman, administrator of John M. Cook, of Franklin, Louisiana, one thousand two hundred and ten dollar’s.
+- To Andrew Cathey, of Tishomingo County, Mississippi, five hundred and seventy-five dollars.
+- To Ellzey Chamblin, of Loudoun County, Virginia, eight hundred and ninety dollars.
+- To E. J. Conard, of Loudoun County, Virginia, one thousand five hundred and twenty-six dollars.
+- To Mary A. Conard, administratrix of John W. Conard, of Loudoun County, Virginia, two thousand four hundred and thirty-one dollars.
+- To Alexander Chavis, administrator of Jordan Chavis, of Havnes Bluff, Mississippi, (Warren County), nine hundred and fifty dollars.
+- To James W. Allen, administrator of Thomas B. Crenshaw, of Shelby County, Tennessee, nine hundred and forty-three dollars and forty cents.
+- To Ebenezer Cunningham, of Cherokee County, Alabama, one thousand four hundred and eighty dollars.
+- To Broussais Coman, administrator of James L. Coman, deceased, of Madison County, Alabama, six hundred and seventy-three dollar’s.
+- To James S. Coleman, executor of Daniel Coleman, deceased, of Jefferson County. West Virginia, five hundred and sixty dollars.
+- To A. M. Cloud, administrator of B. F. Cloud, deceased of Claiborne County, Tennessee, one thousand nine hundred and twelve dollars.
+- To Ada E. Lawrence, administratrix of C. De France, of Adams County, Mississippi, five hundred and fourteen dollars.
+- To W. P. Wilson, administrator of Eliza M. Dawson, of Shelby County, Tennessee, nineteen thousand two hundred and thirty-seven dollars and sixty-eight cents.
+- To Elizabeth F. Dyer, of Fayette County, Tennessee, four hundred and eighty dollars.
+- To W. H. Douglass, of Shelby County, Tennessee, three hundred and ninety dollars.
+- To Clarence M. Dowling, administrator of Michael Dowling, of Shelby County, Tennessee, one thousand seven hundred and seventy-eight dollars.
+- To Jeremiah F. Dorris, of Carroll Parish, Louisiana, three thousand one hundred and fifty-five dollars.
+- To James Dillard, of Goochland County, Virginia, one thousand five hundred and thirty-seven dollars.
+- To Joseph Dunbar, administrator of Celeste Dunbar, of Jefferson County. Mississippi, three hundred dollars.
+- To William C. Davidson, of Jackson County, Alabama, six hundred and fifty dollars.
+- To Edwin Dickinson, of Fayette County, Tennessee, four thousand three hundred dollars.
+- To Eli T. Diamond, of Lee County, Arkansas, one thousand three hundred dollars.
+- To Mary T. Dominique, administrator of Louis Dominique, of Baton Rouge, Louisiana, five hundred and eighty, dollars.
+- To F. M. and Josiah E. Davis, executors of Eliza Davis, deceased, of Washington County, Maryland, three hundred and sixty-six dollars.
+- To Laura B. Buford and V. Ruth Bowhannan, administratrixes of Mary J. Dooley, deceased, of Shelby County, Tennessee, one thousand five hundred and thirty-three dollars and eighty-seven cents.
+- To Annie E. Davis, administratrix of John H. Davis, deceased, of Hinds County, Mississippi, four hundred and ninety-five dollars.
+- To B. J. Kimbrough, administrator of Asa Douglass, deceased, of Shelby County, Tennessee, six hundred and forty dollars.
+- To Daniel Barnhart, of Fayette County, Tennessee, five hundred and thirty-four dollars.
+- To Susan S. Eyler, administratrix of Andrew J. Eyler, of Washington County, Maryland, five hundred and twenty dollars.
+- To Elias Eakle, of Washington County, Maryland, four hundred and fifty-one dollars.
+- To Leonard Emmert, of Washington County, Maryland, three hundred and forty-two dollars.
+- To J. A. Thomas, administrator of Mary Emerson, deceased, of Hardeman County. Tennessee, two hundred and ninety dollars.
+- To R. W. Montgomery, administrator of Benjamin C. Embry, deceased, of Green County, Kentucky, two hundred and twenty dollars.
+- To Willis Ferrill, of Shelby County, Tennessee, four hundred and fifty dollars.
+- To Thomas S. Fogg, of Giles County, Tennessee, two thousand one hundred and sixty-seven dollars and forty-one cents.
+- To Elizabeth J. Finney, of Fayette County, Tennessee, two hundred and eightvfive dollars.
+- To Mary Fogg, of Madison County, Tennessee, six hundred and sixty dollars and fifty cents.
+- To Samuel F. Beach, executor of Anthony R. Fraser, of Alexandria County. Virginia, twelve thousand eight hundred and ninety dollars and eighty-seven cents,
+- To Samuel M. Foltz, executor of Jacob Foltz, deceased, of Washington County, Maryland, one hundred and twenty-five dollars.
+- To Jacob Friend, executor of Henry Friend, deceased, of Washington County, Maryland, five hundred and seventy dollars.
+- To S. S. Gloyd, and Jacob A. Gloyd, executors of Samuel Gloyd, deceased, of Montgomery County, Maryland, five hundred and fifty dollars.
+- To John A. Gwin, of Marshall County, Mississippi, six hundred and six dollars.
+- To Horace P. Hobson, administrator of John O. Graves, of Fayette County, Tennessee, three thousand two hundred and thirty-one dollars.
+- To M. W. Prewitt and J. K. Gates, executor of James F. Gates, of Fayette County, Tennessee, six hundred and twenty-five dollars.
+- To Joseph Grantham, of Clarke County, Virginia, one thousand eight hundred and eighty-five dollars.
+- To William J. Grantham, of Jefferson County, West Virginia, three hundred and sixty-five dollars.
+- To Amos L. Moody, administrator of Argy L. Garner, deceased, of Colbert County, Alabama, eight thousand and thirty dollars, for the use of the heirs of Argy L. Garner, deceased.
+- To Varina B. Gaither, of Concordia Parish, Louisiana, eight thousand two hundred dollars.
+- To Charles Carpenter, administrator of Celia A. Groves, deceased, of Madison Parish, Louisiana, eight thousand two hundred and sev entvsix dollars.
+- To William S. George, one hundred and seventy-eight dollars and eighty-five cents, and to Belle Dinges, one hundred and seventy-eight dollars and eighty-five cents, as heirs of Solomon George, deceased, of Loudoun County, Virginia.
+- To William B. Grover, administrator of Emily J. Grover, deceased, of Henrico County, Virginia, three thousand and twenty-five dollars.
+- To Samuel S. Gloyd, of Montgomery County, Maryland, four hundred and ninety-two dollars.
+- To William W. Green, of Camden County, Missouri, two hundred and seventy dollars.
+- To William Garrett, of Davidson County, Tennessee, three thousand six hundred and ninety dollars.
+- To Thomas E. Holmes, of Montgomery County, Maryland, six hundred and twenty-four dollars.
+- To the legal representatives of John W. Hopkins, deceased, of Pulaski County Arkansas, one thousand one hundred and seventy- five dollars.
+- To Indiana E. Hughes, administratrix of John P. Hughes, deceased, of Shelby County, Tennessee, one thousand four hundred and thirty-six dollars.
+- To William R. Harper, administrator of Ecloe A. Harper, deceased, of Chattooga County, Georgia, one thousand one hundred and sixty-one dollars and seventy cents.
+- To R. A. Hurley, administrator of A. F. Hurley, deceased of Montgomery County, Maryland, seven hundred dollars.
+- To Floyd S. Hudgins, of Chattooga County, Georgia, one thousand four hundred and thirteen dollars.
+- To Robert C. Hardwick, of Hardeman County, Tennessee, one hundred and eighty-seven dollars.
+- To John Loague, administrator of Delos A. Harrell, deceased, of Shelby County, Tennessee, eight hundred and eighty-five dollars.
+- To Mattie B. Pitman, administratrix of Fannie T. Hunt, deceased, of Shelby County, Tennessee, two thousand nine hundred and forty- six dollars.
+- To William Owen, administrator of Sarah Harris, deceased, of Warren County, Mississippi, eight hundred and seventy dollars.
+- To Francis A. Harwell, of Cherokee County, Alabama, two hundred and eighty-four dollars.
+- To Robert E. Hale, of Saint Francis County, Arkansas, eight hundred dollars.
+- To Newitt Harris, of Fayette County, Tennessee, six hundred dollars.
+- To James Higginbotham, of La Fayette Parish, Louisiana, two thousand six hundred and twenty-three dollars.
+- To William M. Hawkins, administrator of William Hawkins, deceased, of Monroe County, Arkansas, one thousand and twenty dollars.
+- To Benjamin Holt, of Wayne County, Tennessee, one hundred and seventy-six dollars.
+- To Tilgliman Hilleary, Junior, of Frederick County, Maryland, one thousand and thirty-six dollars.
+- To Caroline C. Hedges, of Hinds County. Mississippi, five thousand one hundred and thirty-five dollars and fifty cents.
+- To John Heflebower, of Washington County, Maryland, one thousand seven hundred and sixty-four dollars and fifty cents.
+- To H. H. Hughey, of Lincoln County, Tennessee, two hundred and seventy-five dollars.
+- To W. H. Hallisburton, administrator of James Furlong, deceased, of Arkansas County. Arkansas, four thousand four hundred dollars.
+- To Ann E. Graves, executrix of Samuel Hutzell, deceased, of Washington County. Maryland, five hundred and seventy dollars.
+- To Americus V. Warr, administrator of Nicholas H. Isbell, deceased, of Fayette County, Tennessee, thirteen thousand four hundred and seventy-five dollars and fifteen cents.
+- To Furncy Jones, of Claiborne County, Tennessee, four hundred and forty dollars.
+- To James C. Jenkins, administrator of Thomas C. Jenkins, deceased. of Hardeman County, Tennessee, one thousand two hundred and seventy-five dollars.
+- To Harriett Jones, administratrix of John L. Jones, deceased, of Shelby County, Tennessee, eight hundred and seventy dollars.
+- To William Johnson, of Fayette County, Tennessee, one thousand three hundred and twenty-five dollars.
+- To John T. Jones, of Phillips County, Arkansas, six thousand seven hundred and five dollars.
+- To J. L. Johnston, guardian of Elizabeth M. Johnston, of Monroe County, Tennessee, seven hundred and five dollars
+- To Clayton O. Keedy, administrator of John D. Needy, of Washington County, Maryland, six hundred and forty-five dollars.
+- To Jacob 14. Keedy, of Washington County, Maryland, one hundred and thirty-four dollars.
+- To John Kelly, of Alleghany County, Virginia, six thousand five hundred and seventy one dollars and seventy-one cents.
+- To John H. King, of Washington County, Maryland, five hundred dollars.
+- To James W. Knott, of Shelby County, Tennessee, one hundred and fifty dollars.
+- To George Koonce, of Jefferson County, West Virginia, one thousand five hundred and eighty dollars.
+- To Daniel Beard of N, administrator of Eli Koons, deceased of Washington County, Maryland one hundred and five dollars.
+- To William R. Kearney, of Hardeman County, Tennessee, four hundred and twenty dollars.
+- To Charles F. King, of Franklin County, Ohio, one hundred and ninety dollars.
+- To Benjamin Kenney, of Shelby County, Tennessee, three hundred and fifty dollars.
+- To Charles L. Drain and Francis P. Drain, administratrix of John Laniden, deceased, of Alexandria County, Virginia, four thousand one hundred and forty four dollars.
+- To John H. Lighter, administrator of Peter Lighter, deceased, of Frederick County, Maryland, four hundred and twenty seven dollars.
+- To Phillip Lindsay, of Lauderdale County, Alabama, three hundred and thirty-one dollars.
+- To G. Silberberg, Bertha Silberberg, Samuel Marks, Nora Marks, and Hannah Lubinsky, heirs at law of Simon Lubinsky, deceased, of Warren County Mississippi, seven hundred and thirteen dollars.
+- To William Lloyd, of Jefferson County, West Virginia, one thousand seven hundred and eight dollars.
+- To Henry N. Lansdale, of Frederick County, Maryland, six hundred and forty two dollars.
+- To David M Lindsey, administrator of James Lindsey, deceased of Washington County, Maryland, one thousand and fifty-seven dollars.
+- To Eliza C. La Rue, of Jefferson County, West Virginia, one thousand eight hundred and ninety dollars.
+- To Jackson P. Lewis, of Shelby County, Tennessee, three hundred and five dollars.
+- To Joseph Lowe, of Loudoun County, Virginia seven hundred and forty dollars.
+- To Nancy Lewis, of Hinds County, Mississippi, three hundred and six dollars and sixty cents.
+- To H. C. Dunavant, administrator of Samuel B. Lanier, deceased of Mississippi County, Arkansas, ten thousand one hundred and eighty-seven dollar’s and thirty cents.
+- To Abner D. Lewis, of Fayette County, Tennessee, three thousand and twenty one dollars.
+- To Elizabeth Mulvehill, of Frederick County, Virginia four thousand three hundred and forty five dollars and seventeen cents.
+- To T. S. Galloway, administrator de bonis non of James Marshall, deceased, of Fayette County, Tennessee nine hundred and twenty-two dollars.
+- To Elizabeth Griggs, administratrix of Charles Murphy, deceased, of Hardeman County Tennessee, three thousand one hundred and eighty seven dollars.
+- To John W. McKnight, of Paducah Kentucky, nine hundred and fifty-one dollars.
+- To Eliza Marsteller, administratrix of C. C. Marsteller, deceased, of Prince William County, Virginia, two thousand five hundred and thirty-seven dollars.
+- To Joanna McKenna, administratrix of Samuel McKenna, deceased, of Memphis, Tennessee, three thousand and seven dollars.
+- To John B. McGhee, administrator of Ann E. McGhee, deceased, of Monroe County, Tennessee, seven hundred and five dollars.
+- To John Mack, of Jackson, Mississippi, three hundred dollars.
+- To Rachel Martin, administratrix of Thomas L. Martin, deceased of Montgomery County, Arkansas, one thousand one hundred and twelve dollars.
+- To Arthur Miller, of Madison Parish, Louisiana seven hundred and sixty dollars.
+- To Hezekiah Myers, of Sharpsburgh, Maryland, two hundred and fifty-two dollars,
+- To John H. Mitchell, of Fort Smith, Arkansas, two thousand and seventy dollars.
+- To John R. McKinnie, administrator of David McKinnie, deceased, of Hardeman County, Tennessee, one thousand one hundred and forty-two dollars.
+- To F. A. Mayo, administrator de bonis non of John McDowell, deceased, of Fayette County, Tennessee, fifteen thousand five hundred and seventy dollars.
+- To Ann Moreau, of Avoyelles Parish, Louisiana, five thousand nine hundred and ninety-five dollars.
+- To Sarah E. Mendenhall, administratrix of F. M. Mendenhall, deceased of Shelby County Tennessee, five hundred and eighty-three dollars and seventy-three cents.
+- To Susan Merrill, of Lee County, Mississippi, eight hundred and fifteen dollars.
+- To Thomas D. Moore administrator of Lydia Miller, deceased of Jefferson County West Virginia, three thousand two hundred and ninety-five dollars.
+- To John Murdock, of Washington County, Maryland, seventy-two dollars.
+- To George Minga. Isle of Wight County, Virginia two hundred and fifty-eight dollars.
+- To Duncan Marr, of Clarksville, Tennessee, nine thousand four hundred and twenty-four dollars
+- To Victor H. Newcomer, executor of John G. Miller, deceased of Washington County Maryland, three hundred and thirty-two dollars.
+- To James W. Johnson, administrator of Samuel McClung, deceased, of Greenbrier County, West Virginia two thousand and six dollars.
+- To H. A. Bell, executor of Rebecca Montgomery deceased, of Oktibbeha County Mississippi, one thousand three hundred and two dollars.
+- To William G. Davis, administrator of Coleman Marshall, of Jefferson County, Tennessee, six hundred and ten dollars.
+- To Robert S. McDonald, of Benton County, Mississippi one thousand nine hundred and fifty nine dollars.
+- To David S. Noe, of Hamblen County, Tennessee, eight hundred and sixty dollars.
+- To James C. Noe, of Grainger County, Tennessee, one thousand and ninety dollars.
+- To William Nuckolls of Hardeman County, Tennessee, two thousand one hundred and seventy-three dollars and sixty cents.
+- To R. C. Oglesby, of Washington County, Mississippi, nine thousand five hundred and forty-six dollars.
+- To John A. Oursler, of Fayette County Tennessee, two thousand four hundred and thirty-nine dollars and ten cents.
+- To Henry Piper, of Washington County, Maryland, four hundred and fifty-two dollars and twenty-five cents.
+- To Samuel D. Piper, of Washington County, Maryland, nine hundred and fifty-seven dollars and ninety cents.
+- To William A. Brown, administrator of Dedrick Pike of Monroe County. Arkansas, two thousand two hundred and fifty-eight dollars.
+- To Elizabeth Smith, administratrix of John Putnam, deceased, of Sebastian County, Arkansas, one thousand five hundred and sixty-eight dollars.
+- To John Rolater, administrator of James Pinksten, of Cherokee County, Alabama, four hundred and six dollars.
+- To Raleigh Poindexter, of Fayette County, Tennessee, eight hundred and forty-two dollars and seventy cents.
+- To Françoise P. Perrett. of Saint Mary’s Parish, Louisiana, eight hundred and twenty dollars.
+- To Morgan Price, of Garland County, Arkansas nine hundred and twenty dollars.
+- To Elizabeth Pitts, of Cherokee County, Alabama two hundred and thirty-one dollars.
+- To Alfred Pofiinberger, of Washington County, Maryland, three hundred and thirteen dollars.
+- To Samuel I. Piper of Washington County Maryland one thousand six hundred and twenty-five dollars and twenty-five cents.
+- To Emmet Y. Parham, of Henderson County, Tennessee, one thousand and fifty-five dollars.
+- To Piety Priddy, of Shelby County Tennessee, nine hundred and thirty-three dollars.
+- To William P. Posey of Lauderdale County, Tennessee, three hundred and seventy dollars.
+- To Joseph M. Pilkington, of Pettis County Missouri two thousand eight hundred and sixty dollars.
+- To Thomas S. Poindexter, W. G. Poindexter, and Oliver E. Poindexter. heirs of C. C. Poindexter, deceased of Tipton County, Tennessee, six hundred and fifty-seven dollars.
+- To J. W. B. Robinson administrator de bonis non of Andrew Park, deceased, of Monroe County, Arkansas eight hundred and thirty dollars.
+- To William N. Potts, of Madison County, Kentucky, one thousand four hundred and thirty-one dollars.
+- To William Robinson, of Roane County, Tennessee, five hundred and seventy-eight dollars.
+- To Malinda Rogers, of Greenbrier County, West Virginia, two hundred and ten dollars.
+- To Robert W. Renick, of Greenbrier County, West Virginia three thousand three hundred and thirty-two dollars.
+- To Madison Randolph, of Shelby County, Tennessee, one thousand one hundred and seventeen dollars.
+- To the corporation of the Roman Catholic Church clergy, of diaries County, Maryland, four thousand and thirty-five dollars and fifty cents.
+- To John B. Reid, of Fayette County, Tennessee, one thousand dollars.
+- To William F. Ries, of Colbert County, Alabama one thousand and fifty dollars.
+- To John R. Reaves, administrator of Edmond Reaves, of Hardeman County, Tennessee, two thousand one hundred and sixty-three dollars.
+- To H. B. Rohrback, of Washington County, Maryland, five hundred and four dollars.
+- To William C. Ramey, of Jefferson County, West Virginia, one thousand eight hundred and fifteen dollars and fifty cents.
+- To Herman L. Routzahn, administrator of John Routzahn, of Frederick County. Maryland, two hundred and forty-eight dollars.
+- To Betty B. Reily, of Frederick County, Virginia, nine hundred dollars.
+- To Robert E. Russell of Loudoun County, Virginia, seven hundred and fifty dollars.
+- To Edward Tearney, administrator of Samuel Ridenour of Jefferson County. West Virginia, one thousand and fifteen dollars.
+- To Thomas H. Reynolds, of Lauderdale County, Tennessee, one thousand, one hundred and twenty-seven dollars.
+- To George A. Davis administrator of Samuel Reel, of Washington County. Maryland, six hundred and fifty three dollars.
+- To Mary E. Gibson, administratrix of James M. Rodgers, of Shelby County. Tennessee, two thousand five hundred and eighteen dollars.
+- To Absolom Riley, of Loudoun County, Virginia six hundred and fifty-five dollars.
+- T?o Pierre Pamios. administrator of Nicholas Rue deceased, of Point Coupe Parish. Louisiana, seven hundred and sixty dollars.
+- To William A. Smith, of Saint Mary’s County, Maryland, one thousand, nine hundred and twenty-five dollars.
+- To Thomas Stewart of Limestone County Alabama one thousand six hundred and seventy-eight dollars.
+- To William Shifter, of Washington County, Maryland, one hundred and forty dollars.
+- To John Hoffman Smith of the District of Columbia, nine thousand seven hundred and seventy-four dollars.
+- To Mary Sydenstricker, of Greenbrier County, West Virginia, three hundred and ninety-five dollars.
+- To Almira E. Still, administratrix of William F Still, deceased, of Madison County, Tennessee, eight hundred and eight dollars.
+- To Elisha N. Shadden, of Pulaski Tennessee, seven hundred and ten dollars.
+- To Jeremiah B. Simmonds, of Pine Bluff, Arkansas, one thousand four hundred and eighty-five dollars.
+- To David Singleton, of Adams County, Mississippi eight hundred and twenty dollars.
+- To Mary Smith, of Fayette County, Tennessee, one thousand one hundred and twenty-six dollars and fifty cents.
+- To James Sessions, of Warren County, Mississippi, six hundred and five dollars.
+- To Mrs Elizabeth Seward, of Gibson County, Tennessee, four hundred and eighty-seven dollars.
+- To Robert Smith, of Madison County, Tennessee, five hundred and ten dollars.
+- To Jesse M. Shivers, administrator of James Shivers, deceased, of Hardeman County, Tennessee, two thousand eight hundred and thirteen dollars.
+- To George K. Sims, of Gibson County, Tennessee, seven hundred and ninety-six dollars.
+- To James H. Stafford, of Warren County, Mississippi, one thousand three hundred and eighty-six dollars.
+- To C. W. Hunt, administrator of William L. Shelton, deceased, of Jackson County. Alabama, one thousand three hundred and eighty-six dollars and fifty cents
+- To Louisa Schrader, widow of Charles Schrader, deceased, and tutrix of her minor children, of Pineville, Louisiana, two hundred and seventy-five dollars.
+- To Robert D. Salmons, for the use. of George C. Harris and John M. Henry, trustees for the creditors of Robert D. Salmons and Isaac D. McGoodwin administrator of William H. Wooten, deceased, of the State of Kentucky, three thousand four hundred and seventy- five dollars.
+- To A. T. Snouffer, administrator of Richard Thomas, of Frederick County, Maryland, five hundred and thirty-five dollars.
+- To Thomas Trundle, of Frederick County, Maryland, six hundred and fifty dollars.
+- To Otho W. Trundle, of Frederick County, Maryland, nine hundred and twenty-five dollars.
+- To James Tucker, of Fayette County, Tennessee, five hundred! dollars
+- To Lucius J. Seals, of East Feliciana Parish, Louisiana, one thousand two hundred and seventy-five dollars.
+- To Thomas Polk, administrator of Levi M. Todd, of Fayette Countv. Tennessee, one thousand six hundred and fifty dollars.
+- To J. A. Thomas, of Madison County, Tennessee, one hundred and fifty dollars.
+- To Martha L. Trigg, of Shelby County, Tennessee, four thousand five hundred and fifty dollars.
+- To D. A. and J. M. Thomas, administrator of W. C. Thomas, of Jackson County. Alabama, one thousand six hundred anti twenty-eight dollars.
+- To Sarah M. Thomas, of Adams County, Mississippi, two thousand and forty-four dollars and seven cents.
+- To Joseph S. Thompson, of Lee County, Arkansas, one thousand three hundred and forty dollars.
+- To Frank Slade, administrator of John E. Tunis, of Norfolk County, Virginia, ten thousand eight hundred and seven dollars.
+- To A. H. Taylor, administrator of Theodocia Turner, of Gibson County, Tennessee, six hundred dollars.
+- To J. A. Thomas, administrator of Samuel Thomas, of Madison County, Tennessee, one hundred and fifty dollars.
+- To J. A. Thomas, administrator of Mary Emerson, of Madison County, Tennessee, two hundred and ninety dollars.
+- To C. L. Thomas, administrator of Lewis Thomas, deceased, of Clark County, Arkansas, one thousand three hundred and thirty-eight dollars.
+- To Milton J. Durham, administrator of Leonard Taylor, deceased, of Boyle County, Kentucky, one thousand six hundred and twenty- six dollars
+- To S. H. Broadnax, administrator of George F. Taylor, of Tipton County, Tennessee, one thousand four hundred and thirty-five dollars.
+- To George W. Thornton, administrator of Mary Thornton, deceased, of Cherokee County, Alabama, six hundred and two dollars and ten cents.
+- To J. R. Vinyard. administrator of W. K. Vinyard. deceased, of Phillips County. Arkansas, five hundred and nine dollars.
+- To Jesse K. vawter, of Jennings County, Indiana, one hundred and seventy-five dollars.
+- To Jacob D. Virtz and L. H. Vincent, administrators of Peter Virtz, deceased, of Loudoun County, Virginia, one thousand two hundred and eighty-seven dollars and ten cents.
+- To Robert H. Walton, of Hardeman County, Tennessee, three hundred and sixty dollars.
+- To Mary E. Wagely. administratrix of David A. Wagely, deceased, of Jefferson County, West Virginia, eight hundred and ninety-one dollars
+- To Fletcher R. Veitch, John W. Veitch, Margaret Veitch, and Lizzie V. Bovle, of Prince George County, Maryland, seven thousand two hundred and ninety-three dollars.
+- To R. T. Coles, administrator of William H. Wortham, deceased, of Madison County, Alabama, one thousand four hundred and forty-five dollars.
+- To Luther Walters. Floyd County, Georgia, seven hundred and seventy-one dollars.
+- To Thomas H. Wysong, Jefferson County, West Virginia, one thousand three hundred and twenty-five dollars,
+- To Thornton O, Wyndham, of Clarke County, Virginia, two thousand and ninety dollars.
+- To Charles W. Woods, of Montgomery County, Maryland, six hundred and ten dollars
+- To John H, Elliott, administrator of John R. Whitlock, deceased, of Cherokee County, Alabama, four hundred dollars
+- To John Walker, of Jackson County, Alabama, four hundred and seventy-eight dollars.
+- To Harrison Winfield, of Warren County, Mississippi, four hundred and sixty-two dollars
+- To Julius Witkowski, of Carroll Parish, Louisiana, seven thousand nine hundred dollars.
+- To William R. Webber, administrator of Matthew W. Webber, deceased, of Fayette County, Tennessee, eight hundred and ninety-five dollars.
+- To Mary E. Wells, sole heir of Daniel J. Wells, deceased, of Hardeman County. Tennessee, four hundred and fifty-five dollars.
+- To Mary E. West, executrix of Richard T. West, deceased, of Montgomery County, Maryland, one thousand and ninety-five dollars.
+- To Sarah McFerrin, administratrix of Robert Waters, deceased, of Shelby County, Teimessee, one thousand seven hundred and fifty-two dollars.
+- To J. C. Williamson, administrator of J. I. Williamson, deceased, of Fayette County, Tennessee, one thousand three hundred and seventy-five dollars.
+- To George H. Wenner, of Loudoun County, Virginia, one thousand one hundred and ninety-seven dollars.
+- To William H. Wilson, administrator of Isaac N. Webb, deceased, of Harrison County, Kentucky, two thousand one hundred and thirty dollars.
+- To Hattie E. Winn, of Carroll Parish, Louisiana, two thousand two hundred dollars.
+- To T. S. Galloway, administrator of Mary G. Wilkes, deceased, of Fayette County, Tennessee, one thousand four hundred and thirty dollars.
+- To William D. Walker, of Warren County, Mississippi, six hundred and twenty-seven dollars.
+- To T. S. Galloway, administrator of Mary G. Wray, deceased, of Fayette County, Tennessee, one thousand one hundred and fifty dollars.
+- To John B. Wiltberger, executor of Charles H. Wiltberger of the District of Columbia, three thousand five hundred and eighty one dollars.
+- To William W. Watson. Tensas Parish, Louisiana, two thousand seven hundred and seventy-five dollars.
+- To Simon Witkowski, of Car roll Parish, Louisiana, seven thousand two hundred dollars.
+- To E. D. Young, of Warren County, Mississippi, six thousand three hundred and four dollars.
+- To M. W. Young, of Benton County, Mississippi, seven hundred and ninety-four dollars.
+- To Jonathan Yaste of Frederick County, Maryland, eight hundred and sixty-eight dollars.
+- To Thomas D. Meares, administrator of Armand D. Young, deceased, of New Hanover County, North Carolina, ten thousand two hundred and ten dollars.
+- All Treasury drafts in payment of the claims appropriated for in this act shall be made payable, and delivered to the parties named respectively: or in case of death of the party, to his or her executor or administrator
+
+
+*Approved, March 3, 1891.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- March 3, 1891 .
+- Payment of claims reported under “Bowman act.”
+- Vol. 22, p. 485.
+- Proviso.
+- Examination by Attorney-General.
+- Time.
+- New trials.
+- Report of findings.
+- Claims allowed.
+- “Bowman act” claims—Continued.
+- Drafts to claimant, or executor, or administrator.

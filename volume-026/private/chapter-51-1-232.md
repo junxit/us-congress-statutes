@@ -1,0 +1,28 @@
+---
+volume: 26
+citation: 26 Stat. 1145
+type: Chapter
+number: 232
+congress: 51
+session: 1
+scope: private
+approved: 1890-05-21
+---
+
+# Chapter 232
+
+> An Act to grant a pension to Julia A. Erskine.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+That the Secretary of the Interior be, and he is hereby, authorized and directed to place on the pension-roll, subject to the provisions and limitations of the pension laws, the name of David A. Lippy, late of Company F, Twenty-second Regiment of Pennsylvania Cavalry Volunteers.
+
+
+*Approved, May 21, 1890.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- May 21, 1890 .
+- David A. Lippy. Pension.
