@@ -1,0 +1,73 @@
+---
+volume: 108
+type: Public Law
+number: 425
+congress: 103
+session: 2
+scope: public
+approved: 1994-10-31
+bills: 103/hr-3499
+---
+
+# Public Law 103–425
+
+> An Act To amend the Defense Department Overseas Teachers Pay and Personnel Practices Act.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+## § 1. LEAVE FOR DODDS TEACHERS.
+
+Section 6 of the Defense Department Overseas Teachers Pay and Personnel Practices Act (20 U.S.C. 904) is amended—
+
+- **(1)** in subsection (a) by inserting “(or, if such teacher is employed in a supervisory position or higher, not less than ten and not more than thirteen)” after “ten”;
+- **(2)** in subsection (d) by striking “of the military department concerned” and inserting “of Defense”; and
+- **(3)** by adding at the end the following:
+  > - **(h)** The Director of Dependents’ Education, in consultation with the Director of the Office of Personnel Management— Only leave described in the last sentence of subsection (c) of this section (relating to leave that may be used by a teacher for any purpose) may be transferred under any program established under this subsection.”.
+  >   - **(1)** shall establish for teachers a voluntary leave transfer program similar to the one under subchapter III of chapter 63 of title 5, United States Code; and
+  >   - **(2)** may establish for teachers a voluntary leave bank program similar to the one under subchapter IV of chapter 63 of title 5, United States Code.
+
+## § 2. PROHIBITION ON CASH AWARDS TO CERTAIN FEDERAL OFFICERS.
+
+- **(a)** *In General.—* Chapter 45 of title 5, United States Code, is amended by inserting after section 4507 the following new sections:
+  > ## § 4508. Limitation of awards during a Presidential election year
+  >
+  > - **(a)** For purposes of this section, the term—
+  >   - **(1)** ‘Presidential election period’ means any period beginning on June 1 in a calendar year in which the popular election of the President occurs, and ending on January 20 following the date of such election; and
+  >   - **(2)** ‘senior politically appointed officer’ means any officer who during a Presidential election period serves—
+  >     - **(A)** in a Senior Executive Service position and is not a career appointee as defined under section 3132(a)(4); or
+  >     - **(B)** in a position of a confidential or policy-determining character under schedule C of subpart C of part 213 of title 5 of the Code of Federal Regulations.
+  > - **(b)** No senior politically appointed officer may receive an award under the provisions of this subchapter during a Presidential election period.
+  >
+  > ## § 4509. Prohibition of cash award to Executive Schedule officers
+  >
+  > “No officer may receive a cash award under the provisions of this subchapter, if such officer—
+  >
+  > - **(1)** serves in—
+  >   - **(A)** an Executive Schedule position under subchapter II of chapter 53; or
+  >   - **(B)** a position for which the compensation is set in statute by reference to a section or level under subchapter II of chapter 53; and
+  > - **(2)** was appointed to such position by the President, by and with the advice and consent of the Senate.”.
+
+- **(b)** *Technical and Conforming Amendment.—* The table of sections for chapter 45 of title 5, United States Code, is amended by inserting after the item relating to section 4507 the following:
+  > - “4508. Limitation of awards during a Presidential election year.
+  > - “4509. Prohibition of cash award to Executive Schedule officers.”.
+
+
+*Approved October 31, 1994.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- Oct. 31, 1994 [H. R. 3499]
+- Government employees.
+
+## Legislative history
+
+**LEGISLATIVE HISTORY—H.R. 3499:**
+
+
+
+*CONGRESSIONAL RECORD. Vol. 140 (1994):*
+
+- July 19, considered and passed House.
+- Oct. 7, considered and passed Senate, amended. House concurred in Senate amendment.

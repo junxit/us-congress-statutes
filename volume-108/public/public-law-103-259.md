@@ -1,0 +1,106 @@
+---
+volume: 108
+citation: 108 Stat. 694
+type: Public Law
+number: 259
+congress: 103
+session: 2
+scope: public
+approved: 1994-05-26
+bills: 103/s-636, 103/hr-796
+---
+
+# Public Law 103–259
+
+> An Act To amend title 18, United States Code, to assure freedom of access to reproductive services.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+## § 1. SHORT TITLE.
+
+This Act may be cited as the “Freedom of Access to Clinic Entrances Act of 1994”.
+
+## § 2. PURPOSE.
+
+Pursuant to the affirmative power of Congress to enact this legislation under section 8 of article I of the Constitution, as well as under section 5 of the fourteenth amendment to the Constitution, it is the purpose of this Act to protect and promote the public safety and health and activities affecting interstate commerce by establishing Federal criminal penalties and civil remedies for certain violent, threatening, obstructive and destructive conduct that is intended to injure, intimidate or interfere with persons seeking to obtain or provide reproductive health services.
+
+## § 3. FREEDOM OF ACCESS TO CLINIC ENTRANCES.
+
+Chapter 13 of title 18, United States Code, is amended by adding at the end thereof the following new section:
+
+> ## § 248. Freedom of Access to Clinic Entrances.
+>
+> - **(a)** *Prohibited Activities.—* Whoever—
+>   - **(1)** by force or threat of force or by physical obstruction, intentionally injures, intimidates or interferes with or attempts to injure, intimidate or interfere with any person because that person is or has been, or in order to intimidate such person or any other person or any class of persons from, obtaining or providing reproductive health services;
+>   - **(2)** by force or threat of force or by physical obstruction, intentionally injures, intimidates or interferes with or attempts to injure, intimidate or interfere with any person lawfully exercising or seeking to exercise the First Amendment right of religious freedom at a place of religious worship; or
+>   - **(3)** intentionally damages or destroys the property of a facility, or attempts to do so, because such facility provides reproductive health services, or intentionally damages or destroys the property of a place of religious worship, shall be subject to the penalties provided in subsection (b) and the civil remedies provided in subsection (c), except that a parent or legal guardian of a minor shall not be subject to any penalties or civil remedies under this section for such activities insofar as they are directed exclusively at that minor.
+> - **(b)** *Penalties.—* Whoever violates this section shall—
+>   - **(1)** in the case of a first offense, be fined in accordance with this title, or imprisoned not more than one year, or both; and
+>   - **(2)** in the case of a second or subsequent offense after a prior conviction under this section, be fined in accordance with this title, or imprisoned not more than 3 years, or both; except that for an offense involving exclusively a nonviolent physical obstruction, the fine shall be not more than $10,000 and the length of imprisonment shall be not more than six months, or both, for the first offense; and the fine shall be not more than $25,000 and the length of imprisonment shall be not more than 18 months, or both, for a subsequent offense; and except that if bodily injury results, the length of imprisonment shall be not more than 10 years, and if death results, it shall be for any term of years or for life.
+> - **(c)** *Civil Remedies.—*
+>   - **(1)** *Right of action.—*
+>     - **(A)** *In general.—* Any person aggrieved by reason of the conduct prohibited by subsection (a) may commence a civil action for the relief set forth in subparagraph (B), except that such an action may be brought under subsection (a)(1) only by a person involved in providing or seeking to provide, or obtaining or seeking to obtain, services in a facility that provides reproductive health services, and such an action may be brought under subsection (a)(2) only by a person lawfully exercising or seeking to exercise the First Amendment right of religious freedom at a place of religious worship or by the entity that owns or operates such place of religious worship.
+>     - **(B)** *Relief.—* In any action under subparagraph (A), the court may award appropriate relief, including temporary, preliminary or permanent injuctive relief and compensatory and punitive damages, as well as the costs of suit and reasonable fees for attorneys and expert witnesses. With respect to compensatory damages, the plaintiff may elect, at any time prior to the rendering of final judgment, to recover, in lieu of actual damages, an award of statutory damages in the amount of $5,000 per violation.
+>   - **(2)** *Action by attorney general of the united states.—*
+>     - **(A)** *In general.—* If the Attorney General of the United States has reasonable cause to believe that any person or group of persons is being, has been, or may be injured by conduct constituting a violation of this section, the Attorney General may commence a civil action in any appropriate United States District Court.
+>     - **(B)** *Relief.—* In any action under subparagraph (A), the court may award appropriate relief, including temporary, preliminary or permanent injunctive relief, and compensatory damages to persons aggrieved as described in paragraph (1)(B). The court, to vindicate the public interest, may also assess a civil penalty against each respondent—
+>       - **(i)** in an amount not exceeding $10,000 for a non-violent physical obstruction and $15,000 for other first violations; and
+>       - **(ii)** in an amount not exceeding $15,000 for a nonviolent physical obstruction and $25,000 for any other subsequent violation.
+>   - **(3)** *Actions by state attorneys general.—*
+>     - **(A)** *In general.—* If the Attorney General of a State has reasonable cause to believe that any person or group of persons is being, has been, or may be injured by conduct constituting a violation of this section, such Attorney General may commence a civil action in the name of such State, as parens patriae on behalf of natural persons residing in such State, in any appropriate United States District Court.
+>     - **(B)** *Relief.—* In any action under subparagraph (A), the court may award appropriate relief, including temporary, preliminary or permanent injunctive relief, compensatory damages, and civil penalties as described in para-graph (2)(B).
+> - **(d)** *Rules of Construction.—* Nothing in this section shall be construed—
+>   - **(1)** to prohibit any expressive conduct (including peaceful picketing or other peaceful demonstration) protected from legal prohibition by the First Amendment to the Constitution;
+>   - **(2)** to create new remedies for interference with activities protected by the free speech or free exercise clauses of the First Amendment to the Constitution, occurring outside a facility, regardless of the point of view expressed, or to limit any existing legal remedies for such interference;
+>   - **(3)** to provide exclusive criminal penalties or civil remedies with respect to the conduct prohibited by this section, or to preempt State or local laws that may provide such penalties or remedies; or
+>   - **(4)** to interfere with the enforcement of State or local laws regulating the performance of abortions or other reproductive health services.
+> - **(e)** *Definitions.—* As used in this section:
+>   - **(1)** *Facility.—* The term ‘facility’ includes a hospital, clinic, physician’s office, or other facility that provides reproductive health services, and includes the building or structure in which the facility is located.
+>   - **(2)** *Interfere with.—* The term ‘interfere with’ means to restrict a person’s freedom of movement.
+>   - **(3)** *Intimidate.—* The term ‘intimidate’ means to place a person in reasonable apprehension of bodily harm to him- or herself or to another.
+>   - **(4)** *Physical obstruction.—* The term ‘physical obstruction’ means rendering impassable ingress to or egress from a facility that provides reproductive health services or to or from a place of religious worship, or rendering passage to or from such a facility or place of religious worship unreasonably difficult or hazardous.
+>   - **(5)** *Reproductive health services.—* The term ‘reproductive health services’ means reproductive health services provided in a hospital, clinic, physician’s office, or other facility, and includes medical, surgical, counselling or referral services relating to the human reproductive system, including services relating to pregnancy or the termination of a pregnancy.
+>   - **(6)** *State.—* The term ‘State’ includes a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.”.
+
+## § 4. CLERICAL AMENDMENT.
+
+The table of sections at the beginning of chapter 13 of title 18, United States Code, is amended by adding at the end the following new item:
+
+> - “248. Blocking access to reproductive health services.”.
+
+## § 5. SEVERABILITY.
+
+If any provision of this Act, an amendment made by this Act, or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of this Act, the amendments made by this Act, and the application of the provisions of such to any other person or circumstance shall not be affected thereby.
+
+## § 6. EFFECTIVE DATE.
+
+This Act takes effect on the date of the enactment of this Act, and shall apply only with respect to conduct occurring on or after such date.
+
+
+*Approved May 26, 1994.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- May 26, 1994 [S. 636]
+- Freedom of Access to Clinic Entrances Act of 1994. 18 USC 248 note.
+- 18 USC 248 note.
+
+## Legislative history
+
+**LEGISLATIVE HISTORY—S. 636 (H.R. 796):**
+
+
+
+*CONGRESSIONAL RECORD:*
+
+- Vol. 139 (1993): Nov. 16, considered and passed Senate.
+- Nov. 18, H.R. 796 considered and passed House.
+- Vol. 140 (1994): Mar. 17, S. 636 considered and passed Senate, amended, in lieu of H.R. 796.
+- May 5, House agreed to conference report.
+- May 12, Senate agreed to conference report.
+
+*WEEKLY COMPILATION OF PRESIDENTIAL DOCUMENTS, Vol. 30 (1994):*
+
+- May 26, Presidential remarks.

@@ -1,0 +1,94 @@
+---
+volume: 108
+type: Public Law
+number: 423
+congress: 103
+session: 2
+scope: public
+approved: 1994-10-25
+bills: 103/sjres-229, 103/hjres-416
+---
+
+# Public Law 103–423
+
+> Joint Resolution Regarding United States policy toward Haiti.
+
+*Resolved by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+## § 1. SENSE OF CONGRESS REGARDING UNITED STATES ARMED FORCES OPERATIONS IN HAITI.
+
+It is the sense of Congress that—
+
+- **(a)** the men and women of the United States Armed Forces in Haiti who are performing with professional excellence and dedicated patriotism are to be commended;
+- **(b)** the President should have sought and welcomed Congressional approval before deploying United States Armed Forces to Haiti;
+- **(c)** the departure from power of the de facto authorities in Haiti, and Haitian efforts to achieve national reconciliation, democracy and the rule of law are in the best interests of the Haitian people;
+- **(d)** the President’s lifting of the unilateral economic sanctions on Haiti, and his efforts to bring about the lifting of economic sanctions imposed by the United Nations are appropriate; and
+- **(e)** Congress supports a prompt and orderly withdrawal of all United States Armed Forces from Haiti as soon as possible.
+
+## § 2. PRESIDENTIAL STATEMENT OF NATIONAL SECURITY OBJECTIVES.
+
+The President shall prepare and submit to the President pro tempore of the Senate and the Speaker of the House of Representatives (hereafter, “Congress”) not later than seven days after enactment of this resolution a statement of the national security objectives to be achieved by Operation Uphold Democracy, and a detailed description of United States policy, the military mission and the general rules of engagement under which operations of United States Armed Forces are conducted in and around Haiti, including the role of United States Armed Forces regarding Haitian on Haitian violence, and efforts to disarm Haitian military or police forces, or civilians. Changes or modifications to such objectives, policy, military mission, or general rules of engagement shall be submitted to Congress within forty-eight hours of approval.
+
+## § 3. REPORT ON THE SITUATION IN HAITI.
+
+Not later than November 1, 1994, and monthly thereafter until the cessation of Operation Uphold Democracy, the President shall submit a report to Congress on the situation in Haiti, including—
+
+- **(a)** a listing of the units of the United States Armed Forces and of the police and military units of other nations participating in operations in and around Haiti;
+- **(b)** the estimated duration of Operation Uphold Democracy and progress toward the withdrawal of all United States Armed Forces from Haiti consistent with the goal of section 1(e) of this resolution;
+- **(c)** armed incidents or the use of force in or around Haiti involving United States Armed Forces or Coast Guard personnel in the time period covered by the report;
+- **(d)** the estimated cumulative incremental cost of all United States activities subsequent to September 30, 1993, in and around Haiti, including but not limited to—
+  - **(1)** the cost of all deployments of United States Armed Forces and Coast Guard personnel, training, exercises, mobilization, and preparation activities, including the preparation of police and military units of the other nations of the multinational force involved in enforcement of sanctions, limits on migration, establishment and maintenance of migrant facilities at Guantanamo Bay and elsewhere, and all other activities relating to operations in and around Haiti; and
+  - **(2)** the costs of all other activities relating to United States policy toward Haiti, including humanitarian assistance, reconstruction, aid and other financial assistance, and all other costs to the United States Government;
+- **(e)** a detailed accounting of the source of funds obligated or expended to meet the costs described in subparagraph (d), including—
+  - **(1)** in the case of funds expended from the Department of Defense budget, a breakdown by military service or defense agency, line item and program, and
+  - **(2)** in the case of funds expended from the budgets of departments and agencies other than the Department of Defense, by department or agency and program;
+- **(f)** the Administration plan for financing the costs of the operations and the impact on readiness without supplemental funding;
+- **(g)** a description of the situation in Haiti, including—
+  - **(1)** the security situation;
+  - **(2)** the progress made in transferring the functions of government to the democratically elected government of Haiti; and
+  - **(3)** progress toward holding free and fair parliamentary elections;
+- **(h)** a description of issues relating to the United Nations Mission in Haiti (UNMIH), including—
+  - **(1)** the preparedness of the United Nations Mission in Haiti (UNMIH) to deploy to Haiti to assume its functions;
+  - **(2)** troop commitments by other nations to UNMIH;
+  - **(3)** the anticipated cost to the United States of participation in UNMIH, including payments to the United Nations and financial, material and other assistance to UNMIH;
+  - **(4)** proposed or actual participation of United States Armed Forces in UNMIH;
+  - **(5)** proposed command arrangements for UNMIH, including proposed or actual placement of United States Armed Forces under foreign command; and
+  - **(6)** the anticipated duration of UNMIH.
+
+## § 4. REPORT ON HUMAN RIGHTS.
+
+Not later than January 1, 1995, the Secretary of State shall report to Congress on the participation or involvement of any member of the de jure or de facto Haitian government in violations of internationally-recognized human rights from December 15, 1990, to December 15, 1994.
+
+## § 5. REPORT ON UNITED STATES AGREEMENTS.
+
+Not later than November 15, 1994, the Secretary of State shall provide a comprehensive report to Congress on all agreements the United States has entered into with other nations, including any assistance pledged or provided, in connection with United States efforts in Haiti. Such report shall also include information on any agreements or commitments relating to United Nations Security Council actions concerning Haiti since 1992.
+
+## § 6. TRANSITION TO UNITED NATIONS MISSION IN HAITI.
+
+Nothing in this resolution should be construed or interpreted to constitute Congressional approval or disapproval of the participation of United States Armed Forces in the United Nations Mission in Haiti.
+
+
+*Approved October 25, 1994.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- Oct. 25, 1994 [S.J. Res. 229]
+- 50 USC 1541 note.
+- 50 USC 1541 note. President.
+
+## Legislative history
+
+**LEGISLATIVE HISTORY—S.J. Res. 229 (H.J. Res. 416:**
+
+
+*CONGRESSIONAL RECORD, Vol. 140 (1994):*
+
+- Oct. 6, H.J. Res. 416 considered in House.
+- Oct. 6, S.J. Res. 229 considered and passed Senate. H.J. Res. 416 considered and passed House.
+- Oct. 7, S.J. Res. 229 considered and passed House.
+
+*WEEKLY COMPILATION OF PRESIDENTIAL DOCUMENTS, Vol. 30 (1994):*
+
+- Oct. 25, Presidential statement.
