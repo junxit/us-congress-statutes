@@ -1,0 +1,29 @@
+---
+volume: 49
+citation: 49 Stat. 510
+type: Chapter
+number: 428
+congress: 74
+session: 1
+scope: public
+approved: 1935-08-02
+bills: 74/hr-4413
+---
+
+# Chapter 428
+
+> AN ACT Granting a renewal of patent numbered 55398 relating to the badge of The American legion Auxiliary.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+That a certain design patent issued by the United States Patent Office of date June 1, 1920, being patent numbered 55398, is hereby renewed and extended for a period of fourteen years from and after the date of approval of this Act, with all the rights and privileges pertaining to the same, being generally known as “the badge of The American Legion Auxiliary.”
+
+
+*Approved, August 2, 1935.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- August 2, 1935. [H. R. 4413.] [Public, No. 231.]
+- American Legion Auxiliary. Renewal of patent.
