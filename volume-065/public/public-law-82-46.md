@@ -1,0 +1,36 @@
+---
+volume: 65
+citation: 65 Stat. 64
+type: Public Law
+number: 46
+congress: 82
+session: 1
+scope: public
+approved: 1951-06-12
+bills: 82/hjres-253
+---
+
+# Public Law 46
+
+> JOINT RESOLUTION To permit articles imported from foreign countries for the purpose of exhibition at the Japanese Trade Fair, Seattle, Washington, to be admitted without payment of tariff, and for other purposes.
+
+*Resolved by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+That all articles which shall be imported from foreign countries for the purpose of exhibition at the Japanese Trade Fair, to be held at Seattle, Washington, from June 17 to July 3, 1951, inclusive, by the International Trade Fair, Incorporated, a corporation, or for use in constructing, installing, or maintaining foreign exhibits at the said trade fair, upon which articles there shall be a tariff or customs duty, shall be admitted without payment of such tariff, customs duty, fees, or charges under such regulations as the Secretary of the Treasury shall prescribe; but it shall be lawful at any time during or within three months after the close of the said trade fair to sell within the area of the trade fair any articles provided for herein, subject to such regulations for the security of the revenue and for the collection of import duties as the Secretary of the Treasury shall prescribe: Provided, That all such articles, when withdrawn for consumption or use in the United States, shall be subject to the duties, if any, imposed upon such articles by the revenue laws in force at the date of their withdrawal; and on such articles which shall have suffered diminution or deterioration from incidental handling or exposure, the duties, if payable, shall be assessed according to the appraised value at the time of withdrawal from entry hereunder for consumption or entry under the general tariff law: Provided further, That imported articles provided for herein shall not be subject to any marking requirements of the general tariff laws, except when such articles are withdrawn for consumption or use in the United States, in which case they shall not be released from customs custody until properly marked, but no additional duty shall be assessed because such articles were not sufficiently marked when imported into the United States: Provided further, That at any time during or within three months after the close of the trade fair, any article entered hereunder may be abandoned to the Government or destroyed under customs supervision, where upon any duties on such article shall be remitted: Provided further, That articles which have been admitted without payment of duty for exhibition under any tariff law and which have remained in continuous customs custody or under a customs exhibition bond and imported articles in bonded warehouses under the general tariff law may be accorded the privilege of transfer to and entry for exhibition at the said trade fair under such regulations as the Secretary of the Treasury shall prescribe: And provided further, That the International Trade Fair, Incorporated, a corporation, shall be deemed, for customs purposes only, to be the sole consignee of all merchandise imported under the provisions of this Act, and that the actual and necessary customs charges for labor, services, and other expenses in connection with the entry, examination, appraisement, release, or custody, together with the necessary charges for salaries of customs officers and employees in connection with the supervision, custody of, and accounting for, articles imported under the provisions of this Act, shall be reimbursed by the International Trade Fair, Incorporated, a corporation, to the Government of the United States under regulations to be prescribed by the Secretary of the Treasury, and that receipts from such reimbursements shall be deposited as refunds to the appropriation from which paid, in the manner provided for in section 524, Tariff Act of 1930, as amended (U. S. C., 1946 edition, title 19, sec. 1524).
+
+
+*Approved June 12, 1951.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- June 12, 1951 [H. J. Res. 253]
+- Japanese Trade Fair. Imports for exhibition, etc.
+- Sale of articles.
+- Articles withdrawn for consumption, etc.
+- Marking requirements.
+- Abandonment of art ides.
+- Articles in customs custody.
+- Sole consignee; expenses.
+- 46 Stat. 741.

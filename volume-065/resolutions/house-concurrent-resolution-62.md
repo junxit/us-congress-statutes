@@ -1,0 +1,236 @@
+---
+volume: 65
+type: House Concurrent Resolution
+number: 62
+approved: 1951-05-04
+---
+
+# House Concurrent Resolution 62
+
+> GRANTING OF PERMANENT RESIDENCE TO CERTAIN ALIENS
+
+*Resolved by the House of Representatives (the Senate concurring),*
+
+That the Congress favors the granting of the status of permanent residence in the case of each alien hereinafter named, in which case the Attorney General has determined that such alien is qualified under the provisions of section 4 of the Displaced Persons Act of 1948, as amended (62 Stat. 1011; 64 Stat. 219; 50 App. U. S. C. 1953):
+
+- A–6203093, Adamczyk, Alojzy.
+- A–6084248, Adamczyk, Edyta.
+- A–6819145, Ajzin, Fajagla Tuchmajer.
+- A–6461138, Bardos. Thomas Joseph.
+- A–6756286, Becia, Jan.
+- A–6694122, Bilgoraj, Icek Leib.
+- A–6862633, Bilgoraj, Freda (nee Besser).
+- A–6554474, Bloxenheim, Henrik Herman.
+- A–6544157, Boer, Margaret.
+- A–6383635, Chanowicz, Izrael, or Israel Chanowitz.
+- A–6830490, Carvin, Mikel.
+- A–7053574, Carvin, Sofia (nee Abramovicz).
+- A–6673673, Chamiec, Maria Jaxa.
+- A–6753058, Davidovics, Seinai, or Alexander Davidovics.
+- A–6753059, Davidovics, Aurore (nee Chaja Golda Schreter).
+- A–6232209, Dolzynski, Jozef Wladyslaw.
+- A–6741980, Epstein, Mendel.
+- A–6382741, Fajn, Rubin.
+- A–6703344, Fastac, Mojaze.
+- A–6843559, Fastac, Miriam (nee Feder).
+- A–6690524, Fiszman. Jakub.
+- A–7730053, Glazewski, Ignacy Gustaw Antoni.
+- A–6676348, Goldman, Bela Kruglak.
+- A–6685997, Goldman. Saul.
+- A–6465695, Goldstein, Henrik.
+- A–6465693, Goldstein, Ilona (Helen).
+- A–6738186, Goldsztejn, Towja.
+- A–6735391, Goldsztejn, Golda (nee Zylberberg).
+- A–6151593, Grochowski, Wladyslaw Zygmunt.
+- A–6990738, Gulyas, Cornelia.
+- A–6780711, Halberstam, Chaim.
+- A–6780710, Halberstam, Naftali.
+- A–6663082, Handel, Samuel.
+- A–6662184, Holcman, Icko.
+- A–6694220, Horodziejski, Lejzer.
+- A–6778999. Hurwicz, Henryk (Henry).
+- A–6802288, Jakubowicz, Samuel.
+- A–6802289, Jakubowicz, Rywka (alias Rywka Jakubowicz).
+- A–6802290, Jakubowicz, Aron Josef.
+- A–6307469, Kadzidlowski, Zygmunt Mieczyslaw.
+- A–6306547, Kadzidlowski, Maria.
+- A–6685989, Kaplan, Icek.
+- A–6757657, Kaufman, Pinkas.
+- A–6604348, Kelberman, Towia.
+- A–6774345, Kempinski, Aron.
+- A–6774344, Kempinski, Dwojra.
+- A–6616427, Klepfisz, Mojzesk Josef.
+- A–6613924, Klepfisz, Ida.
+- A–6484972, Kohalmi, Katalin, or Sister Mary Mathilde.
+- A–6757078, Kohn, Rosa.
+- A–6887951, Korman, Emilia.
+- A–7125666, Kornyei, Paul.
+- A–7350916, Kornyei, Maria.
+- A–7350917, Kornyei, Eva Zsofia.
+- A–6624560, Last, Osias.
+- A–6721362, Leser, Benjamin.
+- A–6886815, Maimon, Leser.
+- A–6633721, Mann, Mejer Zelig.
+- A–6616674, Mann, Fania.
+- A–6480922, Najman, UszerSelik.
+- A–7283383, Nesterenko, Anastasis.
+- A–7283470, Nowakiwska, Neonila.
+- A–6623241, Polak, Lejb.
+- A–6754419, Rabner, Leon or Leib or Lejb.
+- A–6688883, Rogoff, David, or Dawid Rogow.
+- A–6353558, Rolider, Adam.
+- A–6555340, Rolider, Sara (nee Kantor).
+- A–6555341, Rolider, Mieczyslaw or Morry.
+- A–6886883, Rosner, Leib, or Leib Jakub Rosner.
+- A–7046251, Rozsa, Gyorgy Ludwig.
+- A–7046242, Rozsa, Olga (nee Lutonszky).
+- A–6508909, Schall, Joseph.
+- A–6794973, Scharf, Aszer.
+- A–7052601, Scharf, Szyfra (nee Leser).
+- A–6843563, Schlesinger, Anna.
+- A–6508277, Schrettner, Antal George, or George Tatar.
+- A–6508274, Patocs, Katalin or Kato.
+- A–6397811, Shultz, Bernard, or Boruch Szulc.
+- A–6704253, Siwek, Helena.
+- A–6704256, Skora, Maria (Skorzanka).
+- A–6704265, Rutkiewicz, Halina.
+- A–6742713, Spira, Isak.
+- A–6739570, Spira, Feiga.
+- A–6884233, Sternbach, Chajin, or Chain Sternbach.
+- A–6848098, Sytner, Leon.
+- A–7383121, Sytner, Szarlotta.
+- A–6990743, Sytner, Henryka (nee Grundstein).
+- A–6378239, Tenenbaum, CaixoLejb.
+- A–6984615, Turkow, Jonas.
+- A–6984616, Turkow, Diana.
+- A–6984614, Turkow, Margarita.
+- A–6897982, Vago, George.
+- A–6897983, Vago, Alexandra.
+- A–6990807, Vince, Andrew Ernest, or Andras Erno Vincze.
+- A–6795043, Vincze, Elizabeth.
+- A–6688305, Wajner, Hersz (Weiner).
+- A–6816807, Wajner, Anna (Sommer).
+- A–6649510, Woloch, Berko.
+- A–6729329, Zarucki, Charles Szaja.
+- A–6710566, Zeldes, Rywa.
+- A–6738062, Zeldes, Nochim.
+- A–6569133, Zolty, Fraula.
+- A–6868665, Zwetschkenbaum, Salomon.
+- A–6868666, Zwetschkenbaum, Abraham.
+- A–6881678, Abramczyk, Gendalie.
+- A–6231155, Baniowski, Josef.
+- A–6477372, Bendi, Rozalia (Sister M. Elienne).
+- A–6704234, Bieniasz, Helen, or Sister M. Bononia.
+- A–6704247, Smolicz, Romualda, or Sister M. Marietta.
+- A–6480450, Blazejowski, Andresej.
+- A–6495790, Blumenfeld, Moszek Hersz.
+- A–6192804, Bobrowski, Kazimierz or Casimir.
+- A–6860905, Domotor, Paul Joseph.
+- A–6983579, Fischer, Irene.
+- A–6985311, Fleischmann, Julia Deutsch.
+- A–6910280, Fonay, Magda Mihalyfy.
+- A–6554475, Friedman, Jeno.
+- A–6806244, Gordon, Elizabeth.
+- A–6760579, Gruman, Jakub.
+- A–6860901, Gutter, David.
+- A–6837538, Halpern, Jozua.
+- A–6534360, Jankielewicz, Gerszon, or Gershon Yankelewitz.
+- A–6570472, Lach, Wolf Lejb.
+- A–6884247, Marcus, Gabor.
+- A–6494484, Medovarszky, Jozsef.
+- A–6905288, Mesz, Ida.
+- A–6905287, Shick, Stephanie Mesz.
+- A–6749970, Mikes, Maranne Gertrud, or Marianne Gertrud Hoffmann or Anna Volosenovszky.
+- A–6845296, Rychlinska, Aniela (nee Bakowska).
+- A–6704248, Sienkowska, Jadwiga (Sister Mercita Amoris).
+- A–6646414, Simkin, Lieb, or Lejb Simkin.
+- A–6637139, Simkin, Genia (nee Genia Avon).
+- A–6376345, Singer, Simche Ber.
+- A–6505205, Singer, Lola Lachman.
+- A–6868681, Szmulewicz, Cyrla.
+- A–6617280, Thune, Mendel.
+- A–6985618, Vastag Ference, also known as Francois Vastag, alias Frank Dick.
+- A–6575184, Zablocki, Jankiel.
+- A–6575185, Zarkowski, Hersz.
+- A–6855908, Berger, Regina.
+- A–6855909, Berger, Boruch.
+- A–6884217, Cukier, Abram Icek.
+- A–6652240, Deutsch, Eugen.
+- A–6846517, Federman, Vera (nee Frank).
+- A–6855652, Feifer, Jakob.
+- A–6599646, Feleki, Leslie or Laszio.
+- A–6613143, Fried, Pal.
+- A–6613142, Fried, Eva Arabella (nee Deutsch).
+- A–6779533, Friedman, Mozes.
+- A–6737989, Gelozynski, Bronislaw.
+- A–6897099, Haraszty, Eszter Z.
+- A–6886047, Herrmann, Vilma.
+- A–6716024, Jaroslawicz, Naftali.
+- A–6534361, Jurkanski, Eliasz.
+- A–6487515, Karmel, Abraham.
+- A–6797999, Katz, Helena.
+- A–6887358, Kempinski, Mendel, or Cei Kempinski Bialer.
+- A–6829525. Kerszonowicz. Mosze.
+- A–6544615, Knakovszky, Thomas or Tamas.
+- A–6702156, Kohn, Chaskiel Majer.
+- A–6704693, Korewioska, Eleanor B.
+- A–6865499, Krosner, Zvi Hirsch.
+- A–6574501, Kupferstein, Israel.
+- A–6574503, Kupferstein, Regina.
+- A–6574502, Kupferstein, Robert.
+- A–6769255, Kupferstein, Ervin.
+- A–6769254, Kupferstein, Tibor.
+- A–6872471, LeibelBetteil, Jakob, or Jakob Leibel.
+- A–6545339, Lejzerzon, Moszek, or Moses Leizerson.
+- A–6855656, Lemmer, Samuel.
+- A–6816789, Ludwig, Viktor.
+- A–6393470, Machlis, Jankiel or Jacob.
+- A–6232254, Maksymow, Jozef John.
+- A–6737883, Morgenstern, Jacob Joseph.
+- A–6819120, Neuman, Renata, or Judy Sussman.
+- A–6662183, Nudel, Herz.
+- A–6652102, Nudel, Chana (nee Chana Knobel).
+- A–6776628, Olgyay, Gyozo, or Victor or Viktor Olgyay.
+- A–6776629, Olgyay, Aladar.
+- A–6660502, Pludwinski, Salek, or Szlojme Pludwinski.
+- A–7073994, Politzer, Paul Buryanek.
+- A–6545007, Pollak, Leib.
+- A–6555825, Portnoi, Chaim.
+- A–6862652, Rubel, Morris.
+- A–6704262, Rycerz, Helena.
+- A–6703358, Serebrowski, Abram Aron.
+- A–6232207, Skowronski, Kazimierz.
+- A–6664821, Soudil, Lubomir.
+- A–6855658, Streim, Markus Montag, or Marcus S. Montag.
+- A–6779994, Teba, Zikmund.
+- A–678100, Wajsman, Sender.
+- A–6500398, Wasilski, Hirsz.
+- A–6609794, Weinberger, Akiva Joseph, or Akiba Jozef Weinberger.
+- A–6855621, Weinfeld, Juda (alias Jan Golab).
+- A–6848195, Cyrlin, Iser.
+- A–6807453, Eisenberg, Moszek (Moses) Wolf.
+- A–6989540, Justus, Madeleine or Magda, formerly Madeleine Krausz (nee Magdalena Schonberger).
+- A–6504148, Margittai, Laszlo.
+- A–6950198, Markovits, Bela.
+- A–6760765, Ostreicher, Julius.
+- A–6843561, Stern, Elias.
+- A–6822852, Tanasescu, Constantin.
+- A–6849309, Tanasescu, Andronicki.
+- A–7445415, Tanasescu, Eugen.
+- A–6781168, Wasser, Herman.
+- A–7046209, Halasz, Andrew, or Andor Halasz.
+- A–7073743, Ilavsky, Jan.
+- A–6762929, Krajci, Vendelin.
+- A–6265774, Palade, George Emil.
+- A–6286042, Palade, Georgia Teodora.
+- A–6286041, Palade, Irina Colleta,
+- A–7069339, Kasser, Alexander Sandor.
+
+
+*Passed May 4, 1951.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- May 4, 1951 [H. Con. Res. 62]

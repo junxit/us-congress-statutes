@@ -1,0 +1,28 @@
+---
+volume: 65
+citation: 65 Stat. A16
+type: Private Law
+number: 35
+congress: 82
+session: 1
+scope: private
+approved: 1951-05-14
+bills: 82/hr-890
+---
+
+# Private Law 35
+
+> AN ACT For the Relief of Athina Mary Onassis.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+That, in the administration of the immigration and naturalization laws, Athina Mary Onassis, a native and citizen of England, shall be deemed to have been lawfully admitted to the United States for permanent residence as of May 27, 1942.
+
+
+*Approved May 14, 1951.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- May 14, 1951 [H. R. 890]
