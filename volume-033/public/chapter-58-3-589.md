@@ -1,0 +1,60 @@
+---
+volume: 33
+citation: 33 Stat. 722
+type: Chapter
+number: 589
+congress: 58
+session: 3
+scope: public
+approved: 1905-02-18
+bills: 58/hr-17481
+---
+
+# Chapter 589
+
+> An Act Authorizing the Alexandria, Bayou Maçon and Greenville Railway Company to construct bridges over Red River, Little River, Ouachita River, and Bayou Louis, in Louisiana.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+That the Alexandria, Bayou Maçon and Greenville Railway Company, a corporation created and organized under the laws of the State of Louisiana, be, and the same is hereby, authorized to construct and maintain, for the passage of railway trains, bridges with single or double tracks and approaches thereto over the Red. River, the Little River, the Ouachita River, and Bayou Louis, in the State of Louisiana, at such locations as may be approved by the Secretary of War.
+
+## § 2.
+
+That the said bridges shall be located and built under and subject to such regulations for the security of navigation as shall be prescribed by the Secretary of War, and the said company shall submit to the Secretary of War, for his examination and approval, designs and drawings of the bridges and maps of the locations, giving for the space of a mile above and a mile below the proposed locations the topography of the banks of the river, the shore lines at high and low water, the direction and strength of the current at all stages, the soundings accurately showing the bed of the stream; and until the plans and locations have been approved by the Secretary of War the bridges shall not be built or commenced. The Secretary of War shall have power to require such other information as he may deem necesary for a full understanding of the subject. Any changes made in the plans of said bridges during the progress of construction or after completion shall be subject to the approval of the Secretary of War, and the said company shall, at its own expense, make such changes in said bridges as the Secretary of War may at any time direct in the interest of navigation.
+
+## § 3.
+
+That any bridge built under this Act and subject to its limitations shall be a lawful structure, and shall be recognized and known as a post route, upon which no higher charge shall be made for the transmission of mails and the troops and munitions of war of the United States over the same than the rate per mile paid for the transportation over the railroad or approaches leading to the said bridge; and it shall enjoy the rights and privileges of other post-roads in the United States, and equal privileges in the use of said bridge shall be granted to all telegraph and telephone companies, and the United States shall have the right of way across said bridges and their approaches for postal telegraph and telephone purposes.
+
+## § 4.
+
+That each of the said bridges shall be constructed with its center line substantially at right angles to the current of the river and as a drawbridge, so that a free and unobstructed passageway may be secured to all water craft navigating said river. The draws shall be opened promptly, upon reasonable signals, for the passage of boats or vessels, and the said company shall maintain at its own expense, from sunset to sunrise, such lights or other signals as the Light-House Board shall prescribe.
+
+## § 5.
+
+That all railroad companies desiring the use of the said bridges shall have and be entitled to equal rights and privileges relative to the passage of railway trains over the same and over the approaches thereto, upon the payment of reasonable compensation for such use; and in case the owner or owners of said bridges, and the several railroad companies, or any one of them, desiring such use, shall fail to agree upon the sum or sums to be paid and upon rules and conditions to which each shall conform in using said bridges, all matters in issue between them shall be decided by the Secretary of War upon the hearing of the allegations and proofs of the parties.
+
+## § 6.
+
+That the right to alter, amend, or repeal this Act is expressly reserved; and this Act shall be null and void if actual construction of the bridges herein authorized be not commenced within one year and completed within three years from the approval of this act.
+
+
+*Approved, February 18, 1905.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- February 18, 1905. [H. R. 17481.] [Public, No. 82.]
+- Red, Little, Ouachita rivers, and Bayou Louis, La. Alexandria, Bayou Maçon and Greenville Railway Company may bridge.
+- Locations.
+- Secretary of War to approve plans, etc.
+- Changes.
+- Lawful structures and post routes.
+- Telegraph, etc., rights.
+- Unobstructed navigation.
+- Lights, etc.
+- Use by other roads.
+- Compensation.
+- Amendment.
+- Time of construction.
