@@ -1,0 +1,39 @@
+---
+volume: 118
+citation: 118 Stat. 2253
+type: Public Law
+number: 399
+congress: 108
+scope: public
+approved: 2004-10-30
+bills: 108/hr-4731
+---
+
+# Public Law 108–399
+
+> An Act To amend the Federal Water Pollution Control Act to reauthorize the National Estuary Program.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+## § 1. REAUTHORIZATION OF NATIONAL ESTUARY PROGRAM.
+
+Section 320(i) of the Federal Water Pollution Control Act (33 U.S.C. 1330(i)) is amended by striking “2005” and inserting “2010”.
+
+
+*Approved October 30, 2004.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- Oct. 30, 2004 [H.R. 4731]
+
+## Legislative history
+
+**LEGISLATIVE HISTORY—H.R. 4731:**
+
+
+*CONGRESSIONAL RECORD, Vol. 150 (2004):*
+
+- Sept. 29, considered and passed House.
+- Oct. 11, considered and passed Senate.

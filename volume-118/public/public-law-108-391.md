@@ -1,0 +1,40 @@
+---
+volume: 118
+citation: 118 Stat. 2243
+type: Public Law
+number: 391
+congress: 108
+scope: public
+approved: 2004-10-30
+bills: 108/hjres-57
+---
+
+# Public Law 108–391
+
+> Joint Resolution Expressing the sense of the Congress in recognition of the contributions of the seven Columbia astronauts by supporting establishment of a Columbia Memorial Space Science Learning Center.
+
+Whereas the crew of the space shuttle Columbia was dedicated to scientific research and stimulating the interest of American children in space flight and science; Whereas the Columbia crew carried out science projects of American schoolchildren; Whereas the members of that crew gave their lives trying to benefit the education of American children; Whereas a fitting tribute to that effort and to the sacrifice of the Columbia crew and their families is needed; Whereas an appropriate form for such tribute would be to expand educational opportunities in science by the creation of a center and museum to offer children and teachers activities and information derived from American space research; Whereas the former manufacturing site of the space shuttles (including the Columbia and the Challenger) in the City of Downey, California, is a fitting site for such a tribute; Whereas residents of Downey are proud of their role in building the space shuttle fleet and in furthering the Nation’s space program; and Whereas city officials have been working with NASA representatives to develop the center in Downey: Now, therefore, be it Resolved by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+That it is the sense of the Congress that—
+
+- **(1)** the space science learning center in Downey, California, should be designated as the Columbia Memorial Space Science Learning Center as a living memorial to the seven Columbia astronauts who died serving their country in the name of science and research; and
+- **(2)** the Federal Government, along with public and private organizations and persons, should continue to cooperate in the establishment of such a center.
+
+
+*Approved October 30, 2004.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- Oct. 30, 2004 [H.J. Res. 57]
+- California.
+
+## Legislative history
+
+**LEGISLATIVE HISTORY—H.J. Res. 57:**
+
+*CONGRESSIONAL RECORD, Vol. 150 (2004):*
+
+- Oct. 5, considered and passed House.
+- Oct. 10, considered and passed Senate.

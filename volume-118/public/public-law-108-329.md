@@ -1,0 +1,45 @@
+---
+volume: 118
+citation: 118 Stat. 1274
+type: Public Law
+number: 329
+congress: 108
+scope: public
+approved: 2004-10-16
+bills: 108/hr-4115, 108/s-2277
+---
+
+# Public Law 108–329
+
+> An Act To amend the Act of November 2, 1966 (80 Stat. 1112), to allow binding arbitration clauses to be included in all contracts affecting the land within the Salt River Pima-Maricopa Indian Reservation.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+## § 1. BINDING ARBITRATION FOR SALT RIVER PIMA-MARICOPA INDIAN RESERVATION CONTRACTS.
+
+- **(a)** *In General.—* Section 2(c) of the Act of November 2, 1966 (25 U.S.C. 416a(c)), is amended—
+  - **(1)** in the first sentence—
+    - **(A)** by striking “Any lease” and all that follows through “affecting land” and inserting “Any contract, including a lease, affecting land”; and
+    - **(B)** by striking “such lease or contract” and inserting “such contract”; and
+  - **(2)** in the second sentence, by striking “Such leases or contracts entered into pursuant to such Acts” and inserting “Such contracts”.
+- **(b)** *Effective Date.—* The amendments made by this section shall take effect as if included in the Indian Tribal Economic Development and Contract Encouragement Act of 2000 (Public Law 106–179).
+
+
+*Approved October 16, 2004.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- Oct. 16, 2004 [H.R. 4115]
+- 25 USC 416a note.
+
+## Legislative history
+
+**LEGISLATIVE HISTORY—H.R. 4115 (S. 2277):**
+
+
+*CONGRESSIONAL RECORD, Vol. 150 (2004):*
+
+- July 19, considered and passed House.
+- Sept. 29, considered and passed Senate.

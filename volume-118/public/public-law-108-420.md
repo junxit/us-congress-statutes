@@ -1,0 +1,85 @@
+---
+volume: 118
+citation: 118 Stat. 2372
+type: Public Law
+number: 420
+congress: 108
+scope: public
+approved: 2004-11-30
+bills: 108/hr-1446
+---
+
+# Public Law 108–420
+
+> An Act To support the efforts of the California Missions Foundation to restore and repair the Spanish colonial and mission-era missions in the State of California and to preserve the artworks and artifacts of these missions, and for other purposes.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+## § 1. SHORT TITLE.
+
+This Act may be cited as the “California Missions Preservation Act”.
+
+## § 2. DEFINITIONS.
+
+In this Act:
+
+- **(1)** *California mission.—* The term “California mission” means each of the 21 historic Spanish missions and one asistencia that—
+  - **(A)** are located in the State;
+  - **(B)** were built between 1769 and 1798; and
+  - **(C)** are designated as California Registered Historic Landmarks.
+- **(2)** *Foundation.—* The term “Foundation” means the California Missions Foundation, a nonsectarian charitable corporation that—
+  - **(A)** was established in the State in 1998 to fund the restoration and repair of the California missions; and
+  - **(B)** is operated exclusively for charitable purposes under section 501(c)(3) of the Internal Revenue Code of 1986.
+- **(3)** *Secretary.—* The term “Secretary” means the Secretary of the Interior.
+- **(4)** *State.—* The term “State” means the State of California.
+
+## § 3. COOPERATIVE AGREEMENTS.
+
+- **(a)** *In General.—* The Secretary may enter into a cooperative agreement with the Foundation to provide technical and financial assistance to the Foundation to restore and repair—
+  - **(1)** the California missions; and
+  - **(2)** the artwork and artifacts associated with the California missions.
+- **(b)** *Financial Assistance.—*
+  - **(1)** *In general.—* The cooperative agreement may authorize the Secretary to make grants to the Foundation to carry out the purposes described in subsection (a).
+  - **(2)** *Eligibility.—* To be eligible to receive a grant or other form of financial assistance under this Act, a California mission must be listed on the National Register of Historic Places.
+  - **(3)** *Application.—* To receive a grant or other form of financial assistance under this Act, the Foundation shall submit to the Secretary an application that—
+    - **(A)** includes a status report on the condition of the infrastructure and associated artifacts of each of the California missions for which the Foundation is seeking financial assistance; and
+    - **(B)** describes a comprehensive program for the restoration, repair, and preservation of the infrastructure and artifacts referred to in subparagraph (A), including—
+      - **(i)** a description of the prioritized preservation activities to be conducted over a 5-year period; and
+      - **(ii)** an estimate of the costs of the preservation activities.
+  - **(4)** *Applicable law.—* Consistent with section 101(e)(4) of the National Historic Preservation Act (16 U.S.C. 470a(e)(4)), the Secretary shall ensure that the purpose of any grant or other financial assistance provided by the Secretary to the Foundation under this Act—
+    - **(A)** is secular;
+    - **(B)** does not promote religion; and
+    - **(C)** seeks to protect qualities that are historically significant.
+- **(c)** *Review and Determination.—*
+  - **(1)** *In general.—* The Secretary shall submit a proposed agreement to the Attorney General for review.
+  - **(2)** *Determination.—* A cooperative agreement entered into under subsection (a) shall not take effect until the Attorney General issues a finding that the proposed agreement submitted under paragraph (1) does not violate the establishment clause of the first amendment of the Constitution.
+- **(d)** *Report.—* As a condition of receiving financial assistance under this Act, the Foundation shall annually submit to the Secretary and to the Committee on Energy and Natural Resources of the Senate and the Committee on Resources of the House of Representatives a report that describes the status of the preservation activities carried out using amounts made available under this Act.
+
+## § 4. AUTHORIZATION OF APPROPRIATIONS.
+
+- **(a)** *In General.—* There is authorized to be appropriated to carry out this Act $10,000,000 for the period of fiscal years 2004 through 2009.
+- **(b)** *Matching Requirement.—* Any amounts made available to carry out this Act shall be matched on not less than a 1-to-1 basis by the Foundation.
+- **(c)** *Other Amounts.—* Any amounts made available to carry out this Act shall be in addition to any amounts made available for preservation activities in the State under the National Historic Preservation Act (16 U.S.C. 470 et seq.).
+
+
+*Approved November 30, 2004.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- Nov. 30, 2004 [H.R. 1446]
+- California Missions Preservation Act.
+- Reports.
+- Contracts.
+
+## Legislative history
+
+**LEGISLATIVE HISTORY—H.R. 1446:**
+
+
+*CONGRESSIONAL RECORD:*
+
+- Oct. 20, considered and passed House.
+- Oct. 10, considered and passed Senate, amended.
+- Nov. 17, House concurred in Senate amendment.

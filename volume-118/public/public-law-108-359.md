@@ -1,0 +1,50 @@
+---
+volume: 118
+citation: 118 Stat. 1666
+type: Public Law
+number: 359
+congress: 108
+scope: public
+approved: 2004-10-25
+bills: 108/hr-1533
+---
+
+# Public Law 108–359
+
+> An Act To amend the securities laws to permit church pension plans to be invested in collective trusts.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+## § 1. CONFORMING AMENDMENTS FOR CHURCH PLAN PARTICIPATION IN COLLECTIVE FUNDS.
+
+- **(a)** *Amendment to the Investment Company Act of 1940.—* Section 3(c)(11) of the Investment Company Act of 1940 (15 U.S.C. 80a-3(c)(11)) is amended by striking “such trusts or government plans, or both” and inserting “one or more of such trusts, government plans, or church plans, companies or accounts that are excluded from the definition of an investment company under paragraph (14) of this subsection”.
+- **(b)** *Amendments to the Securities Act of 1933.—* Section 3(a)(2) of the Securities Act of 1933 (15 U.S.C. 77c(a)(2)) is amended—
+  - **(1)** by striking “or” at the end of clause (B); and
+  - **(2)** by striking “other than any plan described in clause (A), (B), or (C)” and inserting the following: “or (D) a church plan, company, or account that is excluded from the definition of an investment company under section 3(c)(14) of the Investment Company Act of 1940, other than any plan described in subparagraph (A), (B), (C), or (D)”.
+- **(c)** *Amendments to the Securities Exchange Act of 1934.—*
+  - **(1)** Section 3(a)(12)(C) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)(12)(C)) is amended—
+    - **(A)** by striking “or” at the end of clause (ii); and
+    - **(B)** by inserting before “other than any plan described in clause (i)” the following: “or (iv) a church plan, company, or account that is excluded from the definition of an investment company under section 3(c)(14) of the Investment Company Act of 1940,”.
+  - **(2)** Section 12(g)(2)(H) of the Securities Exchange Act of 1934 (15 U.S.C. 78l(g)(2)(H)) is amended—
+    - **(A)** by striking “or” at the end of clause (i); and
+    - **(B)** by inserting before the period at the end the following: “, or (iii) a church plan, company, or account that is excluded from the definition of an investment company under section 3(c)(14) of the Investment Company Act of 1940”.
+
+
+*Approved October 25, 2004.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- Oct. 25, 2004 [H.R. 1533]
+
+## Legislative history
+
+**LEGISLATIVE HISTORY—H.R. 1533:**
+
+
+*CONGRESSIONAL RECORD:*
+
+- Sept. 3, considered and passed House.
+- Oct. 1, considered and passed Senate, amended.
+- Oct. 8, House concurred in Senate amendment.

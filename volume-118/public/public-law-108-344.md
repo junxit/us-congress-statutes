@@ -1,0 +1,58 @@
+---
+volume: 118
+citation: 118 Stat. 1376
+type: Public Law
+number: 344
+congress: 108
+scope: public
+approved: 2004-10-18
+bills: 108/s-2363
+---
+
+# Public Law 108–344
+
+> An Act To revise and extend the Boys and Girls Clubs of America.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+## § 1. BOYS AND GIRLS CLUBS OF AMERICA.
+
+Section 401 of the Economic Espionage Act of 1996 (42 U.S.C. 13751 note) is amended—
+
+- **(1)** in subsection (a)(2)—
+  - **(A)** by striking “1,200” and inserting “1,500”;
+  - **(B)** by striking “4,000” and inserting “5,000”; and
+  - **(C)** by striking “December 31, 2005” and inserting “December 31, 2010”;
+- **(2)** in subsection (c)—
+  - **(A)** in paragraph (1), by striking “2002, 2003, 2004, 2005, and 2006” and inserting “2006, 2007, 2008, 2009, and 2010”; and
+  - **(B)** in paragraph (2)—
+    - **(i)** in subparagraph (A), by striking “1,200” and inserting “1,500”; and
+    - **(ii)** in subparagraph (B)—
+      - **(I)** by striking “4,000” and inserting “5,000”; and
+      - **(II)** by striking “2007” and inserting “2010”; and
+- **(3)** in subsection (e), by striking paragraph (1) and inserting the following:
+  > - **(1)** *In general.—* There are authorized to be appropriated to carry out this section—
+  >   - **(A)** $80,000,000 for fiscal year 2006;
+  >   - **(B)** $85,000,000 for fiscal year 2007;
+  >   - **(C)** $90,000,000 for fiscal year 2008;
+  >   - **(D)** $95,000,000 for fiscal year 2009; and
+  >   - **(E)** $100,000,000 for fiscal year 2010.”.
+
+
+*Approved October 18, 2004.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- Oct. 18, 2004 [S. 2363]
+
+## Legislative history
+
+**LEGISLATIVE HISTORY—S. 2363:**
+
+
+*CONGRESSIONAL RECORD, Vol. 150 (2004):*
+
+- June 3, considered and passed Senate.
+- Sept. 28, considered and passed House.

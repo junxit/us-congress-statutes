@@ -1,0 +1,26 @@
+---
+volume: 118
+type: House Concurrent Resolution
+number: 410
+bills: 118/hconres-410
+---
+
+# House Concurrent Resolution 410
+
+> MARSHALL ISLANDS—25TH ANNIVERSARY
+
+Whereas the Marshall Islands were ruled under a succession of colonial regimes, including under Spanish and German rule, followed in the 20th century by Japanese rule under the League of Nations system for governance of territories; Whereas military activities of Imperial Japan based in the Marshall Islands before and during Word War II established the strategic importance of the Marshall Islands in the Pacific; Whereas the Marshall Islands were liberated from Japanese military occupation in some of the most horrific battles of World War II, during which brave Marshallese people risked their lives to aid the Armed Forces of the United States and its allies; Whereas in 1947 Congress approved a trusteeship agreement with the United Nations Security Council under which the United States became the administering power with plenary powers of government in the Marshall Islands; Whereas during the United Nations trusteeship period the United States fulfilled its commitment to promote the progress of the Marshall Islands toward democratic self-government and self-determination, leading to the establishment of local self-government that culminated in a constitutional convention in which delegates representing the people of the Marshall Islands proposed that they be constituted as a self-governing nation; Whereas in accordance with the enabling measures adopted by the United States as administering power of the Marshall Islands, which encouraged and fully supported the emergence of the Marshall Islands as a duly constituted nation based on the freely expressed will of the people, in 1979 the people of the Marshall Islands adopted their own constitution and subsequently declared their form of government to be a republic; Whereas the Constitution of the Republic of the Marshall Islands established a parliamentary governmental system with separation of powers and a “Bill of Rights,” guaranteeing democracy and freedom for the Marshallese people based on the rule of law, limited government, and individual liberty; Whereas the United States and the duly constituted Government of the Republic of the Marshall Islands adopted a Compact of Free Association to define government-to-government relations between the United States and the Marshall Islands as two sovereign nations under mutually agreed terms upon termination of the United Nations trusteeship for the Marshall Islands; Whereas the promulgation of a national constitution made possible the termination of the United Nations trusteeship in 1986 and the emergence of the Republic of the Marshall Islands as a sovereign nation in free association with the United States under the Compact of Free Association, forming an alliance that preserves the close and special political, social, economic, and military relationship between the two countries that developed during the trusteeship period; Whereas the United States has no closer alliance with any nation or group of nations than it does with the Republic of the Marshall Islands under the Compact of Free Association, which continues the strategic partnership and role of the Marshall Islands in United States strategic programs based in the Marshall Islands, which began at the end of World War II and has continued under the trusteeship and Compact to promote the mutual security of the United States and the Marshall Islands; Whereas the Republic of the Marshall Islands is a model for transition of formerly non-self-governing territory ravaged by war to a sovereign political status as a stable democracy, a success story for institution building and recovery from conflict not only for the Pacific region but throughout the world; Whereas in light of the shared history of the United States and the Republic of the Marshall Islands and special relations under the Compact of Free Association, it is entirely fitting for Congress to recognize the 25th anniversary of the adoption of the Constitution of the Republic of the Marshall Islands, recalling the importance of duly constituted self-government in the self-determination process leading to national sovereignty for the Marshall Islands; and Whereas the Republic of the Marshall Islands has remained one of the staunchest allies of the United States during the cold war and the war on terrorism, and the voting record of the Republic of the Marshall Islands as a member state in the United Nations General Assembly is unparalleled by any other country, further demonstrating the shared commitment of the two nations to promote democracy and global peace: Now, therefore, be it Resolved by the House of Representatives (the Senate concurring),
+
+That Congress—
+
+- **(1)** recognizes the 25th anniversary of the adoption of the Constitution of the Republic of the Marshall Islands; and
+- **(2)** recognizes the Republic of the Marshall Islands as a staunch ally of the United States, committed to principles of democracy and freedom for the Pacific region and throughout the world.
+
+
+*Agreed to July 12, 2004.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- July 12, 2004 [H. Con. Res. 410]
