@@ -1,0 +1,707 @@
+---
+volume: 99
+type: Senate Concurrent Resolution
+number: 32
+bills: 99/sconres-32
+---
+
+# Senate Concurrent Resolution 32
+
+> CONGRESSIONAL BUDGET FOR FISCAL YEARS 1986–1988 AND REVISION FOR FISCAL YEAR 1985
+
+*Resolved by the Senate (the House of Representatives concurring),*
+
+That the Congress hereby determines and declares that the concurrent resolution on the budget for fiscal year 1985 is hereby revised and replaced, the first concurrent resolution on the budget for fiscal year 1986 is hereby established, and the appropriate budgetary levels for fiscal years 1987 and 1988 are hereby set forth.
+
+- **(a)** The following budgetary levels are appropriate for the fiscal years beginning on October 1, 1984, October 1, 1985, October 1, 1986, and October 1, 1987:
+  - **(1)**
+    - The recommended levels of Federal revenues are as follows:
+    - Fiscal year 1985: $736,500,000,000.
+    - Fiscal year 1986: $795,700,000,000.
+    - Fiscal year 1987: $869,400,000,000.
+    - Fiscal year 1988: $960,100,000,000.
+    - and the amounts by which the aggregate levels of Federal revenues should be increased are as follows:
+    - Fiscal year 1985: $0.
+    - Fiscal year 1986: $3,000,000,000.
+    - Fiscal year 1987: $5,100,000,000.
+    - Fiscal year 1988: $7,600,000,000.
+    - and the amounts for Federal Insurance Contributions Act revenues for hospital insurance within the recommended levels of Federal revenues are as follows:
+    - Fiscal year 1985: $44,800,000,000.
+    - Fiscal year 1986: $50,900,000,000.
+    - Fiscal year 1987: $56,100,000,000.
+    - Fiscal year 1988: $61,200,000,000.
+    - and the amounts for Federal Insurance Contributions Act revenues for old-age, survivors, and disability insurance within the recommended levels of Federal revenues are as follows:
+    - Fiscal year 1985: $186,200,000,000.
+    - Fiscal year 1986: $200,400,000,000.
+    - Fiscal year 1987: $216,800,000,000.
+    - Fiscal year 1988: $248,000,000,000.
+  - **(2)**
+    - The appropriate levels of total new budget authority are as follows:
+    - Fiscal year 1985: $1,062,100,000,000.
+    - Fiscal year 1986: $1,069,700,000,000.
+    - Fiscal year 1987: $1,137,950,000,000.
+    - Fiscal year 1988: $1,216,450,000,000.
+  - **(3)**
+    - The appropriate levels of total budget outlays are as follows:
+    - Fiscal year 1985: $946,300,000,000.
+    - Fiscal year 1986: $967,600,000,000.
+    - Fiscal year 1987: $1,024,100,000,000.
+    - Fiscal year 1988: $1,073,000,000,000.
+  - **(4)**
+    - The amounts of the deficits in the budget which are appropriate in the light of economic conditions and all other relevant factors are as follows:
+    - Fiscal year 1985: $209,800,000,000.
+    - Fiscal year 1986: $171,900,000,000.
+    - Fiscal year 1987: $154,700,000,000.
+    - Fiscal year 1988: $112,900,000,000.
+  - **(5)**
+    - The appropriate levels of the public debt are as follows:
+    - Fiscal year 1985: $1,847,800,000,000.
+    - Fiscal year 1986: $2,078,700,000,000.
+    - Fiscal year 1987: $2,301,900,000,000.
+    - Fiscal year 1988: $2,507,000,000,000.
+    - and the amounts by which the statutory limits on such debt should be accordingly increased are as follows:
+    - Fiscal year 1985: $24,000,000,000.
+    - Fiscal year 1986: $230,900,000,000.
+    - Fiscal year 1987: $223,200,000,000.
+    - Fiscal year 1988: $205,100,000,000.
+  - **(6)** The appropriate levels of total Federal credit activity for the fiscal years beginning on October 1, 1984, October 1, 1985, October 1, 1986, and October 1, 1987, are as follows:
+    - Fiscal year 1985:
+      - New direct loan obligations, $52,850,000,000.
+      - New primary loan guarantee commitments, $69,350,000,000.
+      - New secondary lean guarantee commitments, $68,200,000,000.
+    - Fiscal year 1986:
+      - New direct loan obligations, $34,400,000,000.
+      - New primary loan guarantee commitments, $80,150,000,000.
+      - New secondary loan guarantee commitments, $68,200,000,000.
+    - Fiscal year 1987:
+      - New direct loan obligations, $32,150,000,000.
+      - New primary loan guarantee commitments, $79,050,000,000.
+      - New secondary loan guarantee commitments, $68,200,000,000.
+    - Fiscal year 1988:
+      - New direct loan obligations, $31,400,000,000.
+      - New primary loan guarantee commitments, $84,000,000,000.
+      - New secondary loan guarantee commitments, $68,200,000,000.
+- **(b)** The Congress hereby determines and declares the appropriate levels of budget authority and budget outlays, and the appropriate levels of new direct loan obligations, new primary loan guarantee commitments, and new secondary loan guarantee commitments for fiscal years 1985 through 1988 for each major functional category are:
+  - **(1)** National Defense (050):
+    - Fiscal year 1985:
+      - New budget authority, $292,600,000,000.
+      - Outlays, $249,400,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1986:
+      - New budget authority, $302,500,000,000.
+      - Outlays, $267,100,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1987:
+      - New budget authority, $323,400,000,000.
+      - Outlays, $285,200,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1988:
+      - New budget authority, $346,800,000,000.
+      - Outlays, $303,900,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+  - **(2)** International Affairs (150):
+    - Fiscal year 1985:
+      - New budget authority, $24,700,000,000.
+      - Outlays, $17,200,000,000.
+      - New direct loan obligations, $11,500,000,000.
+      - New primary loan guarantee commitments, $10,300,000,000.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1986:
+      - New budget authority, $21,300,000,000.
+      - Outlays, $18,850,000,000.
+      - New direct loan obligations, $9,900,000,000.
+      - New primary loan guarantee commitments, $12,300,000,000.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1987:
+      - New budget authority, $20,100,000,000.
+      - Outlays, $17,300,000,000.
+      - New direct loan obligations, $9,600,000,000.
+      - New primary loan guarantee commitments, $12,300,000,000.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1988:
+      - New budget authority, $19,900,000,000.
+      - Outlays, $16,450,000,000.
+      - New direct loan obligations, $9,700,000,000.
+      - New primary loan guarantee commitments, $12,300,000,000.
+      - New secondary loan guarantee commitments, $0.
+  - **(3)** General Science, Space, and Technology (250):
+    - Fiscal year 1985:
+      - New budget authority, $9,100,000,000.
+      - Outlays, $8,700,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1986:
+      - New budget authority, $9,100,000,000.
+      - Outlays, $8,900,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1987:
+      - New budget authority, $9,050,000,000.
+      - Outlays, $8,900,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1988:
+      - New budget authority, $9,300,000,000.
+      - Outlays, $9,000,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+  - **(4)** Energy (270):
+    - Fiscal year 1985:
+      - New budget authority, $900,000,000.
+      - Outlays, $5,500,000,000.
+      - New direct loan obligations, $2,100,000,000.
+      - New primary loan guarantee commitments, $100,000,000.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1986:
+      - New budget authority, $5,900,000,000.
+      - Outlays, $5,550,000,000.
+      - New direct loan obligations, $2,100,000,000.
+      - New primary loan guarantee commitments, $4,100,000,000.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1987:
+      - New budget authority, $5,850,000,000.
+      - Outlays, $5,150,000,000.
+      - New direct loan obligations, $2,100,000,000.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1988:
+      - New budget authority, $4,950,000,000.
+      - Outlays, $4,450,000,000.
+      - New direct loan obligations, $2,100,000,000.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+  - **(5)** Natural Resources and Environment (300):
+    - Fiscal year 1985:
+      - New budget authority, $13,100,000,000.
+      - Outlays, $13,000,000,000.
+      - New direct loan obligations, $100,000,000.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1986:
+      - New budget authority, $13,100,000,000.
+      - Outlays, $13,000,000,000.
+      - New direct loan obligations, $50,000,000.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1987:
+      - New budget authority, $13,200,000,000.
+      - Outlays, $12,750,000,000.
+      - New direct loan obligations, $100,000,000.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1988:
+      - New budget authority, $13,150,000,000.
+      - Outlays, $12,950,000,000.
+      - New direct loan obligations, $50,000,000.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+  - **(6)** Agriculture (350):
+    - Fiscal year 1985:
+      - New budget authority, $27,000,000,000.
+      - Outlays, $23,300,000,000.
+      - New direct loan obligations, $13,800,000,000.
+      - New primary loan guarantee commitments, $5,700,000,000.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1986:
+      - New budget authority, $18,300,000,000.
+      - Outlays, $15,550,000,000.
+      - New direct loan obligations, $13,600,000,000.
+      - New primary loan guarantee commitments, $6,400,000,000.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1987:
+      - New budget authority, $17,700,000,000.
+      - Outlays, $16,250,000,000.
+      - New direct loan obligations, $11,400,000,000.
+      - New primary loan guarantee commitments, $5,600,000,000.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1988:
+      - New budget authority, $16,200,000,000.
+      - Outlays, $13,750,000,000.
+      - New direct loan obligations, $10,500,000,000.
+      - New primary loan guarantee commitments, $6,900,000,000.
+      - New secondary loan guarantee commitments, $0.
+  - **(7)** Commerce and Housing Credit (370):
+    - Fiscal year 1985:
+      - New budget authority, $12,600,000,000.
+      - Outlays, $5,500,000,000.
+      - New direct loan obligations, $6,500,000,000.
+      - New primary loan guarantee commitments, $26,900,000,000.
+      - New secondary loan guarantee commitments, $68,200,000,000.
+    - Fiscal year 1986:
+      - New budget authority, $7,700,000,000.
+      - Outlays, $3,700,000,000.
+      - New direct loan obligations, $5,000,000,000.
+      - New primary loan guarantee commitments, $28,200,000,000.
+      - New secondary loan guarantee commitments, $68,200,000,000.
+    - Fiscal year 1987:
+      - New budget authority, $7,700,000,000.
+      - Outlays, $3,450,000,000.
+      - New direct loan obligations, $5,300,000,000.
+      - New primary loan guarantee commitments, $29,900,000,000.
+      - New secondary loan guarantee commitments, $68,200,000,000.
+    - Fiscal year 1988:
+      - New budget authority, $7,850,000,000.
+      - Outlays, $5,200,000,000.
+      - New direct loan obligations, $5,400,000,000.
+      - New primary loan guarantee commitments, $31,700,000,000.
+      - New secondary loan guarantee commitments, $68,200,000,000.
+  - **(8)** Transportation (400):
+    - Fiscal year 1985:
+      - New budget authority, $29,400,000,000.
+      - Outlays, $26,000,000,000.
+      - New direct loan obligations, $300,000,000.
+      - New primary loan guarantee commitments, $300,000,000.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1986:
+      - New budget authority, $26,850,000,000.
+      - Outlays, $25,800,000,000.
+      - New direct loan obligations, $200,000,000.
+      - New primary loan guarantee commitments, $300,000,000.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1987:
+      - New budget authority, $28,900,000,000.
+      - Outlays, $27,700,000,000.
+      - New direct loan obligations, $100,000,000.
+      - New primary loan guarantee commitments, $300,000,000.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1988:
+      - New budget authority, $29,750,000,000.
+      - Outlays, $28,100,000,000.
+      - New direct loan obligations, $100,000,000.
+      - New primary loan guarantee commitments, $300,000,000.
+      - New secondary loan guarantee commitments, $0.
+  - **(9)** Community and Regional Development (450):
+    - Fiscal year 1985:
+      - New budget authority, $8,300,000,000.
+      - Outlays, $8,400,000,000.
+      - New direct loan obligations, $1,700,000,000.
+      - New primary loan guarantee commitments, $200,000,000.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1986:
+      - New budget authority, $6,950,000,000.
+      - Outlays, $8,050,000,000.
+      - New direct loan obligations, $1,100,000,000.
+      - New primary loan guarantee commitments, $200,000,000.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1987:
+      - New budget authority, $6,900,000,000.
+      - Outlays, $7,300,000,000.
+      - New direct loan obligations, $1,200,000,000.
+      - New primary loan guarantee commitments, $200,000,000.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1988:
+      - New budget authority, $7,200,000,000.
+      - Outlays, $6,850,000,000.
+      - New direct loan obligations, $1,300,000,000.
+      - New primary loan guarantee commitments, $200,000,000.
+      - New secondary loan guarantee commitments, $0.
+  - **(10)** Education, Training, Employment, and Social Services (500):
+    - Fiscal year 1985:
+      - New budget authority, $32,100,000,000.
+      - Outlays, $30,400,000,000.
+      - New direct loan obligations, $1,200,000,000.
+      - New primary loan guarantee commitments, $8,800,000,000.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1986:
+      - New budget authority, $31,550,000,000.
+      - Outlays, $30,850,000,000.
+      - New direct loan obligations, $1,100,000,000.
+      - New primary loan guarantee commitments, $9,000,000,000.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1987:
+      - New budget authority, $32,350,000,000.
+      - Outlays, $31,350,000,000.
+      - New direct loan obligations, $1,100,000,000.
+      - New primary loan guarantee commitments, $9,400,000,000.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1988:
+      - New budget authority, $32,950,000,000.
+      - Outlays, $32,100,000,000.
+      - New direct loan obligations, $1,100,000,000.
+      - New primary loan guarantee commitments, $9,600,000,000.
+      - New secondary loan guarantee commitments, $0.
+  - **(11)** Health (550):
+    - Fiscal year 1985:
+      - New budget authority, $33,600,000,000.
+      - Outlays, $33,500,000,000.
+      - New direct loan obligations, $50,000,000.
+      - New primary loan guarantee commitments, $250,000,000.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1986:
+      - New budget authority, $36,000,000,000.
+      - Outlays, $34,900,000,000.
+      - New direct loan obligations, $50,000,000.
+      - New primary loan guarantee commitments, $250,000,000.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1987:
+      - New budget authority, $38,400,000,000.
+      - Outlays, $37,800,000,000.
+      - New direct loan obligations, $50,000,000.
+      - New primary loan guarantee commitments, $250,000,000.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1988:
+      - New budget authority, $41,100,000,000.
+      - Outlays, $40,700,000,000.
+      - New direct loan obligations, $50,000,000.
+      - New primary loan guarantee commitments, $300,000,000.
+      - New secondary loan guarantee commitments, $0.
+  - **(12)** Medical Insurance (570):
+    - Fiscal year 1985:
+      - New budget authority, $72,000,000,000.
+      - Outlays, $65,900,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1986:
+      - New budget authority, $81,500,000,000.
+      - Outlays, $69,200,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1987:
+      - New budget authority, $90,600,000,000.
+      - Outlays, $76,400,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1988:
+      - New budget authority, $94,200,000,000.
+      - Outlays, $84,900,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+  - **(13)** Income Security (600):
+    - Fiscal year 1985:
+      - New budget authority, $164,500,000,000.
+      - Outlays, $128,900,000,000.
+      - New direct loan obligations, $14,300,000,000.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1986:
+      - New budget authority, $155,100,000,000.
+      - Outlays, $119,050,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $1,800,000,000.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1987:
+      - New budget authority, $163,750,000,000.
+      - Outlays, $124,200,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $2,300,000,000.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1988:
+      - New budget authority, $172,400,000,000.
+      - Outlays, $130,600,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $1,800,000,000.
+      - New secondary loan guarantee commitments, $0.
+  - **(14)** Social Security (650):
+    - Fiscal year 1985:
+      - New budget authority, $198,700,000,000.
+      - Outlays, $189,000,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1986:
+      - New budget authority, $207,200,000,000.
+      - Outlays, $200,800,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1987:
+      - New budget authority, $224,750,000,000.
+      - Outlays, $214,000,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1988:
+      - New budget authority, $264,600,000,000.
+      - Outlays, $228,100,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+  - **(15)** Veterans Benefits and Services (700):
+    - Fiscal year 1985:
+      - New budget authority, $27,400,000,000.
+      - Outlays, $26,400,000,000.
+      - New direct loan obligations, $1,300,000,000.
+      - New primary loan guarantee commitments, $16,800,000,000.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1986:
+      - New budget authority, $27,450,000,000.
+      - Outlays, $26,800,000,000.
+      - New direct loan obligations, $1,300,000,000.
+      - New primary loan guarantee commitments, $17,600,000,000.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1987:
+      - New budget authority, $27,550,000,000.
+      - Outlays, $27,250,000,000.
+      - New direct loan obligations, $1,200,000,000.
+      - New primary loan guarantee commitments, $18,800,000,000.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1988:
+      - New budget authority, $27,900,000,000.
+      - Outlays, $27,650,000,000.
+      - New direct loan obligations, $1,100,000,000.
+      - New primary loan guarantee commitments, $20,900,000,000.
+      - New secondary loan guarantee commitments, $0.
+  - **(16)** Administration of Justice (750):
+    - Fiscal year 1985:
+      - New budget authority, $6,700,000,000.
+      - Outlays, $6,300,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1986:
+      - New budget authority, $6,900,000,000.
+      - Outlays, $6,800,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1987:
+      - New budget authority, $7,050,000,000.
+      - Outlays, $7,000,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1988:
+      - New budget authority, $7,200,000,000.
+      - Outlays, $7,150,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+  - **(17)** General Government (800):
+    - Fiscal year 1985:
+      - New budget authority, $5,700,000,000.
+      - Outlays, $5,700,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1986:
+      - New budget authority, $5,500,000,000.
+      - Outlays, $5,450,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1987:
+      - New budget authority, $5,300,000,000.
+      - Outlays, $5,200,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1988:
+      - New budget authority, $5,500,000,000.
+      - Outlays, $5,450,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+  - **(18)** General Purpose Fiscal Assistance (850):
+    - Fiscal year 1985:
+      - New budget authority, $6,400,000,000.
+      - Outlays, $6,400,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1986:
+      - New budget authority, $6,500,000,000.
+      - Outlays, $6,500,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1987:
+      - New budget authority, $2,000,000,000.
+      - Outlays, $3,200,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1988:
+      - New budget authority, $2,100,000,000.
+      - Outlays, $2,100,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+  - **(19)** Net Interest (900):
+    - Fiscal year 1985:
+      - New budget authority, $129,200,000,000.
+      - Outlays, $129,200,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1986:
+      - New budget authority, $142,300,000,000.
+      - Outlays, $142,300,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1987:
+      - New budget authority, $152,500,000,000.
+      - Outlays, $152,500,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1988:
+      - New budget authority, $155,000,000,000.
+      - Outlays, $155,000,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+  - **(20)** Allowances (920):
+    - Fiscal year 1985:
+      - New budget authority, $500,000,000.
+      - Outlays, $0.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1986:
+      - New budget authority, —$2,100,000,000.
+      - Outlays,$1,650,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1987:
+      - New budget authority, —$2,000,000,000.
+      - Outlays, —$1,700,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1988:
+      - New budget authority, —$700,000,000.
+      - Outlays, —$500,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+  - **(21)** Undistributed Offsetting Receipts (950):
+    - Fiscal year 1985:
+      - New budget authority, —$32,400,000,000.
+      - Outlays,$32,400,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1986:
+      - New budget authority, —$39,900,000,000.
+      - Outlays,$39,900,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1987:
+      - New budget authority, —$37,100,000,000.
+      - Outlays, -$37,100,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1988:
+      - New budget authority, — $40,900,000,000.
+      - Outlays, —$40,900,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+
+## § 2. reconciliation
+
+- **(a)** Not later than September 27, 1985, the committees named in subsections (b) through (z) of this section shall submit their recommendations to the Committees on the Budget of their respective Houses. After receiving those recommendations, the Committees on the Budget shall report to the House and Senate a reconciliation bill or resolution or both carrying out all such recommendations without any substantive revision.
+- **(b)** *senate committees* The Senate Committee on Agriculture, Nutrition, and Forestry shall report (1) changes in laws within its jurisdiction which provide spending authority as defined in section 401(c)(2)(C) of the Congressional Budget Act of 1974, sufficient to reduce budget authority and outlays, (2) changes in laws within its jurisdiction other than those which provide spending authority as defined in section 401(c)(2)(C) of the Act, sufficient to achieve savings in budget authority and out-lays, or (3) any combination thereof, as follows: $0 in budget authority and $1,250,000,000 in outlays in fiscal year 1986, $0 in budget authority and $2,050,000,000 in outlays in fiscal year 1987, and $0 in budget authority and $4,600,000,000 in outlays in fiscal year 1988.
+- **(c)** The Senate Committee on Armed Services shall report changes in laws within its jurisdiction which provide spending authority as defined in section 401(c)(2)(C) of the Congressional Budget Act of 1974, sufficient to achieve savings of $0 in budget authority and $100,000,000 in outlays in fiscal year 1986, $0 in budget authority and $200,000,000 in outlays in fiscal year 1987, and $0 in budget authority and $300,000,000 in outlays in fiscal year 1988.
+- **(d)** The Senate Committee on Banking, Housing, and Urban Affairs shall report (1) changes in laws within its jurisdiction which provide spending authority as defined in section 401(c)(2)(C) of the Congressional Budget Act of 1974, sufficient to reduce budget authority and outlays, (2) changes in laws within its jurisdiction other than those which provide spending authority as defined in section 401(c)(2)(C) of the Act, sufficient to achieve savings in budget authority and outlays, or (3) any combination thereof, as follows: $2,374,000,000 in budget authority and $2,814,000,000 in outlays in fiscal year 1986, $2,828,000,000 in budget authority and $3,685,000,000 in outlays in fiscal year 1987, $2,998,000,000 in budget authority and $3,821,000,000 in outlays in fiscal year 1988.
+- **(e)** The Senate Committee on Commerce, Science, and Transportation shall report (1) changes in laws within its jurisdiction which provide spending authority as defined in section 401(c)(2)(C) of the Congressional Budget Act of 1974, sufficient to reduce budget authority and outlays, (2) changes in laws within its jurisdiction other than those which provide spending authority as defined in section 401(c)(2)(C) of the Act, sufficient to achieve savings in budget authority and outlays, or (3) any combination thereof, as follows: $328,000,000 in budget authority and $310,000,000 in outlays in fiscal year 1986, $133,000,000 in budget authority and $119,000,000 in outlays in fiscal year 1987, and $135,000,000 in budget authority and $130,000,000 in outlays in fiscal year 1988.
+- **(f)** The Senate Committee on Energy and Natural Resources shall report (1) changes in laws within its jurisdiction which providespending authority as defined in section 401(c)(2)(C) of the Congressional Budget Act of 1974, sufficient to reduce budget authority and outlays, (2) changes in laws within its jurisdiction other than those which provide spending authority as defined in section 401(c)(2)(C) of the Act, or (3) any combination thereof, sufficient to achieve the following: savings of $5,485,000,000 in budget authority and $5,403,000,000 in outlays in fiscal year 1986, increases of $291,000,000 in budget authority and $147,000,000 in outlays in fiscal year 1987, and savings of $337,000,000 in budget authority and $314,000,000 in outlays in fiscal year 1988.
+- **(g)** The Senate Committee on Environment and Public Works shall report (1) changes in laws within its jurisdiction which provide spending authority as defined in section 401(c)(2)(C) of the Congressional Budget Act of 1974, sufficient to reduce budget authority and outlays, (2) changes in laws within its jurisdiction other than those which provide spending authority as defined in section 401(c)(2)(C) of the Act, sufficient to achieve savings in budget authority and out-lays, or (3) any combination thereof, as follows: $0 in budget authority and $200,000,000 in outlays in fiscal year 1986, $0 in budget authority and $850,000,000 in outlays in fiscal year 1987, and $0 in budget authority and $1,050,000,000 in outlays in fiscal year 1988.
+- **(h)**
+  - **(1)** The Senate Committee on Finance shall report (A) changes in laws within its jurisdiction which provide spending authority as defined in section 401(c)(2)(C) of the Congressional Budget Act of 1974, sufficient to reduce budget authority and outlays, (B) changes in laws within its jurisdiction other than those which provide spending authority as defined in section 401(c)(2)(C) of the Act, sufficient to achieve savings in budget authority and outlays, or (C) any combination thereof, as follows: $0 in budget authority and $3,307,000,000 in outlays in fiscal year 1986, $0 in budget authority and $7,951,000,000 in outlays in fiscal year 1987, and $0 in budget authority and $10,908,000,000 in outlays in fiscal year 1988.
+  - **(2)** The Senate Committee on Finance shall report changes in laws within the jurisdiction of the committee sufficient to increase revenues as follows: $1,800,000,000 in fiscal year 1986; $3,000,000,000 in fiscal year 1987; and $3,600,000,000 in fiscal year 1988.
+- **(i)** The Senate Committee on Governmental Affairs shall report (1) changes in laws within its jurisdiction which provide spending authority as defined in section 401(c)(2)(C) of the Congressional Budget Act of 1974, (2) changes in laws within its jurisdiction other than those which provide spending authority as defined in section 401(c)(2)(C) of the Act, sufficient to achieve savings in budget authority and outlays, or (3) any combination thereof, as follows: $0 in budget authority and $3,219,000,000 in outlays in fiscal year 1986, $0 in budget authority and $4,421,000,000 in outlays in fiscal year 1987, and $0 in budget authority and $4,986,000,000 in outlays in fiscal year 1988.
+- **(j)** The Senate Committee on Labor and Human Resources shall report (1) changes in laws within its jurisdiction which provide spending authority as defined in section 401(c)(2)(C) of the Congressional Budget Act of 1974, sufficient to reduce budget authority and outlays, (2) changes in laws within its jurisdiction other than those which provide spending authority as defined in section 401(c)(2)(C) of the Act, sufficient to achieve savings in budget authority and out-lays, or (3) any combination thereof, as follows: $670,000,000 in budget authority and $170,000,000 in outlays in fiscal year 1986, $860,000,000 in budget authority and $535,000,000 in outlays in fiscal year 1987, and $1,085,000,000 in budget authority and $960,000,000 in outlays in fiscal year 1988.
+- **(k)** The Senate Committee on Small Business shall report (1) changes in laws within its jurisdiction which provide spending authority as defined in section 401(c)(2)(C) of the Congressional Budget Act of 1974, sufficient to reduce budget authority and out-lays, (2) changes in laws within its jurisdiction other than those which provide spending authority as defined in section 401(c)(2)(C) of the Act, sufficient to achieve savings in budget authority and outlays, or (3) any combination thereof, as follows: $448,000,000 in budget authority and $509,000,000 in outlays in fiscal year 1986, $564,000,000 in budget authority and $972,000,000 in outlays in fiscal year 1987, and $1,060,000,000 in budget authority and $998,000,000 in outlays in fiscal year 1988.
+- **(l)** The Senate Committee on Veterans’ Affairs shall report (1) changes in laws within its jurisdiction which provide spending authority as defined in section 401(c)(2)(C) of the Congressional Budget Act of 1974, sufficient to reduce budget authority and out-lays, (2) changes in laws within its jurisdiction other than those which provide spending authority as defined in section 401(c)(2)(C) of the Act, sufficient to achieve savings in budget authority and out-lays, or (3) any combination thereof, as follows: $300,000,000 in budget authority and $300,000,000 in outlays in fiscal year 1986, $400,000,000 in budget authority and $400,000,000 in outlays in fiscal year 1987, and $450,000,000 in budget authority and $450,000,000 in outlays in fiscal year 1988.
+- **(m)** The House Committee on Agriculture shall report changes in laws within the jurisdiction of that committee sufficient to reduce outlays by $1,250,000,000 in fiscal year 1986; to reduce outlays by $2,050,000,000 in fiscal year 1987; and to reduce outlays by $4,600,000,000 in fiscal year 1988.
+- **(n)** The House Committee on Armed Services shall report changes in laws within the jurisdiction of that committee which provide spending authority as defined in section 401(c)(2)(C) of the Congressional Budget Act of 1974, sufficient to reduce outlays by $100,000,000 in fiscal year 1986; to reduce outlays by $200,000,000 in fiscal year 1987; and to reduce outlays by $300,000,000 in fiscal year 1988.
+- **(o)** The House Committee on Banking, Finance and Urban Affairs shall report (1) changes in laws within its jurisdiction which provide spending authority as defined in section 401(c)(2)(C) of the Congressional Budget Act of 1974, sufficient to reduce budget authority and outlays, (2) changes in laws within its jurisdiction other than those which provide spending authority as defined in section 401(c)(2)(C) of the Act, sufficient to achieve savings in budget authority and out-lays, or (3) any combination thereof, as follows: $2,374,000,000 in budget authority and $2,814,000,000 in outlays in fiscal year 1986; $2,828,000,000 in budget authority and $3,685,000,000 in outlays in fiscal year 1987, and $2,998,000,000 in budget authority and $3,821,000,000 in outlays in fiscal year 1988.
+- **(p)** The House Committee on Education and Labor shall report changes in the laws within the jurisdiction of that committee sufficient to reduce budget authority by $670,000,000 and outlays by $470,000,000 in fiscal year 1986; to reduce budget authority by $860,000,000 and outlays by $835,000,000 in fiscal year 1987; and to reduce budget authority by $1,085,000,000 and outlays by $1,260,000,000 in fiscal year 1988.
+- **(q)** The House Committee on Energy and Commerce shall report (1) changes in laws within its jurisdiction which provide spending authority as defined in section 401(c)(2)(C) of the Congressional Budget Act of 1974, sufficient to reduce budget authority and out-lays, (2) changes in laws within its jurisdiction other than those which provide spending authority as defined in section 401(c)(2)(C) of the Act, sufficient to achieve savings in budget authority and out-lays, or (3) any combination thereof, as follows: $1,513,000,000 in budget authority and $3,947,000,000 in outlays in fiscal year 1986, $1,246,000,000 in budget authority and $5,008,000,000 in outlays in fiscal year 1987, and $1,401,000,000 in budget authority and $6,512,000,000 in outlays in fiscal year 1988.
+- **(r)** The House Committee on Government Operations shall report changes in laws within the jurisdiction of that committee which provide spending authority as defined in section 401(c)(2)(C) of the Congressional Budget Act of 1974, sufficient to reduce outlays by $0 in fiscal year 1986; to reduce outlays by $3,526,000,000 in fiscal year 1987; and to reduce outlays by $4,956,000,000 in fiscal year 1988.
+- **(s)** The House Committee on Interior and Insular Affairs shall report changes in laws within the jurisdiction of that committee sufficient to reduce budget authority by $4,000,000,000 and outlays by $4,000,000,000 in fiscal year 1986; to increase budget authority by $1,504,000,000 and outlays by $1,504,000,000 in fiscal year 1987; and to increase budget authority by $1,029,000,000 and outlays by $1,029,000,000 in fiscal year 1988.
+- **(t)** The House Committee on the Judiciary shall report changes in laws within the jurisdiction of that committee sufficient to reduce budget authority by $570,000,000 and outlays by $70,000,000 in fiscal year 1986; to reduce budget authority by $610,000,000 and outlays by $285,000,000 in fiscal year 1987; and to reduce budget authority by $635,000,000 and outlays by $510,000,000 in fiscal year 1988.
+- **(u)** The House Committee on Merchant Marine and Fisheries shall report changes in laws within the jurisdiction of that committee sufficient to reduce budget authority by $300,000,000 and outlays by $300,000,000 in fiscal year 1986; to reduce budget authority by $100,000,000 and outlays by $100,000,000 in fiscal year 1987; and to reduce budget authority by $100,000,000 and outlays by $100,000,000 in fiscal year 1988.
+- **(v)** The House Committee on Post Office and Civil Service shall report (1) changes in laws within its jurisdiction which provide spending authority as defined in section 401(c)(2)(C) of the Congressional Budget Act of 1974, sufficient to reduce budget authority and outlays, (2) changes in laws within its jurisdiction other than those which provide spending authority as defined in section 401(c)(2)(C) of the Act, sufficient to achieve savings in budget authority and out-lays, or (3) any combination thereof, as follows: $3,219,000,000 in outlays in fiscal year 1986, $4,421,000,000 in outlays in fiscal year 1987, and $4,986,000,000 in outlays in fiscal year 1988.
+- **(w)** The House Committee on Public Works and Transportation shall report changes in laws within the jurisdiction of that committee sufficient to reduce outlays by $200,000,000 in fiscal year 1986, to reduce outlays by $850,000,000 in fiscal year 1987, and to reduce outlays by $1,050,000,000 in fiscal year 1988.
+- **(x)** The House Committee on Small Business shall report (1) changes in laws within its jurisdiction which provide spending authority as defined in section 401(c)(2)(C) of the Congressional Budget Act of 1974, sufficient to reduce budget authority and out-lays, (2) changes in laws within its jurisdiction other than those which provide spending authority as defined in section 401(c)(2)(C) of the Act, sufficient to achieve savings in budget authority and out-lays, or (3) any combination thereof, as follows: $448,000,000 in budget authority and $509,000,000 in outlays in fiscal year 1986, $564,000,000 in budget authority and $972,000,000 in outlays in fiscal year 1987, and $1,060,000,000 in budget authority and $998,000,000 in outlays in fiscal year 1988.
+- **(y)** The House Committee on Veterans’ Affairs shall report changes in laws within the jurisdiction of that committee sufficient to reduce budget authority by $300,000,000 and outlays by $300,000,000 in fiscal year 1986; to reduce budget authority by $400,000,000 and outlays by $400,000,000 in fiscal year 1987; and to reduce budget authority by $450,000,000 and outlays by $450,000,000 in fiscal year 1988.
+- **(z)** The House Committee on Ways and Means shall report changes in laws within the jurisdiction of that committee sufficient to reduce the budget deficit by $5,027,000,000 in fiscal year 1986; to reduce the budget deficit by $7,245,000,000 in fiscal year 1987; and to reduce the budget deficit by $9,362,000,000 in fiscal year 1988.
+
+## § 3. Miscellaneous Provisions
+
+- **(a)** If the Congress has not completed action by October 1, 1985, on the concurrent resolution on the budget required to be reported under section 310(a) of the Congressional Budget Act of 1974 for fiscal year 1986, then, for purposes of section 311 of such Act, this concurrent resolution shall be deemed to be the concurrent resolution required to be reported under section 310 of such Act.
+- **(b)** In the House of Representatives, section 311(a) of the Congressional Budget Act of 1974, as made applicable by subsection (a) of this section, shall not apply to bills, resolutions, or amendments within the jurisdiction of a committee, or any conference report on any such bill or resolution, if— would not cause the appropriate allocation for such committee of new discretionary budget authority or new spending authority as described in section 401(c)(2)(C) of the Congressional Budget Act of 1974 made pursuant to section 302(a) of such Act for fiscal year 1986 to be exceeded.
+  - **(1)** the enactment of such bill or resolution as reported;
+  - **(2)** the adoption and enactment of such amendment; or
+  - **(3)** the enactment of such bill or resolution in the form recommended in such conference report;
+
+## § 4. tax reform
+
+- **(a)** The Congress finds that—
+  - **(1)** the existing tax structure of the United States distorts economic activity, leading to an inefficient use of national resources and a weakening of our domestic economic vitality and competitive posture in international markets;
+  - **(2)** the relative tax burdens among various taxpayer categories are manifestly unfair insofar as they arise from differences in the capabilities of taxpayers to take advantage of complicated tax laws;
+  - **(3)** the ability of the Federal Government to plan and conduct rational fiscal policy is frustrated by elaborate schemes to avoid taxation and the unintended effects of tax incentives and penalties;
+  - **(4)** progressive erosion of voluntary compliance threatens the fiscal integrity of our public finances and the confidence of our citizens in the Federal Government’s capacity to govern; and
+  - **(5)** a number of plans, each designed to simplify and reform the Tax Code, have been before the Congress for a time sufficient to allow for extensive analysis and evaluation.
+- **(b)** It is therefore the sense of the Congress that tax reform should be adopted as soon as possible, and that it should incorporate the following principles and objectives:
+  - **(1)** efficiency and responsiveness to market conditions in the economic activities of American businesses and consumers;
+  - **(2)** simplicity of structure and lower marginal tax rates;
+  - **(3)** a fair and equitable distribution of the tax burden among all taxpayers, with relief for those below the poverty level, and incentives to bring them into the work force;
+  - **(4)** a broader tax base, with deductions essential to avoid genuine hardship or to protect the economic security of the American people; and
+  - **(5)** increased incentives for work, saving, and investment.
+
+## § 5. cbo scorekeeping requirements
+
+It is the sense of the Senate that because the Senate requires timely reporting of legislative action on spending bills, and because the Senate requires continual control over the budget, the Director of the Congressional Budget Office shall issue a weekly report during periods when the Senate is in session detailing and tabulating the progress of congressional action on bills and resolutions providing new budget authority and changing revenues and the public debt for a fiscal year, including, but not limited to the requirements set forth in Public Law 93–344, section 308(b).
+
+## § 6. farm loss deduction
+
+It is the sense of the Senate that revenues should be increased and it is assumed that tax legislation will be enacted to limit to the national median family income the amount of farm loss which may be deducted against nonfarm income, and it is further assumed that revenues derived from enactment of such legislation be used to reduce individual income tax rates and to assure that full-time, family-size farm operators will not be disadvantaged by unfair competition from high-income taxpayers with substantial nonfarm income.
+
+## § 7. enhanced tax law enforcement
+
+It is the sense of the Congress that revenues should be increased and it is assumed that the Committees on Finance and Ways and Means will develop legislation to reduce the tax enforcement gap, estimated by the Internal Revenue Service at $92,000,000,000 in fiscal year 1986. It is further assumed that such legislation should provide for increased and improved enforcement and collection, through audits, examinations, and other steps designed to identify and eliminate tax cheating and increase revenue collections from individuals and corporations currently evading Federal taxes, and that the legislation should include steps designed to increase voluntary compliance with tax laws and that such steps may include increased staff for taxpayer assistance, speedier processing of returns and provision of public information designed to build public trust and understanding of Internal Revenue Service enforcement efforts and that such legislation should also provide that the resources of the Internal Revenue Service shall be in-creased to accomplish full enforcement of United States tax laws, increasing voluntary compliance.
+
+## § 8. international monetary conference
+
+It is the sense of the Congress that the Administration should consider convening a high level meeting of the major industrial countries for the express purpose of exploring options to improve the functioning of the international monetary system, including measures to stabilize currency exchange rates, reduce interest rates, promote maximum domestic and world economic growth, and help assure domestic price stability.
+
+## § 9. committee review of the president’s private sector survey on cost control
+
+It is the sense of the House of Representatives that—
+
+- **(1)** each of its standing committees should review and study, on a continuing basis, those portions of the President’s Private Sector Survey on Cost Control affecting subjects within its jurisdiction;
+- **(2)** each of its standing committees should, in its consideration of any bill or joint resolution of a public character within its jurisdiction, review those portions of the President’s Private Sector Survey on Cost Control pertaining to such bill or resolution; and
+- **(3)** each report of any such committee on a bill or joint resolution of a public character should contain—
+  - **(A)** an identification of each recommendation of the President’s Private Sector Survey on Cost Control implemented in such bill or resolution and the estimated dollar amount of program cost savings or revenue enhancement as a result of the implementation of each such recommendation; and
+  - **(B)** a statement setting forth each recommendation of the President’s Private Sector Survey on Cost Control pertaining to such bill or resolution, the disposition of each such recommendation, and the reasons for such disposition.
+
+## § 10. limitation on benefits to aliens
+
+It is the sense of the Congress that functional totals should be reduced to reflect a limitation on the amount of social security benefits paid to illegal and nonresident aliens. It is assumed that the Finance Committee and the Ways and Means Committee will report legislation to accomplish the required changes in law. Such legislation may limit benefits to the amount of wage-earner’s contribution plus interest, unless the wage-earner is a citizen of a country with which the United States has a treaty or totalization agreement and that this provision would apply to individuals becoming eligible on or after January 1, 1986.
+
+
+*Agreed to August 1, 1985.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- Aug. 1, 1985 [S. Con. Res. 32]
+- 26 USC 3126.
+- 2 USC 651.
+- 2 USC 641. 2 USC 642.
+- 2 USC 651. 2 USC 633.
+- 31 USC 1329.
