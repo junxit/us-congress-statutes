@@ -1,0 +1,29 @@
+---
+volume: 90
+citation: 90 Stat. 2971
+type: Private Law
+number: 40
+congress: 94
+session: 2
+scope: private
+approved: 1976-04-16
+bills: 94/s-804
+---
+
+# Private Law 94–40
+
+> An Act Granting a renewal of patent numbered 55,898 relating to the badge of the American Legion Auxiliary.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+That a certain design patent issued by the United States Patent Office of date of June 1, 1920, being patent numbered 55,398, is hereby renewed and extended for a period of fourteen years from and after the date of approval of this Act, with all the rights and privileges pertaining to the same, being generally known as the badge of the American Legion Auxiliary.
+
+
+*Approved April 16, 1976.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- Apr. 16, 1976 [S. 804]
+- American Legion Auxiliary.
