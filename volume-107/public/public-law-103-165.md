@@ -1,0 +1,36 @@
+---
+volume: 107
+citation: 107 Stat. 1975
+type: Public Law
+number: 165
+congress: 103
+session: 1
+scope: public
+approved: 1993-12-02
+bills: 103/hjres-294
+---
+
+# Public Law 103–165
+
+> Joint Resolution To express appreciation to W. Graham Claytor, Jr., for a lifetime of dedicated and inspired service to the Nation.
+
+Whereas W. Graham Claytor, Jr., has announced his retirement at age 81 from the National Railroad Passenger Corporation, better known as Amtrak, where he has served as President and Chairman of the Board since 1982; Whereas W. Graham Claytor, Jr., has provided remarkable, energetic, inspired, and at times heroic service to the Nation during a career that has included service in the United States Navy, a brilliant legal career, leadership of one of the Nation’s largest private railroads, service as Secretary of the Navy, Acting Secretary of Transportation, and Deputy Secretary of Defense, and stewardship of Amtrak during a period that witnessed the rebirth of the Nation’s passenger rail system; Whereas W. Graham Claytor, Jr., has brought to his work enormous intellectual and analytical skills developed at the University of Virginia, where he received his bachelor’s degree in 1933, and Harvard Law School, where he graduated in 1936 summa cum laude and as President of the Harvard Law Review; Whereas W. Graham Claytor, Jr., worked as a law clerk for two of the finest and most brilliant jurists in this Nation’s history, Judge Learned Hand of the United States Court of Appeals for the Second District in 1936–1937, and Supreme Court Justice Louis D. Brandeis in 1937–1938, and later as an associate and partner at the law firm of Covington & Burling; Whereas W. Graham Claytor, Jr., served his Nation during World War II, advancing in the United States Navy from ensign to lieutenant commander, and held commands of the U.S.S. SC–516, the U.S.S. Lee Fox, and the U.S.S. Cecil J. Doyle; Whereas W. Graham Claytor, Jr., is credited with having saved almost 100 survivors of the sinking heavy cruiser U.S.S. Indianapolis, which had been torpedoed in shark-infested waters in the Pacific, by decisively changing the course of his ship, the U.S.S. Doyle, to rescue the survivors hours before receiving orders to take part in the rescue; Whereas W. Graham Claytor, Jr., retired in 1977 as Chairman and Chief Executive Officer of Southern Railways, where he also had served as Vice President of Law and President, and was responsible for revamping the corporation’s management style, planning, and long-term focus, and for making the railroad one of the largest and most successful in the Nation; Whereas W. Graham Claytor, Jr., brought his experience as a decisive Naval officer and premier corporate manager to bear on the challenge of shaping a strong, versatile, modern Navy through his appointment by President Jimmy Carter and confirmation by the Senate in 1977 as Secretary of the Navy, and on the challenge of providing for a strong defense within mounting budgetary constraints in 1979 as Deputy Secretary of Defense, as well as serving as Acting Secretary of Transportation; Whereas W. Graham Claytor, Jr., was appointed President and Chairman of the Board of Amtrak in 1982 at the age of 71, and is directly responsible for the dramatic improvement in the economics, quality, and marketability of rail passenger service that has occurred over the last decade, and in the resurgence of demand for Amtrak service as a means of addressing growing highway and airport congestion across the Nation; Whereas the vision of leadership of W. Graham Claytor, Jr., is responsible for having enabled Amtrak and Congress to withstand zealous attempts to eliminate the Nation’s rail passenger system by demanding of his corporation that Amtrak operate as a private business with strict attention to the bottom line and to improvements in efficiency and quality of service, and by engineering a substantial reduction in the corporation’s revenue-to-cost ratio and in level of Federal support required to operate the system; Whereas W. Graham Claytor, Jr., has positioned Amtrak to be the Nation’s leader in the development of high-speed rail for the next century and has overseen development of the Northeast Corridor as the Nation’s premier rail passenger line and a model for high-speed operations across the country; and Whereas the retirement of W. Graham Claytor, Jr., will mean the loss of one of the Nation’s most knowledgeable, inspiring, and persuasive voices in government service and of a close, personal friend to many in Congress, the Government, and business: Now, therefore, be it Resolved by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+That the Congress recognizes the critical role of Amtrak in the Nation’s transportation system, and that the Nation profoundly thanks W. Graham Claytor, Jr., for a lifetime of dedication and superb service to this Nation, for his willingness to assume major new public challenges at a time when his peers had long ago retired, for his ability to profoundly change the course of events, from the lives of the sailors of the U.S.S. Indianapolis to the preservation of national rail passenger service, and tor his brilliant stewardship of Amtrak over the past decade.
+
+
+*Approved December 2, 1993.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- Dec. 2, 1993 [H.J. Res. 294]
+
+## Legislative history
+
+**LEGISLATIVE HISTORY—H.J. Res. 294:**
+
+*CONGRESSIONAL RECORD, Vol. 139 (1993):*
+
+- Nov. 19, considered and passed House and Senate.

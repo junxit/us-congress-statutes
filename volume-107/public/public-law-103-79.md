@@ -1,0 +1,84 @@
+---
+volume: 107
+citation: 107 Stat. 770
+type: Public Law
+number: 79
+congress: 103
+session: 1
+scope: public
+approved: 1993-08-13
+bills: 103/hr-2034, 103/s-1079
+---
+
+# Public Law 103–79
+
+> An Act To authorize major medical facility construction projects for the Department of Veterans Affairs for fiscal year 1994, and for other purposes.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+## § 1. AUTHORIZATION OF DEPARTMENT OF VETERANS AFFAIRS CONSTRUCTION PROJECTS.
+
+- **(a)** *Authorized projects.—* The Secretary of Veterans Affairs may carry out the major medical facility leases for the Department of Veterans Affairs for which funds are requested in the budget of the President for fiscal year 1994 and may carry out (or, in the case of the project specified in paragraph (1), participate in) the following major medical facility projects in the amounts specified:
+  - **(1)** Construction in accordance with an agreement between the Secretary of the Air Force and the Secretary of Veterans Affairs of a medical facility at Elmendorf Air Force Base, Anchorage, Alaska, to be shared by the Air Force and the Department of Veterans Affairs, $11,500,000.
+  - **(2)** Construction of a psychiatric building at the Department of Veterans Affairs Medical Center in Lyons, New Jersey, $41,700,000.
+  - **(3)** Modernization and seismic corrections at the Department of Veterans Affairs Medical Center in Memphis, Tennessee, $10,700,000.
+  - **(4)** Construction of a replacement bed building at the Department of Veterans Affairs Medical Center in Muskogee, Oklahoma, $33,200,000.
+  - **(5)** Construction of an outpatient care addition and parking garage at the Department of Veterans Affairs Medical Center in San Juan, Puerto Rico, $46,000,000.
+  - **(6)** Construction, or expansion and modernization, of a 120-bed nursing home facility in the area (referred to as the “Chesapeake network”) served by the Department of Veterans Affairs medical centers in Baltimore, Maryland; Fort Howard, Maryland; Martinsburg, West Virginia; Perry Point, Maryland; and Washington, District of Columbia, the site for which shall be selected in accordance with subsection (b).
+- **(b)** *Site Selection.—*
+  - **(1)** The Secretary, in selecting a site for the project referred to in subsection (a)(6), shall conduct a study to determine the most appropriate location for that facility. In conducting the study, the Secretary shall determine—
+    - **(A)** what the specific mission of each medical center operated by the Secretary in the Chesapeake network should be to achieve within that network—
+      - **(i)** effective planning;
+      - **(ii)** reduction in duplication of services and programs in the same geographic area;
+      - **(iii)** realignment of services among facilities within each network;
+      - **(iv)** improved means of resource distribution; and
+      - **(v)** more efficient delivery of needed services;
+    - **(B)** whether there is a need for expansion and modernization of the nursing home care unit at the medical center at Fort Howard, Maryland; and
+    - **(C)** what effect the construction of nursing home beds in Baltimore, Maryland, as proposed in the President’s budget for the Department of Veterans Affairs for fiscal year 1994, would have for the missions of each of the other medical centers operated by the Secretary in the Chesapeake network.
+  - **(2)** Not later than 90 days after the date of the enactment of this Act, the Secretary shall submit to the Committees on Veterans Affairs of the Senate and House a report on the study under paragraph (1). The Secretary shall include in the report a statement of each determination made by the Secretary under that paragraph.
+
+## § 2. AUTHORIZATION OF APPROPRIATIONS.
+
+- **(a)** *In General.—* There is hereby authorized to be appropriated to the Secretary of Veterans Affairs for fiscal year 1994—
+  - **(1)** $143,100,000 for the major medical facility projects authorized in paragraphs (1) through (5) of section 101(a) and such sums as may be necessary for the project described in section 101(a)(6), but not to exceed $14,500,000 in the case of construction of nursing home beds in Baltimore, Maryland, as proposed in the President’s budget for the Department of Veterans Affairs for fiscal year 1994; and
+  - **(2)** $50,123,105 for the major medical facility leases authorized in section 101(a).
+- **(b)** *Limitation.—* The projects authorized in section 101 may only be carried out using—
+  - **(1)** funds appropriated for fiscal year 1994 pursuant to the authorization of appropriations in subsection (a);
+  - **(2)** funds appropriated for Construction, Major Projects for a fiscal year before fiscal year 1994 that remain available for obligation; and
+  - **(3)** funds appropriated for Construction, Major Projects for fiscal year 1994 for a category of activity not specific to a project.
+
+## § 3. INCREASE IN AMOUNT OF FACILITY PROJECT THRESHOLD.
+
+- **(a)** Section 8104(a)(3)(A) of title 38, United States Code, is amended by striking out “$2,000,000” and inserting in lieu thereof “$3,000,000”.
+- **(b)** Section 8109(i)(2) of such title is amended by striking out “$2,000,000” and inserting in lieu thereof “$3,000,000”.
+
+## § 4. INCREASED TERM OF LEASE AUTHORITY RELATING TO PERSHING HALL, FRANCE.
+
+Section 403(c)(1) of the Veterans’ Benefits Programs Improvement Act of 1991 (36 U.S.C. 493) is amended by striking out “35 years” and inserting in lieu thereof “99 years”.
+
+
+*Approved August 13, 1993.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- Aug. 13, 1993 [H.R. 2034]
+- Reports.
+
+## Legislative history
+
+**LEGISLATIVE HISTORY—H.R. 2034 (S. 1079):**
+
+*HOUSE REPORTS:*
+
+
+*SENATE REPORTS:*
+
+
+*CONGRESSIONAL RECORD, Vol. 139 (1993):*
+
+- May 18, considered and passed House.
+- July 14, considered and passed Senate, amended.
+- Aug. 6, House concurred in Senate amendments with amendments.
+- Senate concurred in House amendments.
