@@ -1,0 +1,58 @@
+---
+volume: 105
+citation: 105 Stat. 3
+type: Public Law
+number: 1
+congress: 102
+scope: public
+approved: 1991-01-14
+bills: 105/hjres-77, 105/sjres-2
+---
+
+# Public Law 102–1
+
+> Joint Resolution To authorize the use of United States Armed Forces pursuant to United Nations Security Council Resolution 678.
+
+Whereas the Government of Iraq without provocation invaded and occupied the territory of Kuwait on August 2, 1990; Whereas both the House of Representatives (in H.J. Res. 658 of the 101st Congress) and the Senate (in S. Con. Res. 147 of the 101st Congress) have condemned Iraq’s invasion of Kuwait and declared their support for international action to reverse Iraq’s aggression; Whereas, Iraq’s conventional, chemical, biological, and nuclear weapons and ballistic missile programs and its demonstrated willingness to use weapons of mass destruction pose a grave threat to world peace; Whereas the international community has demanded that Iraq withdraw unconditionally and immediately from Kuwait and that Kuwait’s independence and legitimate government be restored; Whereas the United Nations Security Council repeatedly affirmed the inherent right of individual or collective self-defense in response to the armed attack by Iraq against Kuwait in accordance with Article 51 of the United Nations Charter; Whereas, in the absence of full compliance by Iraq with its resolutions, the United Nations Security Council in Resolution 678 has authorized member states of the United Nations to use all necessary means, after January 15, 1991, to uphold and implement all relevant Security Council resolutions and to restore international peace and security in the area; and Whereas Iraq has persisted in its illegal occupation of, and brutal aggression against Kuwait: Now, therefore, be it Resolved by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+## § 1. SHORT TITLE.
+
+This joint resolution may be cited as the “Authorization for Use of Military Force Against Iraq Resolution”.
+
+## § 2. AUTHORIZATION FOR USE OF UNITED STATES ARMED FORCES.
+
+- **(a)** *Authorization.—* The President is authorized, subject to subsection (b), to use United States Armed Forces pursuant to United Nations Security Council Resolution 678 (1990) in order to achieve implementation of Security Council Resolutions 660, 661, 662, 664,665, 666, 667, 669, 670, 674, and 677.
+- **(b)** *Requirement for Determination That Use of Military Force Is Necessary.—* Before exercising the authority granted in subsection (a), the President shall make available to the Speaker of the House of Representatives and the President pro tempore of the Senate his determination that—
+  - **(1)** the United States has used all appropriate diplomatic and other peaceful means to obtain compliance by Iraq with the United Nations Security Council resolutions cited in subsection (a); and
+  - **(2)** that those efforts have not been and would not be successful in obtaining such compliance.
+- **(c)** *War Powers Resolution Requirements.—*
+  - **(1)** *Specific statutory authorization.—* Consistent with section 8(a)(1) of the War Powers Resolution, the Congress declares that this section is intended to constitute specific statutory authorization within the meaning of section 5(b) of the War Powers Resolution.
+  - **(2)** *Applicability of other requirements.—* Nothing in this resolution supersedes any requirement of the War Powers Resolution.
+
+## § 3. REPORTS TO CONGRESS.
+
+At least once every 60 days, the President shall submit to the Congress a summary on the status of efforts to obtain compliance by Iraq with the resolutions adopted by the United Nations Security Council in response to Iraq’s aggression.
+
+
+*Approved January 14, 1991.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- Jan. 14, 1991 [H.J. Res. 77]
+- 50 USC 1541 note.
+- Authorization for Use of Military Force Against Iraq Resolution. Kuwait. 50 USC 1541 note. President. 50 USC 1541 note.
+- President. 50 USC 1541 note.
+
+## Legislative history
+
+**LEGISLATIVE HISTORY—H.J. Res. 77 (S.J. Res. 2):**
+
+*CONGRESSIONAL RECORD, Vol. 137 (1991):*
+
+- Jan. 12, S.J. Res. 2 considered and passed Senate. H.J. Res. 77 considered and passed House and Senate.
+
+*WEEKLY COMPILATION OF PRESIDENTIAL DOCUMENTS, Vol. 27 (1991):*
+
+- Jan. 14, Presidential statement.

@@ -1,0 +1,48 @@
+---
+volume: 105
+citation: 105 Stat. 1643
+type: Public Law
+number: 205
+congress: 102
+scope: public
+approved: 1991-12-10
+bills: 102/hr-3709
+---
+
+# Public Law 102–205
+
+> An Act To waive the period of Congressional review for certain District of Columbia acts.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+## § 1. WAIVER OF CONGRESSIONAL REVIEW PERIOD FOR CERTAIN DISTRICT OF COLUMBIA ACTS.
+
+- **(a)** *Waiver.—* Notwithstanding section 602(c) of the District of Columbia Self-Government and Governmental Reorganization Act, each of the District of Columbia acts described in subsection (b) shall take effect on the date of the enactment of this Act.
+- **(b)** *Acts Described.—* The District of Columbia acts referred to in subsection (a) are as follows:
+  - **(1)** The District of Columbia Government Comprehensive Merit Personnel Act of 1978 Temporary Amendment Act of 1991 (D.C. Act 9–85).
+  - **(2)** The District of Columbia Regional Airports Authority Act of 1985 Temporary Amendment Act of 1991 (D.C. Act 9–88).
+  - **(3)** The Board of Education Special Election Act of 1991 (D.C. Act 9–89).
+  - **(4)** The Closing of a Public Alley and Abandonment of an Easement in Square 488, S.O. 86–267, Act of 1988 Covenant Modification Temporary Act of 1991 (D.C. Act 9–90).
+  - **(5)** The Closing of Glover Archbold Parkway N.W., Temporary Act of 1991 (D.C. Act 9–93).
+  - **(6)** The Uniform Law on Notarial Acts Amendment Act of 1991 (D.C. Act 9–94).
+  - **(7)** The Residential Property Tax Relief Act of 1977 Application Deadline and Free Clinic Assistance Program Act of 1986 Extension Temporary Amendment Act of 1991 (D.C. Act 9–95).
+  - **(8)** The District of Columbia Commission on Baseball Act of 1991 (D.C. Act 9–96).
+
+
+*Approved December 10, 1991.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- Dec. 10, 1991 [H.R. 3709]
+
+## Legislative history
+
+**LEGISLATIVE HISTORY—H.R. 3709:**
+
+
+*CONGRESSIONAL RECORD, Vol. 137 (1991):*
+
+- Nov. 12, considered and passed House.
+- Nov. 26, considered and passed Senate.

@@ -1,0 +1,38 @@
+---
+volume: 105
+citation: 105 Stat. 478
+type: Public Law
+number: 94
+congress: 102
+scope: public
+approved: 1991-08-14
+bills: 102/hjres-309
+---
+
+# Public Law 102–94
+
+> Joint Resolution Designating August 29, 1991, as “National Sarcoidosis Awareness Day”.
+
+*Resolved by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+Whereas sarcoidosis is a systemic disease of unknown causes that can affect any part of the body; Whereas sarcoidosis affects between 20 and 50 individuals in 100,000 in the United States; Whereas most victims of the disease range in age between 20 and 40 years, with blacks being affected at least 10 times more often than other ethnic groups in the United States; Whereas between 10 to 20 percent of individuals stricken with sarcoidosis eventually develop serious disabling conditions caused by damage to vital organs, such as lungs, heart, and central nervous system; Whereas sarcoidosis is an enigma in the realm of medicine and disease that requires extensive and ongoing study and research in an effort to develop an effective treatment and eventually a cure; Whereas individuals with sarcoidosis and family members across the United States are seeking treatment and support services to assist in controlling the effects of the disease; Whereas grassroot support groups and nonprofit organizations are forming across the United States to encourage public awareness of the mysterious and debilitating disease; Whereas the Federal Government has a responsibility to lead a nationwide effort to find a cure for the disabling disease; and Whereas the Federal Government should make research into the causes of the life-threatening ailment a greater priority and provide the public with more information about potential treatments for individuals with sarcoidosis: Now, therefore, be it
+
+That August 29, 1991, is designated as “National Sarcoidosis Awareness Day”, and the President is authorized and requested to issue a proclamation calling upon the people of the United States to observe the week with appropriate ceremonies and activities.
+
+
+*Approved August 14, 1991.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- Aug. 14, 1991 [H.J. Res. 309]
+
+## Legislative history
+
+**LEGISLATIVE HISTORY—H.J. Res. 309:**
+
+*CONGRESSIONAL RECORD, Vol. 137 (1991):*
+
+- Aug. 1, considered and passed House.
+- Aug. 2, considered and passed Senate.

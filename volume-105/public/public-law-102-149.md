@@ -1,0 +1,36 @@
+---
+volume: 105
+citation: 105 Stat. 978
+type: Public Law
+number: 149
+congress: 102
+scope: public
+approved: 1991-10-30
+bills: 102/sjres-160
+---
+
+# Public Law 102–149
+
+> Joint Resolution Designating the week beginning October 20, 1991, as “World Population Awareness Week”.
+
+Whereas the population of the world today exceeds 5,000,000,000 and is growing at an unprecedented rate of approximately 90,000,000 per year; Whereas virtually all of this growth is occurring in the poorest countries, those countries least able to provide even basic services for their current citizens; Whereas the demands of growing populations have contributed substantially to enormous environmental devastation and pose threats of even greater harm to the world; Whereas one-half of the 10,000,000 infant deaths and one-quarter of the 500,000 maternal deaths that occur each year in the developing world could be prevented if voluntary child spacing and maternal health programs could be substantially expanded; Whereas research reveals that one-half of the women of reproductive age in the developing world want to limit the size of their families but lack the means or ability to gain access to family planning; Whereas the global community has for more than 20 years recognized that it is a fundamental human right for people to voluntarily and responsibly determine the number and spacing of their children and the United States has been a leading advocate of this right; Whereas the demands of growing populations force many countries to borrow heavily and sell off their natural resources to cover the interest on their debt; Whereas selling off natural resources in such circumstances often causes irretrievable losses, such as the destruction of the tropical rain forests at a rate of 50,000 acres per day; Whereas the reliance of a rapidly growing world population on burning fuels is a critical factor in the emission of carbon dioxide into the atmosphere, which many scientists believe has already catalyzed a warming of the Earth’s climate; Whereas pollution is damaging the ozone layer to such an extent that within 40 years the amount of ultraviolet light reaching our planet is expected to increase by as much as 20 percent; and Whereas in 1990, the President proclaimed “World Population Awareness Week” nationally, and 38 State Governors proclaimed “World Population Awareness Week” in their respective States, to call attention to the consequences of rapid population growth, and the Congress also passed a resolution to that effect: Now, therefore, be it Resolved by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+That the week beginning October 20, 1991, is designated as “World Population Awareness Week”. The President is authorized and requested to issue a proclamation calling upon the people of the United States to observe such week with appropriate programs, ceremonies, and activities.
+
+
+*Approved October 30, 1991.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- Oct. 30, 1991 [S.J. Res. 160]
+
+## Legislative history
+
+**LEGISLATIVE HISTORY—S.J. Res. 160:**
+
+*CONGRESSIONAL RECORD, Vol. 137 (1991):*
+
+- Oct. 8, considered and passed Senate.
+- Oct. 22, considered and passed House.
