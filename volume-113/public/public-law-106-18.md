@@ -1,0 +1,43 @@
+---
+volume: 113
+citation: 113 Stat. 28
+type: Public Law
+number: 18
+congress: 106
+scope: public
+approved: 1999-04-08
+bills: 106/hr-171
+---
+
+# Public Law 106–18
+
+> An Act To authorize appropriations for the Coastal Heritage Trail Route in New Jersey, and for other purposes.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+## § 1. AUTHORIZATION OF APPROPRIATIONS.
+
+Section 6 of Public Law 100–515 (16 U.S.C. 1244 note) is amended—
+
+- **(1)** in subsection (b)(1), by striking “$1,000,000” and inserting “$4,000,000”; and
+- **(2)** in subsection (c), by striking “five” and inserting “10”.
+
+
+*Approved April 8, 1999.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- Apr. 8, 1999 [H.R. 171]
+
+## Legislative history
+
+**LEGISLATIVE HISTORY—H.R. 171:**
+
+
+
+*CONGRESSIONAL RECORD, Vol. 145 (1999):*
+
+- Feb. 23, considered and passed House.
+- Mar. 25, considered and passed Senate.

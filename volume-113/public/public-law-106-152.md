@@ -1,0 +1,53 @@
+---
+volume: 113
+citation: 113 Stat. 1732
+type: Public Law
+number: 152
+congress: 106
+scope: public
+approved: 1999-12-09
+bills: 106/hr-1887
+---
+
+# Public Law 106–152
+
+> An Act To amend title 18, United States Code, to punish the depiction of animal cruelty.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+## § 1. PUNISHMENT FOR DEPICTION OF ANIMAL CRUELTY.
+
+- **(a)** *In General.* Chapter 3 of title 18, United States Code, is amended by adding at the end the following:
+  > ## § 48. Depiction of animal cruelty
+  >
+  > - **(a)** *Creation, Sale, or Possession.—* Whoever knowingly creates, sells, or possesses a depiction of animal cruelty with the intention of placing that depiction in interstate or foreign commerce for commercial gain, shall be fined under this title or imprisoned not more than 5 years, or both.
+  > - **(b)** *Exception.—* Subsection (a) does not apply to any depiction that has serious religious, political, scientific, educational, journalistic, historical, or artistic value.
+  > - **(c)** *Definitions.—* In this section—
+  >   - **(1)** the term ‘depiction of animal cruelty’ means any visual or auditory depiction, including any photograph, motion–picture film, video recording, electronic image, or sound recording of conduct in which a living animal is intentionally maimed, mutilated, tortured, wounded, or killed, if such conduct is illegal under Federal law or the law of the State in which the creation, sale, or possession takes place, regardless of whether the maiming, mutilation, torture, wounding, or killing took place in the State; and
+  >   - **(2)** the term ‘State’ means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and any other commonwealth, territory, or possession of the United States.”.
+
+- **(b)** *Clerical Amendment.—* The table of sections for such chapter is amended by adding at the end the following:
+  > - “48. Depiction of animal cruelty.”
+
+
+*Approved December 9, 1999.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- Dec. 9, 1999 [H.R. 1887]
+
+## Legislative history
+
+**LEGISLATIVE HISTORY—H.R. 1887:**
+
+
+*CONGRESSIONAL RECORD, Vol. 145 (1999):*
+
+- Oct. 19, considered and passed House.
+- Nov. 19, considered and passed Senate.
+
+*WEEKLY COMPILATION OF PRESIDENTIAL DOCUMENTS, Vol. 35 (1999):*
+
+- Dec. 9, Presidential statement.

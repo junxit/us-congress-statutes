@@ -1,0 +1,48 @@
+---
+volume: 113
+citation: 113 Stat. 1731
+type: Public Law
+number: 151
+congress: 106
+scope: public
+approved: 1999-12-09
+bills: 106/hr-1693
+---
+
+# Public Law 106–151
+
+> An Act To amend the Fair Labor Standards Act of 193S to clarity the overtime exemption for employees engaged in fire protection activities.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+## § 1. DEFINITION OF FIRE PROTECTION ACTIVITIES.
+
+Section 3 of the Fair Labor Standards Act of 1938 (29 U.S.C. 203) is amended by adding at the end the following:
+
+> - **(y)** ‘Employee in fire protection activities’ means an employee, including a firefighter, paramedic, emergency medical technician, rescue worker, ambulance personnel, or hazardous materials worker, who—
+>   - **(1)** is trained in fire suppression, has the legal authority and responsibility to engage in fire suppression, and is employed by a fire department of a municipality, county, fire district, or State; and
+>   - **(2)** is engaged in the prevention, control, and extinguishment of fires or response to emergency situations where life, property, or the environment is at risk.”.
+
+## § 2. CONSTRUCTION.
+
+The amendment made by section 1 shall not be construed to reduce or substitute for compensation standards: (1) contained in any existing or future agreement or memorandum of understanding reached through collective bargaining by a bona fide representative of employees in accordance with the laws of a State or political subdivision of a State; and (2) which result in compensation greater than the compensation available to employees under the overtime exemption under section 7(k) of the Fair Labor Standards Act of 1938.
+
+
+*Approved December 9, 1999.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- Dec. 9, 1999 [H.R. 1693]
+- 29 USC 203 note.
+
+## Legislative history
+
+**LEGISLATIVE HISTORY—H.R. 1693:**
+
+*CONGRESSIONAL RECORD, Vol. 145 (1999):*
+
+- Nov. 4, considered and passed House.
+- Nov. 19, considered and passed Senate.
+- Public Law 106–151 106th Congress.

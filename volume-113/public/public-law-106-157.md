@@ -1,0 +1,48 @@
+---
+volume: 113
+citation: 113 Stat. 1743
+type: Public Law
+number: 157
+congress: 106
+scope: public
+approved: 1999-12-09
+bills: 106/hr-2737
+---
+
+# Public Law 106–157
+
+> An Act To authorize the Secretary of the Interior to convey to the State of Illinois certain Federal land associated with the Lewis and Clark National Historic Trail to be used as an historic and interpretive site along the trail.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+## § 1. LAND CONVEYANCE, LEWIS AND CLARK NATIONAL HISTORIC TRAIL, ILLINOIS.
+
+- **(a)** *Conveyance Authorized.—* The Secretary of the Interior may convey, without consideration, to the State of Illinois all right, title, and interest of the United States in and to a parcel of federally-owned land under the jurisdiction of the Secretary consisting of approximately 39 acres located in the north half of section 16, township 4 north, range 9 west, Third Principal Meridian, Madison County, Illinois, within the corridor of the Lewis and Clark National Historic Trail.
+- **(b)** *Survey; Conveyance Costs.—* The exact acreage and legal description of the land to be conveyed under subsection (a) shall be determined by a survey satisfactory to the Secretary. The cost of the survey and all other costs incurred by the Secretary to convey the land shall be borne by the State of Illinois.
+- **(c)** *Conditions of Conveyance.—*
+  - **(1)** *Use of conveyed land.—* The conveyance authorized under subsection (a) shall be subject to the condition that the State of Illinois, acting through the Illinois Historic Preservation Agency, use the conveyed land as an historic site and interpretive center for the Lewis and Clark National Historic Trail.
+  - **(2)** *Plan for development and operation of site.—* The conveyance authorized under subsection (a) shall be subject to the further condition that the Governor of the State of Illinois develop, within 2 years after the date of the conveyance, a plan for the development and operation of the historic site and interpretive center proposed for the conveyed land. In developing the plan, the Governor shall provide an opportunity for review and comment by the Secretary and the public.
+- **(d)** *Discontinuance of Use.—* If the State of Illinois determines to discontinue use of the land conveyed under subsection (a) as an historic site and interpretive center for the Lewis and Clark National Historic Trail, the State of Illinois shall convey the lands back to the Secretary without consideration.
+- **(e)** *Additional Terms and Conditions.—* The Secretary may require such additional terms and conditions in connection with the conveyance under subsection (a) as the Secretary considers appropriate to protect the interests of the United States.
+- **(f)** *Authorization of Appropriations.—* There is authorized to be appropriated such sums as are necessary to carry out this section.
+
+
+*Approved December 9, 1999.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- Dec. 9, 1999 [H.R. 2737]
+- Deadline.
+- Public review.
+
+## Legislative history
+
+**LEGISLATIVE HISTORY—H.R. 2737:**
+
+
+*CONGRESSIONAL RECORD, Vol. 145 (1999):*
+
+- Nov. 1, considered and passed House.
+- Nov. 19, considered and passed Senate.

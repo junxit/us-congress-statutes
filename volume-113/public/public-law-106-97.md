@@ -1,0 +1,48 @@
+---
+volume: 113
+citation: 113 Stat. 1322
+type: Public Law
+number: 97
+congress: 106
+scope: public
+approved: 1999-11-12
+bills: 106/hr-915
+---
+
+# Public Law 106–97
+
+> An Act To authorize a cost of living adjustment in the pay of administrative law judges.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+## § 1. PAY OF ADMINISTRATIVE LAW JUDGES.
+
+Section 5372(b) of title 5, United States Code, is amended—
+
+- **(1)** in paragraph (1), by inserting “(A)” after “(1)” and by striking all after the first sentence and inserting the following:“
+  > - **(B)** Within level AL-3, there shall be 6 rates of basic pay, designated as AL-3, rates A through F, respectively. Level AL-2 and level AL-1 shall each have 1 rate of basic pay.
+  > - **(C)** The rate of basic pay for AL-3, rate A, may not be less than 65 percent of the rate of basic pay for level IV of the Executive Schedule, and the rate of basic pay for AL-1 may not exceed the rate for level IV of the Executive Schedule.”
+
+- **(2)** in paragraph (3)(A), by striking “upon” each time it appears and inserting “at the beginning of the next pay period following”; and
+- **(3)** by adding at the end the following:
+  > - **(4)** Subject to paragraph (1), effective at the beginning of the first applicable pay period commencing on or after the first day of the month in which an adjustment takes effect under section 5303 in the rates of basic pay under the General Schedule, each rate of basic pay for administrative law judges shall be adjusted by an amount determined by the President to be appropriate.”
+
+
+*Approved November 12, 1999.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- Nov. 12, 1999 [H.R. 915]
+- Effective date. President.
+
+## Legislative history
+
+**LEGISLATIVE HISTORY—H.R. 915:**
+
+
+*CONGRESSIONAL RECORD, Vol. 145 (1999):*
+
+- Oct. 25, considered and passed House.
+- Nov. 8, considered and passed Senate.

@@ -1,0 +1,39 @@
+---
+volume: 113
+citation: 113 Stat. 1684
+type: Public Law
+number: 134
+congress: 106
+scope: public
+approved: 1999-12-07
+bills: 106/hr-748
+---
+
+# Public Law 106–134
+
+> An Act To amend the Act that established the Keweenaw National Historical Park to require the Secretary of the Interior to consider nominees of various local interests in appointing members of the Keweenaw National Historical Park Advisory Commission.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+## § 1. APPOINTMENTS TO KEWEENAW NATIONAL HISTORICAL PARK ADVISORY COMMISSION.
+
+Section 9(c)(1) of the Act entitled “An Act to establish the Keweenaw National Historical Park, and for other purposes”(Public Law 102–543; 16 U.S.C. 410yy–8(c)(l)) is amended by striking “from nominees” each place it appears and inserting “after consideration of nominees”.
+
+
+*Approved December 7, 1999.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- Dec. 7, 1999 [H.R. 748]
+
+## Legislative history
+
+**LEGISLATIVE HISTORY—H.R. 748:**
+
+
+*CONGRESSIONAL RECORD, Vol. 145 (1999):*
+
+- Oct. 12, considered and passed House.
+- Nov. 19, considered and passed Senate.

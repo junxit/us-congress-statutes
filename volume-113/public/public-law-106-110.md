@@ -1,0 +1,55 @@
+---
+volume: 113
+citation: 113 Stat. 1497
+type: Public Law
+number: 110
+congress: 106
+scope: public
+approved: 1999-11-24
+bills: 106/s-1235
+---
+
+# Public Law 106–110
+
+> An Act To amend part G of title I of the Omnibus Crime Control and Safe Streets Act of 1968 to allow railroad police officers to attend the Federal Bureau of Investigation National Academy for law enforcement training.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+## § 1. INCLUSION OF RAILROAD POLICE OFFICERS IN FBI LAW ENFORCEMENT TRAINING.
+
+- **(a)** *In General.—* Section 701(a) of part G of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3771(a)) is amended—
+  - **(1)** in paragraph (1)—
+    - **(A)** by striking “State or unit of local government” and inserting “State, unit of local government, or rail carrier”; and
+    - **(B)** by inserting “, including railroad police officers” before the semicolon; and
+  - **(2)** in paragraph (3)—
+    - **(A)** by striking “State or unit of local government” and inserting “State, unit of local government, or rail carrier”;
+    - **(B)** by inserting “railroad police officer,” after “deputies,”;
+    - **(C)** by striking “State or such unit” and inserting “State, unit of local government, or rail carrier”; and
+    - **(D)** by striking “State or unit.” and inserting “State, unit of local government, or rail carrier.”.
+- **(b)** *Rail Carrier Costs.—* Section 701 of part G of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3771) is amended by adding at the end the following:
+  > ”
+  > - **(d)** *Rail Carrier Costs.—* No Federal funds may be used for any travel, transportation, or subsistence expenses incurred in connection with the participation of a railroad police officer in a training program conducted under subsection (a)..
+
+- **(c)** *Definitions.—* Section 701 of part G of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3771) is amended by adding at the end the following:
+  > ”
+  > - **(e)** *Definitions.—* In this section—
+  >   - **(1)** the terms ‘rail carrier’ and ‘railroad’ have the meanings given such terms in section 20102 of title 49, United States Code; and
+  >   - **(2)** the term ‘railroad police officer’ means a peace officer who is commissioned in his or her State of legal residence or State of primary employment and employed by a rail carrier to enforce State laws for the protection of railroad property, personnel, passengers, or cargo..
+
+
+*Approved November 24, 1999.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- Nov. 24, 1999 [S. 1235]
+
+## Legislative history
+
+**LEGISLATIVE HISTORY—S. 1235:**
+
+*CONGRESSIONAL RECORD, Vol. 145 (1999):*
+
+- Oct. 26, considered and passed Senate.
+- Nov. 17, considered and passed House.
