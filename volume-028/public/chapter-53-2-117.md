@@ -1,0 +1,43 @@
+---
+volume: 28
+citation: 28 Stat. 95
+type: Chapter
+number: 117
+congress: 53
+session: 2
+scope: public
+approved: 1894-06-27
+---
+
+# Chapter 117
+
+> An Act Granting to the Eastern Nebraska and Gulf Railway Company right of way through the Omaha and Winnebago Indian reservations, in the State of Nebraska.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+That there is hereby granted to the Eastern Nebraska and Gulf Railway Company, a corporation organized and existing under and by virtue of the laws of the State of Nebraska, and its assigns, the right of way for the construction of its proposed railroad through the Omaha and Winnebago Indian reservations, in said State. Such right of way shall be fifty feet in width on each side of the central line of said railroad, and said company shall also have the right to take from the lands adjacent to the line of said road material, stones, and earth necessary for the construction of said railroad; also grounds adjacent to such right of way for station buildings, depots, machine shops, side tracks, turnouts, and water station, not to exceed in amount two hundred feet in width and three thousand feet in length for each station, to the extent of two stations within the limits of said reservations.
+
+## § 2.
+
+That before said railroad shall be constructed through any land, claim, or improvement held by individual occupants, according to any treaties or laws of the United States, compensation shall be made to such occupant or claimant for all property to be taken or damage done by reason of the construction of said railroad. In case of failure to make satisfactory settlement with any such claimant the just compensation shall be determined as provided for by the laws of the State of Nebraska enacted for the settlement of like controversies in such cases. The amount of damage resulting to the Omaha and Winnebago tribes of Indians in their tribal capacity by reason of the construction of said railroad through such lands of the reservation as are not occupied in severalty shall be ascertained and determined in such manner as the Secretary of the Interior may direct, and be subject to his final approval; but no right of any kind shall vest in said railway company in or to any part of the right of way herein provided for until plats thereof, made upon the actual survey for the definite location of such railroad, and including grounds for station buildings, depots, machine shops, side tracks, turnouts, and water stations shall have been approved and filed with the Secretary of the Interior, and until the compensation aforesaid shall have been fixed and paid, and the consent of the Indians on said reservation to the provisions of this Act shall have been obtained in a manner satisfactory to the President of the United States. Said company is hereby authorized to enter upon such reservation for the purpose of surveying and locating its line of railroad: Provided, That said railroad shall be located, constructed, and operated with due regard to the rights of the Indians and the rules of the Secretary of the Interior: Provided further, That said railway company shall construct and maintain continually all fences, roads, and highways, crossings and necessary bridges over said railway whenever said roads and highways do now or may hereafter cross said railway’s right, of way or may be by the proper authorities laid out across the same: Provided further, That said railway shall be constructed through said reservations within three years after the passage of this Act, or the rights herein granted shall be forfeited as to that portion of the road not constructed.
+
+## § 3.
+
+That Congress may at any time amend, alter, or repeal this Act, and the right of way hereby granted shall not be assigned or transferred in any form whatever, except as to mortgages or other liens that may be given or secured thereon to aid in the construction thereof.
+
+
+*Approved, June 27, 1894.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- June 27, 1894.
+- Eastern Nebraska and Gulf Railway Company granted right of way. Omaha and Winnebago Indian Reservations, Nebr. Width.
+- Stations, etc.
+- Damages to individuals.
+- Damages to tribes.
+- Secretary of the Interior to approve location, etc.
+- Provisos. Rights of Indians, etc. Fences, etc.
+- Construction.
+- Amendment, etc.
