@@ -1,0 +1,47 @@
+---
+volume: 110
+citation: 110 Stat. 3033
+type: Public Law
+number: 226
+congress: 104
+scope: public
+approved: 1996-10-02
+bills: 110/hr-2685
+---
+
+# Public Law 104–226
+
+> An Act To repeal the Medicare and Medicaid Coverage Data Bank.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+## § 1. REPEAL OF MEDICARE AND MEDICAID COVERAGE DATA RANK.
+
+- **(a)** *In General.—* Section 1144 of the Social Security Act (42 U.S.C. 1320b–14), as added by section 13581(a) of the Omnibus Budget Reconciliation Act of 1993 (in this section referred to as “OBRA–93”), is repealed.
+- **(b)** *Conforming Amendments.—*
+  - **(1)** *Medicare.—* Section 1862(b)(5) of such Act (42 U.S.C. 1395y(b)(5)), as amended by section 13581(b)(1) of OBRA–93, is amended—
+    - **(A)** in subparagraph (B), by striking the dash and all that follows through the end and inserting “subparagraph (A) for purposes of carrying out this subsection.”, and
+    - **(B)** in subparagraph (C)(i), by striking “subparagraph (B)(i)” and inserting “subparagraph (B)”.
+  - **(2)** *Medicaid.—* Section 1902(a)(25)(A)(i) of such Act (42 U.S.C. 1396a(a)(25)(A)(i)), as amended by section 13581(b)(2) of OBRA–93, is amended by striking “including the use of” and all that follows through “any additional measures”.
+  - **(3)** *Data matches.—* Section 552a(a)(8)(B) of title 5, United States Code, as amended by section 13581(c) of OBRA–93, is amended—
+    - **(A)** by adding “or” at the end of clause (v),
+    - **(B)** by striking “or” at the end of clause (vi), and (C) by striking clause (vii).
+
+
+*Approved October 2, 1996.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- Oct. 2, 1996 [H.R. 2685]
+
+## Legislative history
+
+**LEGISLATIVE HISTORY—H.R. 2685:**
+
+
+*CONGRESSIONAL RECORD, Vol. 142 (1996):*
+
+- Mar. 12, considered and passed House.
+- Sept. 25, considered and passed Senate.

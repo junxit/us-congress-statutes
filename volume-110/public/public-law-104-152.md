@@ -1,0 +1,74 @@
+---
+volume: 110
+citation: 110 Stat. 1384
+type: Public Law
+number: 152
+congress: 104
+scope: public
+approved: 1996-07-02
+bills: 104/hr-2803
+---
+
+# Public Law 104–152
+
+> An Act To amend the anti-car theft provisions of title 49, United States Code, to increase the utility of motor vehicle title information to State and Federal law enforcement officials, and for other purposes.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+## § 1. SHORT TITLE.
+
+This Act may be cited as the “Anti-Car Theft Improvements Act of 1996”.
+
+## § 2. SYSTEM NAME AND IMPLEMENTATION DATE.
+
+- **(a)** *System Date.—* Section 30502(a)(1) of title 49, United States Code, is amended by striking “January 31, 1996” and inserting “December 31, 1997”.
+- **(b)** *Section 30503.—* Section 30503(d) of title 49, United States Code, is amended by striking “January 1, 1997” and inserting “October 1, 1998”.
+- **(c)** *System Name.—* Chapter 305 of title 49, United States Code, is amended by striking “National Automobile Title Information System” each place it occurs in the chapter heading, the table of sections for chapter 305, the section heading for section 30502, and in the texts of sections 30502 and 30503 and inserting “National Motor Vehicle Title Information System”.
+
+## § 3. DELEGATION OF AUTHORITY.
+
+- **(a)** *Secretary of Transportation.—* Sections 30501, 30502, 30503, 30504, and 30505 of title 49, United States Code, are each amended by striking each reference to “Secretary of Transportation” or “Secretary” and inserting “Attorney General”.
+- **(b)** *Attorney General.—* Section 30502 of title 49, United States Code, is amended by striking each reference to “Attorney General” and inserting “Secretary of Transportation”.
+
+## § 4. TITLE INFORMATION SYSTEM.
+
+Section 30502 of title 49, United States Code, is amended by adding at the end the following:
+
+> - **(f)** *Immunity.—* Any person performing any activity under this section or sections 30503 or 30504 in good faith and with the reasonable belief that such activity was in accordance with this section or section 30503 or 30504, as the case may be, shall be immune from any civil action respecting such activity which is seeking money damages or equitable relief in any court of the United States or a State.”.
+
+## § 5. STOLEN VEHICLE INFORMATION SYSTEM.
+
+Section 33109 of title 49, United States Code, is amended by adding at the end the following:
+
+> - **(d)** *Immunity.—* Any person performing any activity under this section or section 33110 or 33111 in good faith and with the reasonable belief that such activity was in accordance with such section shall be immune from any civil action respecting such activity which is seeking money damages or equitable relief in any court of the United States or a State.”.
+
+## § 6. GRANTS TO STATES.
+
+- **(a)** *Amendment.—* Section 30503(c)(2) of title 49, United States Code, is amended to read as follows:
+  > - **(2)** The Attorney General may make reasonable and necessary grants to participating States to be used in making titling information maintained by those States available to the operator.“.
+
+- **(b)** *Authorization.—* There are authorized to be appropriated such sums as may be necessary to carry out sections 30503 and 33109 of title 49, United States Code.
+- **(c)** *Information System.—* The information system established under section 30502 of title 49, United States Code, shall be effective as provided in the rules promulgated by the Attorney General.
+
+
+*Approved July 2, 1996.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- July 2, 1996 [H.R. 2803]
+- Anti-Car Theft Improvements Act of 1996. 49 USC 30101 note.
+- 49 USC 30502 note.
+
+## Legislative history
+
+**LEGISLATIVE HISTORY—H.R. 2803:**
+
+*HOUSE REPORTS: No. 104–618 (Comm. on the Judiciary).*
+
+
+*CONGRESSIONAL RECORD, Vol. 142 (1996):*
+
+- June 18, considered and passed House.
+- June 20, considered and passed Senate.

@@ -1,0 +1,54 @@
+---
+volume: 110
+type: Public Law
+number: 263
+congress: 104
+scope: public
+approved: 1996-10-09
+bills: 104/hr-3458, 104/s-1791
+---
+
+# Public Law 104–263
+
+> An Act To increase, effective as of December 1, 1996, the rates of disability compensation for veterans with service-connected disabilities and the rates of dependency and indemnity compensation for survivors of certain service-connected disabled veterans, and for other purposes.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+## § 1. SHORT TITLE.
+
+This Act may be cited as the “Veterans’ Compensation Cost-of-Living Adjustment Act of 1996”.
+
+## § 2. INCREASE IN COMPENSATION RATES AND LIMITATIONS.
+
+- **(a)** *In General.—*
+  - **(1)** The Secretary of Veterans Affairs shall, as provided in paragraph (2), increase, effective December 1, 1996, the rates of and limitations on Department of Veterans Affairs disability compensation and dependency and indemnity compensation.
+  - **(2)** The Secretary shall increase each of the rates and limitations in sections 1114, 1115(1), 1162, 1311, 1313, and 1314 of title 38, United States Code, that were increased by the amendments made by the Veterans’ Compensation Cost-of-Living Adjustment Act of 1995 (Public Law 104—57; 109 Stat. 555). This increase shall be made in such rates and limitations as in effect on November 30, 1996, and shall be by the same percentage that benefit amounts payable under title II of the Social Security Act(42 U.S.C. 401 et seq.) are increased effective December 1, 1996, as a result of a determination under section 215(i) of such Act (42 U.S.C. 415(i)).
+- **(b)** *Special Rule.—* The Secretary may adjust administratively, consistent with the increases made under subsection (a)(2), the rates of disability compensation payable to persons within the purview of section 10 of Public Law 85—857(72 Stat. 1263) who are not in receipt of compensation payable pursuant to chapter 11 of title 38, United States Code.
+- **(c)** *Publication Requirement.—* At the same time as the matters specified in section 215(i)(2)(D) of the Social Security Act (42 U.S.C. 415(i)(2)(D)) are required to be published by reason of a determination made under section 215(i) of such Act during fiscal year 1996, the Secretary shall publish in the Federal Register the rates and limitations referred to in subsection (a)(2) as increased under this section.
+
+
+*Approved October 9, 1996.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- Oct. 9, 1996 [H.R. 3458]
+- Veterans’ Compensation Cost-of-Living Adjustment Act of 1996. 38 USC 101 note. 38 USC 1114 note.
+- Federal Register, publication.
+
+## Legislative history
+
+**LEGISLATIVE HISTORY—H.R. 3458 (S. 1791):**
+
+
+
+*CONGRESSIONAL RECORD, Vol. 142 (1996):*
+
+- July 16, considered and passed House.
+- Sept. 26, considered and passed Senate, amended, in lieu of S. 1791.
+- Sept. 28, House concurred in Senate amendments.
+
+*WEEKLY COMPILATION OF PRESIDENTIAL DOCUMENTS, Vol. 32 (1996):*
+
+- Oct. 9, Presidential statement.

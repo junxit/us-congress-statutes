@@ -1,0 +1,38 @@
+---
+volume: 110
+type: Public Law
+number: 268
+congress: 104
+scope: public
+approved: 1996-10-09
+bills: 104/hr-3877
+---
+
+# Public Law 104–268
+
+> An Act To designate the United States Post Office building located at 351 West Washington Street in Camden, Arkansas, as the “David H. Pryor Post Office Building”.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+## § 1. DAVID H. PRYOR POST OFFICE BUILDING.
+
+- **(a)** *Designation.—* The United States Post Office building located at 351 West Washington Street in Camden, Arkansas, shall be known and designated as the “David H. Pryor Post Office Building”.
+- **(b)** *References.—* Any reference in a law, map, regulation, document, paper, or other record of the United States to the building referred to in subsection (a) shall be deemed to be a reference to the “David H. Pryor Post Office Building”.
+
+
+*Approved October 9, 1996.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- Oct. 9, 1996 [H.R. 3877]
+
+## Legislative history
+
+**LEGISLATIVE HISTORY—H R. 3877:**
+
+*CONGRESSIONAL RECORD, Vol. 142 (1996):*
+
+- Sept. 24, considered and passed House.
+- Sept. 27, considered and passed Senate.
