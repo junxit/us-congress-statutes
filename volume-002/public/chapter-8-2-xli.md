@@ -1,0 +1,73 @@
+---
+volume: 2
+citation: 2 Stat. 339
+type: Chapter
+number: XLI
+congress: 8
+session: 2
+scope: public
+approved: 1805-03-03
+---
+
+# Chapter XLI
+
+> An Act for the more effectual preservation of peace in the ports and harbors of the United States, and in the waters under their jurisdiction.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+That whensoever any treason, felony, misprision of treason, or of felony, misdemeanor, breach of the peace, or of the revenue laws of the United States, shall hereafter be committed within the jurisdiction of the United States, and the case shall be cognizable by, or under their authority, if the person committing the same shall be on board of any foreign armed vessel, in any port or harbor of the United States, or in the waters within their jurisdiction, it shall be the duty of any judge or justice of any court of the United States, upon satisfactory proof thereof to him made, to issue his warrant specifying the nature of the offence, and directed to a marshal, commanding him to take the body of the offender, and bring him before the said judge or justice, to be dealt with according to law. And if the said marshal shall deem the ordinary posse comitatus insufficient to insure the execution of the said warrant, he shall apply to the said judge or justice, who shall immediately issue his order, directed to any officer having command of militia, or any officer having command of regular troops, or of armed vessels of the United States, in the vicinity, requiring him to aid the said marshal with all the force under his command, or such part as may be necessary in executing the warrant aforesaid. And the said marshal conforming himself in all things to the instructions which he shall receive from the President of the United States, or from any other person authorized by the President, shall first demand the surrender of the person charged with the offence; and if delivery be not made, or if the marshal be obstructed from making the demand, he shall use all the means in his power by force and arms, to arrest the offender, and all others who are with him, giving him aid and countenance in evading the arrest, and he shall convey the said offender and all others arrested, as aforesaid, and deliver them to the civil authority, to be dealt with according to law. If death ensue to the person ordered to be arrested, or to any of those giving him aid and countenance, it shall be justified; but if to the marshal, or to any of those supporting him in the discharge of his duty, the persons engaged in resisting the civil authority shall be punished as in cases of felonious homicide.
+
+## § 2.
+
+And be it further enacted, That whensoever after the passage of this act any felony, misprision of felony, misdemeanor, or breach of the peace shall be committed within the body of a county in any one of the United States, and any process of law shall be issued under the authority of the state, for the purpose of arresting the offender, if the said offender shall be on board of any foreign armed vessel, in any port or harbor of the United States, and within the jurisdiction of the state in which the offence was committed, it shall be lawful for the governor or other supreme executive officer of the state in which the said offence shall have been committed, upon due proof thereof, and upon his being satisfied that the ordinary posse comitatus is insufficient to insure the execution of the said process, to issue his order directed to any officer having command of regular troops or armed vessels of the United States, in the vicinity, requiring him to aid the officer charged with the execution of the process, with all the force under his command, or such part thereof as may be necessary, in arresting the offender and all those giving aid and countenance in resisting the civil authority. And if the said offender shall flee to any place beyond the jurisdiction of the state, and within the exclusive jurisdiction of the United States, the officer charged with the execution of the said process shall be, and he is hereby authorized to pursue the said offender into such place, taking with him, if necessary, the said armed force, and there arrest him, in virtue of the said process. And if the said offender shall flee to and be on board of any foreign armed vessel being in any place beyond the jurisdiction of the state, and within the exclusive jurisdiction of the United States, the officer charged with the execution of the said process shall first demand the delivery of the said offender of and from the person or persons having charge and command of the said foreign armed vessel, declaring the authority and cause for which the demand is made; and if the said offender be not delivered according to the said demand, or if the officer charged with the execution of the process be obstructed in attempting to make the demand, then he shall use all the means in his power, by force and arms, to enter on board of the said foreign armed vessel, there to search for and arrest the said offender, and all those who are with him giving him aid and countenance, in preventing and resisting the execution of the said process; and the officer charged with the execution of the said process shall convey the said offender and deliver him over to the civil authority of the state, to be dealt with according to law; and all those arrested for being concerned in resisting the execution of the process shall be delivered over to the civil authority of the United States, and shall be punished in the same manner as if they had been concerned in knowingly and wilfully obstructing, resisting or opposing any officer of the United States in serving or attempting to serve any warrant or other legal or judicial writ issued under the authority of the United States. But if any of those concerned in making the arrest be killed in a place within the exclusive jurisdiction of the United States, those engaged in resisting the civil authority shall be punished as in cases of felonious homicide; and if the person charged with the offence, or any of those concerned with him in resisting, be killed, in a place under the exclusive jurisdiction of the United States, it shall be justified.
+
+## § 3.
+
+And be it further enacted, That if any commanding officer of militia, of regular troops, or armed vessels of the United States, shall refuse to obey the requisition authorized by this act, he shall forfeit a sum not exceeding five thousand dollars.
+
+## § 4.
+
+And in order to prevent insults to the authority of the laws, whereby the peace of the United States with foreign nations may be endangered, Be it further enacted, That it shall be lawful for the President of the United States, either to permit or interdict at pleasure, the entrance of the harbors and waters under the jurisdiction of the United States to all armed vessels belonging to any foreign nation, and by force to repel and move them from the same, except when they shall be forced in by distress, by the dangers of the sea, by being pursued by an enemy, or when charged with dispatches or business from the government to which they belong; in which cases, as well as in all others when they shall be permitted to enter, the commanding officer shall immediately report his vessel to the collector of the district, stating the object or causes of his entering the harbor or waters, shall take such position therein, as shall be assigned him by such collector, and shall conform himself, his vessel and crew, to such regulations respecting health, repairs, supplies, stay, intercourse and departure, as shall be signified to him by the said collector, under the authority and directions of the President of the United States, and not conforming thereto, shall be required to depart from the United States.
+
+## § 5.
+
+And be it further enacted, That whensoever any armed vessel of a foreign nation entering the harbors or waters within the jurisdiction of the United States, and required to depart therefrom, shall fail so to do, it shall be lawful for the President of the United States, or such other person as he shall have empowered for that purpose, to employ such part of the land and naval forces of the United States, or the militia thereof, as he shall deem necessary to compel the said armed vessel to depart; or if he shall think it proper, it shall be lawful for him to forbid, by proclamation, all intercourse with such vessel, and with every armed vessel of the same nation, and the officers and crew thereof; to prohibit all supplies and aid from being furnished them, and also to instruct the collector of the district, where such armed vessel shall be, and of any and of every other district of the United States, to refuse permission to any vessel belonging to the same nation, or to its citizens or subjects, to make entry or unlade, so long as the said armed vessel shall remain in the harbors or waters of the United States, in defiance of the public authority. And if after the publication of said proclamation, and due notice thereof, any person shall afford any aid to such armed vessel, or to any other, contrary to the prohibition contained in the said proclamation, either in repairing the said vessel, or in furnishing her, her officers or crew with supplies of any kind, or in any manner whatsoever, or if any pilot shall assist in navigating the said armed vessel, or any other, contrary to the prohibition contained in the said proclamation, unless it be for the purpose of carrying the armed vessel required to depart, as aforesaid, beyond the limits and jurisdiction of the United States, the person or persons so offending, shall forfeit and pay a sum not exceeding one thousand dollars, and shall also be liable to be bound to their good behaviour.
+
+## § 6.
+
+And be it further enacted, That whensoever any officer of an armed vessel commissioned by any foreign power, shall on the high seas commit any trespass or tort, or any spoliation on board any vessel of the United States, or any unlawful interruption or vexation of trading vessels actually coming to or going from the United States, it shall be lawful for the President of the United States, on satisfactory proof of the facts, by proclamation to interdict the entrance of the said officer, and of any armed vessel by him commanded within the limits of the United States, and if at any time after such proclamation made, he shall be found within the limits of the United States, he shall be liable therefor to be arrested, indicted and punished by fine and imprisonment, in any court in the United States having competent jurisdiction, and it shall be a part of the sentence that he shall within such time after the payment of his fine and the expiration of his term of imprisonment, as the court shall direct, leave the United States, never to return. And if he shall return within the limits of the United States, after the passing of such sentence, or be found therein after the period limited by the court as aforesaid, he shall again be liable to be indicted, fined and imprisoned at the discretion of the court: Provided always, that if the said officer shall also have committed any other offence made punishable by this act, he shall be liable to prosecution and punishment; the provisions of this section to the contrary notwithstanding.
+
+## § 7.
+
+And be it further enacted, That the President of the United States shall be, and he is hereby authorized and required to give, as soon as may be, after the passage of this act, to the collectors of the respective districts, and to such other persons as he may think proper, the necessary instructions for carrying this act into effect, particularly marking out the line of conduct to be observed by the marshal, and the several collectors in performing the duties enjoined by this act.
+
+## § 8.
+
+And be it further enacted, That if any person shall be sued for any thing done in pursuance of, or in obedience to this act, he may plead the general issue and give this act in evidence, any law, custom or usage to the contrary, notwithstanding.
+
+## § 9.
+
+And be it further enacted, That this act shall continue in force for the term of two years, and from thence to the end of the next session of Congress, and no longer.
+
+
+*Approved, March 3, 1805.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- March 3, 1805.
+- Persons committing treason, felony, &c. &c. within the jurisdiction of the U. States, and taking refuge in foreign armed vessels in our ports, may be arrested upon the warrants of a judge or justice of the U. States.
+- Marshal may have the aid, upon an order of the judge or justice, or any military force in his vicinity, if the posse comitatus be insufficient to insure the execution of process.
+- Justifiable homicide. Felonious homicide.
+- Aid of United States to be given to executives of particular states, in order to the arrest of offenders against their laws, taking refuge in public armed vessels of foreign nations in the porta or harbors of the United States. Offenders flying beyond the jurisdiction of the state and within the exclusive jurisdiction or the U. States may be pursued and taken. Offenders flying to armed vessels in places where U. States have exclusive jurisdiction, how to be dealt with, with those who afford them aid in making resistance, &c. &c.
+- Felonious homicide. Justifiable homicide.
+- Penalty on commanding officers of the militia who refuse to obey the requisition authorized by this act.
+- The entrance, into our ports and harbors, of foreign armed vessels, may be permitted or interdicted at the pleasure of the President. When they shall have entered, they are to conform to regulations, &c. and not conforming may be required to depart.
+- Force may be employed to compel the departure of foreign armed vessels. Or all intercourse with them and others of the same nation, may be interdicted if they do not depart. Refusal of permission to trade with the vessels of the same nation, while the offending one remains in our ports, authorized.
+- Penalties.
+- Entrance in our ports of any officer of a foreign armed vessel committing a trespass or tort upon vessels of the U. States on the high seas forbidden. If found in the U. States contrary to the interdiction, how to be dealt with.
+- To be liable to prosecution and punishment for other offences.
+- Collectors and marshals to be instructed touching the execution of this act.
+- This act may be given in evidence, &c.
+- Limited to two years, and to the end of the next succeeding session of Congress.
