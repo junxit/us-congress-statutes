@@ -1,0 +1,30 @@
+---
+volume: 5
+citation: 5 Stat. 251
+type: Chapter
+number: CXIX
+congress: 25
+session: 2
+scope: public
+approved: 1838-06-22
+---
+
+# Chapter CXIX
+
+> An Act to grant pre-emption rights to settlers on the public lands.(a)
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+That every actual settler of the public lands, being the head of a family, or over twenty-one years of age, who was in possession and a housekeeper, by personal residence thereon, at the time of the passage of this act, and for four months next preceding, shall be entitled to all the benefits and privileges of an act entitled “An act to grant pre-emption rights to settlers on the public lands,” approved May twenty-ninth eighteen hundred and thirty, and the said act is hereby revived and continued in force two years: Provided, That where more than one person may have settled upon and cultivated any one quarter section of land, each one of them shall have an equal share or interest in the said quarter section, but shall have no claim, by virtue of this act, to any other land: And provided, always, That this act shall not be so construed as to give a right of pre-emption to any person or persons, in consequence of any settlement or improvement made before the extinguishment of the Indian title to the land on which such settlement or improvement was made, or to the lands lately acquired by treaty with the Miami tribe of Indians, in the State of Indiana, of which proclamation was made by the President of the United States, on the twenty-second day of December, eighteen hundred and thirty-seven, or to any sections, or fractions of sections, of land included within the location of any incorporated town, or to the alternate sections to other alternate sections granted to the use of any canal, railroad, or other public improvement on the route of such canal, railroad, or other public improvement, or to any portions of public lands, surveyed or otherwise, which have been actually selected as sites for cities or towns, lotted into smaller quantities than eighty acres, and settled upon and occupied for the purposes of trade, and not of agricultural cultivation and improvement, or to any land specially occupied or reserved for town lots, or other purposes, by authority of the United States: And provided further, That nothing herein contained shall be construed to affect any of the selections of public lands for the purposes of education, the use of salt-springs, or for any other purpose which may have been or may be made by any State, under existing laws of the United States: but this act shall not be so construed as to deprive those of the benefits of this act, who have inhabited, according to its provisions, certain fractions of the public lands within the land district of Palmyra, in the State of Missouri, which were reserved from sale in consequence of the surveys of Spanish and French grants, but are found to be without the lines of said grants. That before any person claiming the benefit of this law shall have a patent for the land which he may claim by having complied with its provisions, he shall make oath before some person authorized by law to administer the same, which oath with the certificate of the person administering it, shall be filed with the register of the proper land office when the land is applied for, and by said register sent to the office of the commissioner of public lands, that he entered upon the land which he claims, in his own right, and exclusively for his own use and benefit, and that he has not, directly or indirectly, made any agreement or contract, in any way or manner, with any person or persons whatever, by which the title which he might acquire from the Government of the United States should inure to the use or benefit of any one except himself, or to convey or transfer the said land, or the title which he may acquire to the same, to any other person or persons whatever, at any subsequent time; and if such per-son, claiming the benefit of this law as aforesaid, shall swear falsely in the premises, he shall be subject to all the pains and penalties for perjury, forfeit the money which he may have paid for the land, and all right and title to the said land, and any grant or conveyance which he may have made in pursuance of such agreement or contract, as aforesaid, shall be void, except in the hands of a purchaser in good faith, for a valuable consideration without notice. And the certificate which shall be filed with the commissioner as aforesaid, shall be taken to be conclusive evidence that the oath was legally administered: And provided, further, That it shall be the duty of the President of the United States to cause to be reserved from sale or entry, under the provisions of this or any other law of the United States, any tract or tracts of land reserved to any Choctaw, under the provisions of the treaty of Dancing Rabbit Creek, of one thousand eight hundred and thirty, and also to reserve from sale or entry, a sufficient quantity of the lands acquired by said treaty, upon which no such settlement or improvement has been made, as would entitle the settler or improver to a right of pre-emption under this act, to satisfy the claims of such Indians as may have been entitled to reservations under the said treaty, and whose lands may have been sold by the United States, on account of any default, neglect, or omission of duty on the part of any officer of the United States; such reservation from sale to continue until the claims to reservations under said treaty, shall be investigated by the board of commissioners appointed for that purpose, and their report finally acted on by Congress.
+
+
+*Approved, June 22, 1838.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- June 22, 1838. 1840, ch. 32.
+- Qualifications necessary to entitle settlers to the benefits of act of 29th May 1830. Act of 29th May 1830, ch. 208, revived and continued for two years. Proviso.
+- Proviso.
+- Further proviso. Act of Sept. 4, 1841, § 16.
