@@ -1,0 +1,64 @@
+---
+volume: 72
+citation: 72 Stat. 495
+type: Public Law
+number: 591
+congress: 85
+session: 2
+scope: public
+approved: 1958-08-06
+bills: 85/s-495
+---
+
+# Public Law 85–591
+
+> AN ACT To authorize the acquisition of the remaining property in square 725 in the District of Columbia for the purpose of extension of the site of the additional office building for the United States Senate or for the purpose of addition to the United States Capitol Grounds.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+That in addition to the real property contained in square 725 in the District of Columbia heretofore acquired as a site for an additional office building for the United States Senate under the provisions of the Second Deficiency Appropriation Act, 1948. approved June 25, 1948 (62 Stat. 1028), the Architect of the Capitol, under the direction of the Senate Office Building Commission, is hereby authorized to acquire, on behalf of the United States, by purchase, condemnation, transfer, or otherwise, for purposes of extension of such site or for additions to the United States Capitol Grounds, all other publicly or privately owned real property (including alleys or parts of alleys and streets) contained in said square 725 in the District of Columbia, except lots 863, 864, 885, 892, 893, 894, and 905: Provided, That upon the acquisition of such real property by the Architect of the Capitol on behalf of the United States, such property shall be subject to the provisions of the Act of July 31, 1946 (60 Stat. 718), in the same manner and to the same extent as the present Senate Office Building and the grounds and sidewalks surrounding the same.
+
+## § 2.
+
+For the purposes of this Act and of such Act of June 25, 1948, square 725 shall be deemed to extend to the outer face of the curbs surrounding such square.
+
+## § 3.
+
+Any proceeding for condemnation brought under this Act shall be conducted in accordance with the Act entitled “An Act to provide for the acquisition of land in the District of Columbia for the use of the United States”, approved March 1, 1929 (16 D. C. Code, secs. 619–644).
+
+## § 4.
+
+Notwithstanding any other provision of law, any real property owned by the United States and contained in square 725 shall, upon request of the Architect of the Capitol, made with the approval or the Senate Office Building Commission, be transferred to the jurisdiction and control of the Architect of the Capitol, and any alley, or part thereof, contained in such square, shall be closed and vacated by the Commissioners of the District of Columbia in accordance with any request therefor made by the Architect of the Capitol with the approval of such Commission.
+
+## § 5.
+
+Upon acquisition of any real property pursuant to this Act, the Architect of the Capitol, when directed by the Senate Office Building Commission to so act, is authorized to provide for the demolition and/or removal of any buildings or other structures on, or constituting a part of, such property and, pending demolition, to lease any or all of such property for such periods and under such terms and conditions as he may deem most advantageous to the United States and to provide for the maintenance and protection of such property.
+
+## § 6.
+
+The jurisdiction of the Capitol Police shall extend over any real property acquired under this Act. Upon completion of the acquisition of all properties in square 725, herein authorized to be acquired, the following streets shall become a part of the United States Capitol Grounds and as such shall be subject to the provisions of Public Law 570, Seventy-ninth Congress, as amended: First Street Northeast, between Constitution Avenue and C Street; C Street Northeast, between First and Second Streets. Such streets shall continue under the jurisdiction and control of the Commissioners of the District of Columbia and said Commissioners shall continue to be responsible for the maintenance and improvement thereof, except that the Capitol Police Board shall have exclusive charge and control over the parking and impounding of vehicles on such streets and the Capitol Police shall be responsible for the enforcement of such parking regulations as may be promulgated by the Capitol Police Board.
+
+## § 7.
+
+The Architect of the Capitol, under the direction of the Senate Office Building Commission, is authorized to enter into contracts and to make such other expenditures, including expenditures for personal and other services, as may be necessary to carry out the purposes of this Act.
+
+## § 8.
+
+The appropriation of such sums as may be necessary to carry out the provisions of this Act is hereby authorized.
+
+
+*Approved August 6, 1958.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- August 6, 1958 [S. 495]
+- Senate Office Building Commission. Property acquisition.
+- Post, pp. 879, 880.
+- 40 USC 193a et seq.
+- 45 Stat. 1415.
+- Capitol Police.
+- 60 Stat. 718. 40 USC 193a et seq.
+- Contracts.
+- Appropriation.
