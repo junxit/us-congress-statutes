@@ -1,0 +1,29 @@
+---
+volume: 34
+citation: 34 Stat. 1512
+type: Chapter
+number: 391
+congress: 59
+session: 1
+scope: private
+approved: 1906-02-19
+bills: 59/s-2879
+---
+
+# Chapter 391
+
+> An Act Granting an increase of pension to Mary J. Hoge.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+That the Secretary of the Interior be, and he is hereby, authorized and directed to place on the pension roll, subject to the provisions and limitations of the pension laws, the name of Mary J. Hoge, widow of Marion D. Hoge, late of Captain Jones’s company, Second Regiment Illinois Foot Volunteers, war with Mexico, and major One hundred and tenth Regiment Illinois Volunteer Infantry, and pay her a pension at the rate of twelve dollars per month in lieu of that she is now receiving.
+
+
+*Approved, February 19, 1906.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- February 19, 1906. [S. 2879.] [Private, No. 374.]
+- Mary J. Hoge. Pension increased.
