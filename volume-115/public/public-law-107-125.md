@@ -1,0 +1,48 @@
+---
+volume: 115
+citation: 115 Stat. 2403
+type: Public Law
+number: 125
+congress: 107
+scope: public
+approved: 2002-01-16
+bills: 107/hr-2278
+---
+
+# Public Law 107–125
+
+> An Act To provide for work authorization for nonimmigrant spouses of intracompany trans­ferees, and to reduce the period of time during which certain intracompany transferees have to be continuously employed before applying for admission to the United States.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+## § 1. WORK AUTHORIZATION FOR SPOUSES OF INTRACOMPANY TRANSFEREES.
+
+Section 214(c)(2) of the Immigration and Nationality Act (8 U.S.C. 1184(c)(2)) is amended by adding at the end the following:
+
+> ”
+> - **(E)** In the case of an alien spouse admitted under section 101(a)(15)(L), who is accompanying or following to join a principal alien admitted under such section, the Attorney General shall authorize the alien spouse to engage in employment in the United States and provide the spouse with an ‘employment authorized’ endorsement or other appropriate work permit..
+
+## § 2. REDUCTION OF REQUIRED PERIOD OF PRIOR CONTINUOUS EMPLOYMENT FOR CERTAIN INTRACOMPANY TRANSFEREES.
+
+- **(a)** *In General.—* Section 214(c)(2)(A) of the Immigration and Nationality Act (8 U.S.C. 1184(c)(2)(A)) is amended by adding at the end the following:
+  > “In the case of an alien seeking admission under section 101(a)(15)(L), the 1-year period of continuous employment required under such section is deemed to be reduced to a 6-month period if the importing employer has filed a blanket petition under this subparagraph and met the requirements for expedited processing of aliens covered under such petition.”.
+
+- **(b)** *Conforming Amendment.—* Section 101(a)(15)(L) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(15)(L)) is amended by striking “an alien who,” and inserting “subject to section 214(c)(2), an alien who,”.
+
+*Approved January 16, 2002.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- Jan. 16, 2002 [H.R. 2278]
+
+## Legislative history
+
+**LEGISLATIVE HISTORY—H.R. 2278:**
+
+
+*CONGRESSIONAL RECORD, Vol. 147 (2001):*
+
+- Sept. 5, considered and passed House.
+- Dec. 20, considered and passed Senate.
