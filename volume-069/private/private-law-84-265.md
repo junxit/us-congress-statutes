@@ -1,0 +1,31 @@
+---
+volume: 69
+citation: 69 Stat. A92
+type: Private Law
+number: 265
+congress: 84
+session: 1
+scope: private
+approved: 1955-08-01
+bills: 84/hr-1868
+---
+
+# Private Law 265
+
+> AN ACT For the relief of Ernest Tomassich and Yoko Matsuo Tomassich.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+That, for the purposes of the Immigration and Nationality Act, Ernest Tomassich and Yoko Matsuo Tomassich shall be held and considered to have been lawfully admitted to the United States for permanent residence as of the date of the enactment of this Act, upon payment of the required visa fees. Upon the granting of permanent residence to such aliens as provided for in this Act, the Secretary of State shall instruct the proper quota-control officer to deduct two numbers from the appropriate quotas for the first year that such quotas are available: Provided, That in the case of Yoko Matsuo Tomassich, a suitable and proper bond or undertaking, approved by the Attorney General be deposited as prescribed by section 213 of the said Act.
+
+
+*Approved August 1, 1955.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- August 1, 1955 [H. R. 1868]
+- Ernest and Yoko M. Tomassich. 66 Stat. 163. 8 USC 1101 note.
+- Quota deductions.
+- 8 USC 1183.

@@ -1,0 +1,462 @@
+---
+volume: 69
+type: House Concurrent Resolution
+number: 99
+approved: 1955-07-19
+bills: 84/hconres-149
+---
+
+# House Concurrent Resolution 99
+
+> GRANTING OF PERMANENT RESIDENCE TO CERTAIN ALIENS
+
+*Resolved by the House of Representatives (the Senate concurring),*
+
+That the Congress favors the granting of the status of permanent residence in the ease of each alien hereinafter named, in which case the Attorney General has determined that such alien is qualified under the provisions of section 4 of the Displaced Persons Act of 1948, as amended (62 Stat. 1011; 64 Stat. 219; 50 App. U. S. C. 1953):
+
+- A-7125281, Berend, Peter Mihaly or Peter Michael Berend.
+- 0300/370564, Boon, Lim Jew.
+- A-78496G3, Brieze, Roberts Martins.
+- A-7849664, Brieze, Mi Ida Hermine.
+- A-9555132, Chan, Si Heung.
+- 0300/43030, Chen, Chen Ah.
+- A-6052568, Chen, Lin or Chen Lin.
+- 0300-27496, Chen, Mrs. Susie or Cheng Shun Fan.
+- A-9766040, Chit, Ho Fung.
+- A-8031725, Chiu, Teng Hoik or Ting Hsieh Chow or Chow Ting-Hsieh or Hsieh Ting Chiu.
+- A-6851319, Chow, Marie Patrice or Kwang Hua Chow,
+- A-7073707, Chow, Tseng Kam.
+- A-9658660, Dong, Ng Eng.
+- 0300/387990, Fong, Ho Wah.
+- A-8057994, Foo, Sin or Foo Sin.
+- A-6779040, Frankel, Edwin Nessim.
+- A-6819141, Hajduszewski, Tadeusz.
+- A-6970000, Hayya, Jacob.
+- A-6962959, Ho, Frank Hung Fai.
+- A-9661887, Ho, Lim Gat.
+- 0300/390670. Huen, Kwai Cl men.
+- A-7863034, Ka deg is, Arvids Gustavs.
+- A-7863033, Kiss, Eduard.
+- 0300-402141, Kok, He Schiek or Schiek He Kok.
+- A-6788959, Kringelis, Teodora Andrejs.
+- A-6788960, Kringelis, Austra.
+- A-6788961, Kringelis, Daina.
+- A-6788962, Kringelis, Imants.
+- A-6634875, Krol, Kazimierz Julian,
+- A-9669192, Kum, Lay.
+- A-6843498, Lee, Marv Min Chen.
+- 0300/30416, Lee, Yee Kow.
+- A-7249066, Liepa, Janis.
+- A-9682636, Man, Seid.
+- 0300-134639, Mao, Henry Shu-Tsing.
+- A-6379854, Mei, Chu Chow Ah.
+- A-6794934, Mitri, Moise Hanna.
+- A-6971771, Pikkel, Miralda (nee Piht).
+- A-7204903, Rod, Anna Agnes (nee Kukol).
+- A-6848225, Shen, Frederick Albert.
+- A-8196650, Shim, Chong.
+- 0300-420528, Sia ng, Sung Chan.
+- A-7249064, Sturmanis, Karlis.
+- A-G965379, Tashkovich, Gligor Tashko.
+- A-6848676, Ting, Lu.
+- A-7129774, Tsai, Poo Hubbert.
+- A-7863001, Ulmanis, Ludvigs.
+- A-7249880, Vahn, Mihkel.
+- A-7250165, Valm, Aleksei.
+- A-7249882, Vahn, Theodor.
+- A-9802613, Yick, long.
+- A-69G7695, Yin, Huo-Bi ng.
+- 0300-83569, Ying, Chan.
+- A-9542543, Yu, Ling Tao or Lum Tow EE.
+- A-8082386, Yuen, Chan Kam or Chan Hong Kow.
+- A-6703490, Zee, Robin Joseph or Zee Yao-Shun.
+- 0300-397560, Cheung, Wah or Cheung Wah.
+- 0300-427936, Chow, Chung Shan.
+- 0300-390908, Hon, Kong or Hon Kong.
+- A-8082075, Kwan, Wu Sing.
+- A-6971768, Sooaar, Voldemar,
+- A-6971757, Sooaar, Hei a (nee Feder).
+- A-6910014, Lokiee, Majer.
+- A-8039688, Tsai, Sung Chu.
+- 0300/29659, Chan, Ah Hoe.
+- 0300-418043, Chan, Cheung Yuk or Chan Yuk Cheung.
+- A-9687373, Chan, Tim.
+- 0300-370929, Cheng, Bon Ching or Mu Bou Cheng Ching.
+- A-6972945, Cheng, Pauline Ming-Hung.
+- 174/736, Cheong. Mong.
+- A-9533428. Ching, Mark.
+- A-9687173, Chiu, Loo or Lo Chin.
+- A-8039173, Fok, Lam.
+- 0300-400835, Fong, Lee.
+- A-6936267, Geiger, George.
+- A-6936268, Geiger, Ella (nee Spielman).
+- 0300-423621, Hin, Wong Sui or Wong Kin.
+- A-6965180, Hsu, Chien Hwai or Jay Hsu.
+- A-6965179, Hsu, Jiu Hwai or Mai Hsu.
+- A-6958731, Janovitz, Serena (nee Simon).
+- A-6971749, Kaevando, Roman.
+- A-6971748, Kaevando, Helmi (nee Lents).
+- A-8015625, Kam, Cheung or Cheung Wuen.
+- A-6692899, Kramar, Branko.
+- A-6910269, Kramar, Maria.
+- A-6985975, Kulp, Karel.
+- A-6971798, Lepp, Aleksei.
+- A-6971759, Lepp, Agathe (nee Hanslep).
+- A-6888878, Lien, Din Shiang.
+- 0300-66727, Linie, Vladimir.
+- A-9782777, Loo, Sam Teer.
+- A-6772581, Maksimovs, Eriks or Maximovs.
+- A-6917065, Maksimovs, Michelis or Mikels Maksimovs.
+- A-6670578, Pang, Yee.
+- A-7135610, Perl, Lazar.
+- A-9765644, Piccini, Francesco.
+- A-695559O, Pulauskas, Matas.
+- A-78O9727, Shak, To or Doo Sat.
+- 0300-400854, Shing, Lo Kam.
+- A-7849428, Silins, Adolfs Janis.
+- A-7849429, Silins, Maija Alexandra.
+- A-7849430, Silins, Junior, Adolfs.
+- A-7084938, Sipos, Marianne Margaret Kertesz.
+- A-9804295, Suurna, Mihkel.
+- A-9561923, Tee, Toon Hue.
+- A-6307394, Tom, Gong or Tom Gong or Tom Shing.
+- A-9533429. Tong, Shing or Chung Shing or Tom Shing or Chung Chuen.
+- A-8258584, Too, Fung or Too Fung.
+- A-8082014, Toong, Cha Ching or Toong Chue Ching or Peter Chue Ching Toong.
+- A-6967364, Wang, John Y.
+- A-6851357, Wang, Richard I-Hsiang.
+- A-7476304, Yao, Ping Hui or Michael T. H. Yao.
+- A-9507456, Yow, Choy or Choy You.
+- A-7292642, Boldyreff, Antonina (nee Zhigmanovsky).
+- A-7292641, Boldyreff, Helen or Helene.
+- A-8082841, Chen, Yen or Chen Yi Shi or Yi Shi Chen.
+- 0300-249540, Chojnaki, Eugeniusz.
+- A-7210403, Christopoulos, Yoanna Khamis or Jeanette Clu'istou Christopoulos.
+- A-6971650, Erdi, Anthony or Antal.
+- A-9647005, Fang, Pow Foo.
+- 0300-97188, Fook, Tsang Koon.
+- 0300-424088, Fu, Quo or Pang Choy.
+- A-6775569, Hlavac, Frantisek Josef.
+- A-7073610, Hlavac, Marta.
+- A-8082037, Huang, Mary Sei Mei.
+- A-6830536, Irani, Joseph Isaac or Joseph Irani.
+- A-6899364, Kazimierski, Stanley,
+- A-7863216, Kesteris, Mikelis.
+- A-7863217, Kesteris, Ilze.
+- A-7863218, Kesteris, Andrejs.
+- A-9836636, Lian, Shin Ah.
+- A-6851636, Liu, Julius Yun-I.
+- 0300/408693, Moy, Young.
+- A-7084232, Petraitis, Juczas or Joseph Petraitis.
+- A-7243875, Stenclavs, Krists.
+- A-7244305, Stenclavs, Augusts.
+- A-6704110T, Sun, Pao-Chih or Paulette Pao-Chi Sun.
+- 0300-402447, Teng, Wong Gee or Wong Kee.
+- A-6851366, Tien-Jan, John Paul Ly.
+- 175/651, Wan, Lam.
+- A-9778441, Wei, Toh Chung.
+- A-8065346, Wei, Wang All or Wang Ah Vee,
+- A-6851523, Yang, Thomas Meng Ping.
+- A-9731090, Ching, Pang.
+- A-7863027, Eidok, Walter.
+- A-9644600, Fai, Cheung.
+- A-7087608, Fasko, Daniel.
+- A-9764648, Lewandowski, Julian.
+- 0300-399882, Ng, Tou.
+- A-6986534, Odelia, Sister Mary (li Feng-yu).
+- A-7863008, Ritums, Janis.
+- A-7248809, Salme* Karli.
+- A-9633107, Skratic, Dragutin Franjo.
+- A-7863203, Stendzis, Janis.
+- A-7863204, Stendzis, Ilze Pusaudze.
+- A-7863205, Stendzis, Imants Arvids.
+- A-6929742, Tam, Dianalihue Kao.
+- 0300-373583, Wong, Ah King or Wang Ken Sing.
+- A-6044499, Woo, Sze Lu Hsiang.
+- A-8078864, Yao, King Fah.
+- A-8050321, Blascovicn, Attilio.
+- A-7095908, Bogacki, Waclaw Zdzislaw.
+- A-8082842, Bors, Tibor Eugen.
+- A-7975342, Boucher, Arsene Andre.
+- A-6967730, Chen, Wen Pin.
+- A-6904310, Cheng, Chang Sin.
+- 0300-417793, Chong, Fong or Chong Fong.
+- A-6986509, Chu, Sister Mary Dulcia.
+- A-6522833, Chu, Wei Liang.
+- A-7863026, Eizis, Aleksandrs.
+- A-7356380, Frankel, Maurice Solomon.
+- A-7863031, Galvans, Peteris.
+- A-8091397, Gega, Anthony John.
+- A-7863032, Gorbants, Imants.
+- A-9782690, Hee, Wong.
+- A-7354351, Huang, Shao Chi.
+- A-9703852, Kam, Mak or James Mak.
+- A-6848646, Kao, Rose Tse Ching.
+- 0300-403722, Kee, Shum.
+- A-7095531, Kersna, Johannes Maks.
+- A-7095532, Kersna, Salme.
+- A-9573456, King, Ho Ah.
+- A-9196442, Kirs, Alexander.
+- A-7204900, Krno, Ladislav Gejza.
+- A-7204901, Krno, Katherine.
+- T-1144870, Krno, Katherine Tatiana.
+- A-7873848, Kum, Chow.
+- A-7048906, Laupa, Annas.
+- A-6812186, Lenart, Leslie Oscar.
+- A-7863225, Lidums, Rudolf.
+- A-7863227, Lidums, Olaf Rudolf.
+- A-5971242, Liu, San Koon or Liu San Koon.
+- A-6854454, Luca, George or Gheorghe.
+- A-6854456, Luca, Elena.
+- A-9684344, Lung, Sluing Sin or Chung Sin Lung.
+- A-9825451, Magic, Zdenko.
+- A-7138009, Matusoff, Ethel.
+- A-7223209, Mejzr, Miroslav.
+- A-7223210. Mejzr, Ruzena.
+- T-2645007, Mejzr, Miroslava Marie,
+- A-7193990, Mejzr, Ivanka.
+- A-7802065, Petersons, Karlis.
+- A-6971770, Piht, Eduard.
+- A-6971772, Piht, Liidia.
+- A-9765057, Polushin, Walter Jolin or Viacheslav Ivanovitch Polushin.
+- A-6405622, Rashin, Louis Nathan.
+- A-6703361, Side, Wei Wu.
+- A-6855586, Shie, Susan Ding Neh (nee Wang).
+- A-7193991, Spitz, Ruzena.
+- 0300-396920, Sufich, Giovanna.
+- A-9554379, Sui, Lui or Liu.
+- A-7975174, Surian, Luca.
+- T-1144528, Velcich, John.
+- 0300-289791, Vlacich, Ferruccio.
+- A-6851354, Wang, Chou-Chiu or Gordon Wang.
+- A-6881707, Yang, Chi.
+- A-8065847, Yau, Loo.
+- A-6949354, Zee, Tseng Ngo or Ah Neng.
+- A-6589294, Aboody, Ruben Moshi.
+- A-9948302, Canaletich, Mario Giorgio.
+- A-6709262, Chang, Yuan Chun.
+- A-6171208, Chen, Kwei Sen.
+- 0300-280451, Chen, Mes Chili Ping.
+- A-7879678, Chen, Thomas.
+- A-6970307, Chen, David.
+- 0300-424485, Chen, Peter.
+- A-7955258, Chmielewska, Maria.
+- A-6988894, Chuck, Lou Yuen or Low Yean Choe.
+- A-7243252, Creglia, Giordano.
+- A-6971766, Esberg, Adele.
+- A-6971765, Esberg, Juta.
+- A-8021324, Fatutta, Marco.
+- A-8065726, Fong, Wong or Fong Wong.
+- A-7249077, Freimanis, Teodore Geurichs.
+- A-7249076, Freimanis, Anna Elena Olga.
+- A-6263402, Gartenszteig, Israel.
+- A-8031589, Ila, Tsong Tong or Tsong Tung Ha.
+- A-6971758, Hiiesalu, Endel.
+- A-7366483, Hsueh-Yung, Shu or Evan Hsueh-Yung Shu.
+- A-6660388, Hu, Tsei Suan.
+- A-7283198, Inwentarz, Izak,
+- 1100-29956, Kao, Yun-Chen or Mary Yun-Chen Kao or Mary Kao.
+- A-8082033, Kenul, Marcello.
+- A-8031384, Kow, Ng Kung.
+- A-6966542, Kuty, Frances.
+- A-6978177, Lederman, Pejsach or Pejsach Lederman Grezelak or Paul Lederman.
+- A-6690537, Lee, Han Duck or Henry Lee.
+- A-6690619, Lee, Tom Shee or Tom Kim Hing.
+- A-7056802, Loh, Tsau Yueh or Thomas Y. Lowe.
+- V-305539, Mih, Alexander Wei-Shan.
+- A-9782737, Ming, Tung.
+- A-6971802, Oja, Harry.
+- A-6971796, Oja, Ruth.
+- A-8065366, Pomasan, Stefano.
+- A-2823761, Radulich, Mate.
+- A-7178411, Reinvald, Manivald.
+- A-8001335, Rubinich, Joseph.
+- A-7873098, Runco, Anthony.
+- A-7095534, Savisaar, Elmar Johannes.
+- A-7095535, Savisaar, Armilda Kolk.
+- A-7095586, Savisaar, Atso.
+- 0300-418127, Sepcich, Jolin.
+- A-9770642, Shi, Chang or Fred San.
+- A-6904332, Sipaj lo, Jiri.
+- A-7809912, Strmecki, Josip.
+- A-7941177, Szubert, Konrad Joseph.
+- A-9765493, Tamme, Heinar.
+- A45887270, Tang, Michael Tsin-Chien.
+- A-6448741, Tsu, John Bosco or Bing Ming Tsu.
+- A-9245758. Yiu, Young.
+- A-67O4228, Zak, Helena or Sister Mercita Evita.
+- A-7095021, Brody, Alexander.
+- A-6712046, Fok, Dso Yun.
+- A-9559819, For, Leung or Leung Kai.
+- A 9799220, Hop, Chu or Chew Hop.
+- A -8039680, Jurasic, Angelo or lurasich.
+- 0300-387739, Kam, Shell.
+- 0300-245055, Kasser, Elizabeth Aranyi.
+- 0300-245055, Kasser, Ivan.
+- 0300-245055, Kasser, Mary.
+- A-9623303, Ko, Lee King or Lee Kam Ho,
+- 0300-12942, Leong, Sing To.
+- A-7483853, Simcha, Helene (nee Rosenberger).
+- T-666654, Soo, Jolin Yun-Chun.
+- A-6816885, Spitzka, Aloisia.
+- A-4039059, Toll, Friedrich Alexander.
+- A-8106037, Tong, Tsang.
+- 0300-409250, Tsai, Ali San.
+- A-6694159, Weissbart, Esther Vera (nee Blinchevsky),
+- A-6847895, Chow, Ho.
+- 0300-405869, Foo, Lee or Lee Wai Foo.
+- 0300-408016, Fook, Lee.
+- A-6938801, Grive, Ansis,
+- A-9553994, Hing, Lee Ah.
+- A-9544110, Koel, Valdemar.
+- A-7126610, Lee, Ted Teh-Yuan.
+- A-9684355, Liu, Huo Shin or Fok Lau.
+- A-9529877, Mai, Lee-Shing.
+- A-7052332, Markovits, SaTamon.
+- A-7138329, Markovits, Ilona (nee Weisz).
+- A-6974328, Meisels, Martin.
+- A-7139340, Shaw, Julia Chang.
+- A-7297278, Steinmetz, Abraham.
+- A-6933818, Stern, Tibor.
+- A-6953157, Sulyok, Dezso Karoly.
+- A-6970438, Sulyok, Etelka.
+- A-9571956, Tak, Lee.
+- A-8091549, Vosilla, Angelo Otavio.
+- A-6858256, Wen, Peter Liang.
+- A-6694209, Wen, Amy Tang.
+- A-6028252, Wong, Yun Jee.
+- A-7074880, Yeh, Te Fung.
+- A-7874913, Celich, Frank.
+- A-9765153, Donatich, Giuseppe.
+- 0300-429047, Fong, Lee Tsi.
+- A-6735483, Hallac, Joseph Paul.
+- 0300-113098, Hing, Lo.
+- A-6578981, Kozarski, Danilo Zivko.
+- A-6640338, Szor, Leopold.
+- A-6345116, Szor, Irena Philipp.
+- A-8039682, Tsai, Hong Ping or Ping Tsai Hong.
+- A-8021319, Babenko, Gennady Konstantinovitch.
+- 0300-387987, Chan, Hong Kong or Chan Pui.
+- A-9231941, Chew, Ten Sing.
+- A-7366302, Chu, Pan.
+- A-7383067, Garbin, Luka Eduard.
+- A-6499962, Hirsch, Nathan Alfred.
+- A-7128158, Hich, Sofia.
+- A-6851658, Kao, Chi Tsing.
+- A-7849673, Kleinbergs, Mile Anete.
+- A-8082060, Lubicich, Mario.
+- A-7849671, Ozolins, Armins.
+- 0501-19752, Pe-Kuang, Patrick or Pe-Kuang Tseng.
+- A-6971769, Peters, Juuli.
+- A-8065425, Shih, Shio Nia or Shia Nia Shih,
+- 0300-421797, Sing, Wang or Wong Park,
+- A-6848091, Tan, Ying Chun.
+- A-6938807, Tipans, Vali ja (nee levins).
+- A-6887732, Tsao, Shu Yun Tseng (nee Shu Yun Tseng).
+- A-7056816, Tuzar, Jaroslav.
+- A-7358945, Tuzar, Jirina,
+- A-8015056, Tuzar, Jana.
+- 0500-33535, Wimmer, Katalin.
+- A-6986573, Wong, Kau San or Kai Sau Wong.
+- A-7383351, Yang, Samuel Hsueh-Lun.
+- A-7383352, Yang, Hsiu-Hwa.
+- A-7283009, Bor sic, Aladar.
+- A-6371814, Choi, Ho Liang.
+- 0300-405913, Chong, Yun or Cheung Wan.
+- A-7350611, Chow, Chung Lee or Ven Sih Chow.
+- A-6320011, Chu, Choy.
+- A-7189791, Dambos, Kostas.
+- A-7243855, Fridmanis, Imants Egons.
+- A-7243067, Fridmanis, Erika Upite.
+- A-7138432, Grabowski, Bronislaw,
+- A-9501262, Grandke, Telesfor.
+- A-6952325, Greenfeld, Juda.
+- A-6857659, Habbab, Abdulghani Joseph.
+- 0300-379350, Hah, Ng.
+- A-9G86792, Kin, Chan.
+- A-7061800, Koci, Vaclav.
+- A-6971809, Kukk, Verner Reinhold.
+- A-6971810, Kukk, Fronelly Franziska.
+- A-6971777, Kukk, Harald.
+- A-5951611, Lung, Ben or Long.
+- A-8091360, Mon, Lum.
+- A-7244196, Nagy, Ivan Gabor.
+- 0400/54441, Raicovich, Giuseppe.
+- 0300-92577, San, Lum Hong or Chow King Fen.
+- 0300-410615, Sang, Tsang.
+- A-8082091, Scaliordick, John or Giovanni Sgaliordich.
+- A-9560203, Sing, Foo nah or Foo Wah Teng.
+- A-7138246, Sturm, Jolana Judita.
+- A-6381281, Tien, Sheue Fung or Arthur Whitfield or Stanley Tien.
+- A-9513949, Wai, Nam.
+- A-6624918, Woo, Henry Kyi-Oen.
+- A-6971805, Wosa, Aino Adele or Aino Adele Riks or Aino Adele Edal.
+- A-7961771, Wosa, Oscar Adolf.
+- A-9705521, Yee, Ho or Yee Ho.
+- A-8091322, Yee, Sang Fon or Yee Sing or Yu Hsing.
+- 0300-422039, Yow, Ng or Ng Yin.
+- A-7244303, Akmans, Marta Emiolia.
+- A-7992859, Chew, Chan formerly Chan Shing Jow.
+- A-7457745, Foo, William Er Chen.
+- A-7249874, Kennon, Rudolf.
+- A-9733412, Kong, Ngo Ying.
+- A-6958636, Lin, Chao-Han.
+- A-6849918, Liu, Chia-Lo.
+- A-1903522, Liu, I. Hsin.
+- A-9744381, Toong, Ding Yao.
+- A-7138447, Winternitz, Jenta.
+- A-7120716, Balassa, Bela.
+- A-7173016, Balassa, Ida Bogyor.
+- A-6301049, Cerven, George.
+- A-6792244, Chang, Sing Chen or Sing Chen Chang.
+- A-7197313, Chang, Chien Wei Lan or Chien Wei Lan or Chang Lah Chien, Wei.
+- A-7197314, Chang, Chung Yung or Judy Yung Chang or Judy Chung Yung Chang
+- A-9635195, Che, Leong,
+- A-6163714, Ho, Lien Yu.
+- A-7395257, Ho, Yin Hwa Cheng.
+- A-7395258, Ho, Henry Nieuhan.
+- A-7395259, Ho, Stephen Shianoling.
+- A-7395260, Ho, Barbara Beeyuan,
+- A-7395261, Ho, Margaret Yustang.
+- A-6674633, Komarek, Vit.
+- A-7398466, Krizanova, Maria,
+- 0300-416920, Li, Sheng Sen.
+- A-6026376, Lo, Arthur Wu-Nien.
+- A-6403589, Lo, Elizabeth Heng-Hui Shen.
+- T-1892157, Loy, Too.
+- A-6935169, Mok, Charlie or Mak Wee.
+- A-8282626, Sung, Zee Hu.
+- A-6847853, Tyau, Louise (nee Shu-Chiu Luan).
+- A-6847962, Wang, Yu Chiang or Richard Y. C. Wang.
+- A-6453829, Albrecht, Marie Neumannova.
+- A-7210188, Barta, Tibor.
+- A-6798984, Briedis, Arturs.
+- A-7087346, Chuh, Shariin or Sharlin Charlie Chuh.
+- A-9569306, Foo, Wong Kia.
+- A -6849448, Guang, Mann-Lo or Michael Kan,
+- A-6971789, Hyvonen, Alice Uustalu.
+- A-6851462, Kiang, Lu Yu.
+- A-7171983, Knauer, Eugenie formerly Strakaty (nee Petersen) or Indi a Devi.
+- 0400/47451, San, Yao Chin.
+- A-7202554, San, Vera.
+- A-7202882, San, Sio Chu.
+- A-7205703, Wong, Sio Yu San.
+- A-7202553, San, Yu Lan.
+- 0400/54495, San, Yu Lin.
+- A-7178373, Sarapik, Evart.
+- A-9825044, Spin winski, Franciszek.
+- A-6903941, Diaces, Aleksander.
+- A-9799528, Fook, Shum Hang.
+- A-9708071, Hing Chung.
+- A-7073962, Sipajlo, Ema.
+- A-7073963, Sipajlo, Josef.
+- A-9533332, Woo, Sueh Dao.
+
+
+*Passed July 19, 1955.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- July 19, 1955 [H. Con. Res. 99]
