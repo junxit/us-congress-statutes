@@ -1,0 +1,106 @@
+---
+volume: 103
+citation: 103 Stat. 157
+type: Public Law
+number: 60
+congress: 101
+scope: public
+approved: 1989-07-26
+bills: 101/hr-1722, 101/s-783
+---
+
+# Public Law 101–60
+
+> An Act To amend the Natural Gas Policy Act of 1978 to eliminate wellhead price and nonprice controls on the first sale of natural gas, and to make technical and conforming amendments to such Act.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+## § 1. SHORT TITLE.
+
+This Act may be cited as the “Natural Gas Wellhead Decontrol Act of 1989“.
+
+## § 2. DEREGULATION OF FIRST SALES OF NATURAL GAS.
+
+- **(a)** *Interim Elimination of Certain Maximum Lawful Prices.—* Section 121 of the Natural Gas Policy Act of 1978 (15 U.S.C. 3331) is amended by adding at the end the following new subsection:
+  > - **(f)** *Additional Decontrol.—* The provisions of subtitle A respecting the maximum lawful price for a first sale of natural gas shall cease to apply to natural gas described in paragraphs (1), (2), (3), and (4), as follows:
+  >   - **(1)** *Expired, terminated, or post-enactment contracts.—* In the case of natural gas to which no first sale contract applies on the date of enactment of the Natural Gas Wellhead Decontrol Act of 1989, subtitle A shall not apply to any first sale of such natural gas delivered on or after the first day after such date of enactment.
+  >   - **(2)** *Expiring or terminating contracts.—* In the case of natural gas to which a first sale contract applies on the date of enactment of the Natural Gas Wellhead Decontrol Act of 1989, but to which such contract ceases to apply after such date of enactment, subtitle A shall not apply to any first sale of such natural gas delivered after such contract ceases to apply.
+  >   - **(3)** *Certain renegotiated contracts.—* In the case of natural gas to which a first sale contract applies on the date of enactment of the Natural Gas Wellhead Decontrol Act of 1989, where the parties have expressly agreed in writing after March 23, 1989, that all or part of the gas sold under such contract shall not be subject to any maximum lawful price under subtitle A after a specified date, subtitle A shall not apply to any first sale of the natural gas subject to such express agreement delivered on or after the date so specified, except that subtitle A shall not cease to apply to any such natural gas pursuant to this paragraph before the date of enactment of the Natural Gas Wellhead Decontrol Act of 1989.
+  >   - **(4)** *Newly spudded wells.—* In the case of natural gas produced from a well the surface drilling of which began after the date of enactment of the Natural Gas Wellhead Decontrol Act of 1989, subtitle A shall not apply to any first sale of such natural gas delivered on or after May 15, 1991. For purposes of this subsection, a first sale contract applies to natural gas when the seller has a contractual obligation to deliver such natural gas under such contract.”.
+
+- **(b)** *Permanent Elimination of Wellhead Price Controls.—* Title I of the Natural Gas Policy Act of 1978 (15 U.S.C. 3311–3333) is repealed, effective on January 1, 1993.
+
+## § 3. TECHNICAL AND CONFORMING AMENDMENTS.
+
+- **(a)** *Amendments Effective Upon Enactment.—* The Natural Gas Policy Act of 1978 is amended as follows:
+  - **(1)** The table of contents in section 1(b) (15 U.S.C. 3301 note) is amended—
+    - **(A)** in the item relating to section 315, by striking “Contract duration; filing” and inserting in lieu thereof “Filing”; and
+    - **(B)** by striking the item relating to section 507.
+  - **(2)** *Section 315 (15 U.S.C. 3375) is amended—*
+    - **(A)** in the section heading, by striking “CONTRACT DURATION;”; and
+    - **(B)** by striking “(a) Contract Duration.—” and all that follows through “(b) Filing of Contracts and Ancillary Agreements—”
+  - **(3)** Section 502(d) (15 U.S.C. 3412(d)) is repealed.
+  - **(4)** Section 504(b) (15 U.S.C. 3414(b)) is amended—
+    - **(A)** in paragraph (1), by striking “paragraphs (2) and (3)” and inserting in lieu thereof “paragraph (2)”;
+    - **(B)** by striking paragraph (3); and
+    - **(C)** in paragraph (4), by striking “paragraph (1), (2), or (3)” and inserting in lieu thereof “paragraph (1) or (2)”.
+  - **(5)** Section 506(d) (15 U.S.C. 3416(d)) is repealed.
+  - **(6)** Section 507 (15 U.S.C. 3417) is repealed.
+  - **(7)** Section 601 (15 U.S.C. 3431) is amended—
+    - **(A)** by amending subsection (a)(1)(E) to read as follows:
+      > - **(E)** *Certain additional natural gas.—* For purposes of section 1(b) of the Natural Gas Act, the provisions of the Natural Gas Act and the jurisdiction of the Commission under such Act shall not apply solely by reason of any first sale of natural gas which is committed or dedicated to interstate commerce as of the day before the date of the enactment of this Act and which is not subject to a maximum lawful price under subtitle A of title I by reason of section 121(f), effective as of the date such gas ceases to be subject to such maximum lawful price.”; and
+
+    - **(B)** in subsection (c)(2), by striking “purchase of natural gas” and all that follows through “under section 202),” and inserting in lieu thereof “purchase of natural gas if, under subsection (b) of this section, such amount is deemed to be just and reasonable for purposes of sections 4 and 5 of such Act,”.
+- **(b)** *Amendments Effective on January 1, 1993.—* Effective on January 1, 1993, the Natural Gas Policy Act of 1978 is amended as follows:
+  - **(1)** The table of contents in section 1(b) (15 U.S.C. 3301 note) is amended by striking the items relating to title I and section 503.
+  - **(2)** Section 312(c) (15 U.S.C. 3372(c)) is amended by striking “any natural gas” and all that follows through “(3)” and inserting in lieu thereof “any natural gas”.
+  - **(3)** Section 313 (15 U.S.C, 3373) is amended by inserting “, as such section was in effect on January 1, 1989” after “section 107(c)” both places it appears, and after “section 105(b)(3)(B)” both places it appears.
+  - **(4)** Section 501(c) (15 U.S.C. 3411(c)) is repealed.
+  - **(5)** Section 503 (15 U.S.C. 3413) is repealed.
+  - **(6)** Section 504(a) (15 U.S.C. 3414(a)) is amended by striking “person” and all that follows through “to otherwise” and inserting in lieu thereof “person to”.
+  - **(7)** Section 601 (15 U.S.C. 3431) is amended—
+    - **(A)** by amending subsection (a)(1)(A) to read as follows:“
+      > - **(A)** *Application to first sales.—* For purposes of section 1(b) of the Natural Gas Act, the provisions of the Natural Gas Act and the jurisdiction of the Commission under such Act shall not apply to any natural gas solely by reason of any first sale of such natural gas.”;
+
+    - **(B)** by striking subparagraphs (B) and (E) of subsection (a)(1);
+    - **(C)** by redesignating subparagraphs (C) and (D) of subsection (a)(1) as subparagraphs (B) and (C), respectively;
+    - **(D)** in subsection (a)(1)(C) (as redesignated by subparagraph (C) of this paragraph), by striking “subparagraph (A), (B), or (C)” and inserting in lieu thereof “subparagraph (A) or (B)”;
+    - **(E)** by amending subsection (b)(1)(A) to read as follows:
+      > - **(A)** *First sales.—* Except as otherwise provided in this subsection, for purposes of sections 4 and 5 of the Natural Gas Act, any amount paid in any first sale of natural gas shall be deemed to be just and reasonable.”; and
+
+    - **(F)** in subsection (b)(1)(D), by striking “if such amount does not exceed the applicable maximum lawful price established under title I of this Act”.
+  - **(8)** Section 602(a) (15 U.S.C. 3432(a)) is amended—
+    - **(A)** by striking “Authority To Prescribe Lower” and inserting in lieu thereof “Authority To Prescribe”; and
+    - **(B)** by striking “which does not exceed the applicable maximum lawful price, if any, under title I of this Act”.
+
+
+*Approved July 26, 1989.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- July 26, 1989 [H.R. 1722]
+- Natural Gas Wellhead Decontrol Act of 1989. 16 USC 3301 note.
+- Effective date.
+
+## Legislative history
+
+**LEGISLATIVE HISTORY—H.R. 1722 (S. 783):**
+
+*HOUSE REPORTS:*
+
+
+*SENATE REPORTS:*
+
+
+*CONGRESSIONAL RECORD, Vol. 135 (1989):*
+
+- Apr. 17, considered and passed House.
+- June 8, 9, 13, 14, considered and passed Senate, amended.
+- June 22, Senate agreed to conference report.
+- July 12, House agreed to conference report.
+
+*WEEKLY COMPILATION OF PRESIDENTIAL DOCUMENTS, Vol. 25 (1989):*
+
+- July 26, Presidential remarks and statement.

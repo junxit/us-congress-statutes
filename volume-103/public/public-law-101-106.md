@@ -1,0 +1,62 @@
+---
+volume: 103
+citation: 103 Stat. 677
+type: Public Law
+number: 106
+congress: 101
+scope: public
+approved: 1989-10-02
+bills: 101/hr-1529
+---
+
+# Public Law 101–106
+
+> An Act To provide for the establishment of the White Haven National Historic Site in the State of Missouri, and for other purposes.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+## § 1. ULYSSES S. GRANT NATIONAL HISTORIC SITE.
+
+In order to preserve and interpret for the benefit and inspiration of all Americans a key property associated with the life of General and later President Ulysses S. Grant and the life of First Lady Julia Dent Grant, knowledge of which is essential to understanding, in the context of mid-nineteenth century American history, his rise to greatness, his heroic deeds and public service, and her partnership in them, there is hereby established the Ulysses S. Grant National Historic Site near St. Louis, Missouri.
+
+## § 2. PROPERTY ACQUISITION.
+
+- **(a)** *White Haven Property.—* The Secretary of the Interior is authorized to acquire by donation the property and improvements thereon known as White Haven in the unincorporated portion of St. Louis County adjacent to Grantwood Village within the area generally depicted on the map entitled “Boundary Map, White Haven National Historic Site”, numbered WHHA-80,000 and dated July 1988. The map shall be on file and available for public inspection in the offices of the Director of the National Park Service, Department of the Interior.
+- **(b)** *Personal Property.—* The Secretary is authorized to acquire by donation or purchase with donated or appropriated funds personal property directly associated with White Haven or President or Mrs. Grant for the purposes of the national historic site referred to in section 1.
+
+## § 3. ADMINISTRATION.
+
+The property acquired pursuant to section 1 of this Act shall be administered by the Secretary of the Interior in accordance with provisions of law generally applicable to units of the National Park System, including the Act of August 25, 1916 (39 Stat. 535), and the Act of August 21, 1935 (49 Stat. 666). The Secretary is authorized to enter into cooperative agreements with adjacent landowners for the provision of such parking and safe access to the property as may be necessary for public use.
+
+## § 4. AUTHORIZATION OF APPROPRIATIONS.
+
+There are hereby authorized to be appropriated such sums as may be necessary to carry out the purposes of this Act.
+
+
+*Approved October 2, 1989.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- Oct. 2, 1989 [H.R. 1529]
+- 16 USC 461 note,
+- Julia Dent Grant.
+- Gifts and property.
+- Public information.
+- Contracts.
+
+## Legislative history
+
+**LEGISLATIVE HISTORY—H.R. 1529:**
+
+
+
+*CONGRESSIONAL RECORD, Vol. 185 (1989):*
+
+- June 20, considered and passed House.
+- Sept. 12, considered and passed. Senate.
+
+*WEEKLY COMPILATION OF PRESIDENTIAL DOCUMENTS, Vol. 25 (1989):*
+
+- Oct. 3, Presidential statement.
