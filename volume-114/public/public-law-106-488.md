@@ -1,0 +1,55 @@
+---
+volume: 114
+citation: 114 Stat. 2205
+type: Public Law
+number: 488
+congress: 106
+scope: public
+approved: 2000-11-09
+bills: 114/s-748
+---
+
+# Public Law 106–488
+
+> An Act To improve Native hiring and contracting by the Federal Government within the State of Alaska, and for other purposes.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+## § 1. REPORT.
+
+- **(a)** Within six months after the enactment of this Act the Secretary of the Interior (hereinafter referred to as the “Secretary” shall submit a report detailing the progress the Department has made in the implementation of the provisions of sections 1307 and 1308 of the Alaska National Interest Lands Conservation Act and provisions of the Indian Self-Determination and Education Assistance Act. The report shall include a detailed action plan on the future implementation of the provisions of sections 1307 and 1308 of the Alaska National Interest Lands Conservation Act and provisions of the Indian Self-Determination and Education Assistance Act. The report shall describe, in detail, the measures and actions that will be taken, along with a description of the anticipated results to be achieved during the next three fiscal years. The report shall focus on lands under the jurisdiction of the Department of the Interior in Alaska and shall also address any laws, rules, regulations and policies which act as a deterrent to hiring Native Alaskans or contracting with Native Alaskans to perform and conduct activities and programs of those agencies and bureaus under the jurisdiction of the Department of the Interior.
+- **(b)** The report shall be completed within existing appropriations and shall be transmitted to the Committee on Resources of the United States Senate, and the Committee on Resources of the United States House of Representatives.
+
+## § 2. PILOT PROGRAM.
+
+- **(a)** In furtherance of the goals of sections 1307 and 1308 of the Alaska National Interest Lands Conservation Act and the provisions of the Indian Self-Determination and Education Assistance Act, the Secretary shall—
+  - **(1)** implement pilot programs to employ residents of local communities at the following units of the National Park System located in northwest Alaska—
+    - **(A)** Bering Land Bridge National Preserve,
+    - **(B)** Cape Krusenstern National Monument,
+    - **(C)** Kobuk Valley National Park, and
+    - **(D)** Noatak National Preserve; and
+  - **(2)** report on the results of the programs within one year to the Committee on Energy and Natural Resources of the United States and the Committee on Resources of the House of Representatives.
+- **(b)** In implementing the programs, the Secretary shall consult with the Native Corporations, nonprofit organizations, and Tribal entities in the immediate vicinity of such units and shall also, to the extent practicable, involve such groups in the development of interpretive materials and the pilot programs relating to such units.
+
+
+*Approved November 9, 2000.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- Nov. 9, 2000 [S. 748]
+- Deadline.
+- 16 USC 3198 note.
+
+## Legislative history
+
+**LEGISLATIVE HISTORY—S. 748:**
+
+*SENATE REPORTS:*
+
+
+*CONGRESSIONAL RECORD:*
+
+- Vol. 145 (1999): Nov. 19, considered and passed Senate.
+- Vol. 146 (2000): Oct. 23, considered and passed House.

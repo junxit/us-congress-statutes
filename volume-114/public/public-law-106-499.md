@@ -1,0 +1,43 @@
+---
+volume: 114
+citation: 114 Stat. 2223
+type: Public Law
+number: 499
+congress: 106
+scope: public
+approved: 2000-11-09
+bills: 114/s-2951
+---
+
+# Public Law 106–499
+
+> An Act To authorize the Secretary of the Interior to conduct a study to investigate opportunities to better manage the water resources in the Salmon Creek watershed of the Upper Columbia River.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+## § 1. SALMON CREEK WATERSHED, WASHINGTON, WATER MANAGEMENT STUDY.
+
+- **(a)** *In General.—* The Secretary of the Interior may conduct a study to investigate the opportunities to better manage the water resources in the Salmon Creek Watershed, a tributary to the Upper Columbia River system, Okanagoan County, Washington, so as to restore and enhance fishery resources (especially the endangered Upper Columbia Spring Chinook and Steelhead), while maintaining or improving the availability of water supplies for irrigation practices vital to the economic well-being of the county.
+- **(b)** *Purpose.—* The purpose of the study under subsection (a) shall be to derive the benefits of and further the objectives of the comprehensive, independent study commissioned by the Confederated Tribes of the Colville Reservation and the Okanagoan Irrigation District, which provides a credible basis for pursuing a course of action to simultaneously achieve fish restoration and improved irrigation conservation and efficiency.
+- **(c)** *Cost Share.—* The Federal Government's cost share for the feasibility study shall not exceed 50 percent.
+
+
+*Approved November 9, 2000.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- Nov. 9, 2000 [S. 2951]
+
+## Legislative history
+
+**LEGISLATIVE HISTORY—S. 2951:**
+
+*SENATE REPORTS:*
+
+
+*CONGRESSIONAL RECORD, Vol. 146 (2000):*
+
+- Oct. 13, considered and passed Senate.
+- Oct. 23, considered and passed House.

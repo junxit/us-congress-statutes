@@ -1,0 +1,51 @@
+---
+volume: 114
+citation: 114 Stat. 2218
+type: Public Law
+number: 496
+congress: 106
+scope: public
+approved: 2000-11-09
+bills: 114/s-2425
+---
+
+# Public Law 106–496
+
+> An Act To authorize the Bureau of Reclamation to participate in the planning, design, and construction of the Bend Feed Canal Pipeline Project, Oregon, and for other purposes.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+## § 1. SHORT TITLE.
+
+This Act may be cited as the “Bend Feed Canal Pipeline Project Act of 2000”.
+
+## § 2. FEDERAL PARTICIPATION.
+
+- **(a)** The Secretary of the Interior, in cooperation with the Tumalo Irrigation District (referred to in this section as the “District”), is authorized to participate in the planning, design, and construction of the Bend Feed Canal Pipeline Project, Oregon.
+- **(b)** The Federal share of the costs of the project shall not exceed 50 percent of the total, and shall be nonreimbursable. The District shall receive credit from the Secretary toward the District's share of the project for any funds the District has provided toward the design, planning or construction prior to the enactment of this Act.
+- **(c)** Funds received under this Act shall not be considered a supplemental or additional benefit under the Act of June 17, 1902 (82 Stat. 388) and all Acts amendatory thereof or supplementary thereto.
+- **(d)** Title to facilities constructed under this Act will be held by the District.
+- **(e)** Operations and maintenance of the facilities will be the responsibility of the District.
+- **(f)** There are authorized to be appropriated $2,500,000 for the Federal share of the activities authorized under this Act.
+
+
+*Approved November 9, 2000.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- Nov. 9, 2000 [S. 2425]
+- Bend Feed Canal Pipeline Project Act of 2000.
+
+## Legislative history
+
+**LEGISLATIVE HISTORY—S. 2425:**
+
+*SENATE REPORTS:*
+
+
+*CONGRESSIONAL RECORD, Vol. 146 (2000):*
+
+- Oct. 13, considered and passed Senate.
+- Oct. 23, considered and passed House.

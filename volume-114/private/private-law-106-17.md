@@ -1,0 +1,38 @@
+---
+volume: 114
+citation: 114 Stat. 3113
+type: Private Law
+number: 17
+congress: 106
+scope: private
+approved: 2000-11-22
+bills: 114/s-785
+---
+
+# Private Law 106–17
+
+> An Act For the relief of Frances Schochenmaier and Mary Hudson.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+## § 1. RELIEF OF FRANCES SCHOCHENMAIER.
+
+The Secretary of the Treasury shall pay, out of any moneys in the Treasury not otherwise appropriated, to Frances Schochenmaier of Bonesteel, South Dakota, the sum of $60,567.58 in compensation for the erroneous underpayment to Herman Schochenmaier, husband of Frances Schochenmaier, during the period from September 1945 to March 1995, of compensation and other benefits relating to a service-connected disability incurred by Herman Schochenmaier during military service in world War II.
+
+## § 2. RELIEF OF MARY HUDSON.
+
+Notwithstanding section 5121(a) of title 38, United States Code, or any other provision of law, the Secretary of Veterans Affairs shall not recover from the estate of Wallace Hudson, formerly of Russellville, Alabama, or from Mary Hudson, the surviving spouse of Wallace Hudson, the sum of $97,253 paid to Wallace Hudson for compensation and other benefits relating to a service-connected disability incurred by Wallace Hudson during active military service in World War II, which payment was mailed by the Secretary to Wallace Hudson in January 2000 but was delivered after Wallace Hudson’s death.
+
+## § 3. LIMITATION ON FEES.
+
+- **(a)** *In General.—* Not more than a total of 10 percent of the payment required by section 1 or retained under section 2 may be paid to or received by agents or attorneys for services rendered in connection with obtaining or retaining such payment, as the case may be, any contract to the contrary notwithstanding.
+- **(b)** *Violation.—* Any person who violates subsection (a) shall be fined not more than $1,000.
+
+
+*Approved November 22, 2000.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- Nov. 22, 2000 [S. 785]

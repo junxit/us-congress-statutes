@@ -1,0 +1,54 @@
+---
+volume: 114
+citation: 114 Stat. 2216
+type: Public Law
+number: 495
+congress: 106
+scope: public
+approved: 2000-11-09
+bills: 114/s-2069
+---
+
+# Public Law 106–495
+
+> An Act To permit the conveyance of certain land in Powell, Wyoming.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+## § 1. ELIMINATION OF PUBLIC PURPOSE CONDITION.
+
+- **(a)** *Findings.—* Congress finds that—
+  - **(1)** the parcel of land described in subsection (c) was patented to the town (now City) of Powell, Wyoming, by the United States General Land Office on October 17, 1934, to help establish a town near the Shoshone Irrigation Project;
+  - **(2)** the land was patented with the condition that it be used forever for a public purpose, as required by section 3 of the Act of April 16, 1906 (43 U.S.C. 566);
+  - **(3)** the land has been used to house the Powell Volunteer Fire Department, which serves the firefighting and rescue needs of a 577 square mile area in northwestern Wyoming;
+  - **(4)** the land is located at the corner of U.S. Highway 14 and the main street of the business district of the City;
+  - **(5)** because of the high traffic flow in the area, the location is no longer safe for the public or for the fire department;
+  - **(6)** in response to population growth in the area and to National Fire Protection Association regulations, the fire department has purchased new firefighting equipment that is much larger than the existing fire hall can accommodate;
+  - **(7)** accordingly, the fire department must construct a new fire department facility at a new and safe location;
+  - **(8)** in order to relocate and construct a new facility, the City must sell the land to assist in financing the new fire department facility; and
+  - **(9)** the Secretary of the Interior concurs that it is in the public interest to eliminate the public purpose condition to enable the land to be sold for that purpose.
+- **(b)** *Elimination of Condition.—*
+  - **(1)** *Waiver.—* The condition stated in section 3 of the Act of April 16, 1906 (43 U.S.C. 566), that land conveyed under that Act be used forever for a public purpose is waived insofar as the condition applies to the land described in subsection (c).
+  - **(2)** *Instruments.—* The Secretary of the Interior shall execute and cause to be recorded in the appropriate land records any instruments necessary to evidence the waiver made by paragraph (1).
+- **(c)** *Land Description.—* The parcel of land described in this subsection is a parcel of land located in Powell, Park County, Wyoming, the legal description of which is as follows; Lot 23, Block 54, in the original town of Powell, according to the plat recorded in Book 82 of plats, Page 252, according to the records of the County Clerk and Recorder of Park County, State of Wyoming.
+
+
+*Approved November 9, 2000.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- Nov. 9, 2000 [S. 2069]
+
+## Legislative history
+
+**LEGISLATIVE HISTORY—S. 2069:**
+
+*SENATE REPORTS:*
+
+
+*CONGRESSIONAL RECORD, Vol. 146 (2000):*
+
+- Oct. 5, considered and passed Senate.
+- Oct. 23, considered and passed House.

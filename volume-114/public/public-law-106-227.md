@@ -1,0 +1,42 @@
+---
+volume: 114
+citation: 114 Stat. 460
+type: Public Law
+number: 227
+congress: 106
+scope: public
+approved: 2000-06-28
+bills: 106/hjres-101, 106/sjres-46
+---
+
+# Public Law 106–227
+
+> Joint Resolution Recognizing the 225th birthday of the United States Army.
+
+Whereas on June 14, 1775, the Second Continental Congress, representing the citizens of 13 American colonies, authorized the establishment of the Continental Army; Whereas the collective expression of the pursuit of personal freedom that caused the authorization and organization of the United States Army led to the adoption of the Declaration of Independence and the codification of the new Nation’s basic principles and values in the Constitution; Whereas for the past 225 years, the Army’s central mission has been to fight and win the Nation’s wars; Whereas whatever the mission, the Nation turns to its Army for decisive victory; Whereas the 172 battle streamers carried on the Army flag are testament to the valor, commitment, and sacrifice of the brave soldiers who have served the Nation in the Army; Whereas Valley Forge, New Orleans, Mexico City, Gettysburg, Verdun, Bataan, Normandy, Pusan, the Ia Drang Valley, Grenada, Panama, and Kuwait are but a few of the places where soldiers of the United States Army have won extraordinary distinction and respect for the Nation and its Army; Whereas the motto of “Duty, Honor, Country” is the creed by which the American soldier lives and serves; Whereas the United States Army today is the world’s most capable and respected ground force; Whereas future Army forces are being prepared to conduct quick, decisive, highly sophisticated operations anywhere, anytime; and Whereas no matter what the cause, location, or magnitude of future conflicts, the Nation can rely on its Army to produce well-trained, well-led, and highly motivated soldiers to carry out the missions entrusted to them: Now, therefore, be it Resolved by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+That Congress, recognizing the historic significance of the 225th anniversary of the United States Army—
+
+- **(1)** expresses the appreciation of the people of the United States to the Army and the soldiers who have served in it for 225 years of dedicated service;
+- **(2)** honors the valor, commitment, and sacrifice that American soldiers have displayed throughout the history of the Army; and
+- **(3)** calls upon the President to issue a proclamation—
+  - **(A)** recognizing the 225th birthday of the United States Army and the dedicated service of the soldiers who have served in the Army; and
+  - **(B)** calling upon the people of the United States to observe that anniversary with appropriate ceremonies and activities.
+
+
+*Approved June 28, 2000.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- June 28, 2000 [H.J. Res. 101]
+
+## Legislative history
+
+**LEGISLATIVE HISTORY— H.J. Res. 101 (S.J. Res. 46):**
+
+*CONGRESSIONAL RECORD, Vol. 146 (2000):*
+
+- June 13, considered and passed House.
+- June 15, considered and passed Senate.

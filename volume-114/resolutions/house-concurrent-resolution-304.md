@@ -1,0 +1,42 @@
+---
+volume: 114
+type: House Concurrent Resolution
+number: 304
+---
+
+# House Concurrent Resolution 304
+
+> BELARUS—HUMAN RIGHTS VIOLATIONS
+
+Whereas the United States has a vital interest in the promotion of democracy abroad and supports democracy and economic development in the Republic of Belarus; Whereas in the Fall of 1996, Belarusian President Alyaksandr Lukashenka devised a controversial referendum to impose a new constitution on Belarus and abolish the Parliament, the 13th Supreme Soviet, replacing it with a rubber-stamp legislature; Whereas President Lukashenka organized a referendum in violation of the 1994 Belarusian Constitution, which illegally extended his term of office to 2001; Whereas Lukashenka’s legal term in office expired in July 1999; Whereas Belarus has effectively become an authoritarian police state, where human rights are routinely violated; Whereas Belarusian economic development is stagnant and living conditions are deplorable; Whereas in May 1999, the Belarusian opposition challenged Lukashenka’s unconstitutional lengthening of his term by staging alternative presidential elections, unleashing the government crackdown; Whereas the leader of the opposition, Semyon Sharetsky, was forced to flee Belarus to the neighboring Baltic state of the Republic of Lithuania in fear for his fife; Whereas several leaders of the opposition, including Viktor Gonchar, Anatoly Krasovsky, and Yuri Zakharenka have disappeared; Whereas the Belarusian regime harasses and persecutes the independent media and works to actively suppress freedom of speech; Whereas former Prime Minister Mikhail Chygir, who was a candidate in the opposition’s alternative presidential elections in May 1999, was held in pretrial detention on trumped up charges from April through November 1999; Whereas the Lukashenka regime provoked the clashes between riot police and demonstrators at the October 17, 1999, “Freedom March”, which resulted in injuries to demonstrators and scores of illegal arrests; Whereas hundreds of peaceful demonstrators and over 30 journalists were arrested during a March 25, 2000, pro-democracy rally in Miensk, once again illustrating the Lukashenka regime’s disregard for freedom of assembly, association, and information; Whereas the Lukashenka regime has refused to engage in meaningful dialogue with the opposition and has used the tactics of delay and obfuscation in disregarding the Organization for Security and Cooperation in Europe (OSCE)-mediated dialogue process; Whereas genuine dialogue with the opposition and legitimate, free and fair elections cannot take place in the present climate of repression and fear existing in Belarus; Whereas on April 3, 1996, Russian Federation President Boris Yeltsin and President Lukashenka signed an agreement to form a Union State of Russia and Belarus; Whereas there have been credible press reports that the Government of the Russian Federation has been providing assistance to the Lukashenka regime since the signing of the agreement to form a Union State, such as official Russian Federation Government credits, uncollected customs duties, assistance for export sales of Belarusian arms and joint manufacturing of arms, and reduced prices for energy supplies; Whereas there has been a credible estimate cited in press reports that Russian Federation economic subsidies to Belarus reached $1,500,000,000 to $2,000,000,000 in 1996 and 1997 alone, enabling the Lukashenka regime to maintain a large police force and state control of the economy; Whereas the Union Treaty, signed on December 8, 1999, by Belarus and the Russian Federation, undermines Belarus sovereignty and the prospect of democracy; Whereas the Consultative Council of Belarusian opposition parties appealed to the Government of the Russian Federation, the State Duma, and the Federation Council calling for a cessation of support for the Lukashenka regime; Whereas the former Chairmen of the Belarusian Supreme Soviet, Stanislav Shushkevich and Semyon Sharetsky, have stated that economic support from the Russian Federation has been crucial to the survival of the Lukashenka regime; Whereas a Union Treaty between the Russian Federation and Belarus was ratified by the Russian Parliament and the illegitimate parliament of Belarus; Whereas the Union Treaty between the Russian Federation and the Lukashenka regime violates Russian Federation Government respect for the sovereignty of Belarus per the memorandum on security guarantees signed by Russian Federation President Boris Yeltsin at the December 1994 Summit of Organization for Security and Cooperation in Europe Heads of State in Budapest, Hungary; and Whereas the introduction of any nuclear weapons on the territory of Belarus, a declared non-nuclear state under the Treaty on the Non-Proliferation of Nuclear Weapons, would be a violation of Belarus’s obligations under that Treaty: Now, therefore, be it Resolved by the House of Representatives (the Senate concurring),
+
+That the Congress—
+
+- **(1)** condemns continued egregious violations of human rights by President Alyaksandr Lukashenka’s regime in the Republic of Belarus;
+- **(2)** further condemns the Lukashenka regime’s conviction and sentencing of Andrei Klimov, Vasiliy Leonov, and Vladimir Koudinov on politically motivated charges and urges their release;
+- **(3)** is gravely concerned about the disappearances of Viktor Gonchar, Anatoly Krasovsky, and Yuri Zakharenka and calls on the Lukashenka regime to ensure a full and timely investigation of these cases;
+- **(4)** calls for immediate dialogue between the Lukashenka regime and the opposition and the restoration of a democratically elected government in Belarus;
+- **(5)** urges the Lukashenka regime to respect and ensure the human rights of all Belarusian citizens, including those members of the opposition who are currently being illegally detained in violation of their constitutional rights and further urges the regime to respect the rule of law and an independent judiciary;
+- **(6)** further urges Lukashenka to hold legitimate, free and fair parliamentary elections in accordance with Organization for Security and Cooperation in Europe (OSCE) standards;
+- **(7)** supports the appeal by the Consultative Council of Belarusian opposition parties to the Government of the Russian Federation, the State Duma, and the Federation Council calling for a cessation of support for the Lukashenka regime;
+- **(8)** calls on the international community to support the opposition in Belarus by continuing to meet with the legitimately elected parliament;
+- **(9)** supports Belarus’s sovereignty, independence, and territorial integrity, as well as its market democratic transformation and integration among the broader trans-Atlantic community of nations;
+- **(10)** calls on the President of the United States—
+  - **(A)** to ensure assistance to and cooperation with Belarusian opposition figures;
+  - **(B)** to ensure that adequate resources are made available on an urgent basis to support those programs aimed at strengthening independent media, human rights, civil society, independent trade unions, and the democratic opposition in Belarus; and
+  - **(C)** to support the free flow of information into Belarus;
+- **(11)** calls on the President of the United States to raise the issue of financial support provided by the Russian Federation to the Lukashenka regime at the highest levels of the Russian Federation Government;
+- **(12)** calls on the President of the United States to urge the Government of the Russian Federation, in accordance with its international commitments, to fully respect the sovereignty of Belarus, particularly in light of the illegitimate nature of the Lukashenka regime; and
+- **(13)** calls on the President of the United States to prepare and transmit to the Congress a report on—
+  - **(A)** the human rights situation, democratic process, elections, independence of the media, and the Lukashenka regime’s control of the economy in Belarus;
+  - **(B)** the steps undertaken by the United States to persuade the Russian Federation Government to end support to the Lukashenka regime in Belarus; and
+  - **(C)** the status of Russian Federation-Belarus military integration.
+
+
+*Agreed to June 23, 2000.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- June 23, 2000 H. Con. Res. 304

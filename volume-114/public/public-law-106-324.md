@@ -1,0 +1,52 @@
+---
+volume: 114
+citation: 114 Stat. 1291
+type: Public Law
+number: 324
+congress: 106
+scope: public
+approved: 2000-10-19
+bills: 106/hr-3817
+---
+
+# Public Law 106–324
+
+> An Act To dedicate the Big South Trail in the Comanche Peak Wilderness Area of Roosevelt National forest in Colorado to the legacy of Jaryd Atadero.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+## § 1. FINDING.
+
+Congress finds that Jaryd Atadero, a 3-year old boy from Littleton, Colorado, was last seen the morning of October 2, 1999, 1 and one-half miles from the trailhead of the Big South Trail in the Comanche Peak Wilderness Area of Roosevelt National Forest.
+
+## § 2. DEDICATION.
+
+Congress dedicates the Big South Trail in the Comanche Peak Wilderness Area of Roosevelt National Forest to Jaryd Atadero and his legacy of promoting safe outdoor recreation for children.
+
+## § 3. SIGN.
+
+The Secretary of Agriculture shall recognize the loss of Jaryd Atadero and the need for increased awareness of child safety in outdoor recreation settings by posting an interpretive sign at the Big South Trail trailhead that—
+
+- **(1)** describes consideration for safe outdoor recreation with children;
+- **(2)** refers to the tragic loss of Jaryd Atadero to underscore the need for such safety considerations;
+- **(3)** refers to the dedication by Congress of this trail and safety message to the legacy of Jaryd Atadero; and
+- **(4)** for not less than 1 year, includes a copy of this Act and an image of Jaryd Atadero.
+
+
+*Approved October 19, 2000.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- Oct. 19, 2000 [H.R. 3817]
+
+## Legislative history
+
+**LEGISLATIVE HISTORY—H.R. 3817:**
+
+
+*CONGRESSIONAL RECORD, Vol. 146 (2000):*
+
+- July 25, considered and passed House.
+- Oct. 5, considered and passed Senate.
