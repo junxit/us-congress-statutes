@@ -1,0 +1,42 @@
+---
+volume: 111
+citation: 111 Stat. 1455
+type: Public Law
+number: 70
+congress: 105
+scope: public
+approved: 1997-11-10
+bills: 105/hr-2013, 105/s-973
+---
+
+# Public Law 105–70
+
+> An Act To designate the facility of the United States Postal Service located at 551 Kingstown Road in South Kingstown, Rhode Island, as the “David B. Champagne Post Office Building”.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+## § 1. DESIGNATION.
+
+The facility of the United States Postal Service located at 551 Kingstown Road in South Kingstown, Rhode Island, shall be known and designated as the “David B. Champagne Post Office Building”.
+
+## § 2. REFERENCES.
+
+Any reference in a law, map, regulation, document, paper, or other record of the United States to the United States Post Office building referred to in section 1 shall be deemed to be a reference to the “David B. Champagne Post Office Building”.
+
+
+*Approved November 10, 1997.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- Nov. 10, 1997 [H.R. 2013]
+
+## Legislative history
+
+**LEGISLATIVE HISTORY—H.R. 2013 (S. 973):**
+
+*CONGRESSIONAL RECORD, Vol. 143 (1997):*
+
+- Oct. 21, considered and passed House.
+- Oct. 23, considered and passed Senate.
