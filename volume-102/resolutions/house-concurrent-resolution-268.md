@@ -1,0 +1,517 @@
+---
+volume: 102
+type: House Concurrent Resolution
+number: 268
+bills: 100/hconres-268
+---
+
+# House Concurrent Resolution 268
+
+> FEDERAL BUDGET—FISCAL YEARS 1989–1991
+
+*Resolved by the House of Representatives (the Senate concurring),*
+
+That the budget for fiscal year 1989 is established, and the appropriate budgetary levels for fiscal years 1990 and 1991 are hereby set forth.
+
+## § 2. MAXIMUM DEFICIT AMOUNTS
+
+The following levels and amounts in this section are set forth for purposes of determining, in accordance with section 301(i) of the Congressional Budget and Impoundment Control Act of 1974, as amended by the Balanced Budget and Emergency Deficit Control Act of 1985, whether the maximum deficit amount for a fiscal year has been exceeded, and as set forth in this concurrent resolution, shall be considered to be mathematically consistent with the other amounts and levels set forth in this concurrent resolution:
+
+- **(1)** The recommended levels of Federal revenues are as follows:
+  - Fiscal year 1989: $964,400,000,000.
+  - Fiscal year 1990: $1,042,900,000,000.
+  - Fiscal year 1991: $1,123,000,000,000.
+- **(2)** The appropriate levels of total new budget authority are as follows:
+  - Fiscal year 1989: $1,231,700,000,000.
+  - Fiscal year 1990: $1,305,400,000,000.
+  - Fiscal year 1991: $1,389,500,000,000.
+- **(3)** The appropriate levels of total budget outlays are as follows:
+  - Fiscal year 1989: $1,099,700,000,000.
+  - Fiscal year 1990: $1,160,100,000,000.
+  - Fiscal year 1991: $1,218,300,000,000.
+- **(4)** The amounts of the deficits are as follows:
+  - Fiscal year 1989: $135,300,000,000.
+  - Fiscal year 1990: $117,200,000,000.
+  - Fiscal year 1991: $95,300,000,000.
+
+## § 3. recommended levels and amounts
+
+- **(a)** The following budgetary levels are appropriate for the fiscal years beginning on October 1, 1988, October 1, 1989, and October 1, 1990:
+  - **(1)** The recommended levels of Federal revenues are as follows:
+    - Fiscal year 1989: $705,900,000,000.
+    - Fiscal year 1990: $760,450,000,000.
+    - Fiscal year 1991: $817,000,000,000.
+    - and the amounts by which the aggregate levels of Federal revenues should be reduced are as follows:
+    - Fiscal year 1989: $350,000,000.
+    - Fiscal year 1990: $500,000,000.
+    - Fiscal year 1991: $500,000,000.
+    - and the amounts for Federal Insurance Contributions Act revenues for hospital insurance within the recommended levels of Federal revenues are as follows:
+    - Fiscal year 1989: $63,400,000,000.
+    - Fiscal year 1990: $68,150,000,000.
+    - Fiscal year 1991: $73,400,000,000.
+  - **(2)** The appropriate levels of total new budget authority are as follows:
+    - Fiscal year 1989: $973,200,000,000.
+    - Fiscal year 1990: $1,022,900,000,000.
+    - Fiscal year 1991: $1,083,400,000,000.
+  - **(3)** The appropriate levels of total budget outlays are as follows:
+    - Fiscal year 1989: $885,800,000,000.
+    - Fiscal year 1990: $934,900,000,000.
+    - Fiscal year 1991: $981,500,000,000.
+  - **(4)** The amounts of the deficits are as follows:
+    - Fiscal year 1989: $179,900,000,000.
+    - Fiscal year 1990: $174,450,000,000.
+    - Fiscal year 1991: $164,500,000,000.
+  - **(5)** The appropriate levels of the public debt are as follows:
+    - Fiscal year 1989: $2,824,700,000,000.
+    - Fiscal year 1990: $3,066,900,000,000.
+    - Fiscal year 1991: $3,293,900,000,000.
+  - **(6)** The appropriate levels of total Federal credit activity for the fiscal years beginning on October 1, 1988, October 1, 1989, and October 1, 1990, are as follows:
+    - Fiscal year 1989:
+      - New direct loan obligations, $28,300,000,000.
+      - New primary loan guarantee commitments, $110,950,000,000.
+      - New secondary loan guarantee commitments, $93,050,000,000.
+    - Fiscal year 1990:
+      - New direct loan obligations, $27,000,000,000.
+      - New primary loan guarantee commitments, $122,700,000,000.
+      - New secondary loan guarantee commitments, $96,900,000,000.
+    - Fiscal year 1991:
+      - New direct loan obligations, $26,700,000,000.
+      - New primary loan guarantee commitments, $132,200,000,000.
+      - New secondary loan guarantee commitments, $100,800,000,000.
+- **(b)** The Congress hereby determines and declares the appropriate levels of budget authority and budget outlays, and the appropriate levels of new direct loan obligations, new primary loan guarantee commitments, and new secondary loan guarantee commitments for fiscal years 1989 through 1991 for each major functioned category are:
+  - **(1)** National Defense (050):
+    - Fiscal year 1989:
+      - New budget authority, $299,500,000,000.
+      - Outlays, $294,000,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1990:
+      - New budget authority, $312,900,000,000.
+      - Outlays, $304,600,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1991:
+      - New budget authority, $325,600,000,000.
+      - Outlays, $316,600,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+  - **(2)** International Affairs (150):
+    - Fiscal year 1989:
+      - New budget authority, $16,600,000,000.
+      - Outlays, $16,200,000,000.
+      - New direct loan obligations, $5,950,000,000.
+      - New primary loan guarantee commitments, $9,550,000,000.
+      - New secondary loan guarantee commitments, $200,000,000.
+    - Fiscal year 1990:
+      - New budget authority, $17,600,000,000.
+      - Outlays, $16,000,000,000.
+      - New direct loan obligations, $6,050,000,000.
+      - New primary loan guarantee commitments, $9,900,000,000.
+      - New secondary loan guarantee commitments, $200,000,000.
+    - Fiscal year 1991:
+      - New budget authority, $17,500,000,000.
+      - Outlays, $15,900,000,000.
+      - New direct loan obligations, $6,150,000,000.
+      - New primary loan guarantee commitments, $10,300,000,000.
+      - New secondary loan guarantee commitments, $250,000,000.
+  - **(3)** General Science, Space, and Technology (250):
+    - Fiscal year 1989:
+      - New budget authority, $13,000,000,000.
+      - Outlays, $12,600,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1990:
+      - New budget authority, $13,500,000,000.
+      - Outlays, $13,500,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1991:
+      - New budget authority, $14,000,000,000.
+      - Outlays, $13,900,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+  - **(4)** Energy (270):
+    - Fiscal year 1989:
+      - New budget authority, $4,800,000,000.
+      - Outlays, $4,400,000,000.
+      - New direct loan obligations, $2,000,000,000.
+      - New primary loan guarantee commitments, $50,000,000.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1990:
+      - New budget authority, $5,200,000,000.
+      - Outlays, $4,100,000,000.
+      - New direct loan obligations, $2,100,000,000.
+      - New primary loan guarantee commitments, $50,000,000.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1991:
+      - New budget authority, $5,000,000,000.
+      - Outlays, $3,500,000,000.
+      - New direct loan obligations, $2,250,000,000.
+      - New primary loan guarantee commitments, $50,000,000.
+      - New secondary loan guarantee commitments, $0.
+  - **(5)** Natural Resources and Environment (300):
+    - Fiscal year 1989:
+      - New budget authority, $15,800,000,000.
+      - Outlays, $16,300,000,000.
+      - New direct loan obligations, $50,000,000.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1990:
+      - New budget authority, $16,500,000,000.
+      - Outlays, $17,000,000,000.
+      - New direct loan obligations, $50,000,000.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1991:
+      - New budget authority, $17,200,000,000.
+      - Outlays, $17,300,000,000.
+      - New direct loan obligations, $50,000,000.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+  - **(6)** Agriculture (350):
+    - Fiscal year 1989:
+      - New budget authority, $25,500,000,000.
+      - Outlays, $21,600,000,000.
+      - New direct loan obligations, $15,550,000,000.
+      - New primary loan guarantee commitments, $6,700,000,000.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1990:
+      - New budget authority, $24,300,000,000.
+      - Outlays, $21,000,000,000.
+      - New direct loan obligations, $14,100,000,000.
+      - New primary loan guarantee commitments, $6,800,000,000.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1991:
+      - New budget authority, $21,400,000,000.
+      - Outlays, $19,100,000,000.
+      - New direct loan obligations, $13,500,000,000.
+      - New primary loan guarantee commitments, $6,850,000,000.
+      - New secondary loan guarantee commitments, $0.
+  - **(7)** Commerce and Housing Credit (370):
+    - Fiscal year 1989:
+      - New budget authority, $13,600,000,000.
+      - Outlays, $9,300,000,000.
+      - New direct loan obligations, $2,700,000,000.
+      - New primary loan guarantee commitments, $64,050,000,000.
+      - New secondary loan guarantee commitments, $92,850,000,000.
+    - Fiscal year 1990:
+      - New budget authority, $15,400,000,000.
+      - Outlays, $8,400,000,000.
+      - New direct loan obligations, $2,750,000,000.
+      - New primary loan guarantee commitments, $67,050,000,000.
+      - New secondary loan guarantee commitments, $96,700,000,000.
+    - Fiscal year 1991:
+      - New budget authority, $9,400,000,000.
+      - Outlays, $3,900,000,000.
+      - New direct loan obligations, $2,900,000,000.
+      - New primary loan guarantee commitments, $73,800,000,000.
+      - New secondary loan guarantee commitments, $100,550,000,000.
+  - **(8)** Transportation (400):
+    - Fiscal year 1989:
+      - New budget authority, $28,600,000,000.
+      - Outlays, $27,900,000,000.
+      - New direct loan obligations, $50,000,000.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1990:
+      - New budget authority, $29,100,000,000.
+      - Outlays, $28,500,000,000.
+      - New direct loan obligations, $50,000,000.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1991:
+      - New budget authority, $29,900,000,000.
+      - Outlays, $29,400,000,000.
+      - New direct loan obligations, $50,000,000.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+  - **(9)** Community and Regional Development (450):
+    - Fiscal year 1989:
+      - New budget authority, $7,300,000,000.
+      - Outlays, $6,600,000,000.
+      - New direct loan obligations, $1,000,000,000.
+      - New primary loan guarantee commitments, $250,000,000.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1990:
+      - New budget authority, $7,100,000,000.
+      - Outlays, $6,900,000,000.
+      - New direct loan obligations, $1,050,000,000.
+      - New primary loan guarantee commitments, $300,000,000.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1991:
+      - New budget authority, $7,300,000,000.
+      - Outlays, $6,500,000,000.
+      - New direct loan obligations, $1,100,000,000.
+      - New primary loan guarantee commitments, $300,000,000.
+      - New secondary loan guarantee commitments, $0.
+  - **(10)** Education, Training, Employment, and Social Services (500):
+    - Fiscal year 1989:
+      - New budget authority, $37,200,000,000.
+      - Outlays, $35,400,000,000.
+      - New direct loan obligations, $50,000,000.
+      - New primary loan guarantee commitments, $10,400,000,000.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1990:
+      - New budget authority, $38,600,000,000.
+      - Outlays, $37,500,000,000.
+      - New direct loan obligations, $50,000,000.
+      - New primary loan guarantee commitments, $10,800,000,000.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1991:
+      - New budget authority, $39,500,000,000.
+      - Outlays, $38,500,000,000.
+      - New direct loan obligations, $50,000,000.
+      - New primary loan guarantee commitments, $10,800,000,000
+      - New secondary loan guarantee commitments, $0.
+  - **(11)** Health (550):
+    - Fiscal year 1989:
+      - New budget authority, $49,800,000,000.
+      - Outlays, $48,900,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $350,000,000
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1990:
+      - New budget authority, $54,300,000,000.
+      - Outlays, $54,100,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $350,000,000.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1991:
+      - New budget authority, $59,400,000,000.
+      - Outlays, $58,600,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $400,000,000.
+      - New secondary loan guarantee commitments, $0.
+  - **(12)** Medicare (570):
+    - Fiscal year 1989:
+      - New budget authority, $103,700,000,000.
+      - Outlays, $86,900,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1990:
+      - New budget authority, $113,200,000,000.
+      - Outlays, $97,500,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1991:
+      - New budget authority, $124,100,000,000.
+      - Outlays, $108,400,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+  - **(13)** Income Security (600):
+    - Fiscal year 1989:
+      - New budget authority, $176,500,000,000.
+      - Outlays, $138,100,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1990:
+      - New budget authority, $181,400,000,000.
+      - Outlays, $145,300,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1991:
+      - New budget authority, $213,300,000,000.
+      - Outlays, $152,400,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+  - **(14)** Social Security (650):
+    - Fiscal year 1989:
+      - New budget authority, $5,300,000,000.
+      - Outlays, $5,300,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1990:
+      - New budget authority, $5,400,000,000.
+      - Outlays, $5,400,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1991:
+      - New budget authority, $4,300,000,000.
+      - Outlays, $4,300,000,000.
+      - New current loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+  - **(15)** Veterans Benefits and Services (700):
+    - Fiscal year 1989:
+      - New budget authority, $28,800,000,000.
+      - Outlays, $28,400,000,000.
+      - New direct loan obligations, $950,000,000.
+      - New primary loan guarantee commitments, $19,600,000,000.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1990:
+      - New budget authority, $31,000,000,000.
+      - Outlays, $30,000,000,000.
+      - New direct loan obligations, $800,000,000.
+      - New primary loan guarantee commitments, $27,450,000,000.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1991:
+      - New budget authority, $31,500,000,000.
+      - Outlays, $30,600,000,000.
+      - New direct loan obligations, $650,000,000.
+      - New primary loan guarantee commitments, $29,700,000,000.
+      - New secondary loan guarantee commitments, $0.
+  - **(16)** Administration of Justice (750):
+    - Fiscal year 1989:
+      - New budget authority, $8,900,000,000.
+      - Outlays, $8,700,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1990:
+      - New budget authority, $9,200,000,000.
+      - Outlays, $9,100,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1991:
+      - New budget authority, $10,400,000,000.
+      - Outlays, $10,300,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+  - **(17)** eneral Government (800):
+    - Fiscal year 1989:
+      - New budget authority, $9,500,000,000.
+      - Outlays, $9,400,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1990:
+      - New budget authority, $10,100,000,000.
+      - Outlays, $10,200,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1991:
+      - New budget authority, $10,500,000,000.
+      - Outlays, $10,300,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+  - **(19)** Net Interest (900):
+    - Fiscal year 1989:
+      - New budget authority, $161,700,000,000.
+      - Outlays, $161,700,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1990:
+      - New budget authority, $171,700,000,000.
+      - Outlays, $171,700,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1991:
+      - New budget authority, $177,000,000,000.
+      - Outlays, $177,000,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+  - **(20)** Allowances (920):
+    - Fiscal year 1989:
+      - New budget authority, $0.
+      - Outlays, $0.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1990:
+      - New budget authority, $0.
+      - Outlays, $0.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1991:
+      - New budget authority, $0.
+      - Outlays, $0.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+  - **(21)** Undistributed Offsetting Receipts (950):
+    - Fiscal year 1989:
+      - New budget authority, $32,900,000,000.
+      - Outlays, $45,900,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1990:
+      - New budget authority, $33,600,000,000.
+      - Outlays, $45,900,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1991:
+      - New budget authority, $33,900,000,000.
+      - Outlays, $35,000,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+
+## § 4. sale of government assets
+
+- **(a)** It is the sense of the Congress that—
+  - **(1)** from time to time the United States Government should sell assets to nongovernment buyers; and
+  - **(2)** the amounts realized from such asset sales will not recur on an annual basis and do not reduce the demand for credit.
+- **(b)** For purposes of allocations and points of order under section 302 of the Congressional Budget and Impoundment Control Act of 1974, the amounts realized from asset sales or prepayments of loans shall not be allocated to the committee and shall not be scored with respect to the level of budget authority or outlays under a committees allocation under section 302 of such Act
+- **(c)** For purposes of this section—
+  - **(1)** the terms “asset sale” and “prepayment of a loan” shall have the same meaning as under section 257(12) of the Balanced Budget and Emergency Deficit Control Act of 1985 (as amended by the Balanced Budget and Emergency Deficit Control Re affirmation Act of 1987); and
+  - **(2)** the terms “asset sale” and “prepayment of a loan” do not include asset sales mandated by law before September 18, 1987, and routine, ongoing asset sales and loan prepayments at levels consistent with agency operations in fiscal year 1986.
+
+## § 5. funding for the welfare reform and catastrophic insurance initiatives
+
+- **(a)** In the Senate, budget authority and outlays for fiscal year 1988 or 1989 (or both) may be allocated to the Senate Committee on Finance to provide for the welfare reform and medicare catastrophic health insurance initiatives, and the aggregates for fiscal years 1989, 1990, and 1991 in sections 2 and 3 of this resolution may be adjusted accordingly, when the Committee on Finance, the committee of conference on the welfare reform initiative, or the committee of conference on the catastrophic insurance initiative reports legislation that will, if enacted, make funds available for such initiative and ensure, to the extent that such costs are not included in this resolution, that such legislation will not increase the deficit in this resolution for fiscal year 1988 or for fiscal year 1989, and will not increase the total deficit for the period of fiscal years 1988 through 1991.
+- **(b)** Upon the reporting of legislation pursuant to subsection (a), the chairman of the Committee on the Budget of the Senate may file with the Senate appropriately revised allocations under section 302(a) of the Congressional Budget Act of 1974 and revised functional levels and aggregates to carry out this section. Such revised allocations, functional levels, and aggregates shall be considered for the purposes of such Act as allocations, functioned levels, and aggregate contained in this resolution, and the Committee on Finance shall report revised allocations pursuant to section 302(b) of such Act for the appropriate fiscal year (or years) to carry out this section.
+
+## § 6. funding for anti—drug initiative
+
+- **(a)** Budget authority and outlays in amounts not to exceed the amounts specified in subsection (a)(2) may be allocated to the appropriate committees of the House of Representatives and the Senate to provide for an anti-drug initiative, and the aggregates for fiscal year 1989 in this resolution may be adjusted accordingly, when—
+  - **(1)** the appropriate committees of the House of Representatives or the Senate have reported legislation that will, if en acted, make funds available for such initiative; and
+  - **(2)** the President and the Congress agree through the normal legislative process that a sufficiently dire state of emergency exists to justify specified spending levels different from those specified in the summit agreement between the President and the joint leadership of Congress (and carried out in this resolution) that do not increase the deficit for fiscal year 1989, 1990, or 1991 above the levels set forth in this resolution: Provided, That such agreed upon amounts for funding the anti-drug initiative for fiscal year 1989 shall not exceed $2,600,000,000 of new budget authority and $1,400,000,000 of outlays,
+- **(b)** Upon the reporting of legislation pursuant to subsection (a), the chairmen of the Committees on the Budget of the House of Representatives and Senate may file with the House of Representatives and the Senate, respectively, appropriately revised allocations under section 302(a) of the Congressional Budget Act of 1974 and revised functional levels and aggregates to carry out this section. Such revised allocations, functional levels, and aggregates shall be Reports. considered for the purposes of such Act as allocations, functional levels, and aggregates contained in this resolution, and the (Commit tees on Appropriations of the House of Representatives and the Senate shall report revised allocations pursuant to section 302(b) of such Act for fiscal year 1989 to carry out this section.
+
+## § 7. sense of congress regarding anti—drug programs
+
+It is the sense of the Congress that antinarcotics activities, including law enforcement, drug interdiction, drug treatment, and substance abuse education, are vital to the Nation’s future and should be among the top funding priorities in the fiscal year 1989 budget. All authorizing and Appropriations Committees and sub committees are urged to examine programs within their jurisdictions to enhance their participation in the anti-drug effort and to give top priority to this effort in allocating their share of the funds available under this budget resolution.
+
+## § 8. sense of congress regarding coast guard drug interdiction
+
+- **(a)** The Congress finds that—
+  - **(1)** the war against drugs is an ongoing effort that must be continually waged and that every effort to interdict the flow of illegal substances into the United States should be pursued; and
+  - **(2)** one of the most important lines of defense against the importation of illegal drugs into the United States is the Coast Guard, but because of its limited resources, the Coast Guard is unable to devote sufficient manpower and materials to carry out the war against drugs.
+- **(b)** It is the sense of the Congress that the authorizing committees of jurisdiction should consider whether it is appropriate to enact legislation providing that the private sector should be more fully utilized to perform nonemergency, nonessential Coast Guard functions, such as nonemergency towing, thereby allowing the Coast Guard to devote more resources to law enforcement, military readiness, and emergency search and rescue functions.
+
+## § 9. sense of congress regarding federal trust funds
+
+- **(a)** The Congress finds that—
+  - **(1)** under current law, neither the Senate nor the House may consider reductions in social security as part of a budget reconciliation bill or resolution pursuant to the Balanced Budget and Emergency Deficit Control Act of 1985;
+  - **(2)** current law requires a balanced budget by fiscal year 1993, but includes the projected social security surpluses as offsetting deficits; and
+  - **(3)** current law requires the budget resolution to display budget authority, outlays, revenues, and the deficit excluding social security, in the aggregate and by function.
+- **(b)** It is the sense of the Congress that the National Economic Commission should—
+  - **(1)** study the budgetary treatment of social security, airport and highway, military retirement, civil service retirement, unemployment and other trust funds and self-supporting public enterprise funds including Postal Service, Federal Deposit Insurance Corporation, Comptroller of the Currency, National Credit Union Administration, Federal Home Loan Bank Board, Federal Savings and Loan Insurance Corporation, and Securities and Exchange Commission;
+  - **(2)** analyze the economic, budgetary, and programmatic effects of taking these funds off-budget;
+  - **(3)** consider the effects of setting trust fund surpluses aside as additional savings, including effects on the national savings rate, investment, and economic growth, £is well as on program beneficiaries;
+  - **(4)** include in its final report a recommendation on the budgetary treatment of these funds; and
+  - **(5)** report on the means to achieve a balance in the remaining budget and on the economic effects of a unified budget surplus.
+
+
+*Agreed to June 6, 1988.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- June 6, 1988 [H. Con. Res. 268.]
+- Reports.
