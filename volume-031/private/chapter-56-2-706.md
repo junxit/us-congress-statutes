@@ -1,0 +1,28 @@
+---
+volume: 31
+citation: 31 Stat. 1767
+type: Chapter
+number: 706
+congress: 56
+session: 2
+scope: private
+approved: 1901-03-01
+---
+
+# Chapter 706
+
+> An Act Granting a pension to William Ashmead.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Conqress assembled,*
+
+That the Secretary of the Interior be, and he is hereby, authorized and directed to place on the pension roll, subject to the provisions and limitations of the pension laws, the name of William Ashmead, late captain Company I, Seventh Regiment Illinois Volunteer Cavalry, and pay him a pension at the rate of twelve dollars per month, the same to be paid him without deduction for any alleged former erroneous payments or overpayments of pension.
+
+
+*Approved, March 1, 1901.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- March 1, 1901.
+- William Ashmead. Pension.
