@@ -1,0 +1,37 @@
+---
+volume: 101
+citation: 101 Stat. 802
+type: Public Law
+number: 129
+congress: 100
+session: 1
+scope: public
+approved: 1987-10-14
+bills: 100/sjres-110
+---
+
+# Public Law 100–129
+
+> Joint Resolution To designate October 16, 1987 as “World Food Day”.
+
+Whereas hunger and malnutrition remain daily facts of life for hundreds of millions of people throughout the world; Whereas the children of the world suffer the most serious effects of hunger and malnutrition, with millions of children dying each year from hunger-related illness and disease, and many others suffering permanent physical or mental impairment because of vitamin or protein deficiencies; Whereas the United States and the people of the United States have a long tradition of demonstrating humanitarian concern for the hungry and malnourished people of the world, recently manifested by the American response to African famine; Whereas efforts to resolve the world hunger problem are critical to the maintenance of world peace and, therefore, to the security of the United States; Whereas the United States, as the largest producer and trader of food in the world, has a key role to play in assisting countries and people to improve their ability to feed themselves; Whereas although progress has been made in reducing the incidence of hunger and malnutrition in the United States, certain groups, notably Native Americans, migrant workers, the elderly, and children, remain vulnerable to malnutrition and related diseases; Whereas the Congress is acutely aware of the paradox of immense farm surpluses in the United States despite the desperate need for food by people throughout the world; Whereas the United States and other countries should develop and continually evaluate national policies concerning food, farmland, and nutrition to achieve the well-being and protection of all people and particularly those most vulnerable to malnutrition and related diseases; Whereas improved agricultural policies, including farmer incentives, are necessary in many developing countries to increase food production and economic growth; Whereas private enterprise and the primacy of the independent family farmer have been basic to the development of an agricultural economy in the United States and have made the United States capable of meeting the food needs of most of the people of the United States; Whereas increasing farm foreclosures threaten to destroy the independent family farmer and weaken the agricultural economy in the United States; Whereas conservation of natural resources is necessary for the United States to remain the largest producer of food in the world and to continue to aid hungry and malnourished people of the world; Whereas participation by the private voluntary organizations and businesses, working with national governments and the inter-national community, is essential in the search for ways to increase food production in developing countries and improve food distribution to hungry and malnourished people; Whereas the member nations of the Food and Agriculture Organization of the United Nations unanimously designated October 16 of each year as World Food Day because of the need to increase public awareness of world hunger problems; Whereas past observances of World Food Day have been supported by proclamations by the Congress, the President, the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, and the territories and possessions of the United States, and by programs of the Department of Agriculture, other Federal departments and agencies, and the governments and peoples of more than 140 other nations; Whereas more than 375 private voluntary organizations and thousands of community leaders are participating in the planning of World Food Day observances in 1987, and a growing number of these organizations and leaders are using such day as a focal point for year-round programs; and Whereas the people of the United States can express their concern for the plight of hungry and malnourished people throughout the world by fasting and by donating food and money for them: Now, therefore, be it Resolved by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+That October 16, 1987, is designated as “World Food Day”, and the President is authorized and requested to issue a proclamation calling upon the people of the United States to observe that day with appropriate ceremonies and activities, including worship services, fasting, educational endeavors, and the establishment of year-round food and health programs and policies.
+
+
+*Approved October 14, 1987.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- Oct. 14, 1987 [S.J. Res. 110]
+
+## Legislative history
+
+**LEGISLATIVE HISTORY—S.J. Res. 110:**
+
+*CONGRESSIONAL RECORD, Vol. 133 (1987):*
+
+- June 5, considered and passed Senate.
+- Sept. 30, considered and passed House.

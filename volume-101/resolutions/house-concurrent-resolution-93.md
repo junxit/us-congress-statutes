@@ -1,0 +1,639 @@
+---
+volume: 101
+type: House Concurrent Resolution
+number: 93
+bills: 100/hconres-93
+---
+
+# House Concurrent Resolution 93
+
+> FEDERAL BUDGET—FISCAL YEARS 1988–1990
+
+*Resolved by the House of Representatives (the Senate concurring),*
+
+That the Congress hereby determines and declares that the concurrent resolution on the budget for fiscal year 1988 is established and the appropriate budgetary levels for fiscal years 1989 and 1990 are set forth.
+
+## § 2. maximum deficit amounts
+
+The following levels and amounts in this section are set forth for purposes of determining, in accordance with section 301(i) of the Congressional Budget and Impoundment Control Act of 1974, as amended by the Balanced Budget and Emergency Deficit Control Act of 1985, whether the maximum deficit amount for a fiscal year has been exceeded, and as set forth in this concurrent resolution, shall be considered to be mathematically consistent with the other amounts and levels set forth in this concurrent resolution:
+
+- **(1)** The recommended levels of Federal revenues are as follows:
+  - Fiscal year 1988: $932,800,000,000.
+  - Fiscal year 1989: $993,950,000,000.
+  - Fiscal year 1990: $1,066,750,000,000.
+- **(2)** The appropriate levels of total budget authority are as follows:
+  - Fiscal year 1988: $1,153,200,000,000.
+  - Fiscal year 1989: $1,217,900,000,000.
+  - Fiscal year 1990: $1,261,600,000,000.
+- **(3)** The appropriate levels of total budget outlays are as follows:
+  - Fiscal year 1988: $1,040,800,000,000.
+  - Fiscal year 1989: $1,083,850,000,000.
+  - Fiscal year 1990: $1,117,050,000,000.
+- **(4)** The amounts of the deficits are as follows:
+  - Fiscal year 1988: $108,000,000,000.
+  - Fiscal year 1989: $89,900,000,000.
+  - Fiscal year 1990: $50,300,000,000.
+
+## § 3. recommended levels and amounts
+
+- **(a)** The following budgetary levels are appropriate for the fiscal years beginning on October 1, 1987, October 1, 1988, and October 1, 1989:
+  - **(1)**
+    - The recommended levels of Federal revenues are as follows:
+    - Fiscal year 1988: $692,300,000,000.
+    - Fiscal year 1989: $732,300,000,000.
+    - Fiscal year 1990: $779,800,000,000.
+    - and the amounts by which the aggregate levels of Federal revenues should be increased are as follows:
+    - Fiscal year 1988: $21,150,000,000.
+    - Fiscal year 1989: $24,950,000,000.
+    - Fiscal year 1990: $26,100,000,000.
+    - and the amounts for Federal Insurance Contributions Act revenues for hospital insurance within the recommended levels of Federal revenues are as follows:
+    - Fiscal year 1988: $59,700,000,000.
+    - Fiscal year 1989: $63,850,000,000.
+    - Fiscal year 1990: $68,950,000,000.
+  - **(2)** The appropriate levels of total new budget authority are as follows:
+    - Fiscal year 1988: $912,700,000,000.
+    - Fiscal year 1989: $956,100,000,000.
+    - Fiscal year 1990: $974,300,000,000.
+  - **(3)** The appropriate levels of total budget outlays are as follows:
+    - Fiscal year 1988: $836,200,000,000.
+    - Fiscal year 1989: $868,200,000,000.
+    - Fiscal year 1990: $888,300,000,000.
+  - **(4)** The amounts of the deficits are as follows:
+    - Fiscal year 1988: $144,000,000,000.
+    - Fiscal year 1989: $135,800,000,000.
+    - Fiscal year 1990: $108,500,000,000.
+  - **(5)** The appropriate levels of the public debt are as follows:
+    - Fiscal year 1988: $2,565,100,000,000.
+    - Fiscal year 1989: $2,777,100,000,000.
+    - Fiscal year 1990: $2,964,200,000,000.
+  - **(6)** The appropriate levels of total Federal credit activity for the fiscal years beginning on October 1, 1987, October 1, 1988, and October 1, 1989, are as follows:
+    - Fiscal year 1988:
+      - New direct loan obligations, $34,600,000,000.
+      - New primary loan guarantee commitments, $156,700,000,000.
+      - New secondary loan guarantee commitments, $100,600,000,000.
+    - Fiscal year 1989:
+      - New direct loan obligations, $33,550,000,000.
+      - New primary loan guarantee commitments, $150,550,000,000.
+      - New secondary loan guarantee commitments, $97,600,000,000.
+    - Fiscal year 1990:
+      - New direct loan obligations, $32,450,000,000.
+      - New primary loan guarantee commitments, $158,300,000,000.
+      - New secondary loan guarantee commitments, $94,600,000,000.
+- **(b)** The Congress hereby determines and declares that the appropriate levels of budget authority and budget outlays, and the appropriate levels of new direct loan obligations, new primary loan guarantee commitments, and new secondary loan guarantee commitments for fiscal years 1988 through 1990 for each major functional category are:
+  - **(1)** National Defense (050):
+    - Fiscal year 1988:
+      - New budget authority, $296,000,000,000.
+      - Outlays, $289,500,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1989:
+      - New budget authority, $303,700,000,000.
+      - Outlays, $292,300,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1990:
+      - New budget authority, $311,000,000,000.
+      - Outlays, $299,200,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+  - **(2)** International Affairs (150):
+    - Fiscal year 1988:
+      - New budget authority, $16,200,000,000.
+      - Outlays, $16,100,000,000.
+      - New direct loan obligations, $6,700,000,000.
+      - New primary loan guarantee commitments, $9,100,000,000.
+      - New secondary loan guarantee commitments, $300,000,000.
+    - Fiscal year 1989:
+      - New budget authority, $21,700,000,000.
+      - Outlays, $15,250,000,000.
+      - New direct loan obligations, $7,000,000,000.
+      - New primary loan guarantee commitments, $9,450,000,000.
+      - New secondary loan guarantee commitments, $300,000,000.
+    - Fiscal year 1990:
+      - New budget authority, $18,450,000,000.
+      - Outlays, $15,200,000,000.
+      - New direct loan obligations, $7,200,000,000.
+      - New primary loan guarantee commitments, $9,900,000,000.
+      - New secondary loan guarantee commitments, $300,000,000.
+  - **(3)** General Science, Space, and Technology (250):
+    - Fiscal year 1988:
+      - New budget authority, $11,300,000,000.
+      - Outlays, $11,100,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1989:
+      - New budget authority, $13,500,000,000.
+      - Outlays, $13,000,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1990:
+      - New budget authority, $15,000,000,000.
+      - Outlays, $14,600,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+  - **(4)** Energy (270):
+    - Fiscal year 1988:
+      - New budget authority, $4,500,000,000.
+      - Outlays, $4,550,000,000.
+      - New direct loan obligations, $2,100,000,000.
+      - New primary loan guarantee commitments, $7,300,000,000.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1989:
+      - New budget authority, $5,050,000,000.
+      - Outlays, $4,150,000,000.
+      - New direct loan obligations, $2,100,000,000.
+      - New primary loan guarantee commitments, $50,000,000.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1990:
+      - New budget authority, $4,650,000,000.
+      - Outlays, $4,250,000,000.
+      - New direct loan obligations, $2,100,000,000.
+      - New primary loan guarantee commitments, $50,000,000.
+      - New secondary loan guarantee commitments, $0.
+  - **(5)** Natural Resources and Environment (300):
+    - Fiscal year 1988:
+      - New budget authority, $15,900,000,000.
+      - Outlays, $15,100,000,000.
+      - New direct loan obligations, $100,000,000.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1989:
+      - New budget authority, $16,450,000,000.
+      - Outlays, $16,150,000,000.
+      - New direct loan obligations, $100,000,000.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1990:
+      - New budget authority, $16,850,000,000.
+      - Outlays, $17,250,000,000.
+      - New direct loan obligations, $100,000,000.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+  - **(6)** Agriculture (350):
+    - Fiscal year 1988:
+      - New budget authority, $29,450,000,000.
+      - Outlays, $28,600,000,000.
+      - New direct loan obligations, $17,450,000,000.
+      - New primary loan guarantee commitments, $8,500,000,000.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1989:
+      - New budget authority, $29,950,000,000.
+      - Outlays, $26,100,000,000.
+      - New direct loan obligations, $16,200,000,000.
+      - New primary loan guarantee commitments, $9,000,000,000.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1990:
+      - New budget authority, $25,550,000,000.
+      - Outlays, $22,350,000,000.
+      - New direct loan obligations, $15,000,000,000.
+      - New primary loan guarantee commitments, $9,000,000,000.
+      - New secondary loan guarantee commitments, $0.
+  - **(7)** Commerce and Housing Credit (370):
+    - Fiscal year 1988:
+      - New budget authority, $12,500,000,000.
+      - Outlays, $7,800,000,000.
+      - New direct loan obligations, $4,000,000,000.
+      - New primary loan guarantee commitments, $91,650,000,000.
+      - New secondary loan guarantee commitments, $100,300,000,000.
+    - Fiscal year 1989:
+      - New budget authority, $12,050,000,000.
+      - Outlays, $5,000,000,000.
+      - New direct loan obligations, $4,100,000,000.
+      - New primary loan guarantee commitments, $93,900,000,000.
+      - New secondary loan guarantee commitments, $97,600,000,000.
+    - Fiscal year 1990:
+      - New budget authority, $15,350,000,000.
+      - Outlays, $6,800,000,000.
+      - New direct loan obligations, $4,100,000,000.
+      - New primary loan guarantee commitments, $98,750,000,000.
+      - New secondary loan guarantee commitments, $94,300,000,000.
+  - **(8)** Transportation (400):
+    - Fiscal year 1988:
+      - New budget authority, $29,200,000,000.
+      - Outlays, $28,250,000,000.
+      - New direct loan obligations, $400,000,000.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1989:
+      - New budget authority, $29,500,000,000.
+      - Outlays, $27,850,000,000.
+      - New direct loan obligations, $250,000,000.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1990:
+      - New budget authority, $30,200,000,000.
+      - Outlays, $27,650,000,000.
+      - New direct loan obligations, $200,000,000.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+  - **(9)** Community and Regional Development (450):
+    - Fiscal year 1988:
+      - New budget authority, $7,500,000,000.
+      - Outlays, $6,600,000,000.
+      - New direct loan obligations, $1,050,000,000.
+      - New primary loan guarantee commitments, $350,000,000.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1989:
+      - New budget authority, $7,650,000,000.
+      - Outlays, $6,400,000,000.
+      - New direct loan obligations, $1,100,000,000.
+      - New primary loan guarantee commitments, $350,000,000.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1990:
+      - New budget authority, $7,800,000,000.
+      - Outlays, $6,700,000,000.
+      - New direct loan obligations, $1,150,000,000.
+      - New primary loan guarantee commitments, $350,000,000.
+      - New secondary loan guarantee commitments, $0.
+  - **(10)** Education, Training, Employment, and Social Services (500):
+    - Fiscal year 1988:
+      - New budget authority, $36,450,000,000.
+      - Outlays, $32,900,000,000.
+      - New direct loan obligations, $1,650,000,000.
+      - New primary loan guarantee commitments, $9,100,000,000.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1989:
+      - New budget authority, $38,050,000,000.
+      - Outlays, $35,700,000,000.
+      - New direct loan obligations, $1,650,000,000.
+      - New primary loan guarantee commitments, $9,100,000,000.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1990:
+      - New budget authority, $39,250,000,000.
+      - Outlays, $37,500,000,000.
+      - New direct loan obligations, $1,650,000,000.
+      - New primary loan guarantee commitments, $9,200,000,000.
+      - New secondary loan guarantee commitments, $0.
+  - **(11)** Health (550):
+    - Fiscal year 1988:
+      - New budget authority, $45,650,000,000.
+      - Outlays, $44,850,000,000.
+      - New direct loan obligations, $50,000,000.
+      - New primary loan guarantee commitments, $300,000,000.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1989:
+      - New budget authority, $49,750,000,000.
+      - Outlays, $49,450,000,000.
+      - New direct loan obligations, $50,000,000.
+      - New primary loan guarantee commitments, $300,000,000.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1990:
+      - New budget authority, $54,200,000,000.
+      - Outlays, $53,700,000,000.
+      - New direct loan obligations, $50,000,000.
+      - New primary loan guarantee commitments, $350,000,000.
+      - New secondary loan guarantee commitments, $0.
+  - **(12)** Medicare (570):
+    - Fiscal year 1988:
+      - New budget authority, $92,850,000,000.
+      - Outlays, $81,600,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1989:
+      - New budget authority, $102,300,000,000.
+      - Outlays, $89,450,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1990:
+      - New budget authority, $113,050,000,000.
+      - Outlays, $99,950,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+  - **(13)** Income Security (600):
+    - Fiscal year 1988:
+      - New budget authority, $168,600,000,000.
+      - Outlays, $131,450,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1989:
+      - New budget authority, $176,650,000,000.
+      - Outlays, $139,000,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1990:
+      - New budget authority, $183,150,000,000.
+      - Outlays, $144,600,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+  - **(14)** Social Security (650):
+    - Fiscal year 1988:
+      - New budget authority, $4,700,000,000.
+      - Outlays, $4,700,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1989:
+      - New budget authority, $5,300,000,000.
+      - Outlays, $5,300,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1990:
+      - New budget authority, $5,400,000,000.
+      - Outlays, $5,400,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+  - **(15)** Veterans Benefits and Services (700):
+    - Fiscal year 1988:
+      - New budget authority, $27,900,000,000.
+      - Outlays, $27,350,000,000.
+      - New direct loan obligations, $1,100,000,000.
+      - New primary loan guarantee commitments, $30,400,000,000.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1989:
+      - New budget authority, $28,150,000,000.
+      - Outlays, $27,550,000,000.
+      - New direct loan obligations, $1,000,000,000.
+      - New primary loan guarantee commitments, $28,400,000,000.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1990:
+      - New budget authority, $28,250,000,000.
+      - Outlays, $27,900,000,000.
+      - New direct loan obligations, $900,000,000.
+      - New primary loan guarantee commitments, $30,700,000,000.
+      - New secondary loan guarantee commitments, $0.
+  - **(16)** Administration of Justice (750):
+    - Fiscal year 1988:
+      - New budget authority, $9,600,000,000.
+      - Outlays, $9,350,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1989:
+      - New budget authority, $9,550,000,000.
+      - Outlays, $9,550,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1990:
+      - New budget authority, $9,500,000,000.
+      - Outlays, $9,550,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+  - **(17)** General Government (800):
+    - Fiscal year 1988:
+      - New budget authority, $7,700,000,000.
+      - Outlays, $7,150,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1989:
+      - New budget authority, $7,650,000,000.
+      - Outlays, $7,000,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1990:
+      - New budget authority, $7,850,000,000.
+      - Outlays, $7,200,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+  - **(18)** General Purpose Fiscal Assistance (850):
+    - Fiscal year 1988:
+      - New budget authority, $1,800,000,000.
+      - Outlays, $1,800,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1989:
+      - New budget authority, $1,850,000,000.
+      - Outlays, $1,850,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1990:
+      - New budget authority, $1,900,000,000.
+      - Outlays, $1,900,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+  - **(19)** Net Interest (900):
+    - Fiscal year 1988:
+      - New budget authority, $145,500,000,000.
+      - Outlays, $145,500,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1989:
+      - New budget authority, $151,800,000,000.
+      - Outlays, $151,800,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1990:
+      - New budget authority, $156,100,000,000.
+      - Outlays, $156,100,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+  - **(20)** Allowances (920):
+    - Fiscal year 1988:
+      - New budget authority, $700,000,000.
+      - Outlays, $700,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1989:
+      - New budget authority, $300,000,000.
+      - Outlays, $550,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1990:
+      - New budget authority, $350,000,000.
+      - Outlays, $50,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+  - **(21)** Undistributed Offsetting Receipts (950):
+    - Fiscal year 1988:
+      - New budget authority, ;$35,350,000,000.
+      - Outlays, $42,650,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1989:
+      - New budget authority, $36,150,000,000.
+      - Outlays, $36,050,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1990:
+      - New budget authority, $37,150,000,000.
+      - Outlays, $37,150,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1988:
+      - New budget authority, $14,650,000,000.
+      - Outlays, $14,650,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1989:
+      - New budget authority, $18,150,000,000.
+      - Outlays, $18,150,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1990:
+      - New budget authority, $32,350,000,000.
+      - Outlays, $32,350,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+
+## § 4. reconciliation
+
+- **(a)** Not later than July 28, 1987, the committees named in subsections (b) through (s) of this section shall submit their recommendations to the Committees on the Budget of their respective Houses. After receiving those recommendations, the Committees on the Budget shall report to the House and Senate a reconciliation bill or resolution or both carrying out all such recommendations without any substantive revision.
+- **(b)** *senate committees* The Senate Committee on Agriculture, Nutrition, and Forestry shall report (1) changes in laws within its jurisdiction which provide spending authority as defined in section 401(c)(2)(C) of the Congressional Budget and Impoundment Control Act of 1974, (2) changes in laws within its jurisdiction which provide spending authority other than as defined in section 401(c)(2)(C) of the Act, or (3) any combination thereof, sufficient to increase contributions and reduce budget authority and outlays as follows: $7,218,000 in contributions, $1,330,000 in budget authority and $1,330,000 in outlays in fiscal year 1988, $788,000,000 in contributions, $1,730,000 in budget authority and $1,730,000 in outlays in fiscal year 1989, and $788,000,000 in contributions, $2,778,000 in budget authority and $2,778,000 in outlays in fiscal year 1990.
+- **(c)** The Senate Committee on Banking, Housing, and Urban Affairs shall report (1) changes in laws within its jurisdiction which provide spending authority as defined in section 401(c)(2)(C) of the Congressional Budget and Impoundment Control Act of 1974, sufficient to reduce budget authority and outlays, (2) changes in laws within its jurisdiction which provide spending authority other than as defined in section 401(c)(2)(C) of the Act, sufficient to reduce budget authority and outlays, or (3) any combination thereof, as follows: $200,000,000 in budget authority and $200,000,000 in outlays in fiscal year 1988, $200,000,000 in budget authority and $200,000,000 in outlays in fiscal year 1989, and $200,000,000 in budget authority and $200,000,000 in outlays in fiscal year 1990.
+- **(d)** The Senate Committee on Commerce, Science, and Transportation shall report (1) changes in laws within its jurisdiction which provide spending authority as defined in section 401(c)(2)(C) of the Congressional Budget and Impoundment Control Act of 1974, sufficient to reduce budget authority and outlays, (2) changes in laws within its jurisdiction which provide spending authority other than as defined in section 401(c)(2)(C) of the Act, sufficient to reduce budget authority and outlays, or (3) any combination thereof, as follows: $394,000,000 in budget authority and $376,000,000 in outlays in fiscal year 1988, $394,000,000 in budget authority and $391,000,000 in outlays in fiscal year 1989, and $94,000,000 in budget authority and $93,000,000 in outlays in fiscal year 1990.
+- **(e)** The Senate Committee on Energy and Natural Resources shall report (1) changes in laws within its jurisdiction which provide spending authority as defined in section 401(c)(2)(C) of the Congressional Budget and Impoundment Control Act of 1974, sufficient to reduce budget authority and outlays, (2) changes in laws within its jurisdiction which provide spending authority other than as defined in section 401(c)(2)(C) of the Act, sufficient to reduce budget authority and outlays, or (3) any combination thereof, as follows: $170,000,000 in budget authority and $170,000,000 in outlays in fiscal year 1988, $280,000,000 in budget authority and $280,000,000 in outlays in fiscal year 1989, and $280,000,000 in budget authority and $280,000,000 in outlays in fiscal year 1990.
+- **(f)** The Senate Committee on Environment and Public Works shall report (1) changes in laws within its jurisdiction which provide spending authority as defined in section 401(c)(2)(C) of the Congressional Budget and Impoundment Control Act of 1974, sufficient to reduce budget authority and outlays, (2) changes in laws within its jurisdiction which provide spending authority other than as defined in section 401(c)(2)(C) of the Act, sufficient to reduce budget authority and outlays, or (3) any combination thereof, as follows: $150,000,000 in budget authority and $150,000,000 in outlays in fiscal year 1988, $150,000,000 in budget authority and $150,000,000 in outlays in fiscal year 1989, and $150,000,000 in budget authority and $150,000,000 in outlays in fiscal year 1990.
+- **(g)**
+  - **(1)** The Senate Committee on Finance shall report (A) changes in Taws within its jurisdiction which provide spending authority as defined in section 401(c)(2)(C) of the Congressional Budget and Impoundment Control Act of 1974, sufficient to reduce budget authority and outlays, (B) changes in laws within its jurisdiction which provide spending authority other than as defined in section 401(c)(2)(C) of the Act, sufficient to reduce budget authority and outlays, or (C) any combination thereof, as follows: $0 in budget authority and $1,600,000,000 in outlays in fiscal year 1988, $0 in budget authority and $3,150,000,000 in outlays in fiscal year 1989, and $0 in budget authority and $4,450,000,000 in outlays in fiscal year 1990.
+  - **(2)** The Senate Committee on Finance shall report changes in laws within its jurisdiction sufficient to increase revenues as follows: $19,300,000,000 in fiscal year 1988, $22,000,000,000 in fiscal year 1989, and $23,000,000,000 in fiscal year 1990.
+  - **(3)** The Senate Committee on Finance shall report changes in laws to increase the statutory limit on the public debt to an amount not to exceed $2,565,100,000,000.
+- **(h)** The Senate Committee on Governmental Affairs shall report (1) changes in laws within its jurisdiction which provide spending authority as defined in section 401(c)(2)(C) of the Congressional Budget and Impoundment Control Act of 1974, sufficient to reduce budget authority and outlays, (2) changes in laws within its jurisdiction which provide spending authority other than as defined in section 401(c)(2)(C) of the Act, sufficient to reduce budget authority and outlays, or (3) any combination thereof, as follows: $100,000,000 in budget authority and $100,000,000 in outlays in fiscal year 1988, $1,752,000,000 in budget authority and $1,782,000,000 in outlays in fiscal year 1989, and $3,253,000,000 in budget authority and $3,357,000,000 in outlays in fiscal year 1990.
+- **(i)** The Senate Committee on Labor and Human Resources shall report (1) changes in laws within its jurisdiction which provide spending authority as defined in section 401(c)(2)(C) of the Congressional Budget and Impoundment Control Act of 1974, sufficient to reduce budget authority and outlays, (2) changes in laws within its jurisdiction which provide spending authority other than as defined in section 401(c)(2)(C) of the Act, sufficient to reduce budget authority and outlays, or (3) any combination thereof, as follows: $0 in budget authority and $100,000,000 in outlays in fiscal year 1988, $0 in budget authority and $200,000,000 in outlays in fiscal year 1989, and $0 in budget authority and $200,000,000 in outlays in fiscal year 1990.
+- **(j)** The Senate Committee on Veterans’ Affairs shall report (1) changes in laws within its jurisdiction which provide spending authority as defined in section 401(c)(2)(C) of the Congressional Budget and Impoundment Control Act of 1974, sufficient to reduce budget authority and outlays, (2) changes in laws within its jurisdiction which provide spending authority other than as defined in section 401(c)(2)(C) of the Act, sufficient to reduce budget authority and outlays, or (3) any combination thereof, as follows: $50,000,000 in budget authority and $50,000,000 in outlays in fiscal year 1988, $30,000,000 in budget authority and $30,000,000 in outlays in fiscal year 1989, and $0 in budget authority and $10,000,000 in outlays in fiscal year 1990.
+- **(k)** *house committees* The House Committee on Agriculture shall report (1) changes in laws within its jurisdiction which provide spending authority as defined in section 401(c)(2)(C) of the Congressional Budget and Impoundment Control Act of 1974, (2) changes in laws within its jurisdiction which provide spending authority other than as defined in section 401(c)(2)(C) of the Act, or (3) any combination thereof, sufficient to increase contributions and reduce budget authority and outlays as follows: $7,218,000,000 in contributions, $1,240,000,000 in budget authority and $8,548,000,000 in outlays in fiscal year 1988, $788,000,000 in contributions, $987,000,000 in budget authority and $942,000,000 in outlays in fiscal year 1989, $788,000,000 in contributions, and $2,036,000,000 in budget authority and $1,990,000,000 in outlays in fiscal year 1990.
+- **(l)** The House Committee on Merchant Marine and Fisheries shall report (1) changes in laws within its jurisdiction which provide spending authority as defined in section 401(c)(2)(C) of the Congressional Budget and Impoundment Control Act of 1974, sufficient to reduce budget authority and outlays, (2) changes in laws within its jurisdiction which provide spending authority other than as defined in section 401(c)(2)(C) of the Act, sufficient to reduce budget authority and outlays, or (3) any combination thereof, as follows: $94,000,000 in budget authority and $76,000,000 in outlays in fiscal year 1988, $94,000,000 in budget authority and $91,000,000 in outlays in fiscal year 1989, and $94,000,000 in budget authority and $93,000,000 in outlays in fiscal year 1990.
+- **(m)** The House Committee on Banking, Finance and Urban Affairs shall report (1) changes in laws within its jurisdiction which provide spending authority as defined in section 401(c)(2)(C) of the Congressional Budget and Impoundment Control Act of 1974, sufficient to reduce budget authority and outlays, (2) changes in laws within its jurisdiction which provide spending authority other than as defined in section 401(c)(2)(C) of the Act, sufficient to reduce budget authority and outlays, or (3) any combination thereof, as follows: $200,000,000 in budget authority and $200,000,000 in outlays in fiscal year 1988, $200,000,000 in budget authority and $200,000,000 in outlays in fiscal year 1989, and $200,000,000 in budget authority and $200,000,000 in outlays in fiscal year 1990.
+- **(n)** The House Committee on Education and Labor shall report (1) changes in laws within its jurisdiction which provide spending authority as defined in section 401(c)(2)(C) of the Congressional Budget and Impoundment Control Act of 1974, sufficient to reduce budget authority and outlays, (2) changes in laws within its jurisdiction which provide spending authority other than as denned in section 401(c)(2)(C) of the Act, sufficient to reduce budget authority and outlays, or (3) any combination thereof, as follows: $0 in budget authority and $100,000,000 in outlays in fiscal year 1988, $0 in budget authority and $200,000,000 in outlays in fiscal year 1989, and $0 in budget authority and $200,000,000 in outlays in fiscal year 1990.
+- **(o)** The House Committee on Energy and Commerce shall report (1) changes in laws within its jurisdiction which provide spending authority as defined in section 401(c)(2)(C) of the Congressional Budget and Impoundment Control Act of 1974, sufficient to reduce budget authority and outlays, (2) changes in laws within its jurisdiction which provide spending authority other than as defined in section 401(c)(2)(C) of the Act, sufficient to reduce budget authority and outlays, or (3) any combination thereof, as follows: $590,000,000 in budget authority and $2,090,000,000 in outlays in fiscal year 1988, $700,000,000 in budget authority and $3,650,000,000 in outlays in fiscal year 1989, and $400,000,000 in budget authority and $4,650,000,000 in outlays in fiscal year 1990.
+- **(p)** The House Committee on Interior and Insular Affairs shall report (1) changes in laws within its jurisdiction which provide spending authority as defined in section 401(c)(2)(C) of the Congressional Budget and Impoundment Control Act of 1974, sufficient to reduce budget authority and outlays, (2) changes in laws within its jurisdiction which provide spending authority other than as defined in section 401(c)(2)(C) of the Act, sufficient to reduce budget authority and outlays, or (3) any combination thereof, as follows: $180,000,000 in budget authority and $180,000,000 in outlays in fiscal year 1988, $180,000,000 in budget authority and $180,000,000 in outlays in fiscal year 1989, and $180,000,000 in budget authority and $180,000,000 in outlays in fiscal year 1990.
+- **(q)** The House Committee on Post Office and Civil Service shall report (1) changes in laws within its jurisdiction which provide spending authority as defined in section 401(c)(2)(C) of the Congressional Budget and Impoundment Control Act of 1974, sufficient to reduce budget authority and outlays, (2) changes in laws within its jurisdiction which provide spending authority other than as defined in section 401(c)(2)(C) of the Act, sufficient to reduce budget authority and outlays, or (3) any combination thereof, as follows: $100,000,000 in budget authority and $100,000,000 in outlays in fiscal year 1988, $1,752,000,000 in budget authority and $1,782,000,000 in outlays in fiscal year 1989, and $3,253,000,000 in budget authority and $3,357,000,000 in outlays in fiscal year 1990.
+- **(r)** The House Committee on Veterans’ Affairs shall report (1) changes in laws within its jurisdiction which provide spending authority as defined in section 401(c)(2)(C) of the Congressional Budget and Impoundment Control Act of 1974, sufficient to reduce budget authority and outlays, (2) changes in laws within its jurisdiction which provide spending authority other than as defined in section 401(c)(2)(C) of the Act, sufficient to reduce budget authority and outlays, or (3) any combination thereof, as follows: $50,000,000 in budget authority and $50,000,000 in outlays in fiscal year 1988, $30,000,000 in budget authority and $30,000,000 in outlays in fiscal year 1989, and $0 in budget authority and $10,000,000 in outlays in fiscal year 1990.
+- **(s)**
+  - **(1)** The House Committee on Ways and Means shall report (A) changes in laws within its jurisdiction which provide spending authority as defined in section 401(c)(2)(C) of the Congressional Budget and Impoundment Control Act of 1974, sufficient to reduce budget authority and outlays, (B) changes in laws within its jurisdiction which provide spending authority other than as defined in section 401(c)(2)(C) of the Act, sufficient to reduce budget authority and outlays, or (C) any combination thereof, as follows: $0 in budget authority and $1,600,000,000 in outlays in fiscal year 1988, $0 in budget authority and $3,150,000,000 in outlays in fiscal year 1989, and $0 in budget authority and $4,450,000,000 in outlays in fiscal year 1990.
+  - **(2)** The House Committee on Ways and Means shall report changes in laws within its jurisdiction sufficient to increase revenues as follows: $19,300,000,000 in fiscal year 1988, $22,000,000,000 in fiscal year 1989, and $23,000,000,000 in fiscal year 1990.
+
+## § 5. funding for defense
+
+- **(a)**
+  - **(1)** The following amounts of new budget authority and budget outlays for fiscal years 1988, 1989, and 1990 are hereby reserved for subsequent allocation under section 302(a) of the Congressional Budget and Impoundment Control Act of 1974:
+    - Function 050 (National Defense)
+      - Fiscal year 1988:
+        - New budget authority, $7,000,000,000.
+        - Outlays, $5,900,000,000.
+      - Fiscal year 1989:
+        - New budget authority, $8,900,000,000.
+        - Outlays, $4,300,000,000.
+      - Fiscal year 1990:
+        - New budget authority, $13,100,000,000.
+        - Outlays, $7,200,000,000.
+    - Function 900 (Net Interest)
+      - Fiscal year 1988:
+        - New budget authority, $200,000,000.
+        - Outlays, $200,000,000.
+      - Fiscal year 1989:
+        - New budget authority, $550,000,000.
+        - Outlays, $550,000,000.
+      - Fiscal year 1990:
+        - New budget authority, $1,000,000,000.
+        - Outlays, $1,000,000,000.
+  - **(2)** Pursuant to this subsection, the levels available for Function 050 are as follows:
+    - Fiscal year 1988:
+      - New budget authority, $289,000,000,000.
+      - Outlays, $283,600,000,000.
+    - Fiscal year 1989:
+      - New budget authority, $294,800,000,000.
+      - Outlays, $288,000,000,000.
+    - Fiscal year 1990:
+      - New budget authority, $297,900,000,000.
+      - Outlays, $292,000,000,000.
+- **(b)**
+  - For purposes of section 311(a) of the Congressional Budget and Impoundment Control Act of 1974, the appropriate levels of total new budget authority and total budget outlays for fiscal year 1988 shall be considered to be the following:
+  - Fiscal year 1988 Budget Authority $1,146,000,000,000.
+  - Fiscal year 1988 Budget Outlays $1,034,700,000,000:
+  - Provided, however, That if a revised allocation is made pursuant to subsections (c) and (d) then such levels shall be adjusted accordingly in any report pursuant to such subsections.
+- **(c)** The amounts in subsection (a)(1) withheld from allocation in fiscal year 1988 for function 050 (National Defense) and Function 900 (Net Interest) shall be allocated when a reconciliation bill containing the legislative provisions required by sections 4(g) and 4(s) of this resolution is enacted into law.
+- **(d)** Upon the enactment of such reconciliation bill, the Chairmen of the Committees on the Budget shall file with their respective Houses revised allocations under section 302(a) of such Act of new budget authority and outlays to their respective Committee on Appropriations reflecting the full amount as set forth in section 3(b)(1) of this resolution.
+
+## § 6. deficit reduction account
+
+- **(a)** It is assumed that as a procedure appropriate to carry out the purposes of the Congressional Budget and Impoundment Act of 1974 (within the meaning of section 301(b)(4) of such Act), the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives would, as an integral part of the changes in law reported pursuant to sections 4(g) and 4(s) of this concurrent resolution, report legislation to—
+  - **(1)** establish a separate account in the Treasury into which the amounts by which the aggregate levels of Federal revenues should be increased as set forth in section 3(a)(1) of this resolu-tion as well as contributions resulting from the changes in law reported pursuant to sections 4(b) and 4(k) of this resolution would be deposited,
+  - **(2)** ensure that any revenues deposited in such account would not be available for appropriation, and
+  - **(3)** provide that any such revenues deposited in such account would be used to retire outstanding debt obligations of the United States Government.
+- **(b)** Legislation reported pursuant to subsection (a) shall not be considered to be extraneous for purposes of section 20001 of the Consolidated Omnibus Reconciliation Act of 1985 (as amended by section 7006 of the Omnibus Budget Reconciliation Act of 1986) or Senate Resolution 509 (99th Congress, 2d Session).
+
+## § 7. sale of government assets
+
+- **(a)** It is the sense of the Congress that—
+  - **(1)** from time to time the United States Government should sell assets to non-governmental buyers; and
+  - **(2)** the amounts realized from such sales will not recur on an annual basis and do not reduce the demand for credit.
+- **(b)** The amounts to be realized from such sales not previously authorized by law shall not be treated as revenues, receipts, or negative outlays—
+  - **(1)** for purposes of determining, in accordance with sections 301(i) and 311(a) of the Congressional Budget and Impoundment Control Act of 1974, as added by the Balanced Budget and Emergency Deficit Control Act of 1985, whether the maximum deficit amount for a fiscal year has been exceeded;
+  - **(2)** for purposes of other points of order under section 311 of the Congressional Budget and Impoundment Control Act of 1974;
+  - **(3)** for purposes of reconciliation under section 310 of the Congressional Budget and Impoundment Control Act of 1974; or
+  - **(4)** for purposes of allocations and points of order under section 302 of the Congressional Budget and Impoundment Control Act of 1974.
+- **(c)** The prepayment described in section 8 of this resolution shall not be considered as an amount realized from the sale of an asset within the meaning of this section.
+
+## § 8. budgetary treatment of legislation authorizing the prepayment of certain loans
+
+For purposes of allocations and points of order under section 302 of the Congressional Budget and Impoundment Control Act of 1974—contributions resulting from legislation authorizing the United States Government to waive the prepayment premium on certain government loans guaranteed by an agency and advanced by the Federal Financing Bank and allows repayment with new government guaranteed loans shall not be allocated to committee and shall not be scored with respect to the level of budget authority or outlays under a committee’s allocation under section 302 of such Act.
+
+## § 9. funding for welfare reform and medicare catastrophic insurance initiatives
+
+- **(a)** It would be appropriate for the House Committee on Ways and Means to increase outlays in fiscal years 1988, 1989, and 1990 for programs within the jurisdiction of that committee and not assumed in section 3 of this resolution if that committee reports changes in laws within its jurisdiction which increase revenues or reduce outlays in such fiscal years by amounts sufficient to ensure that the increased outlays for such programs would not increase the deficits set forth in such section.
+- **(b)**
+  - **(1)** In the Senate, of the amounts specified in section 3 of this resolution, budget authority and outlays in amounts not to exceed the amounts specified in subsection (b)(2) for fiscal year 1988, shall be allocated to the appropriate committees of the Senate to provide for the child care and job training initiative when the appropriate committees of the Senate have reported legislation that will, if enacted, make funds available for such initiative.
+  - **(2)**
+    - **(A)** The amounts available for allocation under subsection (b)(1) for funding for child care for fiscal year 1988 shall not exceed $150,000,000 of new budget authority and $110,000,000 of outlays.
+    - **(B)** The amounts available for allocation under subsection (b)(1) for funding for job training for fiscal year 1988 shall not exceed $900,000,000 of new budget authority and $300,000,000 of outlays.
+  - **(3)** Upon the reporting of legislation pursuant to subsection (b)(1), and again upon the submission of a conference report on such legislation, if such a conference report is submitted, the Chairman of the Committee on the Budget of the Senate may file with the Senate appropriately revised allocations under section 302(a) of the Congressional Budget and Impoundment Control Act of 1974. If the conference report on such legislation, if any, contains levels of funding in excess of those set forth in subsection (b)(2) of this section, then upon the submission of such conference report, the Chairman of the Committee on the Budget of the Senate may file with the Senate appropriately revised aggregates. Such revised allocations and aggregates shall be considered for the purposes of such Act as allocations and aggregates contained in this resolution, and the appropriate committees of the Senate shall report revised allocations, pursuant to section 302(b) of such Act for fiscal year 1988 to carry out this section.
+- **(c)**
+  - **(1)** In the Senate, budget authority and outlays for fiscal year 1988 shall be allocated to the appropriate committees of the Senate to provide for the medicare catastrophic health insurance initiative, and the aggregates for fiscal years 1988,1989, and 1990, in sections 2 and 3 of this resolution shall be adjusted accordingly, when—
+    - **(A)** legislation has been reported that will, if enacted, ensure that any legislation providing for any such additional funding will not increase the deficits for fiscal years 1988,1989, and 1990 above the levels set forth in sections 2 and 3 of this resolution; and
+    - **(B)** the appropriate committees of the Senate have reported legislation that will, if enacted, make funds available for such initiative.
+  - **(2)** Upon the reporting of legislation pursuant to subsection (c)(1), and again upon the submission of a conference report on such legislation, if such a conference report is submitted, the Chairman of the Committee on the Budget of the Senate may file with the Senate appropriately revised allocations under section 302(a) of the Congressional Budget Act of 1974 and revised functional levels and aggregates to carry out this section. Such revised allocations, functional levels, and aggregates shall be considered for the purposes of such Act as allocations, functional levels, and aggregates contained in this resolution, and the appropriate committees of the Senate shall report revised allocations pursuant to section 302(b) of such Act for fiscal year 1988 to carry out this section.
+
+## § 10. medicare savings
+
+It is assumed that the Committee on Finance of the Senate and the Committees on Ways and Means and Energy and Commerce of the House of Representatives would achieve Medicare savings as specified in this resolution without increasing premiums or deductibles or delaying eligibility or otherwise raising beneficiary out-of-pocket costs.
+
+## § 11. sense of senate on income tax rates
+
+- **(a)** *Findings.—* The Senate finds—
+  - **(1)** the Tax Reform Act of 1986 was enacted only after nearly two years of congressional study and deliberation,
+  - **(2)** the most fundamental principle of tax reform has been the reduction or elimination of special tax benefits in order to reduce tax rates for all taxpayers, and
+  - **(3)** taxpayers have a right to expect Congress to hold to its promise to reduce tax rates in return for elimination of special tax benefits, rather than to use tax reform as a disguised effort to raise taxes.
+- **(b)** *Sense of the Senate.—* It is the sense of the Senate that the assumptions underlying the revenue levels of this budget resolution will not be achieved by either raising or delaying the individual or corporate income tax rates provided in the Tax Reform Act of 1986.
+
+## § 12. rural hospitals medicare programs
+
+It is the sense of the Congress that, in enacting any legislation that amends the Medicare Program to reconcile its expenditures with those required under a congressional concurrent resolution on the Federal budget for fiscal year 1988 and subsequent years, there should be taken into account the special needs of rural hospitals which are not currently taken into account under the Medicare Hospital Prospective Payment System.
+
+## § 13. section 302(a) allocation in the house
+
+The Chairman of the Committee on the Budget of the House of Representatives may file, not later than July 1, 1987, a report in the House containing the allocations required to be made pursuant to section 302(a) of the Congressional Budget Act of 1974. The report shall be printed as, and considered to be, a report of the Committee on the Budget and such allocations made in that report shall be considered to be the allocations required to be in the joint explanatory statement accompanying this resolution.
+
+
+*Agreed to June 24, 1987.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- June 24, 1987 [H. Con. Res. 93]
+- Reports.
+- Public debt limit.
+- Children and youth. Employment and unemployment.
