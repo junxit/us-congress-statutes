@@ -1,0 +1,35 @@
+---
+volume: 36
+citation: 36 Stat. 197
+type: Chapter
+number: 42
+congress: 61
+session: 2
+scope: public
+approved: 1910-02-19
+bills: 61/hr-18411
+---
+
+# Chapter 42
+
+> An Act To authorize the Thacker Coal Mining Company to construct a footbridge across Tug River, at Thacker, Mingo County, West Virginia.
+
+*Be it enacted by the Senate and House of Representatives of the United; States of America in Congress assembled,*
+
+That the Thacker Coal Mining Company, a corporation organized under the laws of the State of West Virginia, is hereby authorized to construct, maintain, and operate a footbridge and approaches thereto, across the Tug River at a point suitable to the interests of navigation, at or near Thacker, in the county of Mingo, in the State of West Virginia, in accordance with the provisions of the Act entitled “An Act to regulate the construction of bridges over navigable waters,” approved March twenty-third, nineteen hundred and six.
+
+## § 2.
+
+That the right to alter, amend, or repeal this Act is hereby expressly reserved.
+
+
+*Approved, February 19, 1910.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- February 19, 1910. [H. R. 18411.] [Public, No. 48.]
+- Tug River, W. Va. Thacker Coal Mining Company may bridge, at Thacker.
+- Vol. 34, p. 84.
+- Amendment.

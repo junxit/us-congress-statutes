@@ -1,0 +1,35 @@
+---
+volume: 36
+citation: 36 Stat. 294
+type: Chapter
+number: 151
+congress: 61
+session: 2
+scope: public
+approved: 1910-04-09
+bills: 61/s-6794
+---
+
+# Chapter 151
+
+> An Act Authorizing the construction of a bridge across the Okanogan River in the county of Okanogan, Washington.
+
+*Be it enacted by the Senate and House of Representatives of the UnitedStates of America in Congress assembled,*
+
+That the Okanogan Electric Railway Company, a corporation organized under the laws of the State of Washington, is hereby authorized to construct, maintain, and operate a bridge and approaches thereto across the Okanogan River in the county of Okanogan, Washington, at a point suitable to the interests of navigation, at or near Defflins Ferry, about seven and one-half miles from the junction of said Okanogan River with the Columbia River, in accordance with the provisions of an Act of Congress entitled “An Act to regulate the construction of bridges over navigable waters,” approved March twenty-third, nineteen hundred and six.
+
+## § 2.
+
+That the right to alter, amend, or repeal this Act is hereby expressly reserved.
+
+
+*Approved, April 9, 1910.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- April 9, 1910. [S. 6794.] [Public, No. 125.]
+- Okanogan River. Okanogan Electric Railway Company may bridge, at Defflins Ferry, Wash.
+- Vol. 34, p. 84.
+- Amendment.
