@@ -1,0 +1,235 @@
+---
+volume: 70
+type: Senate Concurrent Resolution
+number: 66
+bills: 84/sconres-66
+---
+
+# Senate Concurrent Resolution 66
+
+> deportation suspensions
+
+*Resolved by the Senate (the House of Representatives concurring),*
+
+That the Congress favors the suspension of deportation in the case of each alien hereinafter named, in which case the Attorney General has suspended deportation for more than six months:
+
+- T–647943, Aguiar, Atanasio Roldan or Atanasio Roldan.
+- A–1402427, Ali, Hassan.
+- A–3597006, Almanza, Avelina (nee Valdivia).
+- A–9610412, Alonzo, Michael.
+- A–3481902, Ambrosino, Michael or Michele Ambrosino.
+- A–9537473, Andersen, Ingvald Andrew.
+- A–6093625, Arellano-Moreno, Sabino.
+- A–6323176, Arellano, Carmen Torres De.
+- A–2930860, Aronis, George Bernard.
+- E–085904, Asensio-Torrado, Jose or Jose Asensio.
+- T–303938, Najara-Ochoa, Pedro.
+- A–2552572, Barajas, Maximiliano.
+- E–41852, Benavides-Torres, Samuel.
+- E–086225, Bertuzzi, Galliano Fortunato or Galliano Bertuzzi.
+- 1610–8546, Bilbao, Adolfo or Adolph B. Bow.
+- A–9625368, Boussoulas, Demetrios Aroyriou.
+- A–4178923, Burcea, Ioan.
+- A–4115087, Burgos, Santo Enrique.
+- A–7983091, Cairo, Olga Ann.
+- A–6859579, Castillot Gonzalo Mena y.
+- A–4596763, Chavarria-Reyes, Epimenio.
+- A–6026500, Chen, Ho Mei.
+- A–7539202, Chen, Phoebe Shu Heng.
+- A–6779241, Christmas, Blossom Lucille Cann.
+- 0900–37577, Chung, Louis Wei Shan.
+- 0900–38790, Chung, Marie Catherine Lu.
+- 0900–64703, Correa, Adan Martinez.
+- A–9831140, Cristo, Giordano.
+- A–7241577, Csiszar, Michael.
+- A–1822412, Daniels, Edmund Siegfried Douglass.
+- A–1845873, Davis, Helen George.
+- A–9764736, Dean, Benedetto.
+- A–3320341, Espiritu, Teofilo Primero.
+- A–5374217, Fiss, Walter Willy.
+- T–1143538, Flores, Virginia Acosta Matamobos De.
+- T–1892843, Foo, Ling King.
+- A–4946176, Foster, William Herbert.
+- A–7999529, Fried, Lee Mow.
+- 0900/54609, Galvan-Lopez, Felix.
+- A–6472266, Gamponia, Maria Aquilizan.
+- T–2760978, Gandara, Joaquin.
+- A–6986666, Garcia-Pulido, Benito.
+- E–40664, Garcia-Rojas, Enrique.
+- E–40665, Garcia, Evangelina Gonzalez De.
+- A–5657167, Goni, Mario Vincente.
+- A–5961424, Grafi, Karl Charles.
+- A–5978398, Green-Ruiz, Alejandro.
+- A–6978157, Griffith, Eustace.
+- 0900/65211, Guerrero, Maria del Refugio Solorio de.
+- 0900/65195, Guerrero-Rios, Juan.
+- A–6523158, Gusman, Guadalupe Alatorre De.
+- 0900–47522, Gutierrez, Oscar Roberto Argumosa.
+- A–7351304, Gutierrez-Padilla, Enrique.
+- T–2782084, Guzman, Candelario.
+- A–3344028, Hardalau, Petru.
+- E–093674, Henriksen, Niels Peter.
+- A–2264112, Hess, Walter Conrad Raimond.
+- A–5981990, Higashide, Seiichi.
+- A–6143940, Higashide, Angelica Yoshinaga.
+- A–6143935, Higashide, Elsa Yukiko.
+- A–6143936, Higashide, Carlos Shuichi.
+- A–6143937, Higashide, Irma Setsuko.
+- A–6143938, Higashide, Arturo Hideki.
+- A–6143939, Higashide, Marta Yoko.
+- A–9559825, Ho, Chiu or Chin Ho.
+- A–5945075, Jennings, Honora.
+- A–5780243, Ito, Kesemi.
+- A–2581013, Kaltnisch, Raphael.
+- A–6857817, King, Philip.
+- A–3556556, Kocipak, Andrew.
+- 0300–71008, Kow, How.
+- A–9510993, Kwan, Tong Bun.
+- A–9649805, Lee, Ah Moe.
+- 0900–65341, Ledesma, Maria Lopez de.
+- E–25266, Lehmann, Arno Alfred.
+- A–5719563, Lehmann, Emil.
+- A–6067650, Levkovich, Ramona.
+- 0900–51281, Ling, Mary.
+- A–5122500, Litiner, Jacobo.
+- A–7082575, Louie, Shea Wing.
+- 0900–61320, Luna, Jose Francisco Gonzales.
+- E–4859, Magr, Frank.
+- 0900–62107, Mariscal-Guillen, Selina.
+- A–6748458, Mathur, Prem Narain.
+- A–4914354, McLaughlin, Peter.
+- A–4914352, McLaughlin, Evelyn Holmes.
+- 0900/58304, Medina, Israel Miguel Cervantes.
+- A–6886827, Meisels, Brandel.
+- 0300–400058, Messina, Michele.
+- 0900–64069, Miranda, Maria Pineda Garcia de.
+- 0900–64155, Miranda-Acosta, Jose Luis.
+- A–4260072, Molvar, Alfred.
+- A–9831027, Moro, Cosimo.
+- A–5977619, Noda, Yasuki.
+- A–6214509, O’Neill, Amy Frances nee Ramsey.
+- 0900–64982, Pallares-Sanchez, Jesus.
+- T–1495420, Park, Gee Tung.
+- T–1495421, Pung, Li Shau.
+- 0300–89977, Pegoraro, Stefano.
+- A–3469402, Ramirez-Banderas, Jose.
+- 1409–14325, Rangel-Soto, Tomas.
+- E–061673, Reyes-Magana, Mauricio.
+- 0900–59670, Rodriguez, Juan Garza.
+- 0900/63968, Rodriguez-Rangel, Jose.
+- T–2760400, Rodriguez-Razo, Aurelio.
+- A–7457191, Santillan-Cedeno, Leopoldo.
+- A–5046381, Savitzky, George.
+- 0300–398756, Sheck, Yuen.
+- A–7809014, Siao, George John.
+- A–5924765, Silva-Rodriguez, Felix.
+- 0900/64920, Sobrevilla, Manuel Rodriguez.
+- 0900–64921, Rodriguez, Maria Reynalda Vera de.
+- A–7544370, Soong, Eugene You-Chi.
+- A–6370045, Soong, Nancy.
+- A–3585245, Suey, Marh.
+- A–6446669, Szewczyk, Stefania.
+- 0901–18372, Tejeda, Jose Narcisco.
+- 0901–17201, Tejeda-Vallalpando, Leonor.
+- 0901–17203, Tejeda-Vallalpando, Ruben.
+- 0901–17202, Tejeda-Vallalpando, Jose Roberto.
+- 0901–17205, Tejeda-Vallalpando, Manuel.
+- A–6953070, Tsien, Siu Hwa.
+- 0901–17204, Vasquez, Francisca.
+- A–5030257, Venezia, Giovanni.
+- 0935/10084, Villa-Ramirez, Jose.
+- E–39942, Villarreal, Celia San Martin.
+- 0900/47468, Watanabe, Kenzo.
+- E–096771, Williams, Leslie C.
+- 0900/53576, Wing, Chin.
+- 0300–292427, Won, Leung Cheung.
+- A–9507805, Wong, Hung.
+- A–5624176, Wong, King Sun.
+- 0900–61245, Zamora, Felipe Acosta.
+- A–5359958, Zermo, Christiano.
+- A–6739608, Zivolich, Marina.
+- A–5977417, Arashiro, Seisun.
+- E–050460, Bolivar, Reynaldo Manalili.
+- A–4726934, Buyund, Dolla Bin.
+- 0900/58315, Cervantes-Ortega, Candido.
+- A–7890082, Chen, Lincoln Chih-Ho.
+- A–7890083, Chen, Victor Chih-Chia.
+- A–4037840, Cohen, Louis.
+- 0300–258672, Cohn Frida.
+- A–9748470, Cuder-Blanco, Rafael.
+- A–5659527, Den, Chin.
+- 0803–7557, Esquibel-Caberra, Guadalupe.
+- V–850206, Ferguson Alfred George.
+- 0300–26803, Fernandez, Dorothea.
+- 0900–27719, Figueroa, Conrado.
+- 0900/64599, Flores-Robles, Alejandro.
+- A–5367611, Frankelis, Dorothy.
+- A–9684338, Fung, Fat.
+- 0900–64859, Gallegos-Galleggos, Cruz.
+- A–2856825, Garcia-Garcia Severo.
+- E–094509, Hamoy, Elena Saile.
+- A–6955158, Herrera-Comde, Matias.
+- A–7137125, Jimenez, Santos.
+- A–9510248T, Kai, Leo Chin.
+- A–6203207, Klare, Morris.
+- A–7898192, Kortus, Titiana Louisa.
+- V–1415496, Ledezma-Baiza, Gloria Manuela.
+- 0300–286525, Lee, Kum Pui.
+- 0300–286526, Lee, Lydialoo.
+- T–303877, Lira, Enriqueta, Herrera de.
+- A–6748499, Liu, David Tun Yuan.
+- A–6848622, Liu, Nai-Wen Chou.
+- A–4172684, Lohser, Erich Paul.
+- A–6342294, Mennis, Robert Gordon.
+- A–6528033, Montes, Cirilo Reverianc Salgado.
+- 1600–94086, Negreta-Irigoyen, Laureano Lopez.
+- E–082824, Nepomuceno, Clara Arita Alvares de.
+- A–3421695, O’Brien, Emily Elizabeth.
+- A–4792740, Oomen, Anthony Ferdinand.
+- E–42699, Orozco-Medina, Virginia.
+- E–42700, Orozco-Medina, Jose Luis.
+- A–6638788, Pardo-Nigueruelo, Manuel.
+- A–7450424, Pardo, Petronila.
+- A–5088326, Pateh, Ahmat Ben.
+- A–5263554, Patti, Carmella Rizzo.
+- A–4322699, Petruch, Methodius Cirylius.
+- A–1435925, Polidoro, Agostino.
+- 0900/59065, Reyna-Zamora, Juanita.
+- A–7849297T, Robertson, Aubrey.
+- A–6745338, Saavedra, Jose.
+- A–4829244, Schmidt, Arthur Friedrich.
+- A–7809034, Schwarzenberg, Isabella Eleonora.
+- 0300–397874, Shell, Wong.
+- 0900–58157, Silva, Jose Merced.
+- A–7190622, Sison, Juana Opana.
+- A–3062660, Soares, Obed Minto.
+- A–6684629, Soulas, Eleni.
+- T–1496810, Suzuki, Matsuzo.
+- A–5015106, Sviridoff, Anatole Karloff.
+- A–5884953, Tobolsky, Rose.
+- A–6703117, Tsikinias, Ifigenia.
+- A–1345676, Ulyshen, Anna.
+- 0900–64967, Valle-Cerda, Concepcion.
+- A–2979044, Veloudos, Anthony.
+- A–2783888, Vinchesi, Joseph.
+- A–5588208, Wong, Kie.
+- 0300–422302, Wong, Yen.
+- T–1892407, Wong, York.
+- E–079820, Wu, Ling Sen.
+- A–3406051, Yankovic, John Michael.
+- A–4468852, Banks, Max.
+- A–6444637, Chang, Albert Chiang.
+- A–6703483, Chang, Lita Wou.
+- 0900–63964, Hess, Cleopatra Prokos.
+- A–1649371, Kulikowski, Tadeusz.
+- A–2365630, Sakamaki, Sueharu Francis.
+- A–2727597, Sakamaki, Rosa Teru.
+
+
+*Agreed to March 6, 1956.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- March 6, 1956 [S. Con. Res. 66.]
