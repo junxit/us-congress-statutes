@@ -1,0 +1,30 @@
+---
+volume: 19
+citation: 19 Stat. 140
+type: Chapter
+number: 271
+congress: 44
+session: 1
+scope: public
+approved: 1876-08-14
+---
+
+# Chapter 271
+
+> An act Allowing the Pacific Mail Steamship Company to carry the mails in their new iron steamships.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+That the Postmaster-General be, and he is hereby, authorized to accept from the Pacific Mail Steamship Company, for service in transporting the mails of the United States between San Francisco and China, the steamships City of Sidney, City of New York, and City of San Francisco, the same being new iron American- built ships of more than three thousand tons register; said iron steamships to be substituted for any wooden side-wheel steamers now lawfully doing service under the act of Congress of February seventeenth, eighteen hundred and sixty-five: Provided, That nothing herein contained shall be construed as creating reviving or recognizing any claim now pending, or as a basis of any claim which may hereafter be preferred against the United States by said steamship company, growing out of any law or contract whatever, excepting compensation for service performed by the said company for the balance of the term of the contract of the said company made in pursuance of the said act of February seventeenth, eighteen hundred and sixty-five and for which appropriation has been made.
+
+
+*Approved, August 14, 1876.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- Aug. 14, 1876.
+- Iron steamships accepted for China mail service.
+- 1865, eh. 37, 13 Stat., 430.
+- Proviso

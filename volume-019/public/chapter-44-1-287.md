@@ -1,0 +1,869 @@
+---
+volume: 19
+citation: 19 Stat. 143
+type: Chapter
+number: 287
+congress: 44
+session: 1
+scope: public
+approved: 1876-08-15
+---
+
+# Chapter 287
+
+> An act Making appropriations for the legislative, executive, and judicial expenses of the Government for the year ending June thirtieth, eighteen hundred and seventy seven, and for other purposes.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+That the following sums be, and the same are hereby, appropriated, out of any money in the Treasury not otherwise appropriated, in full compensation, for the service of the fiscal year ending June thirtieth, eighteen hundred and seventy-seven, for the objects hereinafter expressed, namely:
+
+## LEGISLATIVE.
+
+Senate—For compensation of Senators, three hundred and seventy thousand dollars;
+
+For mileage of Senetors, thirty thousand dollars.
+
+For compensation of the officers, clerks, messengers, and others receiving an annual salary in the service of the Senate, namely: For Secretary of the Senate, including compensation as disbursing-officer, four thousand eight hundred and ninety-six dollars, and for hire of horses and wagons for the Secretary’s office, one thousand two hundred dollars; chief clerk, three thousand dollars, and the additional sum of one thousand dollars while the said office is held by the present incumbent, and no longer; principal clerk, principal executive clerk, minute and journal clerk, and financial clerk in the office of the Secretary of the Senate, two thousand five hundred and ninety-two dollars each; librarian, and seven clerks in the office of the Secretary of the Senate, at two thousand two hundred and twenty dollars each; clerk of printing records two thousand two hundred and twenty dollars; five clerks two thousand one hundred dollars each; keeper of the stationery, two thousand one hundred and two dollars and forty cents; one messenger, one thousand two hundred and ninety-six dollars; four laborers in the office of the Secretary of the Senate; seven hundred and twenty dollars each; one special policeman, one thousand two hundred and ninety-six dollars; chaplain, nine hundred dollars; secretary to the Vice President, two thousand one hundred and two dollars and forty cents; clerk to the Committee on Finance, two thousand two hundred and twenty dollars; clerk to the Committee on Claims, two thousand two hundred and twenty dollars; clerk to the Committee on Appropriations, two thousand five hundred dollars; clerk to the Committee on Commerce, two thousand two hundred and twenty dollars; clerk to the Committee on the Judiciary, two thousand two hundred and twenty dollars; clerk to the Committee on Private Land Claims, two thousand two hundred and twenty dollars; assistant keeper of the stationery, one thousand eight hundred dollars; Sergeant-at-Arms and Door-keeper, four thousand three hundred and twenty dollars; assistant door keeper, two thousand five hundred and ninety-two dollars; acting assistant doorkeeper, two thousand five hundred and ninety-two dollars; three messengers, acting as assistant doorkeepers, at one thousand eight hundred dollars each; postmaster to the Senate, two thousand one hundred dollars; assistant postmaster and mail-carrier, two thousand and eighty-eight dollars; four mail-carriers, at one thousand two hundred dollars each; superintendent of the document-room, two thousand one hundred and sixty dollars; two assistants in document room, at one thousand four hundred and forty dollars each; superintendent of the folding-room, two thousand one hundred and sixty dollars; one assistant in the folding-room, one thousand two hundred dollars; twenty-one, messengers, one of whom shall act as upholsterer under direction of the Sergeant-at-Arms, at one thousand four hundred and forty dollars each; one laborer in charge of private passage, eight hundred and forty dollars; chief engineer, two thousand one hundred and sixty dollars; three assistant engineers, at one thousand four hundred and forty dollars each; assistant engineer in charge of the Senate elevator, one thousand four hundred and forty dollars; two firemen, at one thousand and ninety-five dollars each; To pay William H St John in charge of Senate store room and document wagon, one thousand two hundred dollars; eight skilled laborers, at one thousand dollars each; ten laborers, at seven hundred and twenty dollars each; to pay Kate Dodson in charge of the ladies’ retiring-room, seven hundred and twenty dollars; telegraph operator, during the session, (which words “during the session” as used in this act shall be held to mean four months,) four hundred dollars; and twelve laborers, at the rate of seven hundred and twenty dollars, per annum during the session of the Senate two thousand eight hundred dollars; making, in all, one hundred and seventy thousand eight hundred and two dollars and eighty cents.
+
+For contingent expenses of the Senate, namely:
+
+For stationery and newspapers, (including five thousand dollars for stationery for committees and officers of the Senate, and one hundred dollars for postage-stamps for the Secretary of the Senate) fourteen thousand two hundred and fifty dollars.
+
+For twenty-eight clerks to committees, at six dollars per day during the session, twenty thousand three hundred and twenty-eight dollars.
+
+For fourteen pages for the Senate chamber, three riding-pages, one page for the Vice President’s room, and one page for the office of the Secretary of the Senate, at the rate of two dollars and fifty cents per day while actually employed, five thousand four hundred dollars.
+
+For hire of horses and mail wagons for carrying the mails, three thousand dollars.
+
+For materials for folding, four thousand dollars.
+
+For four foulders, at not exceeding three dollars per day while actually employed three thousand dollars: Provided however, That any portion of said sum may be used at the discretion of the superintendent for piece work.
+
+And the following prices may be paid for folding books, pamphlets, speeches, and the Daily Record, namely: For quarto volumes, not exceeding one cent per volume; for octavo volumes, not exceeding onehalf cent each per volume; for the Daily Record, not exceeding two dollars per thousand; and for speeches not exceeding one dollar per thousand.
+
+For fuel and oil for the heating apparatus, ten thousand dollars; for . furniture and repairs of furniture, five thousand dollars; for packing-boxes, seven hundred and forty dollars; for miscellaneous items exclusive of labor, thirty-seven thousand dollars; in all fifty two thousand seven hundred and forty dollars.
+
+For reporting the debates and proceedings of the Senate, twenty-five thousand dollars, payable in equal monthly instalments.
+
+For expenses of compiling and preparing the Congressional Directory, to be expended under the directions of the Joint Committee on Public Printing one thousand two hundred dollars.
+
+For cartage, seven hundred dollars.
+
+## capitol police.
+
+For one captain, one thousand six hundred dollars; three lieutenants at one thousand two hundred dollars each; twenty-one privates, at one thousand one hundred dollars each; and six watchmen, at nine hundred dollars each; in all, thirty-three thousand and seven hundred dollars, one half to be paid into the contingent fund of the Senate and the other half to be paid into the contingent fund of the House of Representatives, Provided, That so much of the Joint Resolution approved July fifteenth, eighteen hundred and seventy, as authorizes the employment of additional police force is hereby repealed to take effect from and after the thirtieth day of June eighteen hundred and seventy-six.
+
+## house of representatives.
+
+For compensation of members of the House of Representatives and delegates from Territories, one million five hundred and fifty thousand dollars
+
+For mileage, one hundred thousand dollars.
+
+For compensation of the officers, clerks, messengers, and others receiving an annual salary in the service of the House of Representatives, namely: Clerk of the House of Representatives, including compensation as disbursing-officer of the contingent fund, four thousand five hundred dollars, and for hire of horses and wagons for the use of the Clerk’s office, six hundred dollars; and the Clerk of the House of Representatives is authorized and directed to sign, during the recess of Congress after the first session and until the first day of the second session, the certificates for the monthly compensation of members and delegates in Congress, which certificates shall be in the form now in use, and shall have the like force and effect as is given to the certificate of the Speaker; chief clerk and journal-clerk, two reading-clerks, tally-clerk, five in all, at two thousand five hundred dollars each; disbursing-clerk, file clerk, printing and bill clerk, and enrolling-clerk, four in all, at two thousand two hundred and fifty dollars each; for assistant to chief clerk, assistant to enrolling-clerk, resolution and petition clerk, newspaper-clerk, superintendent of document-room, index-clerk, and librarian, seven in all, at two thousand dollars each; distributing-clerk, one thousand eight hundred dollars; for stationery-clerk, one thousand five hundred dollars; one document-clerk and one upholsterer and locksmith, one thousand four hundred and forty dollars each; one chief messenger in the office of the Clerk of the House and one messenger assisting librarian, at one thousand four hundred and forty dollars each; bookkeeper and four clerks, at one thousand six hundred dollars each; one engineer, one thousand four hundred and forty dollars; and two assistant engineers, at one thousand two hundred dollars each; and all engineers and others who are engaged in heating and ventilating the House shall be subject to the orders of and in all respects under the direction of the Doorkeeper; for five firemen, at nine hundred dollars each; one laborer, at eight hundred and twenty dollars; and four laborers, at seven hundred and twenty dollars each; one page, at two dollars and fifty cents per day during the session; and one telegraph-operator, four hundred dollars; for clerk to the Committee of Ways and Means, two thousand five hundred dollars; messenger to the Committee of Ways and Means, one thousand two hundred dollars; clerk to the Committee on Appropriations, two thousand five hundred dollars; messenger to the Committee on Appropriations, one thousand two hundred dollars; clerk to the Committee of Claims, two thousand dollars; clerk to the Committee on Public Lands, two thousand dollars; clerk to the Committee on War-Claims, two thousand dollars; clerk to Speaker’s table, one thousand eight hundred dollars; private secretary to the Speaker, one thousand eight hundred dollars; Sergeant-at-Arms, of the House of Representatives, four thousand dollars; for one horse and wagon for his use, five hundred dollars; clerk to the Sergeant-at-Arms, two thousand one hundred dollars; paying-teller for the Sergeant-at-Arms, two thousand dollars; messenger to the Sergeant-at-Arms, one thousand two hundred dollars; Doorkeeper, two thousand five hundred dollars; assistant doorkeeper, two thousand dollars, clerk for doorkeeper, one thousand two hundred dollars; janitor, one thousand two hundred dollars; Postmaster, two thousand five hundred dollars; first assistant postmaster, two thousand dollars; four messengers, at one thousand dollars each; eight during the session, at six hundred dollars each; Chaplain of the House, nine hundred dollars; five official reporters of the proceedings and debates of the House, at five thousand dollars each; two stenographers for committees, five thousand dollars each, and this shall be in lieu of all other compensation for such services in reporting and transcribing the proceedings of each and all of said committees; superintendent of the folding-room, two thousand dollars; three clerks in the folding-room, one at one thousand eight hundred dollars and two at one thousand two hundred dollars; one folder in the sealing-room, one thousand two hundred dollars; superintendent and chief assistant in the document-room, at one thousand eight hundred dollars each; document file-clerk, one thousand four hundred dollars; eight messengers, at one thousand two hundred dollars; ten messengers, at one thousand dollars; four laborers under the superintendent of the folding-room, to handle books, at seven hundred and twenty dollars per annum each; seven laborers, at seven hundred and twenty dollars each; ten laborers, during the session, at the rate of seven hundred and twenty dollars each per annum, two thousand four hundred dollars; one laborer, at six hundred dollars; one laborer, (Henry Douglas,) at eight hundred and forty dollars; and for one female attendant in ladies’ retiring-room, six hundred dollars; making, in all, the sum of one hundred and ninety-six thousand four hundred and twenty dollars.
+
+And the fourteen messengers on the soldiers’ roll shall be employed during the current year at a compensation not exceeding one thousand two hundred dollars each. And the sum of money necessary to pay the messengers on that roll is hereby appropriated.
+
+For contingent expenses of the House of Representatives, namely;
+
+For twenty-one clerks to committees, at six dollars per day during the session, fifteen thousand one hundred and twenty dollars.
+
+For materials for folding, eight thousand dollars.
+
+For labor in folding books, speeches, and pamphlets, seven thousand dollars.
+
+And the following prices may be paid for folding books, pamphlets, speeches, and the Daily Record, namely: For quarto volumes, not exceeding one cent per volume; for octavo volumes, not exceeding onehalf cent each per volume; for the Daily Record, not exceeding two dollars per thousand; and for speeches, not exceeding one dollar per thousand.
+
+For fuel and oil for the heating-apparatus, ten thousand dollars.
+
+For hire of horses and mail-wagons for carrying the mails, four thousand dollars.
+
+For furniture, and repairs of the same, five thousand dollars.
+
+For packing boxes, two thousand seven hundred and eighteen dollars.
+
+For cartage, seven hundred dollars.
+
+For miscellaneous items eighteen thousand dollars.
+
+To pay outstanding indebtedness incurred by the committees of the House prior to June thirtieth, eighteen hundred and seventy-six, three thousand dollars, to be disbursed by the Clerk of the House.
+
+For postage stamps for the Sergeant-at-Arms, the Clerk, and the Postmaster of the House of Representatives, each, one hundred dollars, three hundred dollars.
+
+For newspapers and stationery for members of the House of Representatives, officers of the House and committees of the House, including six thousand dollars for stationery for the use of the committees and officers of the House, forty-three thousand three hundred and seventy dollars.
+
+For twenty-eight pages, while actually employed, (including three riding-pages,) at two dollars and fifty cents per day, and for hire of horses, five hundred dollars, eight thousand four hundred dollars.
+
+## PUBLIC PRINTING.
+
+For compensation of the Public Printer at the rate of three thousand six hundred dollars per annum, and of the clerks and employees in his office, twelve thousand nine hundred dollars: Provided, That the term “Public Printer” as employed in that part of the act making appropriations for sundry civil expenses of the Government for the current fiscal year which repeals all laws providing for the election or appointment of Public Printer shall be construed as embracing that officer whether known as Congressional Printer or Public Printer.
+
+For contingent expenses of his office, namely: For stationery, postage, advertising, traveling expenses, horses and wagons, and miscellaneous items, two thousand five hundred dollars.
+
+## LIBRARY OF CONGRESS.
+
+For compensation of the Librarian, four thousand dollars; and for fifteen assistant librarians, two at two thousand two hundred and fifty dollars each, one at two thousand dollars, four at one thousand six hundred dollars each, two at one thousand four hundred and forty dollars each, two at one thousand two hundred and fifty dollars each, two at one thousand two hundred dollars each, one at one thousand dollars, and one at nine hundred and sixty dollars per annum; in all, twenty-six thousand six hundred and forty dollars.
+
+For purchase of books for the Library, seven thousand dollars; for purchase of law-books for the Library, two thousand dollars; for purchase of files of periodicals and newspapers, two thousand five hundred dollars; for expenses of exchanging public documents for the publications of foreign governments, one thousand dollars; in all, twelve thousand five hundred dollars.
+
+For contingent expenses of said Library, one thousand dollars.
+
+For postage on copyright business seven hundred dollars.
+
+For expenses of the copy-right business, five hundred dollars.
+
+For Botanic Garden, for improving the garden, procuring manure, tools, fuel, and repairs, and purchasing trees and shrubs, under the direction of the Library Committee of Congress, three thousand dollars: Provided, That not exceeding six hundred dollars of the foregoing appropriation may be applied in payment for fuel used during the fiscal year ending June thirtieth, eighteen hundred and seventy-six
+
+For pay of superintendent, one thousand six hundred dollars; for assistants in Botanic Garden and Green-Houses; and two additional laborers, under the direction of the Library Committee of Congress; eight thousand four hundred and forty dollars;
+
+## PUBLIC BUILDINGS AND GROUNDS.
+
+For clerk in the Office of Public Buildings and Grounds, one thousand four hundred dollars.
+
+For messenger in the same office, eight hundred and forty dollars.
+
+For landscape gardener, one thousand eight hundred dollars.
+
+For the laborer in charge of the water-closets in the Capitol, seven hundred and twenty dollars.
+
+For a foreman and laborers employed in the public grounds, fifteen thousand four hundred and fifty-six dollars.
+
+For two laborers in the Capitol, one thousand four hundred and forty dollars.
+
+For furnace-keeper in charge of heating-apparatus under the old hall of the House of Representatives, eight hundred and sixty-four dollars.
+
+For the person in charge of the heating apparatus of the Library of Congress, and other steam-heating apparatus in the central building, eight hundred and sixty-four dollars: Provided, That the Architect of the Capitol shall have the care and superintendence of the Capitol including, lighting, and shall submit through the Secretary of the Interior, estimates thereof: And provided further, That all the duties relative to the Capitol building heretofore performed by the Commissioner of public buildings and grounds, shall hereafter be performed by the Architect of the Capitol, whose office shall be in the Capitol building. For the following employees at the Executive Mansion, namely: For furnace-keeper, eight hundred and sixty-four dollars; one night-watch-man at nine hundred dollars; one night usher, at one thousand two hundred dollars; two day-ushers one at the President’s door and one at the door of the Secretary, at one thousand two hundred dollars each; and two door-keepers at twelve hundred dollars each; in all, seven thousand seven hundred and sixty-four dollars.
+
+For two draw-keepers for Navy-Yard and Upper Bridges, and for fuel, oil, and lamps, one thousand six hundred dollars.
+
+For watchman in Franklin Square, seven hundred and twenty dollars.
+
+For watchman at La Fayette Square, seven hundred and twenty dollars.
+
+For two watchmen in Smithsonian Grounds, at seven hundred and twenty dollars each, fourteen hundred and forty dollars.
+
+For one bridge-keeper at Chain Bridge, seven hundred and twenty dollars.
+
+For contingent and incidental expenses, five hundred dollars.
+
+## EXECUTIVE.
+
+For compensation of the President of the United States, fifty thousand dollars.
+
+For compensation of the Vice President of the United States, eight thousand dollars.
+
+For compensation to the following in the office of the President of the United States; Private Secretary, three thousand five hundred dollars; assistant secretary, two thousand two hundred and fifty dollars; two executive clerks at two thousand dollars each; steward at eighteen hundred dollars, and messenger at twelve hundred dollars; in all, twelve thousand seven hundred fifty dollars.
+
+For contingent expenses of the Executive office, including stationery therefor, three thousand dollars.
+
+For official postage-stamps, six hundred dollars.
+
+## DEPARTMENT OF STATE.
+
+For compensation of the Secretary of State, eight thousand dollars; three assistant secretaries of state, at three thousand five hundred dollars each; for chief clerk, two thousand five hundred dollars; twelve clerks of class four; five clerks of class three; ten clerks of class one; and thirteen clerks, at nine hundred dollars each; one messenger; one assistant messenger; one superintendent of the watch, at one thousand dollars; six watchmen; twelve laborers; chief engineer, who shall be a machinist, one thousand two hundred dollars; one assistant engineeer, one thousand dollars; four firemen, at seven hundred and twenty dollars each; twenty charwomen, at one hundred and eighty dollars each; and a conductor for the elevator, at seven hundred and twenty dollars; in all, ninety-nine thousand two hundred and twenty dollars.
+
+For five chiefs of bureaus and one translator, at two thousand one hundred dollars each, twelve thousand six hundred dollars.
+
+For proof-reading and packing the laws and documents for the various legations and consulates, including boxes and transportation of the same, two thousand five hundred dollars; for stationery, furniture, fixtures, and repairs, four thousand dollars; for books and maps, two thousand dollars; for extra clerk-hire and copying, two thousand five hundred dollars; in all, eleven thousand dollars.
+
+For contingent expenses, namely: For fuel, ten thousand dollars; for lights, three thousand dollars; for repairs, two thousand dollars; for care and subsistence of horses and repairs of wagons and harness, one thousand five hundred dollars; and for miscellaneous items, not included in the foregoing, three thousand one hundred and twenty-five dollars; in all, nineteen thousand six hundred and twenty-five dollars
+
+For rent of stable and wagon-shed for the new State Department Building one thousand dollars.
+
+For services of lithographer, and necessary materials for the lithographic press, one thousand five hundred dollars.
+
+For expense of editing, printing, binding, and distributing the laws enacted by the first session of the Forty-fourth Congress, ten thousand dollars.
+
+For expense of editing, printing, binding, and distributing the laws enacted by the second session of the Forty-fourth Congress, ten thousand dollars.
+
+## TREASURY DEPARTMENT
+
+Secretary’s Office.—For compensation of the Secretary of the Treasury, eight thousand dollars; two assistant secretaries of the Treasury, at four thousand five hundred dollars each; chief clerk and ex officio superintendent of the Treasury building, two thousand seven hundred dollars; one chief of division of warrants, estimates, and appropriations, two thousand seven hundred and fifty dollars; one assistant chief of division of warrants, estimates, and appropriations, two thousand four hundred dollars; six chiefs of division, at two thousand five hundred dollars each; six assistant chiefs of division, at two thousand dollars each; twenty-three clerks of class four; two disbursing-clerks, at two thousand five hundred dollars each; stenographer to the Secretary, two thousand dollars; nineteen clerks of class three; eighteen clerks of class two; eleven clerks of class one; twenty female clerks, at nine hundred dollars each; eight messengers; arid twenty eight laborers; one captain of the watch, one thousand two hundred dollars; one engineer, one thousand four hundred dollars; one assistant engineer, one thousand dollars; one machinist and gas-fitter, one thousand two hundred dollars; one storekeeper, one thousand two hundred dollars; sixty watchmen, at seven hundred and twenty dollars each, and, additional to two of said watchmen, acting as lieutenants of watchmen, one hundred and eighty dollars each; six firemen, at seven hundred and twenty dollars each; seventy-five charwomen, at one hundred and eighty dollars each; in all, two hundred and eighty-one thousand three hundred and ten dollars.
+
+And the Secretary of the Treasury is hereby directed to consolidate the division of loans and the division of currency into one division; and all work now done in either division shall be done in the consolidated division, with the following employees, namely: one chief of division, at two thousand five hundred dollars; two assistant chiefs of division, at two thousand one hundred dollars each; ten clerks of class four, and additional pay to three fourth class clerks, namely, receiving-clerk of bonds and two bookkeepers, one hundred dollars each; six clerks of class three; three clerks of class two; four clerks of class one; thirty-five clerks, at nine hundred dollars each; six messengers, at eight hundred and forty dollars each; six laborers, at seven hundred and twenty dollars each; and six laborers, at two dollars and twenty-five cents per day each; in all, eighty-eight thousand six hundred and eighty-five dollars and fifty cents.
+
+Supervising Architect: In the construction branch of the Treasury: For Supervising Architect, four thousand five hundred dollars; chief clerk, two thousand two hundred and fifty dollars; photographer,, two thousand two hundred and fifty dollars; one principle clerk, at two thousand dollars; one clerk of class four; two clerks of class three; two clerks of class one; one clerk at nine hundred dollars; and one messenger; in all, twenty-one thousand one hundred and forty dollars.
+
+First Comptroller of the Treasury:—First Comptroller of the Treasury:—For First Comptroller of the Treasury, five thousand dollars; deputy comptroller, two thousand seven hundred dollars; four chiefs of division, at two thousand one hundred dollars each; four clerks of class four; ten clerks of class three; eight clerks of class two; four clerks of class one; six clerks, at nine hundred dollars each; one messenger; and three laborers; in all, sixty-three thousand seven hundred dollars.
+
+Second Comptroller of the Treasury:—For Second Comptroller of the Treasury, five thousand dollars; deputy Comptroller, two thousand seven hundred dollars; five chiefs of division, at two thousand one hundred dollars each; five clerks of class four; twelve clerks of class three; thirteen clerks of class two; eight clerks of class one; nine clerks, at nine hundred dollars each; one messenger; and three laborers; in all, eighty-five thousand three hundred dollars.
+
+Commissioner of Customs:—For Commissioner of Customs, four thousand dollars; deputy commissioner, two thousand two hundred and fifty dollars; two chiefs of division, at two thousand one hundred dollars each; two clerks of class four; five clerks of class three; ten clerks of class two; nine clerks of class one; one messenger; and one laborer; in all forty-eight thousand four hundred and ten dollars.
+
+First Auditor:—For the First Auditor of the Treasury three thousand six hundred dollars; deputy Auditor, two thousand two hundred and fifty dollars; four chiefs of division, at two thousand dollars each; two clerks of class four; six clerks of class three; seven clerks of class two; eleven clerks of class one;. one messenger, and two laborers; in all, fifty-two thousand three hundred and thirty dollars; and for the division of loans, namely: Three clerks of class four; three clerks of class three; two clerks of class two; and two clerks of class one; in all fifteen thousand four hundred dollars.
+
+Second Auditor:—For Second Auditor, three thousand six hundred dollars; deputy Auditor, two thousand two hundred and fifty dollars; five chiefs of division at two thousand dollars each; six clerks of class four; twenty-eight clerks of class three; sixty clerks of class two; thirty-five clerks of class one; one messenger; and eight laborers; in all, two hundred and four thousand and fifty dollars.
+
+Third Auditor;—For Third Auditor, three thousand six hundred dollars; deputy auditor, two thousand two hundred and fifty dollars; five chiefs of division, at two thousand dollars each; six clerks of class four; fifteen clerks of class three; sixty clerks of class two; thirty-five clerks of class one; five clerks, at nine hundred dollars each; one messenger; four laborers; and one charwoman, at four hundred and eighty dollars; in all, one hundred and eighty-five thousand three hundred and fifty dollars.
+
+Fourth Auditor:—For the Fourth Auditor, three thousand six hundred dollars; deputy auditor, two thousand two hundred and fifty dollars; three chiefs of division, at two thousand dollars each; two clerks of class four; sixteen clerks of class three; nine clerks of class two; nine clerks of class one; five clerks, at nine hundred dollars each; one messenger; and two laborers; in all, seventy-one thousand two hundred and thirty dollars.
+
+Fifth Auditor:—For the Fifth Auditor, three thousand six hundred dollars; deputy auditor, two thousand two hundred and fifty dollars; two chiefs of division, at two thousand dollars each; two clerks of class four; six clerks of class three; five, clerks of class two; six clerks of class one; three clerks at nine hundred dollars each; one messenger; and one laborer; in all, forty-one thousand five hundred and ten dollars.
+
+Auditor of the Treasury for the Post Office Department:— For compensation of the Auditor of the Treasury for the Post office Department, three thousand six hundred dollars; deputy auditor, two thousand two hundred and fifty dollars; eight chiefs of division, at two thousand dollars each; seven clerks of class four, and additional to one clerk as disbursing-clerk, two hundred dollars; fifty-two clerks of class three; sixty-five clerks of class two; thirty-six clerks of .class one; one messenger; and nineteen laborers; eighteen assorters of money-orders, eighteen thousand dollars; also fifteen female assorters of money-orders, at nine hundred dollars each; in all, two hundred and ninety-eight thousand and seventy dollars.
+
+Treasurer: For compensation of the Treasurer of the United States six thousand dollars; assistant treasurer, three thousand six hundred dollars; cashier, three thousand six hundred dollars; assistant cashier, three thousand two hundred dollars; chief clerk, two thousand five hundred dollars; five chiefs of division, at two thousand five hundred dollars each; one principal book-keeper, at two thousand five hundred dollars; one assistant book-keeper, at two thousand four hundred dollars; two tellers, at two thousand five hundred dollars each; two assistant tellers, at two thousand two hundred and fifty dollars each; twelve clerks of class four; twelve clerks of class three; eight clerks of class two; six clerks of class one; forty clerks, at nine hundred dollars each; five messengers; five laborers, at seven hundred and twenty dollars each; and seven laborers, at two hundred and forty dollars each; in- all, one hundred and fifty-seven thousand nine hundred and eighty dollars; and for the division of loans, namely, fifteen clerks of class tour; five clerks of class three; five clerks of class two; eight clerks of class one; one hundred and eighteen counters and copyists, at nine hundred dollars each; -seven messengers; and twenty-six laborers; in all, one hundred and eighty-two thousand four hundred dollars; and for the force employed in redeeming the national currency, namely, for superintendent, three thousand five hundred dollars; two principal tellers, and one principal book-keeper, at two thousand five hundred dollars each; one assistant book-keeper, two thousand four hundred dollars; and two assistant tellers, at two thousand dollars each; two clerks of class four; two clerks of class three; four clerks of class two; thirty-five clerks of class one; twelve clerks at one thousand dollars each; twenty-six clerks at nine hundred dollars each; two messengers; three assistant messengers; three employees, at four hundred and thirty-two dollars each; in all, one hundred and twelve thousand three hundred and thirty-six dollars.
+
+Register of the Treasury:—For compensation of the Register of the Treasury, four thousand dollars; assistant register, two thousand two hundred and fifty dollars; six clerks of class four; seven clerks of class three, ten clerks of class two; eight clerks of class one; six copyists, at nine hundred dollars each; one messenger; and three laborers; in all sixty thousand two hundred and fifty dollars; and for division of loans, namely, five chiefs of division, at two thousand dollars each; nine clerks of class four; eight clerks of class three; three clerks of class two; four clerks of class one; sixty-seven copyists and counters, at nine hundred dollars each; four messengers; and four laborers; in all, one hundred and fourteen thousand five hundred and forty dollars. And the office of deputy register of the Treasury is hereby abolished.
+
+Comptroller of the Currency:—For Comptroller of the Currency, five thousand dollars; deputy comptroller, two thousand eight hundred dollars; four chiefs of division, at two thousand two hundred dollars each; one stenographer, at one thousand eight hundred dollars; eight clerks of class four; twelve clerks of class three; nine clerks of class two; eight clerks of class one; twenty-five clerks at nine hundred dollars each; three messengers; three laborers; and two night watchmen, at seven hundred and twenty dollars each; in all, one hundred and two thousand eight hundred and twenty dollars; and for expenses of the national currency, namely; one superintendent, at two thousand dollars; one teller and one book-keeper, at two thousand dollars each; and one assistant book-keeper, at two thousand dollars; fifteen clerks, at nine hundred dollars each; and one messenger; in all, twenty-two thousand three hundred and forty dollars.
+
+For expenses of special examinations of national banks, two thousand dollars.
+
+Commissioner of Internal Revenue:—For Commissioner of Internal Revenue, six thousand dollars; one deputy commissioner, three thousand two hundred dollars; two heads of division, at two thousand five hundred dollars each; five heads of division at two thousand two hundred and fifty dollars each; one stenographer, one thousand eight hundred dollars; twenty five clerks of class four; thirty clerks of class sthree; forty clerks of class two; eighteen clerks of class one; fifty clerks, at nine hundred dollars each; four messengers; and ten laborers; in all, two hundred and fifty-three thousand four hundred and ten dollars.
+
+For dies, paper, and stamps, four hundred and sixty-six thousand dollars said engraving and printing to be done in the Bureau of Engraving and Printing of the Treasury Department, provided the cost does not exceed the price paid under existing contracts; And hereafter the transmission of internal revenue stamps to the officers of the internal revenue service shall be made through the mails of the United States in registered packages.
+
+For salaries and expenses of collectors, one million eight hundred thousand dollars.
+
+For salaries, and expenses of agents and surveyors, for fees and expenses of gaugers, for salaries of storekeepers and for miscellaneous expenses, one million four hundred and seventy-five thousand dollars. And hereafter no storekeeper shall receive a greater compensation than four dollars per day; and said gaugers and storekeepers, respectively shall only receive compensation when rendering actual service. And it shall be the duty of the President, and he is hereby authorized and directed, to reduce the number of internal revenue districts to not exceeding one hundred and thirty-one in the manner heretofore provided by law, which reduction shall take effect on the first day of September, eighteen hundred and seventy-six or as soon thereafter as may be practicable. And sections thirty-one hundred and fifty nine, and thirty-one hundred and sixty of the Revised Statutes, and all laws and parts of laws in conflict with the provisions of the foregoing paragraphs relating to the internal revenue service, are hereby repealed. The powers of transfer, and of suspension, of officers conferred upon supervisors by section thirty-one hundred and sixty-three of the Revised Statutes, are hereby vested in the Commissioner of Internal Revenue; and all other powers conferred, and duties imposed, by said section upon supervisors, are hereby conferred and imposed upon collectors of internal revenue within their respective districts. In case of the supervision of a collector, under the power hereby conferred, the Commissioner of Internal Revenue shall, as soon thereafter as practicable, report the case to the President through the Secretary of the Treasury for such action as he may deem proper. And sections twenty-six hundred and forty-nine, twenty-six hundred and fifty, and twenty six hundred and fifty-one of the Revised Statutes, and all laws and parts of laws authorizing the Secretary of the Treasury to appoint special agents to be employed in the customs service and classifying them and regulating the duties of said agents, shall be so modified as to authorize the appointment of only twenty special agents, each of whom shall receive a compensation of not exceeding eight dollars per day, in the discretion of the Secretary of the Treasury, and actual travelling expenses when actually employed in the duties of such agency. And sections thirty-three hundred and twenty-one of the Revised Statutes, and thirty-three hundred and twenty three, so far as the latter relates to wholesale liquor-dealers’ packages filled on the premises of wholesale liquor-dealers, shall, from and after ten days from the passage of this act, be repealed; and packages of distilled spirits filled on the premises of any wholesale liquor dealer shall thereafter be stamped under such rules and regulations as the Commissioner of Internal Revenue may prescribe.
+
+That the Secretary of the Treasury may, upon the recommendation of the Commissioner of Internal Revenue, impose the duties of storekeeper and gauger upon one officer, where the amount of spirits produced at the distillery, to which such officer may be assigned, is not sufficient, in the judgment of the Commissioner to warrant the employment of two officers to perform the separate duties of storekeeper and gauger. The Secretary of the Treasury may issue a commission to such officer as storekeeper and gauger, but the compensation for his services as store-keeper and gauger shall be that of storekeeper only. And the said officer shall before entering upon the discharge of such duties, give a bond in the penal sum of not less than five thousand dollars for the faithful performance of the combined duties of storekeeper and gauger.
+
+For detecting and bringing to trial and punishment persons guilty of violating the internal revenue laws, or conniving in such crime, including payments for information and detection, sixty thousand dollars.
+
+Light House Board:—For chief clerk of the Light House Board, two thousand four hundred dollars; two clerks of class four; two clerks of class three; one clerk of class two; one clerk of class one; one clerk at nine hundred dollars; one messenger; and one laborer; in all, fourteen thousand two hundred and sixty dollars.
+
+Bureau of Statistics:—For the officer in charge of the Bureau of Statistics, two thousand four hundred dollars; chief clerk, two thousand dollars; five clerks of class four; six clerks of class three, six clerks of class two; four clerks of class one; five copyists; at nine hundred dollars each; one messenger; one laborer; and one charwoman, at four hundred and eighty-dollars; in all, forty-two thousand seven hundred and forty dollars. And for the additional duties imposed upon the Bureau of Statistics by the legislation of the Second session of the Forty-third Congress, the sum of twelve thousand dollars, or so much thereof as may be necessary, is hereby appropriated, to be expended, under the direction of the Secretary of the Treasury, in payment of the services of experts, and for other necessary expenditures connected with the collection of facts relative to the internal and foreign commerce of the United States.
+
+Bureau of Engraving and Printing:—For Chief of Bureau, four thousand five hundred dollars, one assistant, at two thousand two hundred and fifty dollars; accountant, two thousand dollars; five clerks, at one thousand two hundred dollars each three copyists, at nine hundred dollars each; and four laborers; in all twenty thousand three hundred and thirty dollars.
+
+Treasury miscellaneous:—For stationery for the Treasury Department and its several bureaus, forty thousand dollars.
+
+For contingent expenses of the Treasury Department, namely:s
+
+For arranging and binding cancelled marine-papers, requisitions, and other important records; sealing ships registers; for foreign postage, newspapers, books, hand-stamps, and repairs of the same, ten thousand dollars.
+
+For investigations of accounts and records, two thousand five hundred dollars.
+
+For freight, espressage, telegrams, and car-tickets, five thousand dollars.
+
+For rent of buildings, thirteen thousand dollars.
+
+For care and subsistence of horses for office, and mail-wagons, including feeding, and shoeing; and for wagons, harness, and repairs of same, three thousand four hundred dollars.
+
+For ice, buckets, file-holders, book-rests, labor clocks, and repairs of the same, five thousand dollars.
+
+For coal, wood, grates, grate-baskets and fixtures, stoves and fixtures, blowers, coal-hods; hearths; shovels, tongs, pokers, matches, and match-safes, nine thousand dollars.
+
+For gas, drop-lights and tubing, gas-burners, brackets and globes, candles, lanterns, and wicks, twelve thousand five hundred dollars.
+
+For carpets, oil-cloth, matting, repairs, cleaning, and laying of the same, five thousand dollars.
+
+For desks, tables, and chairs, and shelving for file rooms, and cases, repairs of furniture, boxes, rugs, chair-covers and caning, cushions, cloth for covering desks, locks, screws, hand saws, turpentine and varnish, twelve thousand five hundred dollars.
+
+For washing towels, brooms, brushes, crash, cotton cloth, cane, chamois-skins, dusters, flour, keys, lye, matches, nails, oil powders, sponge, soap, tacks, wall paper, and the other miscellaneous expenses required for the current and ordinary business of the Department, and for repairs of machinery, baskets spittoons, files, water-coolers, tumblers, ice-picks, bowls and pitchers, traps, thermometers, ventilators, towels, awnings and fixtures, alcohol, window shades and fixtures, wire screens, hemming towels, axes, bellows’, chisels, canvas, candlesticks, door and window fasteners, bells, and bell-pulls, hammers, mallets, leather, gum, and other belting, stencil-plates, tools, whetstones, wire, and zinc, and other absolutely necessary expenses, fifteen thousand dollars.
+
+## independent treasury.
+
+Office of the assistant treasurer at New York:—For assistant treasurer, eight thousand dollars; for deputy assistant treasurer, three thousand six hundred dollars; cashier and chief clerk, four thousand dollars; chief of coin division, three thousand six hundred dollars; chief of note-paying division, three thousand dollars; chief of note-receiving division, two thousand eight hundred dollars; chief of check division, two thousand eight hundred dollars; chief of registered interest division, two thousand six hundred dollars; chief of coupon interest division, two thousand four hundred dollars; chief of fractional currency division, two thousand four hundred dollars; chief of bond division, two thousand two hundred and fifty dollars; chief of cancelled check division, two thousand dollars; two clerks at two thousand two hundred and fifty dollars, each; six clerks at two thousand one hundred dollars each; ten clerks, at two thousand dollars each; nine clerks, at one thousand eight hundred dollars each; four clerks at one thousand seven hundred dollars each; four clerks, at one thousand six hundred dollars each; two clerks, at one thousand five hundred dollars each; ten clerks, at one thousand four hundred dollars each; three clerks at one thousand two hundred dollars each; five messengers, at one thousand three hundred, dollars each; one messenger, one thousand two hundred dollars; keeper of building, one thousand eight hundred dollars; chief detective, one thousand eight hundred dollars; assistant detective, one thousand four hundred dollars; three hallmen, at one thousand dollars each; six watchmen, at seven hundred and thirty dollars each; one engineer, one thousand dollars, and one porter, nine hundred dollars; in all, one hundred and forty-eight thousand five hundred and thirty dollars.
+
+Office of the assistant treasurer at Boston:—For assistant treasurer, five thousand dollars; for chief clerk, two thousand seven hundred dollars; paying teller, two thousand five hundred dollars; chief interest clerk, two thousand five hundred dollars; receiving teller, one thousand eight hundred dollars; first book-keeper, one thousand seven hundred dollars; second book-keeper, “depositors” accounts, one thousand five hundred dollars; stamp and new fractional currency clerk, one thousand eight hundred dollars; specie clerk, one thousand five hundred dollars; assistant specie clerk, one thousand four hundred dollars; two coupon clerks, at one thousand four hundred dollars each; fractional currency-redemption clerk, one thousand two bundled dollars; receipt clerk, one thousand two hundred dollars; assistant book keeper, eight hundred dollars; money-clerk, one thousand dollars; assistant currency redemption clerk, one thousand one hundred dollars; assistant currency-redemption clerk, one thousand dollars; messenger and chief watchman, one thousand and sixty dollars; two watchmen, at eight hundred and fifty dollars each; in all, thirty-four thousand two hundred and sixty dollars.
+
+Office of assistant treasurer at San Francisco:—For assistant treasurer, six thousand dollars; for cashier, three thousand dollars; for bookkeeper, two thousand five hundred dollars; for assistant cashier, two thousand dollars; for assistant book-keeper, two thousand dollars; for stamp clerk, two thousand four hundred dollars; for one clerk one thousand eight hundred dollars; for three night watchmen, at one thousand two hundred dollars; for one day watchman, nine hundred and sixty dollars; in all, thirty-four, thousand two hundred hundred and sixty dollars.
+
+Office of assistant treasurer at Philadelphia:—For assistant treasurer, five thousand dollars; for cashier and chief clerk, two thousand seven hundred dollars; book-keeper, two thousand five hundred dollars; chief interest clerk, one thousand nine hundred dollars; assistant bookkeeper, one thousand, eight hundred dollars, coin teller, one thousand seven hundred dollars; chief registered interest clerk, one thousand nine hundred dollars; assistant coupon clerk, one thousand six hundred dollars; fractional currency clerk, one thousand six hundred dollars; two assistant registered-loan clerks, one at one thousand, five hundred dollars, and one at one thousand four hundred dollars; assistant com-teller, one thousand four hundred dollars; receiving-teller, one thousand three hundred dollars; assistant receiving-teller, one thousand two hundred dollars; superintendent of building, one thousand one hundred dollars; seven female counters, at nine hundred dollars each, five watchmen at nine hundred and thirty dollars each; in all, thirty-nine thousand five hundred and fifty dollars.
+
+Office of assistant treasurer at Baltimore;—For assistant treasurer, five thousand dollars; for cashier, two thousand five hundred dollars; for three clerks, at one thousand eight hundred dollars each; for three clerks, at one thousand four hundred dollars each; for two clerks at twelve hundred dollars each; one messenger, eight hundred and forty dollars; five vault watchmen, three thousand six hundred dollars, in all, twenty-three thousand nine hundred and forty dollars.
+
+Office of assistant treasurer at Saint Louis: For assistant treasurer, five thousand dollars; chief clerk and teller, two thousand five hundred dollars, assistant teller, one thousand eight hundred dollars; book keeper, one thousand five hundred dollars; assistant bookkeeper, one thousand two hundred dollars; messenger, one thousand dollars; four watchmen, at seven hundred dollars each; in all, fifteen thousand eight hundred dollars.
+
+Office of assistant treasurer treasurer at Chicago:—For assistant treasurer, five thousand dollars; for cashier, two thousand five hundred dollars; for paying teller, one thousand eight hundred dollars; for book-keeper and receiving-teller at one thousand five hundred dollars each; for one clerk twelve hundred dollars; for one messenger eight hundred and forty dollars, and one watchman, seven hundred and twenty dollars; in all, fifteen thousand two hundred and sixty dollars.
+
+Office of the assistant treasurer at Cincinnati:—For assistant treasurer, five thousand dollars; for cashier, two thousand dollars; for book keeper eighteen hundred dollars; for assistant cashier, fifteen hundred dollars; check clerk and interest-clerk, each twelve hundred dollars; fractional currency clerk, one thousand dollars; messenger, six hundred dollars; night watchman, seven hundred and twenty dollars; two watchmen at one hundred and twenty dollars each; in all, fifteen thousand, two hundred and sixty dollars.
+
+Office of assistant treasurer at New Orleans:—For assistant treasurer, four thousand five hundred dollars; cashier, two thousand five hundred dollars; receiving teller, two thousand dollars; book keeper, one thousand five hundred dollars; porter, nine hundred dollars; two watchmen, at seven hundred and twenty dollars each; two night watchmen, at seven hundred and twenty dollars each; in all, fourteen thousand two hundred and eighty dollars: And so much of section thirty five hundred and ninety-five of the Revised Statutes as provides for the appointment of an assistant treasurer of the United States at Charleston is hereby repealed from and after September, thirtieth, eighteen hundred and seventy-six; and the secretary of the Treasury is directed to discontinue, from said date, the depositories at Buffalo, New York Santa Fe, New Mexico, and Pittsburgh Pennsylvania.
+
+Office of assistant treasurer at Charleston, South Carolina: For assistant treasurer, one thousand dollars; one clerk, four hundred and fifty dollars; one clerk four hundred dollars; one assistant messenger, one hundred and eighty dollars; and two watchmen, at one hundred and eighty dollars each; in all, two thousand three hundred and ninety dollars.
+
+Office of depositary at Pittsburgh;—For cashier, four hundred and fifty dollars; book-keeper, three hundred and fifty dollars; one watchman, one hundred and eighty dollars; in all, nine hundred and eighty dollars.
+
+Office of depositary at Tucson, Arizona: For depositary, in addition to his pay as post-master, one thousand five hundred dollars.
+
+For compensation to designated depositaries at Buffalo, New York, and Pittsburgh, Pennsylvania, for receiving, safe-keeping, and paying out public money, at the rate of one-half of one per centum on the first one hundred thousand dollars, one-fourth of one per centum on the second one hundred thousand dollars, and one-eighth of one per centum on all sums over two hundred thousand dollars; any sum which may have been allowed to such depositaries for rent or any other contingent expenses in respect to the custody of such public money being deducted from such compensation before any payment shall be made therefor: Provided, That no compensation shall be allowed for the above services when the emoluments of the office of which said designated depositary is in commission amount to the maximum compensation fixed by law; nor shall the amount allowed to any one of said designated depositaries for such services, when added to the emoluments of the office of which he is in commission, be more than the maximum compensation fixed by law: And provided further That the whole allowance to any designated depositary for such service shall not exceed one thousand five hundred dollars per annum, three thousand dollars.
+
+For compensation to special agents to examine the books, accounts, and money on hand at the several sub-treasuries and depositories, including national banks acting as depositories under the act of the sixth of August, eighteen hundred and forty-six, four thousand dollars.
+
+For checks and check books for disbursing officers and others, and certificates of deposit for offices of the Treasurer and assistant treasurer and designated depositaries, ten thousand dollars.
+
+For contingent expenses under the act of the sixth August, eighteen hundred and forty-six, for the collection, safe-keeping, transfer, and disbursement of the public money, fifty thousand dollars: Provided, That no part of said sum shall be expended for clerical services or payment of employees of any nature or grade; and hereafter a detailed statement of the expenditure for the preceding fiscal year of all sums appropriated for contingent expenses in any Department or Bureau of the Government shall be presented to Congress at the beginning of each regular session.
+
+## united states mints and assay offices.
+
+Office of the Director of the Mint:—For director, four thousand five hundred dollars; examiner, two thousand dollars, one computer of bullion, two thousand dollars; one assay clerk, one thousand eight hundred dollars; one clerk of class three; one clerk of class two; one translator, one thousand two hundred dollars; one copyist, nine hundred dollars; one messenger; one laborer; making in all, the sum of sixteen thousand nine hundred and sixty dollars.
+
+For contingent expenses of the United States mints and assay offices, namely: For specimens of coins, to be expended under the direction of the Secretary of the Treasury, two hundred dollars; for books, balances and weights, and other incidental expenses, seven hundred dollars; and refining and parting of bullion shall be carried on at the mints of the United States and at the assay office, New York; and it shall be lawful to apply the moneys arising from charges collected from depositors for these operations pursuant to law, to the defraying in full of the expenses thereof, including labor, materials, and wastage; but no part of the moneys otherwise appropriated for the support of the mints and assay office at New York shall be used to defray the expenses of refining and parting bullion.
+
+Mint at Philadelphia.—For salaries of the superintendent, four thousand five hundred dollars; for the assayer, melter and refiner, coiner, and engraver, four in all, at three thousand dollars each; the assistant assayer, assistant coiner, and assistant melter and refiner, at two thousand dollars each; cashier, two thousand five hundred dollars; chief clerk, two thousand two hundred and fifty dollars; book-keeper and deposit clerk, at eighteen hundred dollars each; weigh-clerk, two thousand dollars; and two clerks, at one thousand six hundred dollars each; in all, thirty six thousand and fifty dollars.
+
+For wages of workmen and adjusters three hundred and twenty thousand dollars.
+
+For incidental and contingent expenses eighty five thousand dollars.
+
+For freight on bullion and coin, five thousand dollars.
+
+Mint at San francisco, California. For salaries of superintendent, four thousand five hundred dollars; assayer, melter and refiner, and coiner, at three thousand dollars each; chief clerk, and cashier, two thousand five hundred dollars each; four clerks, at one thousand six hundred dollars each; in all, twenty four thousand nine hundred dollars.
+
+For wages of workmen and adjusters, two hundred and seventy five thousand dollars.
+
+For material and repairs, fuel, lights, chemicals, and other necessaries seventy-five thousand dollars.
+
+Mint at Carson, Nevada.—For salary of superintendent, three thousand dollars; for assayer, melter and refiner, and coiner, at two thousand five hundred dollars each; chief clerk, at two thousand two hundred and fifty dollars; cashier and book-keeper, at two thousand dollars each; weigh-clerk, two thousand dollars; voucher-clerk and computing clerk, at one thousand eight hundred dollars each; assayer’s clerk, at one thousand two hundred dollars; in all, twenty three thousand five hundred and fifty dollars.
+
+For wages of workmen and adjusters, eighty thousand dollars.
+
+For materials and repairs, fuel, light, charcoal, chemicals, and other necessaries, thirty five thousand dollars.
+
+Mintat Denver, Colorado:—For salaries of assayer in charge, two thousand five hundred dollars; melter, two thousand two hundred and fifty dollars; two clerks, at one thousand six hundred dollars each; in all, seven thousand nine hundred and fifty dollars.
+
+For wages of workmen, ten thousand dollars.
+
+For fuel, lights acids, chemicals, crucibles, repairs, and other necessaries, three thousand dollars.
+
+Assay office at New York:—For salary of superintendent four thousand two hundred and fifty dollars; for assayed three thousand dollars; for melter and refiner, three thousand dollars; chief clerk, two thousand five hundred dollars; weighing-clerk, two thousand five hundred dollars; paying-clerk, two thousand dollars; bar-clerk, one thousand eight hundred dollars; warrant-clerk, two thousand two hundred and fifty dollars; two calculating-clerks, at one thousand eight hundred dollars each; assistant weigh-clerk, one thousand six hundred dollars; for assayer’s first assistant, two thousand two hundred and fifty dollars; for assayer’s second assistant, two thousand one hundred and fifty dollars; for assayer’s third assistant, two thousand dollars; in all, thirty two thousand nine hundred dollars.
+
+For wages of workmen, twenty two thousand dollars
+
+For acids, copper, coal, lead, light, and for miscellaneous items and repairs, eight thousand dollars.
+
+Mint at New Orleans, Louisiana:—For salaries. Assayer in charge, two thousand five hundred dollars. Melter, two thousand dollars. One clerk, fifteen hundred dollars. Wages of workmen, three thousand dollars; fuel, fluxes, acids and other incidental expenses, the thousand dollars; in all, fourteen thousand dollars. And the assaying and stamping of bullion is hereby authorized, subject to the provisions of the coinage-act of eighteen hundred and seventy-three.
+
+Assay office at Helena, Montana:—For salaries of assayer and of melter, at two thousand five hundred dollars each, five thousand dollars.
+
+For machinery and fitting up the same, seven thousand five hundred dollars, to become available on the passage of this act.
+
+For wages of workmen, four thousand dollars. For fuel, crucibles, chemicals, light, and other incidental expenses, three thousand dollars.
+
+Assay office at Boise City, Idaho Territory:—For salary of assayer, who shall also perform the duties of melter, two thousand dollars.
+
+For wages of workmen, fuel, crucibles, chemicals, repairs and other incidental expenses, twelve hundred dollars.
+
+Assay office at Charlotte North Carolina:—For salary of assayer and melter, one thousand five hundred dollars; for labor and other expenses, five hundred dollars; in all, two thousand dollars.
+
+## GOVERNMENT IN THE TERRITORIES:—
+
+Territory of Arizona. For salary of governor, three thousand dollars; Chief justice and two associate Judges, three thousand dollars each; secretary, two thousand dollars; interpreter and translator in the executive office, five hundred dollars; in all, fourteen thousand five hundred dollars: Provided, That so much of the amount of twenty-five thousand six hundred dollars appropriated by act of June twentieth, eighteen hundred and seventy four, for per diem of members of council and house of representatives and other officers and clerks and employees of the legislative assembly, as is not needed for the payment of per diem, shall be applicable to the payment of mileage of members of the legislature, and for printing, stationery, and other incidental expenses of the legislature and the secretary’s office of the Territory for the fiscal year eighteen hundred and seventy-five.
+
+For legislative expenses, namely, for compensation and mileage of members of the legislative assembly, the officers and clerks, and the contingent expenses thereof, twenty thousand dollars.
+
+For contingent expenses of the Territory, to be expended by the governor, five hundred dollars.
+
+Territory of Colorado. For salaries of governor, chief-justice and two associate judges, at three thousand dollars each, and secretary, at two thousand dollars fourteen thousand dollars: Provided, That said officers shall only receive’their compensation on the basis of the salary aforesaid up to the time of the admission of the said Territory as a State into the Union.
+
+For rent, light, fuel, stationery, postage and printing for the secretary’s office, one thousand seven hundred dollars.
+
+For contingent expenses, to be expended by the governor five hundred dollars.
+
+Territory of Dakota For salaries of governor, chief-justice, and two associate judges, at three thousand dollars each, and secretary, at two thousand dollars, fourteen thousand dollars.
+
+For legislative expenses, namely: For compensation and mileage of the members of the legislative assembly, and officers and clerks, and the contingent expenses thereof, twenty thousand dollars.
+
+For contingent expenses, to be expended by the governor, five hundred dollars.
+
+Territory of Idaho For salaries of governor, chief justice, and two associate judges, at three thousand dollars each, and secretary, at two thousand dollars, fourteen thousand dollars.
+
+For legislative expenses, namely: For compensation and mileage of members of the legislative assembly, the officers and clerks, and the contingent expenses thereof, twenty thousand dollars.
+
+For contingent expenses, to be expended by the governor, five hundred dollars.
+
+Territory of Montana For salaries of governor, chief-justice, and two associate judges and secretary, fourteen thousand dollars.
+
+For legislative expenses, namely: For compensation and mileage of members of the legislative assembly, the officers and clerks, and the contingent expenses thereof, twenty thousand dollars: Provided, That the next legislative assembly shall convene at the seat of government of the Territory on the second monday of January, eighteen hundred and seventy seven, and biennally thereafter.
+
+Torrent, porterage, printing, fuel, stationery, light, and incidental expenses, two thousand dollars.
+
+For contingent expenses of the Territory, to be expended by the governor five hundred dollars.
+
+Territory of New Mexico For salaries of governor, chief-justice and two associate judges, at three thousand dollars each, secretary, at two thousand dollars, and interpreter and translator in the executive office, at five hundred dollars, fourteen thousand five hundred dollars.
+
+For rent, stationery, fuel, light, printing, postage, pay of messenger, and other incidental expenses, one thousand dollars.
+
+For contingent expenses of the Territory, to be expended by the governor, five hundred dollars.
+
+Territory of Utah For salaries of governor, chief-justice, and two associate judges, at three thousand dollars each, and secretary, at two thousand dollars, fourteen thousand dollars.
+
+For the printing of the laws of Utah Territory, to be added to an amount which has been appropriated by the legislative assembly for the compilation of said laws, this amount to be drawn and expended for this purpose under the direction of the governor of Utah Territory, four thousand dollars.
+
+For rent, light, fuel, stationery, printing, postage, pay of messenger, and other incidental expenses, one thousand dollars.
+
+For contingent expenses of the Territory, to be expended by the governor, five hundred dollars.
+
+Territory of Washington For salaries of governor, chief-justice, and two associate judges, at three thousand dollars each, and secretary, at two thousand dollars, fourteen thousand dollars.
+
+For legislative expenses, namely: For rent, hire of messenger, light, fuel, stationery, postage, office furniture, repairs and other incidental expenses, one thousand dollars.
+
+For contingent expenses of the Territory, to be expended by the governor, five hundred dollars.
+
+Territory of Wyoming For salaries of governor, chief-justice, and two associate judges, at three thousand dollars each, and secretary, at two thousand dollars, fourteen thousand dollars.
+
+Legislative expenses, namely: For rent, fuel, light, storage of the Government property, stationery, printing, postage, messenger hire, and other incidental expenses, one thousand dollars.
+
+For contingent expenses of the Territory, to be expended by the governor, five hundred dollars.
+
+## WAR DEPARTMENT
+
+For compensation of the Secretary of War, eight thousand dollars; one chief clerk, at two thousand five hundred dollars; one disbursing clerk, at two thousand dollars; two chief clerks of division, at one thousand eight hundred dollars each; six clerks of class four; four clerks of class three; four clerks of class two; twelve clerks of class one; eight messengers; seven laborers; six watchmen for the Northwest Executive building; in all, sixty-nine thousand three hundred and eighty dollars.
+
+For contingent expenses of his office, eight thousand dollars.
+
+For the purpose of examining the rebel archives, and having copies furnished for the Government, six thousand six hundred dollars.
+
+In the Office of the Adjutant-General—One chief clerk, at two thousand dollars; eleven clerks of class four; seventeen clerks of class three; forty one clerks of class two; one hundred and fifty one clerks of class one; eight messengers, at eight hundred and forty dollars each; in all, two hundred and ninety four thousand three hundred and twenty dollars.
+
+For contingent expenses ten thousand dollars.
+
+In the Office of the Inspector-General—One clerk of class four; one messenger; in all, two thousand six hundred and forty dollars.
+
+In the Bureau of Military Justice—One chief clerk, at one thousand eight hundred dollars; one clerk of class three; two clerks of class one; one messenger; in all, six thousand six hundred and forty dollars.
+
+For contingent expenses, five hundred dollars.
+
+In the Signal Office—Two clerks of class four; one messenger; in all, four thousand four hundred and forty dollars.
+
+In the Office of the Quartermaster-General—One chief clerk, at two thousand dollars; seven clerks of class four; nine clerks of class three; twenty-four clerks of class two; forty-eight clerks of class one; twenty copyists, at nine hundred dollars each; one female messenger, at thirty dollars per month; one messenger, at eight hundred and forty dollars; two assistant messengers, six laborers; one engineer, at one thousand two hundred dollars; one fireman; five watchmen; and one draughtsman, at one thousand eight hundred dollars; in all, one hundred and fifty two thousand four hundred and eighty dollars.
+
+For contingent expenses, six thousand dollars.
+
+In the Office of the Commissary-General—One chief clerk, at two thousand dollars; one clerks of class four; three clerks of class three; four clerks of class two; ten clerks of class one; one messenger, at eight hundred and forty dollars; two laborers; two watchmen; in all, twenty nine thousand nine hundred and twenty dollars.
+
+For contingent expenses, namely: Rent of building, repairs, and miscellaneous items, six thousand dollars.
+
+In the Office of the Surgeon-General—One chief clerk, at two thousand dollars; seven clerks of class four; five clerks of class three; seven clerks of class two; ninty-two clerks of class one; one anatomist at the Army Medical Museum, at one thousand six hundred dollars, one engineer in division of records and museum, at one thousand four hundred dollars; one messenger, at eight hundred and forty dollars; twenty watchmen and laborers; in all, one hundred and sixty-one thousand and forty dollars: Provided, That the Surgeon-General of the Army is hereby authorized to detail, for temporary duty in his office, in completing the catalogue of the library, one acting assistant Surgeon from those now under contract, and no additional contract shall on this account be made.
+
+For contingent expenses, blank books, stationery, binding, rent, and fuel, six thousand dollars.
+
+In the Office of the Chief of Ordnance—One chief clerk, at two thousand dollars; two clerks of class four; two clerks of class three; two clerks of class two; six clerks of class one; one messenger; one laborer; in all, twenty thousand three hundred and sixty dollars: Provided, That the Secretary of War is hereby authorized to employ in this bureau not exceeding eight enlisted men.
+
+For contingent expenses, namely: Stationery, envelopes, wrappingpaper, for sending blanks to the arsenals, forts, permanent batteries, and troops in the field, telegrams, express charges, and incidentals of a similiar nature, furniture, matting, carpets, oil-cloth, professional books for Ordnance Department library, pamphlets, and newspapers, one thousand five hundred dollars.
+
+In the Office of the Paymaster-General—One chief clerk, at two thousand dollars; six clerks of class four; seven clerks of class three; fourteen clerks of class two; nine clerks of class one; one messenger; two watchmen; three laborers; in all, fifty-eigh thousand eight hundred and forty dollars.
+
+For contingent expenses, three thousand dollars.
+
+In the Office of the Chief of Engineers—One chief clerk, at two thousand dollars; four clerks of class four; three clerks of class three; three clerks of class two; three clerks of class one; one messenger; two laborers; in all, twenty-four thousand and eighty dollars. For contingent expenses, namely: For stationery, office furniture, miscellaneous and incidental expenses, including purchase of professional books and maps, three thousand dollars.
+
+War Department buildings For compensation of one engineer in the War Department building, one thousand four hundred dollars; and for four watchmen and two laborers; in all, five thousand seven hundred and twenty dollars.
+
+For labor, fuel, light, and miscellaneous items for the said building, six thousand dollars.
+
+For five watchmen and two laborers in the building occupied by the Paymaster-General, and for rent of the building, and fuel, and miscellaneous items, ten thousand dollars; ir all, fifteen thousand and forty dollars.
+
+For four watchmen and two laborers in the building at the corner of Seventeenth and F streets, and for fuel for warming the entire building, including the Ordnance-Office, and for operating the ventilating fan in summer, repairs of steam warming and ventilating apparatus, pay of steam engineer and fireman, and for general repairs and miscellaneous items, six thousand dollars; in all, ten thousand three hundred and twenty dollars. For compensation of superintendents of the six buildings occupied by the War Department, at two hundred and fifty dollars each, one thousand five hundred dollars.
+
+## NAVY DEPARTMENT
+
+For compensation of the Secretary of the Navy, eight thousand dollars; for compensation of the chief clerk of the Navy Department, at two thousand five hundred dollars; one disbursing-clerk at two thousand dollars; four clerks of class four; three clerks of class three; one clerk of class two; two clerks of class one; two messengers; and two laborers; in all, thirty one thousand four hundred and twenty dollars.
+
+For stationery,—furniture, newspapers, and miscellaneous items, two thousand five hundred dollars.
+
+Bureau of Yards and Docks—For one chief clerk, one thousand eight hundred dollars, one draughtsman, one thousand eight hundred dollars; one clerk of class four; two clerks of class three; one clerk of class two, one clerk of class one; one messenger; and one laborer; in all, twelve thousand seven hundred and sixty dollars.
+
+For stationery, books, plans, drawings, labor, and miscellaneous items eight hundred dollars
+
+Bureau of Equipment and Recruiting—For chief clerk, one thousand eight hundred dollars; one clerk of class four; one clerk of class three; two clerks of class two; two clerks of class one; one messenger; and one laborer; in all, eleven thousand nine hundred and sixty dollars.
+
+For stationery, books, and miscellaneous items, five hundred dollars.
+
+Bureau of Navigation For chief clerk, one thousand eight hundred dollars; one clerk of class three; one clerk of class two; one messenger; and one laborer; in all, six thousand three hundred and sixty dollars.
+
+For stationery, books, and miscellaneous items, four hundred dollars.
+
+Bureau of Ordnance For chief clerk, one thousand eight hundred dollars; draughtsman, one thousand eight hundred dollars; one clerk of class three; two clerks of class two; one messenger; and one laborer; in all nine thousand five hundred and sixty dollars.
+
+For stationery, books and miscellaneous items four hundred dollars.
+
+Bureau of Construction and Repair. For chief clerk, one thousand eight hundred dollars, draughtsman, one thousand eight hundred dollars: one clerk of class four; one clerk of class three; one clerk of class two; one messenger; and one laborer; in all, nine thousand nine hundred and sixty dollars.
+
+For stationery and miscellaneous items four hundred dollars.
+
+Bureau of Steam Engineering. For chif clerk, one thousand eight hundred dollars, one draughtsman at one thousand eight hundred dollars; one assistant draughtsman, at one thousand six hundred dollars; one clerk of class two; one messenger; and one laborer; in all, seven thousand seven hundred and sixty dollars.
+
+For stationery and miscellaneous items, seven hundred dollars.
+
+Bureau of Provisions and Clothing. For chief clerk, one thousand eight hundred dollars; one clerk of class four; two clerks of class three; two clerks of class two; three clerks of class one; one messenger; and one laborer, in all fourteen thousand seven hundred and sixty dollars.
+
+For stationery and miscellaneous items, four hundred dollars.
+
+Bureau of Medicine and Surgery. For chief clerk one thousand eight hundred dollars; one clerk of class three; one messenger; and one laborer in all, four thousand nine hundred and sixty dollars. For stationery and miscellaneous items, one hundred dollars.
+
+For one superintendent of the building occupied by the Navy Department and for five watchmen and two laborers; in all five thousand two hundred and ninety dollars.
+
+For incidental labor, fuel lights and miscellaneous items for said building, five thousand dollars.
+
+## DEPARTMENT OF THE INTERIOR—
+
+For compensation of the Secretary of the Interior, eight thousand dollars; assistant secretary, three thousand five hundred dollars; chief clerk, two thousand five hundred dollars; eight clerks of class four, who may be paid two hundred dollars additional if the Secretary of the Interior deem it necessary and proper; five clerks of class three; five clerks of class two; five clerks of class one, one of whom shall be the telegraph-operator of the Department; three copyists; two messengers; two assistant messengers; and four laborers; in all, fifty nine thousand seven hundred dollars.
+
+For secretary to sign patents for public lands, one thousand five hundred dollars.
+
+For one captain of the watch, one thousand dollars; and twenty-eight watchmen to be allotted to day or night service, as the Secretary of the Interior may direct, twenty thousand one hundred and sixty dollars.
+
+For stationery, furniture, advertising, telegraphing, ice, and miscellaneous items, including new books and books to complete broken sets, and cases and maps for library, ten thousand dollars.
+
+For expenses of packing and distributing official documents, including salary of superintendent, six thousand two hundred and fifty dollars.
+
+For rent of buildings for use of the Pension-Office and for the Bureau of Education, fourteen thousand dollars: Provided, That if the Secretary of the Interior can procure a fire proof building of suitable accommodations, for a rent not exceeding the sum hereby appropriated, he shall rent the same, to take effect so soon as the present letting can be legally terminated: And provided, That the lease of the present buildings shall be continued if the said buildings shall be made fire proof by the owners thereof to the satisfaction of the said Secretary within six months from the passage of this act without disturbing the use of the said building; and that any lease made for said building shall expire on nine months notice from the Secretary of the Interior; and in case of removal the sum of two thousand dollars, or so much thereof as may be necessary, is appropriated for the cost of fitting up and removal to said fire-proof building.
+
+For fuel, light, and salary of the engineer, assistant engineer, six fireman, and repairs of the heating-apparatus, fifteen thousand dollars.
+
+For official postage stamps for the Department of the Interior, as follows:
+
+For the office of the Secretary, eighteen thousand dollars; for the General Land Office, forty one thousand dollars; for the Bureau of Education, ten thousand dollars; for the Bureau of Indian Affairs, ten thousand dollars; for the Patent Office, twenty thousand dollars; for the Pension Office, twenty-five thousand dollars; and for the National Museum in the Smithsonian Institution, one thousand dollars, in all, one hundred and twenty-five thousand dollars.
+
+General Land Office—For the Commissioner of the General Land Office, four thousand dollars; chief clerk, two thousand dollars; recorder, two thousand dollars; law-clerk two thousand dollars; three principal clerks, at one thousand eight hundred dollars each; five clerks of class four; twenty-two clerks of class three; forty clerks of class two; seventy clerks of class one; one draughtsman, one thousand six hundred dollars; one assistant draughtsman, one thousand four hundred dollars; two messengers; three assistant messengers; eight laborers; and two packers; in all two hundred and thirteen thousand six hundred and forty dollars: Provided, That the Secretary of the Interior, in his discretion, shall be, and he is hereby, authorized to use any portion of said appropriation for piece work, or by the day, month, or year, at such rate or rates as he may deem just and fair, not exceeding a salary of nine hundred dollars per annum
+
+For diagrams, stationery, parchment-paper for land patents, furniture and repairs of the same, miscellaneous items, including two of the city newspapers, to be filed, bound, and preserved for the use of the office, for the actual expenses of clerks detailed to investigate fraudulent landentries, trespasses on the public lands, and cases of official misconduct, and for advertising and telegraphing, twenty seven thousand five hundred dollars.
+
+Map of the United States: For three thousand six hundred copies (including paper) of the map of the United States, prepared in this office, six thousand dollars.
+
+Indian Office.—For compensation of the Com missioner of Indian Affairs, three thousand dollars; chief clerk two thousand dollars; five clerks of class four; eight clerks of class three; one stenographer, at one thousand six hundred dollars; thirteen clerks of class two; thirteen clerks of class one; six copyists, at nine hundred dollars each; one messenger; one assistant messenger; and one laborer; in all, sixty-nine thousand eight hundred and eighty dollars.
+
+For blank books, binding, stationery, fuel, lights, telegraphing, and miscellaneous items, including two city newspapers, to be filed and bound, and preserved for the use of the office, six thousand dollars.
+
+Pension Office—For compensation of the Commissioner of Pensions, three thousand six hundred dollars; deputy commissioner, two thousand two hundred and fifty dollars; chief clerk, two thousand dollars; medical referee, two thousand two hundred and fifty dollars; twenty-six clerks of class four; fifty-two clerks of class three; eighty four clerks of class two; one hundred and twenty-two clerks of class one; one skilled mechanic at one thousand two hundred dollars; twenty-five copyists, at nine hundred dollars each; one messenger, twelve assistant messengers; eight laborers; two watchmen; one engineer, at one thousand two hundred dollars; and one assistant engineer at one thousand dollars; in all, four hundred and forty six thousand six hundred and eighty dollars.
+
+For contingent expenses of the office, namely: For actual expenses of clerks detailed to investigate suspected frauds and attempts at fraud, as provided by law, fifty thousand dollars; for stationery six thousand dollars; for carpets, mats, furniture, awnings, and repairs of the same, two thousand dollars; for fuel, gas, engraving and retouching plates; for bounty land warrants, printing and binding the same, engraving and printing pension certificates; for repairs of building; and for other necessary expenses of the office, including two daily newspapers, four thousand five hundred dollars; in all sixty-two thousand five hundred dollars.
+
+United States Patent Office,—For compensation of the Commissioner of the Patent-Office, four thousand five hundred dollars; for assistant commissioner, three thousand dollars; for chief clerk, two thousand two hundred and fifty dollars; three examiners-in-chief, at three thousand dollars each; examiner in charge of interferences two thousand five hundred dollars; trade-mark examiner, two thousand two hundred and fifty dollars; twenty two principal examiners, at two thousand five hundred dollars each; twenty two first assistant examiners, at one thousand eight hundred dollars each; twenty-two second assistant examiners, at one thousand six hundred dollars each; twenty-two third assistant examiners, at one thousand four hundred dollars each; one librarian, one thousand eight hundred dollars; one machinist, one thousand six hundred dollars; five clerks of class four, (one of whom shall receive two hundred dollars additional for services as financial clerk, and shall give bond in such amount as the Secretary of the Interior may determine;) five clerks of class three; twenty one clerks of class two; and thirty-five clerks of class one; also for twenty-five permanent clerks at one thousand dollars each; for forty copyist-clerks, at nine hundred dollars each; for three skilled draughtsmen, at one thou sand two hundred dollars each; for one messenger and purchasing clerk, one thousand dollars; for one skilled laborer, one thousand two hundred dollars; for six attendants in model room, at one thousand dollars each; for four attendants in model room, at nine hundred dollars each; for forty laborers, at seven hundred and twenty dollars each; for six laborers, at six hundred dollars each; in all, three hundred and eighty-four thousand nine hundred dollars.
+
+For contingent and miscellaneous expenses of the Patent Office namely: For stationery for use of office, repair of model cases, stationary portfolios for drawings furniture and labor connected therewith, repairing, papering, painting, carpets, ice, advertising, books for library, moneys refunded, printing engraved patent-heads, international exchanges, plumbing, gas-fitting extra labor on indexes and abstracts for annual reports, fitting rooms, temporary clerks, laborers and other contingencies, seventy thousand dollars; and no money appropriated by this paragraph shall be expended for advertising in newspapers published in the city of Washington other than the Patent Office Official Gazette.
+
+For photolithographing, or otherwise producing copies of drawings of current and back issues, for use of the office and for sale, including pay of temporary draughtsman, forty thousand dollars, the work to be done under the supervision of the Commissioner of Patents, who shall receive competitive bids therefor.
+
+For photolithographing, or otherwise producing plates for the Official Gazette, including pay of employees engaged on the Gazette, and for making similar plates, forty thousand dollars.
+
+For photolithographing, or otherwise producing copies of the weekly issues of drawings, to be attached to patents and copies, forty thousand dollars.
+
+The work of the said photolitbographing, or otherwise producing plates and copies, referred to in this and the two preceding paragraphs, to be done under the supervision of the Commissioner of Patents, subject to the approval of the Secretary of the Interior.
+
+For tracing of drawings preparatory to photolithograpliing back issues thirty thousand dollars.
+
+Bureau of Education. For the Commissioner of Education three thousand dollars; chief clerk, one thousand eight hundred dollars; one clerk of class four; one statistician, with the compensation of a clerk of class four; one clerk of class three; one translator, with the compensation of a clerk of class three; one clerk of class two; four copyists, at nine hundred dollars each; one messenger, eight hundred and forty dollars; in all, eighteen thousand one hundred and sixty dollars.
+
+For contingent, namely: stationery, one thousand five hundred dollars; cases for library, five hundred dollars; library, one thousand dollars; current educational periodicals, two hundred and fifty dollars; other current publications, two hundred and twenty-five dollars; completing valuable sets of periodicals and publications in the library, two hundred dollars; telegraphing and expressage, two hundred dollars; collecting statistics, and writing and compiling matter for annual and special reports, and editing and publishing circulars of information, eight thousand dollars; fuel and lights, two hundred and seventy five dollars; office-furniture, two hundred and fifty dollars; contingencies, five hundred dollars; in all, twelve thousand nine hundred dollars.
+
+Surveyors general and their clerks.—For compensation of Surveyor-general of Louisiana, two thousand dollars; and for the clerks in his office, three thousand dollars:
+
+For Surveyor-general of Florida, two thousand dollars, and for the clerks in his office, two thousand dollars.
+
+For Surveyor-general of Minnesota, two thousand dollars; and for the clerks in his office, five thousand five hundred dollars.
+
+For Surveyor general of the Territory of Dakota, two thousand dollars; and for the clerks in his office four thousand three hundred dollars.
+
+For surveyor-general of the Territory of Colorado, three thousand dollars; and for the clerks in his office, three thousand six hundred dollars.
+
+For Surveyor-general of the Territory of New Mexico, three thousand dollars; and for the clerks in his office, four thousand five hundred dollars.
+
+For Surveyor-general of California, three thousand dollars; and for the clerks in his office twelve thousand dollars.
+
+For Surveyor-general of the Territory of Idaho, three thousand dollars; and for the clerks in his office three thousand dollars.
+
+For Surveyor general of Nevada, three thousand dollars; and for the clerks in his office, three thousand five hundred dollars:
+
+For Surveyor-general of Oregon, two thousand five hundred dollars; and for the clerks in his office, four thousand five hundred dollars.
+
+For Surveyor-general of the Territory of Washington, two thousand five hundred dollars; and for the clerks in his office, four thousand five hundred dollars.
+
+For Surveyor-general of Nebraska and Iowa, two thousand dollars; and for the clerks in his office, three thousand six hundred dollars.
+
+For Surveyor general of the Territory of Montana, three thousand dollars; and for the clerks in his office three thousand dollars.
+
+For Surveyor-general of the Territory of Utah three thousand dollars; and for the clerks in his office, three thousand six hundred dollars.
+
+For Surveyor-general of the Territory of Wyoming, three thousand dollars; and for the clerks in his office, four thousand dollars.
+
+For Surveyor-general of the Territory of Arizona, three thousand dollars; and for the clerks in his office, three thousand two hundred dollars.
+
+For recorder of land titles in Missouri, five hundred dollars.
+
+## POST OFFICE DEPARTMENT.
+
+For compensation of the Postmaster-General eight thousand dollars; three assistant postmasters general, at three thousand five hundred dollars each; superintendent of money-order system, three thousand dollars; superintendent of foreign mails, three thousand dollars; topographer, two thousand five hundred dollars; chief of division of mail depredations, two thousand dollars; chief of division of dead letters, two thousand two hundred and fifty dollars; chief of division of postalstamps, two thousand two hundred and fifty dollars; superintendent of post-office building and disbursing officer, two thousand one hundred dollars; chief clerk to the Postmaster-General, two thousand two hundred dollars; three chief clerks to the assistant postmasters-general, at two thousand dollars each; chief clerk to the superintendent of money-order system, two thousand dollars; chief clerk to the superintendent of foreign mails, one thousand eight hundred dollars; chief of division of free delivery, two thousand one hundred dollars; superintendent of blank-agency, one thousand eight hundred dollars; assistant superintendent of blank-agency, one thousand six hundred dollars; four assistants of blank-agency one thousand two hundred dollars each; two assistants of blank-agency, nine hundred dollars each; stenographer, one thousand eight hundred dollars; seventeen clerks of class four; sixty-three clerks of class three; forty-eight clerks of class two; sixty-five clerks of class one; forty-seven female clerks, at nine hundred dollars each; one messenger to Postmaster General, nine hundred dollars; three messengers to assistant postmasters general, eight hundred and forty dollars each; seven assistant messengers, seven hundred and twenty dollars each; captain of the watch, one thousand dollars; nine watchmen, at seven hundred and twenty dollars each; twenty-seven laborers, seven hundred and twenty dollars each; one engineer, one thousand four hundred dollars; one assistant engineer, one thousand dollars; on carpenter one thousand two hundred dollars; one assistant carpenter, one thousand dollars; one fireman, who shall be a blacksmith, nine hundred dollars; one fireman who shall be a steam fitter, nine hundred dollars; one fireman, seven hundred and twenty dollars; three female laborers, four hundred and eighty dollars each; and for temporary clerks, ten thousand dollars; making in all, four hundred and thirty-four thousand three hundred and forty dollars.
+
+For contingent expenses of the Post Office Department: For stationery, nine thousand dollars; fuel, for the General Post-Office building, including the Auditor’s office, seven thousand and four hundred dollars; for gas, five thousand dollars; plumbing and gas-fixtures, three thousand dollars; telegraphing, three thousand dollars; painting, two thousand dollars; carpets, three thousand dollars; furniture, five thousand dollars; keeping of horses and repair of wagons and harness, one thousand two hundred dollars; hardware, one thousand two hundred dollars; and for rent of house numbered nine hundred and fifteen, E street northwest, one thousand eight hundred dollars; and for miscellaneous items, eight thousand dollars; in all, forty nine thousand six hundred dollars.
+
+## DEPARTMENT OF AGRICULTURE.
+
+For compensation of the Commissioner of Agriculture, three thousand dollars; chief clerk, one thousand eight hundred dollars; entomologist, two thousand dollars; chemist, two thousand dollars; assistant chemist, one thousand four hundred dollars; superintendent of experimental gardens and grounds, one thousand eight hundred dollars; statistician, one thousand eight hundred dollars; disbursing-clerk, one thousand six hundred dollars; superintendent of seed-room, one thousand six hundred dollars; librarian, one thousand four hundred dollars; botanist, one thousand eight hundred dollars; microscopist, one thousand eight hundred dollars; three clerks of class four; four clerks of class three; five clerks of class two; six clerks of class one; engineer, one thousand two hundred dollars; superintendent of folding-room, one thousand two hundred dollars; two copyists, at nine hundred dollars each; two attendants in the museum, one thousand dollars each; one messenger, at eight hundred and forty dollars; two assistant messengers, at seven hundred and twenty dollars: each; one carpenter, at nine hundred and sixty dollars; two watchmen; and eight laborers; making in all, sixty four thousand seven hundred dollars.
+
+For collecting agricultural statistics, and compiling and writing matter for monthly, annual, and special reports, ten thousand dollars: Provided, That no part of this sum shall be paid to any person receiving at the same time other compensation as an officer or employee of the Department.
+
+For purchase and distribution of new an valuable seeds and plants, sixty thousand dollars: Provided, That two thousand dollars of the above amount shall be expended by the Commissioner of Agriculture as compensation to some man of approved attainments, who is practically well acquainted with methods of statistical inquery, and who has evinced an intimate acquaintance with questions relating to the national wants in regard to timber to prosecute investigations and inqueries, with the view of ascertaining the annual amount of consumption, importation, and exportation of timber and other forest-products, the probable supply for future wants, the means best adapted to their preservation and renewal, the influence of forests upon climate, and the measures that have been successfully applied in foreign countries, or that may be deemed applicable in this country, for the preservation and restoration or planting of forests; and to report upon the same to the Commissioner of Agriculture to be by him in a separate report transmitted to Congress. For expense of putting up the same, for labor, bagging paper, twine, gum, and other necessary materials, five thousand dollars; in all, sixty five thousand dollars.
+
+For labor on experimental garden, and for flower-pots repairs to green house, and purchase of new plants and seeds for the same, five thousand dollars.
+
+For collecting and modeling specimens of fruits and vegetables, and collecting and preparing specimens for the museum and herbarium, two thousand dollars.
+
+For repairs of building, heating apparatus, furniture, water and gas pipes, and new furniture, cases for herbarium, gasometer, and necessary pipes for the same, two thousand dollars.
+
+For entomological works of reference, for botanical works of reference, for works on chemistry, mineralogy, and charts, for current agricultural works for the library, for miscellaneous agricultural periodicals, and for the completion of imperfect series, one thousand dollars.
+
+For chemicals and apparatus for the use of the chemical division, and for materials for the use of the microscopist, one thousand three hundred dollars.
+
+For stationery, freight-charges, fuel, lights, subsistence and care of horses, and repair of harness and carriage, paper, twine, and gum for folding-room, for incidental and miscellaneous items, namely, for advertising, telegraphing, dry goods, soap, brushes, brooms, mats, oils, paints glass, lumber, hardware, ice, and expenses in attending fairs, and care of stationery, purchasing supplies, and for other necessary items, ten thousand dollars.
+
+For postage on seeds, reports, circulars, and letters, four thousand dollars.
+
+## JUDICIAL.
+
+United States Courts.—For the Chief Justice of the Supreme Court of the United States, ten thousand five hundred dollars; and for eight associate Justices ten thousand dollars each; in all, ninety thousand five hundred dollars.
+
+For nine circuit Judges, to reside in circuit, fifty-four thousand dollars.
+
+For salary of the reporter of the decisions of the Supreme Court of the United States, two thousand five hundred dollars.
+
+For salary of the marshal of the Supreme Court three thousand five hundred dollars.
+
+For salaries of the fifty two district Judges of the United States, one hundred and eighty two thousand five hundred dollars.
+
+For salaries of the Chief Justice of the Supreme Court of the District of Columbia and the four associate Judges, twenty thousand five hundred dollars.
+
+For compensation of the district attorneys of the United States, nineteen thousand three hundred and fifty dollars.
+
+For compensation of the district marshals of the United States, twelve thousand one hundred dollars.
+
+For salary of the warden of the Jail in the District of Columbia, one thousand eight hundred dollars.
+
+For the purchase, by the librarian of Congress of new books of reference for the Supreme Court to be a part of the Library of Congress, to be purchased under the direction of the Chief-Justice two thousand dollars; and the unexpended balance of one thousand dollars appropriated by the act for sundry civil expenses for the fiscal year eighteen hundred and seventy five, to enable the Joint Committee on the Library of Congress to procure plans for the accommodation of the Library, is hereby re-appropriated and mad available for said purpose.
+
+Court of Claims. For salaries of five Judges of the Court of Claims, at four thousand five hundred dollars each; the chief clerk, three thousand dollars; one assistant clerk, two thousand dollars; bailiff, one thousand five hundred dollars; and messenger thereof; in all, twenty nine thousand eight hundred and forty dollars.
+
+For stationery, books, fuel, labor, postage, and other contingent and miscellaneous expenses, two thousand dollars; for reporting the decisions of the court, clerical hire, labor in preparing and superintending the printing of the eleventh Volume of the Reports of the Court of Claims, to be paid on the order of the court, one thousand dollars; in all, three thousand dollars.
+
+Office of the Attorney General:—For compensation of the Attorney General, eight thousand dollars; solicitor-general, seven thousand dollars; three assistant attorneys general, at five thousand dollars each; one assistant attorney-general of the Post Office Department, four thousand dollars; solicitor of internal revenue, four thousand five hundred dollars; examiner of claims, three thousand five hundred dollars; law-clerk and examiner of titles, two thousand seven hundred dollars; chief clerk, two thousand two hundred dollars; stenographic, clerk, one thousand eight hundred dollars; one law clerk, two thousand dollars; five clerks of class four; additional for disbursing clerk, two hundred dollars; one clerk of class two; one clerk of class one; five copyists; one telegraph-operator, at one thousand dollars; one messenger; one assistant messenger; two laborers; and two watchmen; in all, seventy-two thousand four hundred and forty dollars. For care and subsistence of horses and repairs of wagons and harness, one thousand dollars.
+
+For rent of the four floors of the building occupied by the Department of Justice, fourteen thousand dollars.
+
+Office of the Solicitor of the Treasury:—For compensation of the Solicitor of the Treasury, four thousand five hundred dollars; assistant solicitor, three thousand dollars; chief clerk, two thousand dollars; three clerks of class four; two clerks of class three; two clerks of class two; two clerks of class one; on messenger; and one laborer; in all, twenty-four thousand eight hundred dollars.
+
+## § 2.
+
+That the reduction in the numerical force of the officers, clerks, and employees in the several executive departments made necessary by the provisions of this act shall be carried into effect as fol-lows: the number so reduced shall be discharged on the tenth day of October next, and the sum of money necessary for their compensation to the said date is hereby appropriated. And the amounts of money necessary to carry out the provisions of this act, for which no specific appropriations are made, are hereby appropriated; and the amounts heretofore appropriated for legislative, executive and judicial expenses for this fiscal year, so far as the same were applicable to service which by the provisions of this act is discontinued, or to excess of compensation which by this act is reduced, shall not be deducted from the aggregate appropriations herein made for like purposes; and the sum of sixty thousand dollars, or so much thereof as may be necessary, is hereby appropriated for temporary clerical service in the several executive departments, according to the exigencies of the public service, to be apportioned by the Secretary of the Treasury. And the President is authorized, during the present fiscal year, whenever the interests of the public service shall require it, to transfer any clerk or employee from one department to service in another department.
+
+## § 3.
+
+That whenever, in the judgment of the head of any department, the duties assigned to a clerk of one class can be as well performed by a clerk of a lower cl ass or by a female clerk, it shall be lawful for him to diminish the number of clerks of the higher grade and increase the number of the clerks of the lower grade within the limit of the total appropriation for such clerical service: Provided, That in making any reduction of force in any of the executive departments, the head of such department shall retain those persons who may be equally qualified who have been honorably discharged from the military or naval service of the United States, and the widows and orphans of deceased soldiers and sailors.
+
+## § 4.
+
+That the Secretary of the Treasury is hereby directed to institute a careful scrutiny of the present condition and competence of the force employed in the collection of revenue from customs, with a view of reducing the number of the same.
+
+## § 5.
+
+That the executive officers of the Government are hereby prohibited from employing any clerk, agent, engineer, draughtsman messenger watchman, laborer, or other employee, in any of the executive departments in the city of Washington, or elsewhere beyond provision made by law.
+
+## § 6.
+
+That all executive officers or employees of the United States not appointed by the President, with the advice and consent of the Senate, are prohibited from requesting, giving to, or receiving from, any other officer or employee of the Government, any money or property or other thing of value for political purposes; and any such officer or employee. who shall offend against the provisions of this section shall be at once discharged from the service of the United States; and he shall also be deemed guilty of a misdemeanor, and on conviction thereof shall be fined in a sum not exceeding five hundred dollars.
+
+## § 7.
+
+That to enable the Secretary of the Interior to carry into effect the act of March third, eighteen hundred and seventy-five, to provide for the sale of the buildings and grounds known as the Detroit Arsenal, at Dearbornville, in the State of Michigan, by appraising and and surveying the property and advertising its sale, one thousand dollars: Provided, That the Secretary of the Interior may, in his discretion, postpone the time of sale to the time most advantageous to the United States.
+
+## § 8.
+
+That for the purpose of defraying the expenses of a survey of the Union Pacific and Central Pacific Railways between Council Bluffs, Iowa, and Sacramento, California, to be made in pursuance of the resolution of the House of Representatives passed the twelfth day of July, eighteen hundred and seventy-six, ten thousand dollars.
+
+## § 9.
+
+That the Secrataries respectively of the Departments of State, Treasury, War, Navy, and Interior, and the Attorney-General, are authorized to make requisitions upon the Postmaster-General for the necessary amount of postage stamps for the use of their Depart-ments not exceeding the amount stated in the estimates submitted to Congress; and upon presentation of proper vouchers therefor at the Treasury, the amount thereof shall be credited to the appropriation for the service of the Post Office Department for the same fiscal year.
+
+
+*Approved, August 15, 1876.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- Aug. 15, 1876.
+- Post, p. 294.
+- Appropriations for legislative, executive, and judicial expenses.
+- Senate, compensation.
+- Mileage.
+- Officers and ernployés.
+- William H. St. John.
+- Kate Dodson.
+- Meaning of words “during the session.”
+- Stationery and newspapers.
+- Clerks to committees.
+- Pages.
+- Horses and wagons.
+- Materials for folding.
+- Folders; proviso.
+- Prices for folding.
+- Fuel, oil, etc.
+- Reporting debates.
+- Compiling Congressional Directory.
+- Cartage.
+- Capitol police.
+- Proviso. 1870, Res. 131, 16 Stat., 391.
+- House, compensation.
+- Officers and employes.
+- Clerk of House may sign certificates for compensation during recess.
+- Employés in heating, etc., to be under control of doorkeeper.
+- Proviso.
+- Henry Douglas.
+- Messengers on Soldier’s Roll.
+- Folding.
+- Fuel and oil.
+- Furniture.
+- Boxes.
+- Miscellaneous.
+- Indebtedness of committees.
+- Postage stamps.
+- Newspapers and stationery.
+- Salaries.
+- Proviso. 1876, ch. 246, Ante, p. 105.
+- Contingent expenses.
+- Purchase of books, etc.
+- Contingencies.
+- Postage.
+- Copy-right business.
+- Botanic Garden.
+- Architect of Capitol to have charge of Capitol building.
+- Office.
+- Executive Mansion, employes.
+- Draw-keepers.
+- Watchmen in grounds.
+- Bridge-keeper.
+- Postage-stamps.
+- Proof-reading, etc.
+- Rent of stable.
+- Lithographer, etc.
+- Editing etc., session’s laws.
+- Salaries. Secretary’s Office.
+- Division of loans and currency consolidated.
+- Officers and clerks.
+- Construction branch.
+- First Comptroller’s Office.
+- Second Comptroller’s Office.
+- Commissioner of Customs’ Office.
+- First Auditor’s Office.
+- Second Auditor’s Office.
+- Third Auditor’s Office.
+- Fourth Auditor’s Office.
+- Fifth Auditor’s Office.
+- Sixth Auditor’s Office.
+- Treasurer’s Office.
+- Register’s Office.
+- Deputy Register abolished. Comptroller of the Currency.
+- Examinations national banks.
+- Commissioner of Internal Revenue. Salaries.
+- Dies, paper, etc.
+- Stamps to be transmitted by mail.
+- Collectors.
+- Agents, surveyors, gaugers, etc.
+- Rate of compensation of gaugers and storekeepers.
+- Reduction of revenue districts.
+- R. S. 3159, 3160, p. 608, repealed.
+- Powers of supervisors, how vested. R. S. 3163, p. 608.
+- Supervision of collectors, reports on.
+- Special agents, customs service; number and compensation. R. S. 2649 to 2651, p. 527, modified.
+- Gauging, inspecting, and stamping spirits. R. S. 3321 and 3323, p. 648, repealed.
+- When one officer may be storekeeper and gauger.
+- Compensation.
+- Bond.
+- Detecting violations of the revenue laws.
+- Light House Board.
+- Bureau of Statistics.
+- Compensation for additional duties.
+- 1875, ch. 129, 18 Stat., 352.
+- Engraving and Printing Bureau.
+- Stationery.
+- New York.
+- Boston.
+- San Francisco.
+- Philadelphia
+- Baltimore.
+- Saint Louis.
+- Chicago.
+- Cincinnati.
+- New Orleans.
+- R. S. 3595, p. 714, amended.
+- Assistant Treasurer, Charleston, S. C., discontinued.
+- Depositories at Buffalo, Santa Fé, and Pittsburgh discontinued.
+- Charleston.
+- Pittsburgh.
+- Tucson.
+- Compensation of depositaries.
+- Special agents, independent treasury. 1846,ch.90, 9 Stat., 59. R. S. 3649, p. 722. Checks, and check-books. Contingent expenses. R. S., Title xl, p. 713. Proviso.
+- Directors’ office, salaries.
+- Contingent expenses, mints and assay offices.
+- Refining and parting bullion.
+- Philadelphia mint.
+- San Francisco mint.
+- Carson mint.
+- Denver mint.
+- New York assay-office.
+- New Orleans mint.
+- Assaying bullion authorized. 1873, ch.131, 17 Stat., 424. R. S., Title xxxvii, p. 697. Helena assay-office.
+- Boise City assay-office.
+- Charlotte assay-office.
+- Arizona.
+- 1874, ch.129, 18 Stat., 357.
+- Colorado.
+- Dakota.
+- Idaho.
+- Montana.
+- Sessions of legislature.
+- New Mexico.
+- Utah.
+- Washington.
+- Wyoming.
+- Salaries, etc.: Secretary’s Office.
+- Adjutant-General’s Office.
+- Inspector General’s Office.
+- Bureau of Military Justice.
+- Signal Office.
+- Quarterniaster-General’s Office.
+- Commissary-General’s Office.
+- Surgeon-General’s Office.
+- Acting Assistant Surgeon may be detailed.
+- Ordnance Bureau.
+- Paymaster-General’s Office.
+- Engineer Bureau.
+- War Department buildings; salaries, fuel, etc.
+- Salaries, etc. Secretary’s Office.
+- Yards and Docks.
+- Equipment and Recruiting.
+- Navigation.
+- Ordnance.
+- Construction and Repair.
+- Steam Engineering.
+- Provisions and Clothing.
+- Medicine and Surgery.
+- Superintendent of building.
+- Lease of fireproof building for Pension Office.
+- General Land Office.
+- Indian Office.
+- Pension Office
+- Patent Office.
+- Financial clerk; compensation; bond.
+- Supervision of photolithographing.
+- Bureau of Education.
+- Surveyors - general and clerks.
+- Recorder of land titles, Missouri.
+- Salaries, etc. Postmaster-General’s Office.
+- Salaries, etc. Commissioner’s Office.
+- Inquiry into consumption and supply of timber, etc.
+- Post, p. 360.
+- Report.
+- Salaries, United States courts.
+- Purchase of books.
+- 1874, ch. 455, 18 Stat., 226.
+- Court of Claims, salaries, etc.
+- Salaries, etc., Attorney-General’s Office.
+- Solicitor of Treasury.
+- Reduction of clerical force, how carried into effect.
+- Objects not specified.
+- What appropriations not to be deducted
+- Temporary clerical service.
+- Transfer of clerks.
+- Transfer of duties to clerks of lower class.
+- Preference of discharged soldiers and sailors.
+- Inquiry into customs-revenue force.
+- Employing clerks, etc., beyond provisions by law.
+- Requesting, etc., contributions by officers of Government for political purposes.
+- To effect sale of Detroit Arsenal. 1875, ch.174, 18 Stat., 510.
+- Survey of Union Pacific and Central Pacific Railways.
+- Post, p. 217.
+- Requisitions for postage stamps by Departments.

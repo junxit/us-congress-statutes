@@ -1,0 +1,862 @@
+---
+volume: 19
+citation: 19 Stat. 473
+type: Chapter
+number: 275
+congress: 44
+session: 1
+scope: private
+approved: 1876-08-14
+---
+
+# Chapter 275
+
+> An Act Making appropriations for the payment of claims reported allowed by the Commissioners of claims under the act of Congress of March third, eighteen hundred and seventy-one, and for other purposes.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+That the Secretary of the Treasury be, and he is hereby, authorized and required to pay, out of any moneys in the Treasury not otherwise appropriated, to the several persons in this act named, the several sums mentioned therein, the same being in full for, and the receipt of the same to be taken and accepted in each case as a full and final discharge of, the several claims presented by such persons to the Commissioners of Claims under the act of March third, eighteen hundred and seventy-one, and reported to the House of Rep resentatives under the said act; that is to say:
+
+## OF THE STATE OF ALABAMA.
+
+- To Samuel Aaron, the sum of one hundred and fifty dollars.
+- To Mial S. Abernathy, two hundred and ten dollars.
+- To Miles J. Abernathy, six hundred and eighty-six dollars and fifty cents.
+- To James S. Armstrong, two hundred and thirty-five dollars.
+- To William Baker, three hundred and ninety-five dollars.
+- To Nancy Beard, one hundred and ten dollars.
+- To William W. Beard, two hundred and fifty-one dollars.
+- To James T. Bell, two hundred and fourteen dollars and fifty cents.
+- To Joseph Benton, four hundred and ninety dollars.
+- To John H. Berry, five hundred and eighty-one dollars.
+- To Ezekiel Bird, two hundred and fourteen dollars and fifty cents.
+- To Jeremiah Blackburn, five hundred and twenty dollars.
+- To Catharine Bowen, one hundred and sixty-eight dollars and sixty cents.
+- To John M. Brown, twelve thousand four hundred and fifty-seven dollars and fifty cents; Caroline W. Almour, one thousand and seventeen dollars; Matilda H. Johnson, administratrix of the estate of William H. Johnson, deceased, one thousand five hundred and twenty-five dollars and fifty cents.
+- To John Burrow, two thousand two hundred and fifty-two dollars.
+- To Alexander Carmichael, one hundred and forty dollars.
+- To John Carrithers, two hundred and sixty dollars.
+- To Bryant Cobb, two hundred and five dollars.
+- To John W. Cobb, two hundred and sixty-two dollars and fifty cents.
+- To Absalom Coffey, four hundred and seventeen dollars.
+- To John A. Conner, one hundred and ninety-seven dollars.
+- To George Coward, one hundred and twelve dollars and fifty cents.
+- To Larkin M. Cox; two hundred and four dollars.
+- To Frances J. Crawford, ninety-one dollars.
+- To Jackson Daniel, thirty-six dollars.
+- To Joel Dendy, three hundred and twenty-one dollars.
+- To Felix Devane, two hundred and thirty-seven dollars.
+- To Mary Dougherty, eight hundred and five dollars.
+- To John B. Findley, one hundred and forty dollars.
+- To William C. Ford, ninety-two dollars and seventy cents.
+- To Caroline Friend, administratrix of the estate of Jackson Donald, deceased, one hundred and forty dollars.
+- To Joseph Garland, one thousand two hundred and fifteen dollars.
+- To Frederick L. Goza, four hundred and twenty-seven dollars and sixteen cents.
+- To Elias Glenn, one hundred and forty-nine dollars.
+- To William Goode, one hundred and twenty-five dollars.
+- To Nancy A. Graham, five hundred and fifty-five dollars and fifty cents.
+- To Samuel Greenhill, two hundred and twenty dollars.
+- To Green M. Haley, seven hundred and ten dollars.
+- To Henry Hall, three hundred and seventy-five dollars.
+- To Ellen Hampton, one hundred and thirty-five dollars.
+- To Thompson Hannah, three hundred and three dollars and fifty cents.
+- To Elizabeth Hardin, three hundred and seventy dollars.
+- To Jasper Harper, two hundred and sixty dollars.
+- To William Hightower, two hundred and forty dollars.
+- To William H. Hill, four hundred and sixty-five dollars.
+- To Maria L. Howard, four hundred and eleven dollars.
+- To Edward Hurst, one hundred and fifty dollars.
+- To Moses L. Johnson, one hundred and forty dollars.
+- To Jehu Lawler, administrator of the estate of William J. Lawler, deceased, three hundred dollars.
+- To Thomas N. McCarley, one hundred and one dollars.
+- To John A. McClintock, one hundred and twenty-five dollars.
+- To William McCorkle, one hundred and twenty dollars.
+- To Thomas McFarland, two thousand seven hundred and forty-eight dollars and forty cents.
+- To Henry McNutt, fifty-six dollars.
+- To Winston McNutt, one hundred and twenty-five dollars.
+- To Moses Maples, four thousand six hundred and eighty-eight dollars.
+- To James R. Martin, two hundred and twenty dollars.
+- To Lyman W. Martin, administrator of the estate of William Brooks, deceased, two thousand one hundred and ninety-five dollars.
+- To Thomas M. Martin, two hundred and forty-five dollars.
+- To Martin Middleton, seven hundred and sixty dollars and fifty cents.
+- To Elizabeth Miller, eighty-seven dollars and seventy cents.
+- To Rhoda Miller, widow of John Miller, deceased, one hundred and fifty-five dollars.
+- To Edmond Moss, one hundred and forty-four dollars.
+- To Joshua Mullens, six hundred and sixty three dollars and fifty cents.
+- To John N. Nesmith, four hundred and ten dollars.
+- To John Oliver, three hundred and forty-six dollars.
+- To Harriet Owens, three hundred and eighty nine dollars, and fifty cents.
+- To Sarah Reed, one hundred and twenty-five dollars.
+- To Cherry E. Rice, one hundred and eighty-two dollars.
+- To Ephraim N. Robbins, three hundred and eighty-five dollars.
+- To John B. Robbins, one hundred dollars.
+- To Jere Roden, two hundred and ninety-three dollars.
+- To Walton W. Roden, one hundred and ninety-seven dollars.
+- To Thomas W. Roe, one hundred and seventy-one dollars.
+- To John Row, four hundred and seventy-five dollars.
+- To William A. Rush, two hundred and seventeen dollars.
+- To Jesse C. Russell, one hundred and twenty-five dollars.
+- To John Scott, two hundred and thirty-five dollars.
+- To John N. Selby, one hundred and twenty dollars.
+- To Walter Selby, four hundred and fifty-six dollars and fifty cents.
+- To John Shugart, one hundred and seventy-four dollars and fifty cents.
+- To William Stacks, two hundred and fifty-two dollars.
+- To John Steward, three hundred dollars.
+- To David Stringer, five hundred and forty-four dollars.
+- To Robert Tharp, junior, one hundred dollars.
+- To Meredith Thompson, two hundred and eighty dollars.
+- To Levi Tramel, five hundred and forty dollars.
+- To Charles Tucker, one hundred and twenty four dollars.
+- To Nelson Turner, one hundred dollars.
+- To William M. Underwood, one hundred and eighty-five dollars.
+- To James Vanderford, two hundred and eighty-one dollars.
+- To John C. Waite, four hundred and twenty-two dollars and forty cents.
+- To John Wallace, one hundred and twelve dollars.
+- To Reuben R. Ward, two hundred and forty-seven dollars.
+- To Calvin M. Wheeler, five hundred and eighty-five dollars.
+- To Sarah A. Woodard, one hundred and forty dollars.
+- To Elizabeth A. Wright, administratrix of the estate of Matthew Culbert, deceased, three hundred and eighty-four dollars.
+
+## OF THE STATE OF ARKANSAS.
+
+- To Alfred Aldridge, five hundred and forty-five dollars.
+- To Milton Aldridge, four hundred and sixty-five dollars.
+- To Caesar Bean, one hundred dollars.
+- To Hiram Bowen, one hundred and twenty-five dollars.
+- To Jane Bowlin, one hundred dollars.
+- To Archibald Briggs, two hundred and twenty-nine dollars.
+- To Lafayette Brooks, one hundred and twenty dollars.
+- To Jackson Brown, two hundred and forty dollars.
+- To Thomas T. Brown, one hundred dollars.
+- To Thomas T. Brown, guardian of Mary L. Jones and agent for Gilbert Jones, three hundred dollars.
+- To William W. Campbell, one hundred and fifty dollars.
+- To James Chambers, one hundred and forty dollars.
+- To John B. Claiborne, one hundred and fifty dollars.
+- To Morrison Cotner, five hundred and fifty dollars.
+- To Riley Cowan, one hundred and twenty-five dollars.
+- To Robert Cowan, one hundred and twenty-five dollars.
+- To Theresa Cox, three hundred dollars and fifty cents.
+- To Naomi Daugherty, three hundred and thirty dollars.
+- To Mrs. Hamilton R. Davis, administratrix of the state of John A Davis, deceased, one thousand dollars.
+- To Thornsbury Davis, one hundred dollars.
+- To Josephine Decker, two hundred and four dollars.
+- To Wesley Dodson, one hundred and forty dollars.
+- To Clarissa Dotson, three hundred and sixty-five dollars.
+- To Frances Dunlap, eighty dollars.
+- To William R. Dye, two hundred and forty dollars.
+- To Thomas Edmondson, eighty-five dollars.
+- To William R. Garrison, three hundred and sixty dollars.
+- To William Gossett, four hundred and ten dollars.
+- To Oliver Grangeene, four hundred and forty-five dollars.
+- To Michael Grape, three hundred and seventy dollars.
+- To Martha J. Graves, one hundred and eighty dollars.
+- To Isaac L. Green, three hundred and thirty-five dollars.
+- To Isaac Haddox, one thousand and eighty-two dollars.
+- To Joseph Hamm, one hundred and twenty-five dollars.
+- To Samuel Haney, two hundred and forty dollars.
+- To George Harrison, one hundred and thirty dollars.
+- To William D. Harton, one hundred and twenty-five dollars.
+- To Benjamin C. Hawkins, seven hundred dollars.
+- To Charles H. Hill, two hundred dollars.
+- To Hansel Hodges, sixty-nine dollars.
+- To Eli F. Holt, two hundred and fifty-five dollars.
+- To Willis Hortou, one hundred and five dollars.
+- To Robert Houston, one hundred and twenty five dollars.
+- To Henry M. Ivy, one thousand three hundred and eighty-five dollars.
+- To James Ivy, five hundred and sixteen dollars and fifty cents.
+- To William R. Ivy, one hundred dollars.
+- To Daniel B. Jobe, seven hundred and forty-one dollars.
+- To Martin Johnson, two hundred dollars.
+- To Noah Johnson, two hundred dollars.
+- To Robert B. Johnson, three hundred and seventy dollars.
+- To James T. Jones, four hundred and seventy dollars.
+- To James Kendall, one hundred dollars.
+- To Edward F. Krickel, one thousand two hundred and seventy-five dollars.
+- To Helen M. Kyle, widow, Gayle H. Kyle, junior, James S. Kyle, and William P. Kyle, heirs of Gayle H. Kyle, senior, deceased, seven hundred and twenty dollars.
+- To Nancy Lear, two hundred dollars.
+- To Harvey C. Ledbetter, one hundred and seventy-five dollars.
+- To George W. Lewis, senior, one hundred dollars.
+- To Rebecca Lewis, one hundred dollars.
+- To Violet Lewis, two hundred and twenty-six dollars.
+- To Nacy H. Locke, three hundred and fifty-seven dollars.
+- To John C. Long, guardian of Benjamin F., Francis M., and Elizabeth H. Snodgrass, heirs of Joseph Snodgrass, deceased, two hundred and sixty dollars.
+- To Patrick McCabe, five hundred dollars.
+- To Henry S. Marshall, ten dollars.
+- To George W. Martin, one hundred and fifty dollars.
+- To George W. Matlock, two hundred and twenty dollars and eighty cents.
+- To William Z. Mayes, three hundred and forty-four dollars.
+- To Valentine M. McGehee, administrator of Joseph Merriweather, deceased, the sum of two hundred dollars; and to Mrs. Ira McL. Barton, the sum of four hundred dollars ; and to Sarah and Mary Merriweather, heirs of Joseph Merriweather, deceased, the sum of one thousand four hundred and seventy dollars.
+- To John A. Mildham, five hundred and sixty dollars.
+- To Daniel Miller, nine hundred and seven dollars.
+- To Elizabeth Mitchell, one hundred and ten dollars.
+- To Martha Moody, three hundred and eighty dollars.
+- To Lovet Moore, three hundred and fifty-three dollars.
+- To Joab Muzick, one thousand six hundred and nine dollars.
+- To John Nevils, one thousand seven hundred and eighty-six dollars.
+- To Alcy and John Nidiffer, three hundred and seventy-five dollars.
+- To Jesse Overton, four hundred and forty-two dollars.
+- To Elizabeth Pardue, one hundred and sixty dollars.
+- To Edward Peer, ninety dollars.
+- To Jacob Peer, ninety dollars.
+- To Esther Peerson, one hundred and forty dollars and twenty-five cents.
+- To Thomas Phillips, two hundred and fifty dollars.
+- To James Powell, eighty-four dollars.
+- To Jasper N. Qualls, fifty-two dollars and fifty cents.
+- To James Rainwaters, one hundred and eighty-four dollars.
+- To Elizabeth Reed, two hundred and fifty dollars.
+- To Lewis F. Riddle, two hundred dollars.
+- To John A. Rutherford, two hundred and ten dollars.
+- To William H, Sherrod, two hundred and seventy-five dollars.
+- To Sarah Simco, widow of Thomas Simco, deceased, five hundred and six dollars.
+- To John B. Simpson, eighty dollars.
+- To William R. Siveley, one hundred and twenty-five dollars.
+- To Jonathan Smith, two hundred and fifty-two dollars and twenty-five cents.
+- To Robert J. Smith, one hundred and twenty-five dollars.
+- To Jonas B. Spiva, six hundred and twenty-three dollars and fifty cents.
+- To Mary E. Spiva, administratrix of the estate of William J. Spiva, deceased, for the use and benefit of Ella J., H. D., Oudellas L., and William R. Spiva, six hundred and five dollars.
+- To William Springston, three hundred dollars.
+- To Jesse Steward, one hundred dollars.
+- To William Stotts, two hundred and sixty dollars.
+- To Vincent Tapp, one thousand seven hundred and twenty-three dollars and fifty cents.
+- To Miles W. Vansickle, two hundred and fifty dollars.
+- To Green B. Walker, six hundred and seventy dollars.
+- To Marion J. Watts, two hundred and twenty-five dollars.
+- To Matilda Wilson, forty-five dollars.
+- To Thomas Wood, six hundred and seventy dollars.
+- To William B. Worsham, two thousand and forty-eight dollars.
+
+## OF THE STATE OF FLORIDA.
+
+- To John Campbell, dministrator of the estate of Stephen S. Springer, deceased, nine thousand, two hundred and twenty-five dollars.
+- To Bethel Mattox, two hundred and eighty dollars.
+- To John S. Sammis, six hundred and thirty five dollars and fifty cents.
+- To Mark Wilcox, one hundred and forty dollars.
+
+## OF THE STATE OF GEORGIA.
+
+- To Richard Anderson, two hundred and ninety-six dollars.
+- To William Anderson, twenty-eight dollars.
+- To Baless G. Atkins, three hundred and seventy-five dollars.
+- To Lydia Baker, fifty-five dollars.
+- To Alfred Barnard, one hundred and eighty-three dollars.
+- To Henry and Polly Beedles, two hundred and seventy-two dollars.
+- To Samuel Biddenback, one hundred and eighty-nine dollars.
+- To Sarah Ann Black, one hundred and thirty three dollars and seventy five cents.
+- To Allen Blanks, seven hundred and forty dollars.
+- To Benjamin F. Bolding, seven hundred and seventy-eight dollars and seventy-five cents.
+- To Peter Bolton, two hundred and thirty-one dollars.
+- To Elizabeth Bullard, widow of William Bullard, deceased, two hundred and twenty-eight dollars and fifty cents.
+- To Patsey Campbell, one hundred dollars
+- To Elias Carell, two hundred and sixty-three dollars and fifty cents.
+- To Joe Clark, eight hundred and five dollars.
+- To Rebecca S. Cleghorn, two thousand dollars.
+- To Elisha Cochran, two hundred and eighty-three dollars and seventy-five cents.
+- To Jeremiah Cordell, one hundred and ten dollars.
+- To John Crawford, twenty-six dollars.
+- To Prince Cummings, ninety-five dollars.
+- To Richard Cummings, oue hundred and ten dollars.
+- To Gary Davis, eight hundred and twenty-nine dollars.
+- To William S. Dickert, eight hundred dollars.
+- To Constantine M. Dodson, four hundred and fifteen dollars.
+- To Toney Elliott, one hundred and twenty-five dollars.
+- To Hannah Ellison, two hundred dollars.
+- To A. A. Fletcher, executor of the estate of Henry G. Cole, deceased, four thousand three hundred and seventy-five dollars.
+- To Mary Geil, widow and administratrix of the estate of Jacob Geil, deceased, two hundred and eighty four dollars.
+- To William W. Gilbert, one hundred and eighty-five dollars.
+- To William M. Glover, one hundred and fifty dollars.
+- To Mary Gordon, one thousand two hundred and thirty-three dollars and sixty cents.
+- To Henry Gore, six hundred and fifty dollars.
+- To William M. Graham, eight hundred and ninety-six dollars.
+- To Meshach Green, seven hundred and forty-five dollars.
+- To Churchwell O. Hale, six hundred and forty-four dollars.
+- To William Harpe, one hundred and eighty-seven dollars and fifty cents.
+- To John Hawkins, seven hundred and eighty-nine dollars and twenty-five cents.
+- To Stephen Haywood, one hundred and twenty-five dollars.
+- To Jeptha Head, two hundred and nine dollars.
+- To Thomas G. Healy, one thousand one hundred and fifteen dollars.
+- To Hartford Henly, seven hundred and eighty-seven dollars.
+- To Thomas M. Hogan, thirty dollars.
+- To Thomas Hollis, one hundred and eighty dollars.
+- To Hosea Hopkins, one hundred and twenty-five dollars.
+- To Pinckney F. Howell, six hundred and thirty dollars.
+- To James Hunsecker, five hundred and thirty-three dollars.
+- To Cato Jackson, fifty dollars, balance due him on award on first report.
+- To Caesar Johnson, one hundred and eighty-five dollars.
+- To Naomi Johnson, four hundred and thirty-three dollars.
+- To Rosanna Jones, seventy-six dollars and fifty cents.
+- To Elisha Kelly, one thousand and seven dollars.
+- To Julia McCoy, widow of Francis K. McCoy, deceased, three hundred and fourteen dollars.
+- To Lucy McIver, eighty-five dollars.
+- To Price McNair, two hundred and twenty-five dollars.
+- To James Maxwell, sixty-five dollars.
+- To Simon Middleton, one hundred and eighteen dollars and twenty cents.
+- To James Mifflin, one hundred dollars.
+- To Elizabeth, Matilda, Nancy, and Samuel Milwee, heirs of John Milwee, deceased, one thousand one hundred and thirty-two dollars.
+- To James B. Nevill, seven hundred and seven dollars.
+- To George Ott, seven hundred and forty-four dollars.
+- Elijah Palmer, one hundred dollars.
+- To William C. Parker, guardian for Martha F. and William H. Ferguson, heirs of William H. Ferguson, deceased, two hundred and forty dollars.
+- To Charles R. Pate, two hundred and fifty-seven dollars.
+- To Prince Ponder, six hundred and seventy-five dollars.
+- To Plenty Porter, ninety-five dollars.
+- To Sanford Prince, six hundred and seventy dollars.
+- To Green Puckett, three hundred and nine dollars.
+- To Charlotte Quarterman, seventy-five dollars and fifty cents.
+- To Eleanor Rawlings, one hundred dollars.
+- To Lewis Richardson, eighty dollars.
+- To Harry Ripley, one hundred and seventeen dollars.
+- To James M. Shields, three hundred and eighty-six dollars.
+- To Allen Smith, forty dollars.
+- To Morris Thompson, one hundred dollars.
+- To Caleb Tompkins, one thousand three hundred and forty-two dollars, and eighty-six cents.
+- To Daniel C. Wacaser, forty-five dollars and fifty cents.
+- To James M. Wellborn, two hundred and seventy dollars.
+- To William W. West, three hundred and five dollars.
+- To Albert Wilson, one hundred and two dollars and fifty cents.
+- To Benjamin C. Yates, four hundred and twelve dollars and fifty cents
+
+## OF THE STATE OF LOUISIANA.
+
+- To Joseph Balque, eight hundred and ninety-five dollars.
+- To Laura J., and her daughters Belle, Elizabeth, and Mattie Bemiss, twenty-seven thousand three hundred and ten dollars.
+- To Nancy Bills, widow of Elisha T. Bills, deceased, five hundred dollars.
+- To Louisa Bour, widow of Louis Bour, deceased, three hundred dollars.
+- To Louis Bush, three hundred and forty-five dollars.
+- To Hilaire Chenier, three hundred and eighty dollars.
+- To Stephania M. Chotard, thirteen thousand and eight hundred dollars.
+- To John W. Clarke, two thousand and seventy-three dollars.
+- To Mary C. Daigre, ten thousand nine hundred and thirty dollars.
+- To Alexander Fournier, six hundred and ninety dollars.
+- To Maria L. Haurut, seven thousand and ten dollars.
+- To Emilie Kirkland, one thousand six hundred and ninety five dollars.
+- To Francis H. Neal, two thousand and thirty-five dollars.
+- To Richard Merity, one hundred and thirty dollars.
+- To Victor Rachal, five thousand six hundred and eighty dollars.
+- To Samuel O. Scruggs, seven thousand four hundred and fifty dollars.
+- To Nancy Short, seven hundred and twenty dollars.
+- To Ellen Smith, administratrix of the estate of William Jay, deceased, five hundred dollars.
+- To Robert Thompson, one hundred and ten dollars.
+
+## OF THE STATE OF MISSISSIPPI.
+
+- To James H. Allen, one hundred and sixty-seven dollars and fifty cents.
+- To Lewis D. Allen, twenty-seven dollars and fifty-eight cents.
+- To Henry Anderson, three hundred dollars.
+- To Samuel P. Beatty, three hundred and sixty-two dollars.
+- To Jacob Becker, four hundred and sixty dollars.
+- To Andrew Black, two hundred and ninety-nine dollars.
+- To William J. Blunt, two hundred dollars.
+- To John B. Bowen, two hundred and fourteen dollars.
+- To Nace Bradford, two hundred and eighty dollars.
+- To Thomas Bradshaw, two hundred and sixty five dollars.
+- To Elizabeth Brown, widow of William A. Brown, deceased, two hundred dollars.
+- To Joseph J. Burt, one hundred and twenty-five dollars.
+- To James Canady, one hundred and eighty dollars.
+- To Elijah Cantwell, four hundred and eighty-four dollars.
+- To James M. Coleman, three hundred and seventy five dollars.
+- To Martha Crane, guardian of Anna R., Catharine M., and Clara Crane, heirs of Robert F. Crane, deceased, one thousand and three hundred dollars.
+- To Daniel Dexter, one thousand two hundred and forty five dollars.
+- To Elizabeth and Edward J. Dooley, one hundred dollars.
+- To Anna de N. Evans, six thousand seven hundred and seventy dollars.
+- To Nelson Finly, two hundred and sixty dollars.
+- To Hiram Fisher, one thousand, one hundred and twenty dollars.
+- To Uriah G. Flowers, six thousand nine hundred and thirty-one dollars.
+- To Huldah L. Gonde, eight hundred and eighty dollars.
+- To Ben Gorman, one hundred and two dollars.
+- To Cato Govan, five hundred dollars.
+- To William Green, one hundred dollars.
+- To William Hardeman, three hundred and fifty dollars.
+- To William Hays, nine hundred and fifty-nine dollars.
+- To James O. Hendricks, one hundred and sixty-nine dollars.
+- To Elijah Hooker, one hundred and twenty-five dollars.
+- To Thomas Hunt, three hundred and twenty-one dollars.
+- To Minerva Jones, one hundred and thirty-five dollars.
+- To E. F. Jordan, seven hundred and sixteen dollars.
+- To John Kirchner, two hundred and seventy dollars.
+- To N. V. Lane, executor of the estate of John W. King, senior, deceased, for the use and benefit of John W. King, junior, two thousand two hundred and fifty dollars.
+- To Olive Lee, two hundred dollars.
+- To Elizabeth Mackin, three hundred and thirty dollars and fifty cents.
+- To Stephen D. Marshall and George M. Miller, executors of the estate of Levin R. Marshall, deceased, twelve thousand six hundred and ninety five dollars.
+- To John W. Morgan, one hundred and thirty dollars.
+- To Henry Morris, one hundred and fifty dollars.
+- To George J. Mortimer, guardian of Hopsie B. Cocke, three thousand two hundred and sixty five dollars.
+- To Sina D. Nabors, two hundred dollars.
+- To Elizabeth O. Norfleet, one thousand nine hundred and ten dollars.
+- To George W. L. Ozbirn, one hundred and sixty-eight dollars.
+- To George Paine, one hundred and eighty-six dollars.
+- To Martha Patton, one hundred and forty-two dollars.
+- To Judith N. Perkins, two thousand and fifty-nine dollars.
+- To Terrel B. Phillips, three hundred and sixty three dollars.
+- To Abner Pierce, one hundred and ten dollars.
+- To Patrick Redmon guardian of minor children of Thomas Lanagan, deceased, two hundred and sixty dollars.
+- To George W. Sanders, three hundred and ninety dollars.
+- To William Sanders, seven hundred and ten dollars.
+- To Margaret A. Shope, nine hundred and fifty-six dollars and fifty cents.
+- To John W. Skinner, four hundred and seventy dollars.
+- To Ebenezer Smith, one thousand four hundred and forty-seven dollars and five cents.
+- To Mary Smith, one hundred dollars.
+- To Wilbourn Thrash, five hundred and sixty-one dollars.
+- To Calvin Walker, one hundred and fifty dollars.
+- To John Walker, one hundred and forty dollars.
+- To Eser H. Whitehurst, three hundred and twenty dollars.
+- To H. S. Whiteside, four hundred dollars.
+- To Michael Wohner, one hundred and thirteen dollars.
+- To William Wright, one hundred and three dollars.
+
+## OF THE STATE OF NORTH CAROLINA.
+
+- To Sarah A. Bailey, ninety-seven dollars.
+- To Joseph E. Brinn, one hundred and ten dollars.
+- To John A. Brockett, one hundred and thirty-six dollars.
+- To James W. Buck, one hundred and twenty-five dollars.
+- To Green Y. Burgess, two hundred and seventy-five dollars.
+- To Hugh Cale, two hundred and forty dollars.
+- To Jeremiah Cole, one hundred and thirty-five dollars.
+- To Eli C. Copeland, one hundred and sixty dollars.
+- To John M. Crisp, one hundred dollars.
+- To James Dale, two hundred dollars.
+- To Sarah Dalton, one thousand two hundred and forty-four dollars and seventy-five cents.
+- To Ferry Daniel, fifty-seven dollars and fifty-cents.
+- To George Deanes, four hundred and forty-three dollars.
+- To Fanny S. Dockery, and minor children, and heirs of John W. Covington, deceased, eight thousand three hundred and seven dollars.
+- To Lewis Dupree, seven hundred and forty dollars.
+- To Robert Edwards, one hundred and twenty-five dollars.
+- To John Fink, one hundred dollars.
+- To Joseph Fisher, two hundred and sixty dollars.
+- To Susan Flora, seventy-five dollars.
+- To Joel Flowers, three hundred and seventy-five dollars.
+- To C. F. Fulcher, one hundred and ten dollars.
+- To Elihu Gallop, eighty dollars.
+- To William C. Godwin, four hundred and twenty-three dollars.
+- To Isaac Griffin, one hundred and twenty-five dollars.
+- To John H. Haddock, one hundred and ninety dollars.
+- To William H. Haithcock, two hundred and sixty-eight dollars.
+- To George W. Hampton, one hundred dollars.
+- To Isaac Harrison, one hundred dollars.
+- To Margaret E. Hauser, two hundred and ninety-two dollars and twenty-five cents.
+- Everett Hays, seventy-five dollars.
+- To Joseph A. Hendrix, one hundred and twenty dollars.
+- To Henry A. Howell, two hundred and eighty-two dollars.
+- To Alexander Hutchins, one hundred and twenty-five dollars.
+- Tandy Kiser, two hundred and ninety five dollars.
+- To Elisha Lamb, one hundred and thirty dollars.
+- To Tounsand Lamb, one hundred dollars.
+- To Braxton Lankford, one hundred and fifty dollars.
+- To Thomas B. Lash, two hundred and sixty dollars.
+- To Timothy F. Lee, two hundred and fifty dollars.
+- To Marshall Leviner, fifty-three dollars and twenty cents.
+- To Charles Long, one hundred and fifty dollars.
+- To Duncan McPherson, one hundred and ten dollars.
+- To Henry Malloby, one hundred and sixty-seven dollars.
+- To Lewis S. Mann, four hundred and fifty dollars.
+- To Luke Mason, two hundred dollars.
+- To Mary Merrell, administratrix of the estate of Alexander Merrell, deceased, one hundred and fifty dollars.
+- To George M. Misenheimer, one hundred and forty-four dollars.
+- To James B. Roberts, nine hundred and twenty-five dollars.
+- To Bryant A. Scott, one hundred and seventy-five dollars.
+- To Bryant Simmons, one hundred and forty-one dollars and fifty cents.
+- To Christian Smith, one hundred and twenty-two dollars.
+- To Daniel B. Squires, one hundred dollars.
+- To Cecelia Stanton, one hundred and sixty-one dollars.
+- To Samuel Sullivan, two hundred and sixteen dollars.
+- To John R. Thompson, one thousand five hundred and one dollars and twenty-five cents.
+- To Baker Ward, one hundred and ten dollars.
+- To Isaac Wells, two hundred and ninety dollars.
+- To Susan V. Whitehead, seven thousand eight hundred and thirty eight dollars.
+- To Walter Williams, two hundred and fifty dollars.
+- To Thomas E. Winslow, one hundred and twenty-five dollars.
+- To James A. Woodard, one hundred and twenty dollars.
+- To Micajah Wright, one hundred and fifty dollars.
+- To Nelson Walls, six hundred and eighty-eight dollars and fifty cents.
+
+## OF THE STATE OF SOUTH CAROLINA.
+
+- To Thomas W. Ashford, one thousand one hundred eighty-eight dollars and fifty cents.
+- To Nancy Bass, two hundred and thirty-seven dollars.
+- To Martha Ann Blume, administratrix of the estate of Darling P. Blume, deceased, for the use and benefit of Mary A. F. Smoke, William P., Ann Elizabeth, and Martha P. Blume, five hundred and fifty-eight dollars.
+- To Edward Broady, one hundred dollars.
+- To Edward Brown, one hundred and twenty-five dollars.
+- To James Brutus, one hundred dollars.
+- To Silas Cook, ninety-nine dollars.
+- To Essex Dargan, forty dollars.
+- To Thomas David, two hundred and forty-four dollars.
+- To Betty Deese, thirty-eight dollars.
+- To William Drayton, one hundred and thirty dollars.
+- To Samuel Fuller, fifty one dollars.
+- To George Hollon, two hundred and eighty-four dollars.
+- To Pompey Lewis, forty dollars.
+- To James McQueen, fourteen dollars.
+- To Napoleon Prince twenty dollars.
+- To Priscilla Prince, sixty dollars.
+- To Allan Quick, one hundred dollars.
+- To William M. Shannon, trustee of Joseph C. McWillie, two thousand seven hundred and thirty-three dollars and fifty cents.
+- To Joseph Shumpert, three hundred and twenty-seven dollars.
+- To John Sweeney, thirty-five dollars.
+- To John Thomson, seven thousand and sixty-seven dollars.
+- To Crawford Turnage, ninety-five dollars.
+- To Mack Duff Williams, one hundred and thirty dollars.
+
+## OF THE STATE OF TENNESSEE.
+
+- To Jane Alderson, two hundred and ninety dollars.
+- To John F. Anderson, one thousand five hundred and fifteen dollars.
+- To Aaron Ballinger, two hundred dollars.
+- To Abraham Bates, one hundred dollars.
+- To Sallie E. Baugh, seventy-five dollars.
+- To Andrew J. Best, two hundred and twenty-three dollars.
+- To John Blackburn, five hundred and forty-six dollars and fifty cents.
+- To Hugh E. F., and William W. Blair, eight hundred dollars.
+- To Thomas J. Brimer, one hundred and twenty dollars.
+- To Vineyard Brimer, three hundred and thirty-five dollars.
+- To David Bromley, one hundred and fourteen dollars.
+- To Elijah Bull, two hundred and thirty-five dollars.
+- To Andrew Campbell, administrator of the estate of Thomas P. Tillery, deceased, four hundred and forty dollars.
+- To Mary E. Campbell, two hundred and fifty-five dollars and fifty cents.
+- To Lee Cannon, one hundred and thirty-one dollars.
+- To Robert H. Carden, one hundred and eighty-five dollars.
+- To Eli M. Cleveland, six hundred and eighty five dollars and eighty-two cents.
+- To William Click, one hundred and fifty dollars.
+- To William Clift, four hundred and eleven dollars.
+- To Martha Coatney, one hundred and eighty dollars.
+- To Daniel W. Cobb, two hundred and seventy dollars.
+- To Benjamin C. Coleman, administrator of the estate of William B. Gray, deceased, two hundred dollars.
+- To James E. Collins, administrator of the estate of Jacob Zeigler, deceased, seventy dollars.
+- To George S. Cook, one hundred and forty-dollars.
+- To Thomas C. Coppage, seven hundred and seventy-five dollars.
+- To Mary Costner, one hundred and seventy-seven dollars.
+- To Sarah Cox, one hundred and twenty dollars.
+- To William H. Craigmiles, two hundred and eighty dollars.
+- To Catharine W. Crockett, one thousand seven hundred and fifty-two dollars and fifty cents.
+- To Henry Daley, one hundred and one dollars.
+- To James M. Darwin, nine hundred and ten dollars.
+- To Patrick Doherty, one thousand five hundred and sixty dollars.
+- To Thomas W. Fain, two hundred and seventy-nine dollars and twenty-five cents.
+- To Poleman Farr, one hundred and twenty-five dollars.
+- To Rebecca Felts, administratrix of the estate of James Felts, deceased, five hundred and eighty-five dollars.
+- To Elijah Fitzgearald, one hundred and fifty-seven dollars.
+- To James Gamble, one hundred and fifty-five dollars.
+- To Robert L. Gamble, four hundred and one dollars.
+- To Preston Gann, guardian of Louisa, Martha, and James P. Smith, heirs of Allen K. Smith, deceased, two hundred and fifty-six dollars and sixty cents.
+- To James M. Giles, one hundred and forty-four dollars.
+- To Joseph Gragg, three hundred dollars.
+- To Hamilton Gray, one hundred and forty-three dollars.
+- To Frederick Grider, two hundred and fifty-five dollars.
+- To Jacob Gross, sixty dollars.
+- To James A. P. Guthrie, administrator of the estate of George B. F. Guthrie, deceased, two hundred dollars.
+- To Lavicy Hall, four hundred and fifteen dollars.
+- To John M. Heiskell, administrator of the estate of Sanders M. Lee per, deceased, one hundred and eight dollars and sixty-one cents.
+- To William Henderson, one hundred and sixty-eight dollars.
+- To William A. Hickman, four hundred and nine dollars.
+- To Henry G. Hixson, administrator of the estate of Thomas J. Siveley, deceased, six hundred and eighty-nine dollars.
+- To Washington Hixson, administrator of the estate of Joseph Vandergrift, deceased, six hundred and six dollars and sixty cents.
+- To Wilson Hixson, two hundred and seven dollars.
+- To William R. Hogan, administrator of the estate of J. W. Crow deceased, for the use and benefit of Mrs. Henry, James Crow, and William Oiesier, seventy nine dollars and ninety cents.
+- To John Hooker, two hundred and seventy dollars.
+- To John R. Howard, three hundred and ninety two dollars.
+- To Daniel Huffine, two hundred and sixty dollars and eighty cents.
+- To Ephraim D. Huffine, three hundred and seventy eight dollars.
+- To Alfred C. Humphreys, ninety dollars.
+- To John Humphreys, three hundred and fifteen dollars.
+- To William Hurst, three hundred and nine dollars and fifty cents.
+- To James J. Jackson, four, hundred and thirty five dollars.
+- To Jonathan Jackson, four hundred and fifty-five dollars and ninety cents.
+- To Daniel S. Jones, fifty two dollars and fifty cents.
+- To Hannah Jones, two hundred and ninety-five dollars.
+- To Jerome B. Jones, one hundred and twenty-five dollars.
+- To Mary Jones, one hundred and fifty eight dollars.
+- To G. D. Joyner, eighty dollars.
+- To Charles M. Keith, two hundred and forty nine dollars
+- To John Lamon, two hundred and eighty dollars.
+- To Mary A. Lewis, widow of Charles Lewis, deceased, one thousand and forty five dollars.
+- To George Levi, six hundred and eleven dollars.
+- To David M. Lindsey, one hundred and twenty five dollars.
+- To William H. Linn, one hundred and ten dollars.
+- To Franklin Locke, one thousand and eighty seven dollars and thirty cents.
+- To James W. Locke, three hundred and fifty dollars.
+- To John Long, two hundred and fifty dollars.
+- To Robert Long, five hundred and twelve dollars and fifty cents
+- To Lewis Lopp, one thousand and fifty dollars.
+- To Elizabeth McCampbell, eighty five dollars.
+- To Jacob L. McClary, five hundred dollars.
+- To Nicey Ann McDermott, widow and administratrix of the estate of Albert McDermott, deceased, one hundred and fifty dollars.
+- To Marion J. McGee, two hundred and forty dollars.
+- To Charles J. McKinney, two thousand six hundred and twenty-four dollars.
+- To Bartley R. McMurray, two hundred and seventy-two dollars.
+- To Stephen McReynolds, two hundred and twenty-four dollars.
+- To David McWilliams, three hundred and ninety three dollars.
+- To William Mahan, four hundred and eight dollars.
+- To Thomas B. Marsh, one hundred and seventy-five dollars.
+- To W. S. Marshall, administrator of the estate of Uriah Redman, deceased, three hundred and seventy-four dollars and fifty cents.
+- To Samuel H. Miller, three hundred and ninety six dollars and twenty five cents.
+- To Hancel Mitchell, two hundred and sixty five dollars.
+- To Peter Mounger, administrator of the estate of William Stone, deceased, four hundred and twenty-one dollars.
+- To John J. Neely, three hundred and one dollars.
+- To Andrew Pair, four hundred dollars.
+- To Priestley E. Parker, five hundred and seventeen dollars and fifty cents.
+- To Lewis Parkes, five hundred and sixty eight dollars.
+- To Raffael Patty, three hundred and sixty six dollars.
+- To George W. Penney, three hundred and fifty one dollars.
+- To John Pesterfield, one hundred dollars.
+- To James Pierce, one hundred and sixty two dollars.
+- To Charles H. Primm, five hundred and seventy dollars.
+- To Jessee S. Ragan, three hundred and five dollars.
+- To Elizabeth C. Rankin, fifty dollars
+- To Wesley R. Reavis, administrator of the estate of Rutha Parham, deceased, for the use and benefit of the loyal heirs Louisa Sparr, Erneline Parham, Unity A. Steel, Elizabeth Reavis, Mary A. Parham, and Edward E. Parham, two hundred dollars.
+- To Hugh J. Reed, one hundred and ninety two dollars.
+- To Robert W. Reed, two hundred dollars.
+- To Emerson Roberts, two hundred and eighty two dollars.
+- To Elisha D. Robinson, three hundred and eight dollars.
+- To Henry Rogers, eight hundred and sixty nine dollars and seventy five cents.
+- To James W. Rogers, two hundred and fifteen dollars.
+- To John C. Rogers, one hundred and twelve dollars and fifty cents.
+- To William H. Rogers, two hundred and forty dollars.
+- To Mitchell Rose, three hundred and one dollars.
+- To George W. Runnions, two hundred and ninety five dollars.
+- To William M. Russell, two hundred and twenty-six dollars.
+- To Julian F. Scott, five hundred and seventy dollars.
+- To Rufus Shadrick one hundred and sixty seven dollars.
+- To Henry C. Sinclair, seven hundred and forty nine dollars
+- To Duke W. Smalling one hundred and seventy dollars.
+- To Cassandra Smith, three hundred and twenty four dollars.
+- To William A. Steele, two hundred dollars.
+- To William H. Stone, junior, administrator of the estate of William H. Stone, senior, deceased, for the use and benefit of the four loyal heirs, four hundred and thirty-four dollars and forty-six cents.
+- To Wiley B. Tallent, four hundred and five dollars.
+- To Aaron Thomas, one hundred and sixty-six dollars and twenty-five cents.
+- To Benjamin C. Thornburgh, two hundred and twenty seven dollars.
+- To John B. Tipton, one thousand four hundred and thirty five dollars.
+- To Madison Varner, two hundred and thirty dollars.
+- To Turner Vaughan, three hundred and one dollars.
+- To John E. Vincent, three hundred and seventy two dollars and twenty five cents.
+- To Mary and Robert Watkins, six hundred and eighty six dollars.
+- To Robert Watkins, guardian of Alexander McDonald, two hundred and sixty dollars.
+- To Samuel W. Webb, administrator of the estate of George K. Wood, deceased, one hundred and sixty five dollars.
+- To Aaron Wendel, three hundred and seventy dollars.
+- To John J. West, six hundred and eighty-eight dollars.
+- To Charles T. White, nine hundred and twenty six dollars.
+- To James M. White, administrator of the estate of William C. White, deceased, one thousand two hundred and thirty-five dollars.
+- To Sherwood Whitlock, two hundred and forty dollars.
+- To Nat Witt, one hundred and sixty dollars.
+- To Thomas Wooten, one hundred and fifteen dollars.
+
+## OF THE STATE OF VIRGINIA.
+
+- To Alexander W. Albin, two hundred and fifteen dollars and seventy-five cents.
+- To Mary C. Alder, widow of Albert Alder deceased, one hundred and forty dollars.
+- To Robert Alford, two hundred and five dollars.
+- To Thomas Appel, five hundred and twenty five dollars and fifty cents.
+- To L. E. Babcock, three hundred and thirty five dollars.
+- Patterson Barksley, three hundred and ninety dollars.
+- To Andrew J. Baugher, four hundred and twenty four dollars and seventy-five cents.
+- To Cornelia Beall, Virginia Brady, Emma Clapp, Enoch Edmonston, and Marcelia Waters heirs of Mary Follin, deceased, two hundred and forty-one dollars and sixty seven cents.
+- To Uriah Beans, one hundred and ninety three dollars.
+- To Henry D. Biggs, one hundred and twenty three dollars.
+- To Henry and Randolph Birch, executors of the estate of John Birch deceased, one thousand four hundred and thirty dollars.
+- To John T. Birch, six hundred and twelve dollars.
+- To Mary Blackburn, three hundred and fifty-five dollars.
+- To Ann C. Brandt, guardian of Mary and Randolph Brandt, one thousand nine hundred and twenty five dollars.
+- To Nicholas Breeden, three hundred dollars.
+- To Michael Brislin, one hundred and thirty eight dollars
+- To Josiah R. Brockwell, thirty dollars.
+- To Ham Brown, one thousand one hundred and two dollars.
+- To William Brown, forty eight dollars.
+- To Mary Ann Burke, one thousand and eight dollars and sixty-one cents.
+- To James Byram, five hundred and fifty-one dollars and seventy five cents.
+- To William Carder, fifty-two dollars and fifty cents.
+- To Margaret E. Carter, widow of William E. Carter, sixty dollars.
+- To Nathaniel G. Carter, one hundred and twenty dollars.
+- To Robert Carter, one hundred and forty three dollars and fifty cents.
+- To James Cator, one hundred and twenty dollars.
+- To Miranda Chappel, one hundred and twenty dollars.
+- To Jonas Clark, three hundred and thirty six dollars.
+- To Julia F. Caggett, three thousand and ninety one dollars.
+- To Samuel Coffman, one hundred and thirty two dollars.
+- To John Coleman, two hundred dollars.
+- To Moses A. Commins, one thousand seven hundred and twenty one dollars and forty cents.
+- To Emeline Cooper, two hundred and forty dollars.
+- To George Cooper, of G, five hundred and seventy-two dollars.
+- To George T. Cooper, six hundred and thirty dollars.
+- To John Cooper of P., four hundred and seventy three dollars and sixty cents.
+- To Peter Couse, two thousand two hundred and twenty three dollars.
+- To John Cornwell, seven hundred and sixty dollars.
+- To Francis Corvin, one hundred dollars.
+- To John Cross, eight hundred and seventy dollars.
+- To William Davidson, ninety three dollars and seventy-five cents.
+- To Lydia Deans, fifty dollars.
+- To Thomas Devers sixty dollars.
+- To Sarah Dickinson, one hundred and five dollars.
+- To Malcolm Douglass, one thousand three hundred and seventy three dollars and forty cents.
+- To James Duke, eight hundred and seventy five dollars.
+- To Joseph L. Edwards, two hundred and five dollars and fifty cents.
+- To Perry Elliott four hundred and ninety dollars.
+- To George Everhart, administrator of the estate of Elizabeth Everhart, deceased, three hundred and thirty seven dollars and fifteen cents.
+- To Joseph Everhart, fifty dollars.
+- To Richard J. Faulkner, one hundred and twenty-six dollars.
+- To James Fields and Franklin Young, six hundred dollars.
+- To David M. Firestone, two hundred and fifty dollars.
+- To Edwin C. Fitzhugh, five hundred and seventy six dollars.
+- To Thaddeus N. Fletcher, administrator de bonis non of the estate of Elizabeth P. Blackwell, deceased, one thousand one hundred and eleven dollars.
+- To William H. Fletcher, one hundred and twenty five dollars.
+- To John Flory, nine hundred and twenty-four dollars and twenty cents.
+- To Mary Foley, one hundred and thirty-five dollars.
+- To Richard H. Follin, one hundred and forty four dollars
+- To Joseph B. Ficklin, executor of the estate of Joseph B. Ficklin, deceased, eight thousand two hundred and two dollars and forty two cents.
+- To Gustavus Gaines, one hundred and sixty dollars.
+- To Joel Garber, six hundred and ten dollars.
+- To Nathaniel Gaskins, three hundred and twenty seven dollars and fifty cents.
+- To Adam R. Gladden, two hundred and seventy dollars.
+- To Bushrod R. Gore, four hundred and forty two dollars.
+- To Robert Hamilton and John McCarter, surviving administrators of Joseph E. Edsall, deceased, six thousand three hundred and forty-nine dollars.
+- To James W. Green, two hundred and twenty five dollars.
+- To Ebenezer Grubb, eighty two dollars.
+- To Samuel N. Grubb, one thousand two hundred and forty seven dollars and fifty cents.
+- To William H. Hailey two hundred dollars.
+- To William J. Harding, two thousand three hundred and seventy-seven dollars and seventy-five cents.
+- To Joseph S. Hart, two hundred and seventy dollars and fifty two cents.
+- To Electy Hayes, administratrix of the estate of John Hayes, deceased, one hundred and seventy two dollars.
+- To Robert Henderson, eighty dollars.
+- To Horace B. Hewitt one thousand four hundred and forty dollars.
+- To Gustavus R. B. Horner, one thousand nine hundred and four dollars.
+- To Amasa Hough, junior six hundred and twenty four dollars and fifty cents.
+- To Amasa, junior, Ellen H., Joseph B., William T., Warwick C. Hough, Deborah B. Birdsall, and Elizabeth Steer, heirs of Amasa Hough, senior, deceased, eight hundred and twelve dollars and fifty cents.
+- To Elias Hudlow, one hundred dollars.
+- To Westward Hudnall, eight hundred and thirteen dollars.
+- To Ada C., Joseph L., Lewis W., Virginia P., and William Jennings heirs of Joseph L. Jennings, deceased, one thousand nine hundred and six dollars and fourteen cents.
+- To Court H. Johnson, one hundred and thirty-two dollars and forty-six cents.
+- To Joseph N. Joliffe, four hundred and three dollars and four cents.
+- To Milford Jones, seventy nine dollars and sixty eight cents.
+- To George W. Joy, one hundred dollars.
+- To William Kern, two hundred and eighty-two dollars.
+- To Charles W. Kitchen, one hundred and forty seven dollars.
+- To John S. Knox, junior, guardian of George Somerville, two thousand two hundred and twenty dollars.
+- To Mary Knoxville, seventy three dollars and fifty cents.
+- To William F. Kyger, administrator of the estate of Alexander Kyger, deceased, eight hundred and eighty-two dollars.
+- To Richard Lancaster, two hundred dollars.
+- To Littleton L. Lee, one thousand five hundred and eighty two dollars.
+- To William B. and Margaret A. Lewis, two hundred and ninety dollars.
+- To Absalom McGee, six hundred and twenty nine dollars and fifty cents.
+- To James McWilliams, three hundred and ninety dollars.
+- To Anderson Malone, two hundred and forty dollars.
+- To Peyton Malone, one hundred and five dollars.
+- To T. M. Manchester, six hundred and sixty dollars and fifty cents.
+- To George Mars, two hundred and twenty dollars and eighty cents.
+- To James Maynard, three hundred and fifty dollars.
+- To Archibald Merchant, one hundred and twenty five dollars.
+- To Jacob Miller, one hundred and thirty dollars and fifty cents.
+- To Silas E. Mills, three hundred and fifty six dollars.
+- To John R. Minor, seven hundred and forty three dollars and thirty five cents.
+- To Benjamin T. Mooman, thirty five dollars.
+- To Gersham P. Morse, seven hundred dollars.
+- To Fannie E. Morton and Mary E. Young, three hundred and thirty seven dollars and seventy five cents.
+- To Alfred Murphy, six hundred and forty dollars.
+- To Leroy Newcome, four hundred and ten dollars.
+- To Christian Nisewaner, administrator of the estate of John Nisewaner, deceased, one thousand one hundred and sixty three dollars and fifteen cents.
+- To Waller Odor, one hundred and fifty dollars.
+- To John W. Orrison, one hundred dollars.
+- To Charles J. Osmun, administrator of the estate of Little C. Osmun, deceased, two thousand seven hundred and thirty three dollars.
+- To Moses Parker, one hundred and eight dollars.
+- To Catharine Payne, one hundred and twenty five dollars.
+- To Henry L. Payne, three hundred and twelve dollars and forty cents.
+- To William W. Phillips, two thousand five hundred and twenty eight dollars.
+- To Mary F. E. Purcell, widow of William F. Purcell, deceased, eight hundred and five dollars.
+- To William Purks, four hundred and thirty two dollars and fifty cents.
+- To Henry Quigg, five hundred and one dollars and ninety cents.
+- To Gustavus Reid, one hundred and two dollars.
+- To Ransom Riley, eighty five dollars.
+- To George S. Rinker, one thousand and eleven dollars.
+- To Barcelius Roberson, four hundred and thirty dollars.
+- To Ruth Roberson one hundred and seventy five dollars.
+- To Sanford Robison, one hundred and thirty dollars.
+- To Tobias Roby two hundred and fifty one dollars.
+- To Alexander, George W., Peter, and Phebe Roseberry, and Mary Crockett, two hundred and thirty six dollars.
+- To Samuel Ruebush, four hundred and thirteen dollars.
+- To Robert Ryan, one hundred and twenty five dollars.
+- To William Semans, one hundred and ninety-nine dollars.
+- To Thomas Settle, five hundred and twenty five dollars.
+- To Joseph W. Sewell, one thousand two hundred and sixty five dollars.
+- To Abraham Shank, one thousand and ninety five dollars.
+- To William Sherwood, one hundred and eighty dollars.
+- To James Simpson twelve dollars.
+- To Augustus and Frederick Scheider, one thousand six hundred and forty-five dollars.
+- To Daniel D. Sines seven hundred and fifty dollars.
+- To Thomas E. Slater, administrator of George Slater, deceased, one hundred and ninety dollars.
+- To Anne, George A., James P., and Jane F. Slight, heirs of Robert Slight, deceased, nine hundred and eighty dollars.
+- To Mary J. Smith, two hundred and nineteen dollars.
+- To Lemos J. Spence, eight hundred and fifty two dollars and fifty cents.
+- To George W. Steele, one hundred and seventy five dollars.
+- To John W. Stewart, and Charles H. Swain, administrators of the estate of Samuel Stewart, deceased, for the use and benefit of Mrs. John W. Hough, and Mrs. Charles H. Swain, loyal heirs six hundred and thirty five dollars.
+- To William F. Stolle, four hundred and sixty-six dollars.
+- To Ann Elizabeth and Ann Louisa Stone, three hundred dollars.
+- To James A. Stoutenburgh, three hundred and sixty eight dollars.
+- To Philip D. Swisher, one hundred and fifty two dollars.
+- To Samuel H. Swisher, one hundred and sixty five dollars.
+- To Randall G. Tate, one hundred and seventy-six dollars.
+- To Burgess Taylor, three hundred and twenty dollars.
+- To Catharine E. Taylor, administratrix of the estate of John H. Taylor, deceased, eighty six dollars and seventy cents.
+- To Elizabeth, Fairfax, Charles W., and Manadier Taylor, heirs of William P. Taylor, deceased, four hundred and forty seven dollars.
+- To Talmadge Thorn, administrator of the estate of Abner and William D. Pierce, deceased, two hundred and seventy nine dollars.
+- To John N. Torreyson, ninety six dollars.
+- To John Utz, three hundred and three dollars
+- To Gilbert Vanderwerken, sixteen thousand four hundred and fourteen dollars and thirty-five cents
+- To David Veney, one hundred and forty dollars.
+- To Virginia Virts administratrix of the estate of Henry Virts deceased, for the use and benefit of Mrs. William F. Beans, Lizzie A., Orra J., Mary L., Roselle V., Clara H. A., and Henry J. J; Virts, loyal heirs two hundred and sixty dollars.
+- To William Walker, three hundred and eleven dollars.
+- To George A. Walter, one hundred and twenty five dollars.
+- To James W. Watts, two hundred dollars.
+- To James P. Wells, one hundred and ninety seven dollars and fifty cents.
+- To Richard West, administrator of the estate of William West, deceased, six hundred and thirty-six dollars.
+- To Elijah Williams two hundred and eighty dollars.
+- To Harrison Williams, one thousand three hundred and sixty dollars.
+- To Charles H. Wilson, four hundred and twenty five dollars.
+- To Elizabeth Wingfield seventy five dollars.
+- To Peter Wire, three hundred and eighty seven dollars.
+- To Arthur F. Woodyard, five hundred and forty dollars.
+- To John N. Wyckoff, junior, one thousand eight hundred and thirty nine dollars.
+- To Henry Yancy, two hundred and one dollars.
+
+## OF THE STATE OF WEST VIRGINIA.
+
+- To John H. Boltz eight hundred and twelve dollars and forty cents.
+- To John W. Hill, two hundred and seventeen dollars.
+- To Dangerfield, Lloyd, five hundred and eighty nine dollars.
+- To Logan Osburn, executor of the estate of Mary Osburn, deceased, seventy-eight dollars.
+- To Anthony Turner, two hundred and forty dollars.
+
+## § 2.
+
+That the cases of Robert S. Lacey, Hampton N. Webb, William H. Brisby David R. Godwin, and Robert Hoodenpyle be, and they are hereby, referred to the Commissioners of Claims for re-examination and report; and the said Commissioners of Claims shall have full jurisdiction and authority to re-open, examine, and consider the said cases, and to make report thereon to Congress as in cases provided for in the second section of the act authorizing the appointment of the said com missioners, approved March third, eighteen hundred and seventy-one.
+
+## § 3.
+
+That before paying to any person in this act named the sum herein appropriated to him, it shall be the duty of the proper accounting officers of the Treasury to ascertain whether such person is indebted or in arrears in any manner to the United States and there shall be paid to such person only such part of the sum in this act appropriated to him as is in excess of such liability or indebtedness
+
+
+*Approved, August 14, 1876.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- Aug. 14, 1876.
+- 1871, ch.116, § 2, 15 Stat., 524.
+- Appropriation for payment of claims allowed by Southern Claims Commission to per sons in—
+- Alabama.
+- Alabama, continued.
+- Arkansas.
+- Arkansas, continued.
+- Florida.
+- Georgia.
+- Georgia, continued.
+- Louisiana.
+- Mississippi.
+- Mississippi, continued.
+- North Carolina.
+- North Carolina, continued.
+- South Carolina.
+- Tennessee.
+- Tennessee, continued.
+- Virginia.
+- Virginia, continued.
+- West Virginia.
+- Certain claims referred to commission for re-examination.
+- 1871, ch. 116, § 2, 15 Stat., 524.
+- Balance, after deducting any amount due to United States, only to be paid.
