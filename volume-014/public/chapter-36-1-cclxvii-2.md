@@ -1,0 +1,412 @@
+---
+volume: 14
+citation: 14 Stat. 280
+type: Chapter
+number: CCLXVII
+congress: 36
+session: 1
+scope: public
+approved: 1866-07-26
+---
+
+# Chapter CCLXVII
+
+> An Act to establish certain Post-Roads.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+That the following be established as post routes:
+
+- MAINE.
+  - From Sherman to Houlton, in Ar[oo]stook County,
+  - From Wilton, via Bean’s Corner, to North Chesterville.
+  - From Flag-Staff to Eustis Mills.
+  - From Hollis to Dayton.
+  - From Brunswick to West Harpswell.
+  - From Porter, via North Porter, Cram’s Mills, and Goshen Seminary, to Conway Centre, in New Hampshire.
+- VERMONT.
+  - From West Alburgh to Champlain, New York.
+- NEW YORK.
+  - From Rochester to Chili Centre, Monroe County.
+  - From Lyon’s Falls to Carthage.
+  - From Sherburne, via Columbus, New Berline, and Oneonta, to Albany.
+  - From Sehurous, Otsego County, via Furgusonville, Davenport, and West Kortright, to Bloomville, Delaware County.
+  - From Morris, Otsego County, via New Berlin, Chenango County, to Norwich.
+  - From Delhi, via Elk Creek, Hartwright, and Charlotte Creeks, Meredith and Davenport, to Oneonta, Otsego County.
+  - From Unadilla to Oxford.
+  - From Norwich to Sidney Plains.
+  - From Lockport, Niagara County, via Corners and Maple Street, to Wilson.
+  - From Norwich to Morris.
+  - From North Petersburg Station, via Petersburg, Four Comers, and Petersburg, to South Petersburg.
+  - From Smyrna, via Sherburn, Columbus, and New Berlin, to Oneonta.
+  - From Bainbridge, via Guilford and Oxford, to Norwich.
+  - From Plymouth, via Beaver Meadow, to South Ostelic.
+  - From Russell, via Monterey and Clifton Iron Works, to Harewood.
+  - From Oxford to Unadilla.
+  - From Crown Point Centre, via Hammond’s Furnace, to Schroon Lake.
+  - From Holland Patent to Big Brook, Oneida County, by way of Steuben.
+- PENNSYLVANIA.
+  - From West Chester to Downingtown.
+  - From Pottsville to Shenandoah.
+  - From Lincolnville to Miller’s Station.
+  - From Oldforge to Factoryville.
+  - From Johnstown to Shade Gap.
+  - From Gordonsville to Intercourse.
+  - From Westminster to Southampton.
+  - From Mount Union, via Litz store, to Mount Tare factory.
+  - From Quakertown, via Milford Square, Spinnerstown, and Gory’s, to Pennsburg.
+  - From Farmington to Brandonville, Virginia.
+  - From Barry’s to Weishampletown.
+  - From Oil City, via Oleopolis, to Pithole.
+  - From Sartwell, McKean County, to Forrest House, Potter County.
+  - From Erie, via Wattsburg, to Union Mills.
+  - From Tionesta, in Venango County, to Foxborough, in Forrest County.
+  - From West Decatur, via Clearfield Bridge, to Curwensville.
+  - From Germany to Warren.
+  - From Stevens, via Schoen Creek, and Reinholdsville, to Cocalieo, and return to Stevens, via Schoeneck.
+  - From Leopard to Reesville.
+  - From Downingtown, via Brooklyn, Cornog, Moorestown Station, and Barnestown Station, to Waynesburg.
+  - From New Bloomlield to Mannsville.
+  - From Ridgway to Shawmut.
+  - From Cove Station, Huntington County, to Martinsburg, Blair County.
+  - From Three Springs to Mount Union, in Huntington County.
+  - From West Chester, via McCall’s Boot Road Station, to West Chester Intersection.
+  - From Bethel, via Crosskill Mills, and Mount Ætna, in County of Berks, to Myerstown in the County of Lebanon, State of Pennsylvania.
+- MARYLAND.
+  - From Dublin to Rising Sun.
+  - From Ellicott’s Mills to Brightown.
+- DELAWARE.
+  - From Wyoming, via Lebanon, to Magnolia.
+- WEST VIRGINIA.
+  - From Flemington, Tailor County, via Fairview, Noah Smith’s, and Fairfield, to Maxwell’s Mills.
+  - From Artioldsburg to Webb’s Mills.
+  - From Elm Grove to Dallas.
+  - From Grafton to Belington.
+  - From Mount Hebron to Mouth of Seneca.
+  - From Franklin to Mount Freedom.
+  - From Saint Mary’s to Hebron.
+- OHIO.
+  - From Logan to East Rush Creek.
+  - From Sparta to Middletown.
+  - From Mount Vernon, via Sparta, Marengo, Macon, and Bennington, to Ashley.
+  - From Beverly, via Dnnganon and Kuths, to Sharon.
+  - From Salem to Carrollton.
+  - From Hamden, via Eagle Furnace, Wilkersville, Ewingtou, Vinton, and Pine Grove, to Gallipolis.
+  - From Ripley to Bradysville.
+  - From Carrollton, by way of Cabell, Augusta, Maysville, Hanoverton, to Salem.
+- INDIANA.
+  - From Mechanicsburg to Middletown.
+  - From Rockville to Covington,
+  - From Jervis, via Hamilton, Alverdale, Metz, Fish Creek, and York Centre, to Camden, in Michigan.
+  - From Augusta Station, via Traders’ Point, to Royalton.
+  - From Fairland, via Cyrenius Bishops, Roseburgs, Fouutaintown, and Smiths, to Greenfield.
+  - From Philadelphia to New Palestine and Sugar Creek.
+  - From Covington to State Line, in Warren County.
+  - From Jasper to Lynnville.
+  - From Milroy to Greensburg.
+  - From Fort Wayne, via Saint Vincent, and Oil Ridge, to Auburn.
+- ILLINOIS.
+  - From Princeton to Walnut.
+  - From Antioch, via Liberty, to Salem, in Kenosha County, Wisconsin.
+  - From Edwardsville to Troy.
+  - From Blackberry to Hustling’s Station.
+  - From Dunleath, via Fairplay, Jamestown, Big Rutch, and Swetzer’s Grove, to Platters ville, in Wisconsin.
+  - From Lancaster, via Annoton, to New California, in Grant County, Wisconsin.
+  - From Cedar Bluff, via Mount Pleasant, to Mosco.
+  - From Manchester, via Winchester, to Florence.
+  - From McLeansboro, via Belle Prairie, Long Prairie, and Keeneville, to Henia.
+  - From Chili to Bowensburg.
+  - From Gardner, via Mazou, Highland, Vienna, and Bruce, to Tonica.
+  - From Bedford to Pearl.
+  - From Virders to Taylorsville.
+  - From Danville to Reesville.
+  - From Pilot Grove to Denham.
+  - From Decatur to Newburg.
+  - From McLeansboro, via Buck, to Fairfield.
+  - From Louisville to Henia.
+  - From Teutopolis to Veni.
+  - From Webb’s Prairie, via Henning’s Store, to Moore’s Prairie.
+  - From Florence, Illinois, by Winchester, to Manchester.
+- MICHIGAN.
+  - From Pontiac to Rochester.
+  - From Bristol, in Indiana, via Union, Osburn’s Mills, and Brownsville, to Cassapolis, in Cass County, Michigan.
+  - From Buchanan, via Wesaw and New Troy, to Laketown.
+  - From Decatur, via Prospect Lake, to Lawrence.
+  - From Easton Rapids, via Spicersville, Brookfield, and Walton, to Olivet.
+  - From Niles, via Berrien Centre, Eau Claire, Pipestone, Sodus, and Benton Harbor, to Saint Joseph.
+  - From Holly to New Hudson.
+  - From Vermontville to Barrysville.
+  - From Sylvania, Lucas County, Ohio, to Whitesford Centre, Michigan.
+  - From Big Rapids, Mecosta County, via Rogers’s Bridge, Salterley’s Mill, and Cato, to Stanton, in Montcalm County.
+  - From Stanton to Mill Brook.
+  - From Ionia, via Smyrna, to Greenville.
+  - From Newaygo to Mears.
+  - From Holland, via Zeeland, Wiesland, and Jamestown, to Grand Rapids.
+  - From Manistee to Stronach.
+  - From Newaygo, via Fremont Centre, Greenwood, and Elbridge, to Pent Water.
+  - From Croton to Traverse City.
+  - From Newaygo, via Bridgeton, to Minkeyon.
+  - From Pontiac, via Rochester and Mount Vernon, to Romeo.
+  - From Paw Paw, via Netv State Road, to Allegan.
+  - From Allison to Newman.
+  - From Coldwater, via Orangeville and Union City, to Athens.
+  - From Stanton to Mount Pleasant.
+- MISSOURI.
+  - From Brunswick, via Brookfield, Northcut, Milan, and Unionville, to Centerville, in Iowa.
+  - From Keytsville, via Bucklin, Strickerville, Greencastle, and Unionville, to Centerville, in Iowa.
+  - From Jefferson to Louisiana.
+  - From Unionville, Putnam County, via Greencastle, and Strickerville, to Pennsville, thence via New Boston, Buckland, to Hannibal and Saint Joseph Railroad.
+  - From Patterson to Doniphan.
+  - From Quincy to Stockton.
+  - From Mount Vernon, via Spring River Academy, Golden Grove, Lamar, Baker’s Grove, and Washington Adams, to Fort Scott, in Kansas.
+  - From Savannah, via Maryville, Bedford, and Afton, to Winterset, in Iowa.
+  - From Saint Joseph, via Rochester, Albany, Eagle, Leon, Osceola, Indianola, to Des Moines, in Iowa.
+  - From Hamilton, via Gallatin, Salem, and Bethany, to Eagle.
+  - From Chillicothe, via Trenton and Princeton, to Leon, in Iowa.
+  - From Brunswick, via Compton’s Ferry, to Chillicothe.
+  - From Bucklin, via New Boston, Pleasantville, Birdseye Bridge, Green-castle, to Cincinnati and Centerville, Iowa.
+  - From Trenton, via Buttsville, Modena, and Burr Oak, to Mine [Nine] Eagles.
+  - From Pattonsburg to Albany.
+  - From Forest City, via Rush Bottom, Lowell, Hemmes Landing, Sono ra, and Linden Landing, to Sidney, in Iowa.
+  - From Princeton, via Ravenna, Cleopatra, and Warsaw, to Corydon, in Iowa.
+  - From Fort Scott to Neosho.
+  - From Sedalia, via Calhoun, Clinton, Osceola, Humansville, Stockton, Greenfield, Bowers’s Mills, Sarcoxie, Newtonia, and Granby, to Neosho.
+  - From Perryville to Buhle’s Store.
+  - From Bloomfield to Kennett.
+  - From Beech to Fourmile.
+  - From Glasgow, via Salisbury, to Callao.
+  - From Gallatin to Leon, Iowa.
+  - From Bethany, via Cameron, to Kansas City.
+  - From Pleasant Hill, via Aubery, in Kansas, Paola, and Staunton, to Ottowa.
+  - From Pleasant Hill, via Bloomington to Mound City, Kansas.
+  - From Harmony to Potosi.
+  - From Terre Haute, in Missouri, via Ayersville and Warsaw, to Corydon, in Iowa.
+- MINNESOTA.
+  - From Dunleath to Vermillion Lake.
+  - From Forest City, via Kimball’s Prairie and Maine Prairie, to Saint Cloud.
+  - From Monticello, via Buffalo, Chatham, and Waverly, to Middleville.
+  - From Monticello, via Silver Creek and Corinna, to Fair Haven.
+  - From La Morille, via Pickwick and S. C. Dicks’s, to La Crescent.
+  - From Shakopee to Excelsior.
+  - From Mantorville, by Vernon, Waltham, and Mower City, to Austin.
+  - From Buffalo, by Maple Lake, to Fair Haven.
+  - From Saint Charles to Quincy.
+  - From La Suer to Cordova.
+  - From Saint Peters, Scandtan Grove, and Sibley, to Henderson.
+  - From Rushford to Preston.
+  - From Chaska to Saint Bonifacius.
+  - From West Albany, via Read’s Ford, to Forest Mound.
+  - From Wabasha to Forest Mound.
+  - From Pedler's Grove to Garden City.
+  - From Red Wing, via Mazeppa, to Rochester.
+  - From Minneaska, via East Indian Creek and Read’s Ford, to Mazeppa.
+  - From Buffalo, via Maple Lake, to Fair Haven.
+- IOWA.
+  - From Blakesburg to Moravia.
+  - From Des Moines to New Jefferson.
+  - From Sigourney to Askoloosa.
+  - From Towden, via Oxford Mills and Scotch Grove, to Monticello.
+  - From Helena R. R. Station, via Eureka and Kent’s Ridge, to Brooklyn.
+  - From Dennison to Magnolia.
+  - From Des Moines to Saint Joseph, Missouri.
+  - From Fort Dodge, via Dakota, Wancosta, Fern Valley, and Emmettsburg, to Estherville.
+  - From Newbury, via Hartland and Bristol, to Northwood.
+  - From Northwood to Mason City.
+  - From Northwood, via Gordonville and Shellrock, to Albert Lea, in Minnesota.
+  - From Burlington, via Toolesboro, to Port Louisa.
+  - From Osceola, via La Salle, to Hopeville.
+  - From Burlington, via Port Louisa and Grandview, to Ononioa.
+  - From Vernon, via Mount Sterling and Upton, to Memphis.
+  - From Rockford, via Rock Grove City, Nora Springs, Shell Rock Falls, and Plymouth, to Northwood.
+  - From Boonsboro, via Dennison, Paradise, Olmstead, and Whitesboro, to Saint John.
+  - From Guttenburg, via Elkport and Littleport, to Strawberry Point.
+  - From Nevada, via Iowa Centre, Peoria, and Greencastle, to Colfax.
+  - From Grundy Centre, via Parkersburg, Butler Centre, West Point, and Coldwater, to Marble Rock.
+  - From Wheatland, via Toronto and Burgess, to Monmouth.
+  - From Webster to Luni.
+  - From Sigourney to Montezuma.
+  - From Iona to New Hartford.
+  - From Winterset to Fort Des Moines.
+  - From Postville, via Sybrand [Lybrand] and Ludlow, to Waukon.
+  - From West Union, via Fredericksburg, Williamstown, and Bradford, to Nashua.
+  - From Centreville, via Cincinnati, Unionville, Pennville, Greencastle, Birdseye Ridge, Pleasantville, New Boston, Bucklin, Westville, to Keitsville.
+  - From Onawa to Section Eight, township eighty-five.
+  - From Des Moines, via Hickory Grove, Palestine, Ames, Blinkson, and Saratoga, to Webster City.
+  - From Winterset, via Afton, Bedford, and Maryville, to Savannah, in Missouri.
+  - From Postville to Waukon.
+  - From Panora, via Dale City, to Fontanelle.
+  - From Des Moines, via Pilot Grove and Macksville, to Lewis.
+  - From Algona, via Armstrong’s Grove and Mud Lakes, to Esthersville.
+  - From Parkersburg to Marble Rock.
+  - From Marion to Winthrop.
+  - From Eldoria, via Point Pleasant, to Tipton.
+  - From Recerville, via Wentworth, to Le Roy, in Minnesota.
+  - From Des Moines, via Chariton, Corydon, and Lincrsville, to Chillicothe, in Missouri.
+  - From Postville to Wauken.
+  - From Lewis, via Red Oak Junction, to Sidney.
+  - From Vernon to Memphis, Missouri.
+  - From German ville to Coalport.
+  - From Grinnell to New Hartford.
+  - From Homestead to Little City.
+  - From Marshaltown, via Timber Creek and College Farm, to Newton.
+  - From New Oregon to Austin, Minnesota.
+  - From Clio to Iowa Centre.
+  - From Pottsville to Wauken.
+  - From New Oregon, via Vernon Springs, Line Springs, Glen Rock, and Eatonville, in Iowa, and La Roy, in Minnesota, to Austin, Minnesota.
+  - From Brighton, via German ville, Salina, to Glendale.
+  - From Menomonee, via Mill Spring and Plumb city, to Maiden Rock.
+  - From Ettrick to Mchone.
+  - From Richland Centre, via Boaz, Bradeys, Yankeetown, Rising Sun, and Alexander’s Mills, to De Sota.
+  - From Princeton, via Germania, to Montelle.
+  - From Pella to Shawnee.
+  - From Woodman, via Millerville, Mount Hope, and Tafton, to Beetown.
+  - From Port Washington to Wabacca.
+  - From Maysville to Theresa.
+  - From Trempealeau, via Arcadia, Burnside, and Hale, to Sumner.
+  - From Friendship, via Arcade, to Barnum.
+  - From Mauston to Warner.
+  - From River Falls to Brookville.
+  - From Melrose to Sparta.
+  - From Alma to Durana.
+  - From White Creek, via Easton, Arcade, Woodworth, and Point Basel, to Plover.
+  - From Denison to Ida.
+- WISCONSIN.
+  - From Dunleith, Illinois, to Platteville, Wisconsin.
+  - From Woodman, by Millville, Mount Hope, and Tayton, to Beetown.
+  - From Richland Centre, by Boaz, Brady’s Rowes, Yanktown, Towerville, Rising Sun, and Alexander’s Mill, to De Sota.
+  - From Wilson’s Creek, by Black Hawk, to Sauk City.
+- CALIFORNIA.
+  - From San Buenaventura, via Ojai, to Camulas.
+  - From Oisalia, via Fort Tejon, to Bakersfield.
+  - From Red Bluff, via Nome Lackee, to Coast Range.
+  - From Cloverdale, via Uncle Sam, Lower Lake, and Lake Port, to Upper Lake.
+  - From Susanville to Taylorsville.
+  - From Fort Bidwell to Susans ville.
+  - From Fort Bidwell to Pueblo.
+  - From Taylorville to Garner Place.
+  - From Chico to Colusa.
+  - From Colusa, via Antelope Valley, Bear Valley, and Sulphur Springs, to Lakeport.
+  - From Oak Creek to Independence.
+  - From Suison City, Solano County, via Gordon Valley, Rag Cannon, and Berryessa Valley, to Lower Lake, in Lake County.
+  - From Smith’s Ranch, via Caffey’s Cave, Casper Creek Mills, Noyo Mills, Ten Mile River, Bear Harbor, Shelter Cove, and Upper Mattole, to Lower Mattole.
+- KENTUCKY.
+  - From Horse Kane to Bucksville.
+  - From Augusta, via Brookville, Powersville, Petra, Milford, to Claysville.
+  - From Richmond to Lexington.
+  - From Irvine to McKee.
+  - From Cattiesburg, via Canonsburg, Botts Fork, Sulphur Spring, and Cherokee, to Blair.
+  - From Somerset to Knorville.
+  - From Beattysville to Thompsonville.
+- MONTANA TERRITORY.
+  - From Virginia City, via Formans, Fosters, and Boreman’s City, to Yellowstone City.
+  - From Crossing of Gallatin at Foster’s farm, to Gallatin City.
+- WASHINGTON TERRITORY.
+  - From Seattle, via Tree Posts, Pass Blakeley, to Pass Orchard.
+- DAKOTA TERRITORY.
+  - From Fort Randall to Fort Sully.
+  - From Sioux Falls to Ponca.
+  - From Fort Wadsworth to Devil’s Lake.
+- OREGON.
+  - From Dallas City, via Selilo, Umatilla, Wallula, to WallaWalla.
+- UTAH TERRITORY.
+  - From Logan to Dexton.
+  - From Huntsville to Bennington.
+  - From Logan to Oxford.
+  - From Nephi to Saint George, via Severe Valley and Fort Gunnison.
+- KANSAS.
+  - From Paoli, via Miami, Madora, to Blooming Grove.
+  - From Humboldt, via Coonville, Lightning Creek Valley, Chotopah, Cabin Creek, Alburdes, to Fort Gibson.
+  - From Ottawa to Mound City.
+  - From Cottonwood Falls to Lincolnville.
+  - From Wathena, via Columbus, to Iowa City Point.
+- NEVADA.
+  - From West Gate to Ione.
+  - From Amlin to Unionville.
+  - From Austin, via Pahranagat and Callville, to Fort Mojave.
+- NEW JERSEY.
+  - From Woodmansee to Mannahawkin.
+- NEBRASKA TERRITORY.
+  - From Dakota City to Yancton, in Dakota Territory.
+  - From Plattsmouth to Columbus.
+  - From Ponca to Fremont.
+  - From Saint John’s, Iowa, via De Soto and Fontanelle, Nebraska, to Buchanan, Nebraska.
+  - From Brownsville to Table Rock, Nebraska.
+  - From Brownsville to Grant, Nebraska.
+  - From Fremont, via Jalappa, Saint Charles, Greenwood, West Point, and Rock Creek, to South Fork of Elk Horn.
+- IDAHO TERRITORY.
+  - From Idaho City to Rocky Bar.
+  - From Ruby City, via Puebla Valley, to Chico, in California.
+  - From Ruby City to Jacksonville, in Oregon.
+  - From Placerville, via Warren’s Diggings to Florence.
+  - From Boise City, via Old F ort Boise, to Cluny on City, in Oregon.
+  - From Idaho City to Silver City.
+- MONTANA TERRITORY.
+  - From Helena to Wallula.
+  - From Wallula to Seattle.
+  - From Kalmiche to Elma.
+  - From Jefferson Crossing, via Silver Prow City and Deer Lodge City, to Blackfoot.
+  - From Helena to Diamond City.
+  - From Helena, via Blackfoot, to Hell Gate.
+  - From Virginia City, via Sterling and Garfield, to Gallatin City.
+  - From Gallatin City to Boreman.
+  - From Helena, via Dearborn and Sun River Farm, to Fort Benton.
+  - From Diamond City to Fort Benton.
+  - From Junction, via on Salt Lake Road, via Cut Off, to Virginia City.
+  - From Hell Gate to Flat Head.
+  - From Virginia City, to Fort Sully, in Dakota Territory.
+  - From Helena, via Fort Laramie and Fort Reno, to New Fort Kearney, in Nebraska Territory.
+  - From Helena to Blackfoot City.
+  - From Bannock City, via German Gulch, to French Gulch.
+  - From Bannock City to Montana City, on Rattlesnake Creek.
+  - From Virginia City, via Silver Bow, Deer Lodge City, and Hell Gate, to Fort Owens, in Bitter Root Valley.
+- DAKOTA TERRITORY.
+  - From Panca Agency to Chateau.
+  - From Fort Sully to Virginia City, in Montana Territory.
+- INDIAN TERRITORY.
+  - From Fort Gibson, via Creek Agency, to Seminole Agency.
+
+
+*Approved, July 26, 1866.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- July 26, 1866.
+- Certain post routes established in
+- Maine.
+- Ante, p, 6.
+- Post routes in Maine.
+- Vermont. Ante, p. 8.
+- New York. Ante, pp. 7, 189.
+- Pennsylvania. Ante, p. 8.
+- Post routes in Pennsylvania.
+- Maryland. Ante, p. 189.
+- Delaware.
+- West Virginia. Ante, pp. 8, 190.
+- Ohio. Ante, p. 8.
+- Indiana Ante, pp. 6, 191.
+- Illinois. Ante, p. 191.
+- Post routes in Illinois.
+- Michigan. Ante, p. 7.
+- Missouri. Ante, p. 190.
+- Post routes in Missouri.
+- Minnesota. Ante, pp. 7, 169.
+- Iowa. Ante, pp. 8, 189.
+- Post routes in Iowa.
+- Wisconsin. Ante, pp. 8, 189.
+- California. Ante, pp. 5, 190.
+- Post routes in Kentucky.
+- Montana Territory. Ante, p. 190.
+- Washington Territory. Ante, p. 8.
+- Dakota Territory. Ante, p. 6.
+- Oregon. Ante, p. 190.
+- Utah Territory.
+- Kansas. Ante, pp. 8, 189.
+- Nevada. Ante, pp. 7, 190.
+- New Jersey.
+- Nebraska Territory. Ante, p. 7.
+- Post routes in Nebraska Territory.
+- Idaho Territory.
+- Dakota Territory. Ante, pp. 6, 287.
+- Indian Territory.
