@@ -1,0 +1,648 @@
+---
+volume: 98
+type: House Concurrent Resolution
+number: 280
+bills: 98/hconres-280
+---
+
+# House Concurrent Resolution 280
+
+> CONGRESSIONAL BUDGET FOR FISCAL YEARS 1985–1987 AND REVISION FOR FISCAL YEAR 1984
+
+*Resolved by the House of Representatives (the Senate concurring),*
+
+That the Congress hereby determines and declares that the concur-rent resolution on the budget for fiscal year 1984 is hereby revised and replaced, the first concurrent resolution on the budget for fiscal year 1985 is hereby established, and the appropriate budgetary levels for fiscal years 1986 and 1987 are set forth:
+
+- **(a)** The following budgetary levels are appropriate for the fiscal years beginning on October 1, 1983, October 1, 1984, October 1, 1985, and October 1, 1986:
+  - **(1)** The recommended levels of Federal revenues are as follows:
+    - Fiscal year 1984: $672,900,000,000.
+    - Fiscal year 1985: $750,900,000,000.
+    - Fiscal year 1986: $810,800,000,000.
+    - Fiscal year 1987: $881,000,000,000.
+    - and the amounts by which the aggregate levels of Federal revenues should be changed are as follows:
+    - Fiscal year 1984: $0.
+    - Fiscal year 1985: —$300,000,000.
+    - Fiscal year 1986: —$100,000,000.
+    - Fiscal year 1987: —$100,000,000.
+    - and the amounts for Federal Insurance Contributions Act revenues for hospital insurance within the recommended levels of Federal revenues are as follows:
+    - Fiscal year 1984: $40,000,000,000.
+    - Fiscal year 1985: $45,400,000,000.
+    - Fiscal year 1986: $52,000,000,000.
+    - Fiscal year 1987: $57,200,000,000.
+    - and the amounts for Federal Insurance Contributions Act revenues for old-age, survivors, and disability insurance within the recommended levels of Federal revenues are as follows:
+    - Fiscal year 1984: $166,200,000,000.
+    - Fiscal year 1985: $188,700,000,000.
+    - Fiscal year 1986: $204,500,000,000.
+    - Fiscal year 1987: $221,100,000,000.
+  - **(2)** The appropriate levels of total new budget authority are as follows:
+    - Fiscal year 1984: $918,900,000,000.
+    - Fiscal year 1985: $1,021,350,000,000.
+    - Fiscal year 1986: $1,103,800,000,000.
+    - Fiscal year 1987: $1,200,250,000,000.
+  - **(3)** The appropriate levels of total budget outlays are as follows:
+    - Fiscal year 1984: $845,600,000,000.
+    - Fiscal year 1985: $932,050,000,000.
+    - Fiscal year 1986: $1,003,550,000,000.
+    - Fiscal year 1987: $1,088,600,000,000.
+  - **(4)** The amounts of the deficits in the budget which are appropriate in the light of economic conditions and all other relevant factors are as follows:
+    - Fiscal year 1984: $172,700,000,000.
+    - Fiscal year 1985: $181,150,000,000.
+    - Fiscal year 1986: $192,750,000,000.
+    - Fiscal year 1987: $207,600,000,000.
+  - **(5)** The appropriate levels of the public debt are as follows:
+    - Fiscal year 1984: $1,575,700,000,000.
+    - Fiscal year 1985: $1,823,800,000,000.
+    - Fiscal year 1986: $2,090,000,000,000.
+    - Fiscal year 1987: $2,377,600,000,000.
+    - and the amounts by which the statutory limits on such debt should be accordingly increased are as follows:
+    - Fiscal year 1984: $2,700,000,000.
+    - Fiscal year 1985: $248,100,000,000.
+    - Fiscal year 1986: $266,200,000,000.
+    - Fiscal year 1987: $287,600,000,000.
+  - **(6)** The appropriate levels of total Federal credit activity for the fiscal years beginning on October 1, 1983, October 1, 1984, October 1, 1985, and October 1, 1986, are as follows:
+    - Fiscal year 1984:
+      - New direct loan obligations, $37,600,000,000.
+      - New primary loan guarantee commitments, $105,550,000,000
+      - New secondary loan guarantee commitments, $68,250,000,000.
+    - Fiscal year 1985:
+      - New direct loan obligations, $38,100,000,000.
+      - New primary loan guarantee commitments, $112,100,000,000.
+      - New secondary loan guarantee commitments, $68,250,000,000.
+    - Fiscal year 1986:
+      - New direct loan obligations, $40,900,000,000.
+      - New primary loan guarantee commitments, $117,150,000,000.
+      - New secondary loan guarantee commitments, $69,950,000,000.
+    - Fiscal year 1987:
+      - New direct loan obligations, $42,600,000,000.
+      - New primary loan guarantee commitments, $123,300,000,000.
+      - New secondary loan guarantee commitments, $71,700,000,000.
+- **(b)** The Congress hereby determines and declares the appropriate levels of budget authority and budget outlays, and the appropriate levels of new direct loan obligations and new loan guarantee commitments for fiscal years 1984 through 1987 for each major functional category are:
+  - **(1)** National Defense (050):
+    - Fiscal year 1984:
+      - New budget authority, $264,150,000,000.
+      - Outlays, $230,400,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1985:
+      - New budget authority, $292,900,000,000.
+      - Outlays, $262,900,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1986:
+      - New budget authority, $324,700,000,000.
+      - Outlays, $288,700,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1987:
+      - New budget authority, $359,800,000,000.
+      - Outlays, $321,300,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0
+  - **(2)** International Affairs (150):
+    - Fiscal year 1984:
+      - New budget authority, $22,000,000,000.
+      - Outlays, $12,300,000,000.
+      - New direct loan obligations, $9,100,000,000.
+      - New primary loan guarantee commitments, $8,650,000,000.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1985:
+      - New budget authority, $20,800,000,000.
+      - Outlays, $16,500,000,000.
+      - New direct loan obligations, $9,500,000,000.
+      - New primary loan guarantee commitments, $9,300,000,000.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1986:
+      - New budget authority, $18,750,000,000.
+      - Outlays, $16,000,000,000.
+      - New direct loan obligations, $11,800,000,000.
+      - New primary loan guarantee commitments, $10,000,000,000.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1987:
+      - New budget authority, $19,500,000,000.
+      - Outlays, $16,000,000,000.
+      - New direct loan obligations, $12,800,000,000.
+      - New primary loan guarantee commitments, $10,400,000,000.
+      - New secondary loan guarantee commitments, $0.
+  - **(3)** General Science, Space, and Technology (250):
+    - Fiscal year 1984:
+      - New budget authority, $8,550,000,000.
+      - Outlays, $8,300,000,000.
+      - New direct loan obligations, $150,000,000.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1985:
+      - New budget authority, $8,750,000,000.
+      - Outlays, $8,600,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1986:
+      - New budget authority, $8,800,000,000.
+      - Outlays, $8,700,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1987:
+      - New budget authority, $8,950,000,000.
+      - Outlays, $8,850,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+  - **(4)** Energy (270):
+    - Fiscal year 1984:
+      - New budget authority, $1,100,000,000.
+      - Outlays, $2,450,000,000.
+      - New direct loan obligations, $4,700,000,000.
+      - New primary loan guarantee commitments, $50,000,000.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1985:
+      - New budget authority, $4,200,000,000.
+      - Outlays, $4,050,000,000.
+      - New direct loan obligations, $4,700,000,000.
+      - New primary loan guarantee commitments, $100,000,000.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1986:
+      - New budget authority, $4,000,000,000.
+      - Outlays, $4,050,000,000.
+      - New direct loan obligations, $4,800,000,000.
+      - New primary loan guarantee commitments, $50,000,000.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1987:
+      - New budget authority, $4,000,000,000.
+      - Outlays, $3,850,000,000.
+      - New direct loan obligations, $5,000,000,000.
+      - New primary loan guarantee commitments, $100,000,000.
+      - New secondary loan guarantee commitments, $0.
+  - **(5)** Natural Resources and Environment (300):
+    - Fiscal year 1984:
+      - New budget authority, $12,250,000,000.
+      - Outlays, $12,300,000,000.
+      - New direct loan obligations, $50,000,000.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1985:
+      - New budget authority, $11,850,000,000.
+      - Outlays, $12,000,000,000.
+      - New direct loan obligations, $50,000,000.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1986:
+      - New budget authority, $12,100,000,000.
+      - Outlays, $12,050,000,000.
+      - New direct loan obligations, $50,000,000.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1987:
+      - New budget authority, $12,350,000,000.
+      - Outlays, $11,950,000,000.
+      - New direct loan obligations, $50,000,000.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+  - **(6)** Agriculture (350):
+    - Fiscal year 1984:
+      - New budget authority, $5,100,000,000.
+      - Outlays, $11,800,000,000.
+      - New direct loan obligations, $11,450,000,000.
+      - New primary loan guarantee commitments, $5,100,000,000.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1985:
+      - New budget authority, $17,100,000,000.
+      - Outlays, $16,400,000,000.
+      - New direct loan obligations, $13,500,000,000.
+      - New primary loan guarantee commitments, $4,200,000,000.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1986:
+      - New budget authority, $14,750,000,000.
+      - Outlays, $16,500,000,000.
+      - New direct loan obligations, $14,000,000,000.
+      - New primary loan guarantee commitments, $3,200,000,000.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1987:
+      - New budget authority, $14,100,000,000.
+      - Outlays, $15,850,000,000.
+      - New direct loan obligations, $14,500,000,000.
+      - New primary loan guarantee commitments, $3,200,000,000.
+      - New secondary loan guarantee commitments, $0.
+  - **(7)** Commerce and Housing Credit (370):
+    - Fiscal year 1984:
+      - New budget authority, $5,500,000,000.
+      - Outlays, $4,400,000,000.
+      - New direct loan obligations, $6,150,000,000.
+      - New primary loan guarantee commitments, $50,000,000,000.
+      - New secondary loan guarantee commitments, $68,250,000,000.
+    - Fiscal year 1985:
+      - New budget authority, $6,450,000,000.
+      - Outlays, $2,000,000,000.
+      - New direct loan obligations, $6,350,000,000.
+      - New primary loan guarantee commitments, $52,250,000,000.
+      - New secondary loan guarantee commitments, $68,250,000,000.
+    - Fiscal year 1986:
+      - New budget authority, $6,300,000,000.
+      - Outlays, $2,200,000,000.
+      - New direct loan obligations, $6,450,000,000.
+      - New primary loan guarantee commitments, $54,700,000,000.
+      - New secondary loan guarantee commitments, $69,950,000,000.
+    - Fiscal year 1987:
+      - New budget authority, $7,700,000,000.
+      - Outlays, $3,400,000,000.
+      - New direct loan obligations, $6,650,000,000.
+      - New primary loan guarantee commitments, $56,900,000,000.
+      - New secondary loan guarantee commitments, $71,700,000,000.
+  - **(8)** Transportation (400):
+    - Fiscal year 1984:
+      - New budget authority, $29,550,000,000.
+      - Outlays, $24,900,000,000.
+      - New direct loan obligations, $1,150,000,000.
+      - New primary loan guarantee commitments, $450,000,000.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1985:
+      - New budget authority, $30,050,000,000.
+      - Outlays, $27,100,000,000.
+      - New direct loan obligations, $50,000,000.
+      - New primary loan guarantee commitments, $450,000,000.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1986:
+      - New budget authority, $30,100,000,000.
+      - Outlays,$28,550,000,000.
+      - New direct loan obligations, $50,000,000.
+      - New primary loan guarantee commitments, $500,000,000.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1987:
+      - New budget authority, $31,150,000,000.
+      - Outlays, $30,050,000,000.
+      - New direct loan obligations, $50,000,000.
+      - New primary loan guarantee commitments, $500,000,000.
+      - New secondary loan guarantee commitments, $0.
+  - **(9)** Community and Regional Development (450):
+    - Fiscal year 1984:
+      - New budget authority, $7,250,000,000.
+      - Outlays, $7,250,000,000.
+      - New direct loan obligations, $1,400,000,000.
+      - New primary loan guarantee commitments, $350,000,000.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1985:
+      - New budget authority, $6,900,000,000.
+      - Outlays, $8,200,000,000.
+      - New direct loan obligations, $1,500,000,000.
+      - New primary loan guarantee commitments, $300,000,000.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1986:
+      - New budget authority, $7,500,000,000.
+      - Outlays, $8,050,000,000.
+      - New direct loan obligations, $1,400,000,000.
+      - New primary loan guarantee commitments, $400,000,000.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1987:
+      - New budget authority, $7,800,000,000.
+      - Outlays, $8,150,000,000.
+      - New direct loan obligations, $1,400,000,000.
+      - New primary loan guarantee commitments, $400,000,000.
+      - New secondary loan guarantee commitments, $0.
+  - **(10)** Education, Training, Employment, and Social Services (500):
+    - Fiscal year 1984:
+      - New budget authority, $31,600,000,000.
+      - Outlays, $28,000,000,000.
+      - New direct loan obligations, $800,000,000.
+      - New primary loan guarantee commitments, $7,400,000,000.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1985:
+      - New budget authority, $30,800,000,000.
+      - Outlays, $29,900,000,000.
+      - New direct loan obligations, $800,000,000.
+      - New primary loan guarantee commitments, $7,800,000,000.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1986:
+      - New budget authority, $30,700,000,000.
+      - Outlays, $30,600,000,000.
+      - New direct loan obligations, $900,000,000.
+      - New primary loan guarantee commitments, $8,000,000,000.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1987:
+      - New budget authority, $32,100,000,000.
+      - Outlays, $31,100,000,000.
+      - New direct loan obligations, $900,000,000.
+      - New primary loan guarantee commitments, $8,200,000,000.
+      - New secondary loan guarantee commitments, $0.
+  - **(11)** Health (550):
+    - Fiscal year 1984:
+      - New budget authority, $31,700,000,000.
+      - Outlays, 750,000,000.
+      - New direct loan obligations, $50,000,000.
+      - New primary loan guarantee commitments, $200,000,000.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1985:
+      - New budget authority, $33,150,000,000.
+      - Outlays, $34,150,000,000.
+      - New direct loan obligations, $50,000,000.
+      - New primary loan guarantee commitments, $200,000,000.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1986:
+      - New budget authority, $36,350,000,000.
+      - Outlays, $36,150,000,000.
+      - New direct loan obligations, $50,000,000.
+    - New primary loan guarantee commitments, $200,000,000.
+    - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1987:
+      - New budget authority, $39,300,000,000.
+      - Outlays, $38,800,000,000.
+      - New direct loan obligations, $50,000,000.
+      - New primary loan guarantee commitments, $200,000,000.
+      - New secondary loan guarantee commitments, $0.
+  - **(12)** Medical Insurance (570):
+    - Fiscal year 1984:
+      - New budget authority, $62,800,000,000.
+      - Outlays, $58,600,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1985:
+      - New budget authority, $70,300,000,000.
+      - Outlays, $65,350,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1986:
+      - New budget authority, $81,900,000,000.
+      - Outlays, $72,650,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1987:
+      - New budget authority, $96,600,000,000.
+      - Outlays, $81,600,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+  - **(13)** Income Security (600):
+    - Fiscal year 1984:
+      - New budget authority, $121,800,000,000.
+      - Outlays, $95,900,000,000.
+      - New direct loan obligations, $1,000,000,000.
+      - New primary loan guarantee commitments, $14,700,000,000.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1985:
+      - New budget authority, $143,600,000,000.
+      - Outlays, $111,700,000,000.
+      - New direct loan obligations, $50,000,000.
+      - New primary loan guarantee commitments, $14,700,000,000.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1986:
+      - New budget authority, $154,300,000,000.
+      - Outlays, $119,150,000,000.
+      - New direct loan obligations, $50,000,000.
+      - New primary loan guarantee commitments, $14,700,000,000.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1987:
+      - New budget authority, $161,300,000,000.
+      - Outlays,$124,450,000,000.
+      - New direct loan obligations, $50,000,000.
+      - New primary loan guarantee commitments, $14,700,000,000.
+      - New secondary loan guarantee commitments, $0.
+  - **(14)** Social Security (650):
+    - Fiscal year 1984:
+      - New budget authority, $175,650,000,000.
+      - Outlays, $178,900,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1985:
+      - New budget authority, $199,450,000,000.
+      - Outlays, $188,750,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1986:
+      - New budget authority, $213,750,000,000.
+      - Outlays,$200,850,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1987:
+      - New budget authority, $227,050,000,000.
+      - Outlays, $215,300,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+  - **(15)** Veterans Benefits and Services (700):
+    - Fiscal year 1984:
+      - New budget authority, $26,350,000,000.
+      - Outlays, $25,900,000,000.
+      - New direct loan obligations, $1,350,000,000.
+      - New primary loan guarantee commitments, $18,650,000,000.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1985:
+      - New budget authority, $26,850,000,000.
+      - Outlays, $26,350,000,000.
+      - New direct loan obligations, $1,300,000,000.
+      - New primary loan guarantee commitments, $22,800,000,000.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1986:
+      - New budget authority, $27,150,000,000.
+      - Outlays, $26,750,000,000.
+      - New direct loan obligations, $1,100,000,000.
+      - New primary loan guarantee commitments, $25,400,000,000.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1987:
+      - New budget authority, $27,600,000,000.
+      - Outlays, $26,950,000,000.
+      - New direct loan obligations, $900,000,000.
+      - New primary loan guarantee commitments, $28,700,000,000.
+      - New secondary loan guarantee commitments, $0.
+  - **(16)** Administration of Justice (750):
+    - Fiscal year 1984:
+      - New budget authority, $6,000,000,000.
+      - Outlays, $5,900,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1985:
+      - New budget authority, $6,150,000,000.
+      - Outlays, $6,100,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1986:
+      - New budget authority, $6,250,000,000.
+      - Outlays, $6,150,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1987:
+      - New budget authority, $6,350,000,000.
+      - Outlays, $6,350,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+  - **(17)** General Government (800):
+    - Fiscal year 1984:
+      - New budget authority, $5,100,000,000.
+      - Outlays, $5,050,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1985:
+      - New budget authority, $5,700,000,000.
+      - Outlays, $5,600,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1986:
+      - New budget authority, $5,800,000,000.
+      - Outlays, $5,650,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1987:
+      - New budget authority, $5,900,000,000.
+      - Outlays, $5,800,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+  - **(18)** General Purpose Fiscal Assistance (850):
+    - Fiscal year 1984:
+      - New budget authority, $6,800,000,000.
+      - Outlays, $6,800,000,000.
+      - New direct loan obligations, $250,000,000.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1985:
+      - New budget authority, $6,450,000,000.
+      - Outlays, $6,450,000,000.
+      - New direct loan obligations, $250,000,000.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1986:
+      - New budget authority, $6,450,000,000.
+      - Outlays, $6,450,000,000.
+      - New direct loan obligations, $250,000,000.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1987:
+      - New budget authority, $6,800,000,000.
+      - Outlays, $6,750,000,000.
+      - New direct loan obligations, $250,000,000.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+  - **(19)** Net Interest (900):
+    - Fiscal year 1984:
+      - New budget authority, $111,100,000,000.
+      - Outlays, $111,100,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1985:
+      - New budget authority, $133,800,000,000.
+      - Outlays, $133,800,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1986:
+      - New budget authority, $149,750,000,000.
+      - Outlays, $149,750,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1987:
+      - New budget authority, $167,950,000,000.
+      - Outlays, $167,950,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+  - **(20)** Allowances (920):
+    - Fiscal year 1984:
+      - New budget authority, $500,000,000.
+      - Outlays, $550,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1985:
+      - New budget authority, —$750,000,000.
+      - Outlays, —$700,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1986:
+      - New budget authority, $1,850,000,000.
+      - Outlays, $2,050,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1987:
+      - New budget authority, $3,150,000,000.
+      - Outlays, $3,350,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+  - **(21)** Undistributed Offsetting Receipts (950):
+    - Fiscal year 1984:
+      - New budget authority, —$15,950,000,000.
+      - Outlays, —$15,950,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1985:
+      - New budget authority, —$33,150,000,000.
+      - Outlays, —$33,150,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1986:
+      - New budget authority, —$37,450,000,000.
+      - Outlays, —$37,450,000,000
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+    - Fiscal year 1987:
+      - New budget authority, —$39,200,000,000.
+      - Outlays, —$39,200,000,000.
+      - New direct loan obligations, $0.
+      - New primary loan guarantee commitments, $0.
+      - New secondary loan guarantee commitments, $0.
+
+## § 2. general provisions
+
+- **(a)** For fiscal years 1985, 1986, and 1987, any revenues raised by legislation enacted on or after March 15, 1984, shall only be used to reduce the Federal budget deficits for such fiscal years except to the extent that such legislation earmarks all or any part of such revenues for specific spending programs.
+- **(b)** For fiscal years 1985, 1986, and 1987, increased funding would be appropriate if authorizations are enacted for education programs, environmental protection, health research activities, and such specific low-income programs as employment initiatives for disadvantaged youth, public works jobs for community renewal, increased funding for Aid to Families with Dependent Children and the State component of the Supplemental Security Income program in order to ensure that the purchasing power of recipients is maintained, increased funding for title XX of the Social Security Act, and an increase in the earned income tax credit, pursuant to subsection (a) above, if sufficient outlay reductions or new revenues are also enacted to ensure that the legislation is deficit neutral.
+
+## § 3. administrative savings
+
+It is the sense of the Congress that the executive branch shall achieve as much of the $153.2 billion in savings as is feasible, but in no case less than $2.0 billion over fiscal years 1985 through 1987 which have been recommended by the President’s Private Sector Survey on Cost Control and which can be achieved through administrative action within that branch of Government. It is further the sense of the Congress that the President should report to Congress each year, in conjunction with the annual budget submission, on the progress made in achieving the savings required by this section, and that the budget submission for fiscal year 1986 should contain information regarding such administrative savings as have already been achieved.
+
+## § 4. automatic second budget resolution
+
+- **(a)** Effective October 1, 1984, this concurrent resolution shall be deemed to be the concurrent resolution on the budget for fiscal year 1985 required to be reported under section 310(a) of the Congressional Budget Act of 1974, for the purposes of the prohibitions contained in section 311 of such Act.
+- **(b)** Section 311(a) of the Congressional Budget Act of 1974, as made applicable by subsection (a) of this section, shall not apply to bills, resolutions, or amendments within the jurisdiction of a committee, or any conference report on any such bill or resolution, if— would not cause the appropriate allocation for such committee of new discretionary budget authority or new spending authority as described in section 401(c)(2)(C) of the Congressional Budget Act of 1974 made pursuant to section 302(a) of such Act for fiscal year 1985 to be exceeded.
+  - **(1)** the enactment of such bill or resolution as reported;
+  - **(2)** the adoption and enactment of such amendment; or
+  - **(3)** the enactment of such bill or resolution in the form recommended in such conference report;
+- **(c)** The provisions of this section shall cease to apply when Congress completes action on a subsequent concurrent resolution on the budget for fiscal year 1985 pursuant to section 304 or 310 of the Congressional Budget Act of 1974.
+
+## § 5. section 302(b) filing requirement
+
+- **(a)** It shall not be in order in the House of Representatives to consider any bill or resolution, or amendment thereto, providing— within the jurisdiction of any committee which has received an allocation pursuant to section 302(a) of the Congressional Budget Act of discretionary budget authority or new spending authority, as described above, for such fiscal year, unless and until such committee makes the allocation or subdivisions required by section 302(b) of the Congressional Budget Act, in connection with the most recently agreed to concurrent resolution on the budget.
+  - **(1)** new budget authority for fiscal year 1985;
+  - **(2)** new spending authority described in section 401(c)(2)(C) of the Congressional Budget Act first effective in fiscal year 1985; or
+  - **(3)** direct loan authority, primary loan guarantee authority, or secondary loan guarantee authority for fiscal year 1985;
+- **(b)** The prohibition contained in subsection (a) shall not apply until twenty-one days of continuous session, as defined in section 1011(5) of the Impoundment Control Act of 1974, after Congress completes action on this concurrent resolution.
+
+
+*Agreed to October 1, 1984.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- Oct. 1, 1984 [H. Con. Res. 280]
+- President of U.S. Report.
+- Effective date.
+- 2 USC 641.
+- 2 USC 642.
+- 2 USC 651. 2 USC 633.
+- 2 USC 635.
+- 2 USC 651.
+- 2 USC 633.
+- 31 USC 1400.
