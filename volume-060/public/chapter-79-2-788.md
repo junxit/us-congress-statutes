@@ -1,0 +1,48 @@
+---
+volume: 60
+citation: 60 Stat. 885
+type: Chapter
+number: 788
+congress: 79
+session: 2
+scope: public
+approved: 1946-08-07
+bills: 79/hr-6629
+---
+
+# Chapter 788
+
+> AN ACT To provide basic authority for the performance of certain functions and activities of the National Park Service.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+That appropriations for the National Park Service are authorized for—
+
+- **(a)** Necessary protection of the area of federally owned land in the custody of the National Park Service known as the Ocean Strip and Queets Corridor, adjacent to Olympic National Park, Washington; necessary repairs to the roads from Glacier Park Station through the Blackfeet Indian Reservation to the various points in the boundary line of Glacier National Park, Montana, and the international boundary; repair and maintenance of approximately two and seventy-seven one-hundredths miles of road leading from United States Highway 187 to the north entrance of Grand Teton National Park, Wyoming; maintenance of approach roads through the Lassen National Forest leading to Lassen Volcanic National Park, California; maintenance and repair of the Generals Highway between the boundaries of Sequoia National Park, California, and the Grant Grove section of Kings Canyon National Park, California; maintenance of approximately two and one-fourth miles of roads comprising those portions of the Fresno-Kings Canyon approach road, Park Ridge Lookout Road, and Ash Mountain-Advance truck trail, necessary to the administration and protection of the Sequoia and Kings Canyon National Parks; maintenance of the roads in the national forests leading out of Yellowstone National Park, Wyoming, Idaho, and Montana; maintenance of the road in the Stanislaus National Forest connecting the Tioga Road with the Hetch Hetchy Road near Mather Station, Yosemite National Park, California; and maintenance and repair of the approach road to the Custer Battlefield National Monument and the road connecting the said monument with the Reno Monument site, Montana.
+- **(b)** Administration, protection, improvement, and maintenance of areas, under the jurisdiction of other agencies of the Government, devoted to recreational use pursuant to cooperative agreements.
+- **(c)** Necessary local transportation and subsistence in kind of persons selected for employment or as cooperators, serving without other compensation, while attending fire-protection training camps.
+- **(d)** Administration, protection, maintenance, and improvement of the Chesapeake and Ohio Canal.
+- **(e)** Educational lectures in or in the vicinity of and with respect to the national parks, national monuments, and other reservations under the jurisdiction of the National Park Service; and services of field employees in cooperation with such nonprofit scientific and historical societies engaged in educational work in the various parks and monuments as the Secretary of the Interior may designate.
+- **(f)** Travel expenses of employees attending Government camps for training in forest-fire prevention and suppression and the Federal Bureau of Investigation National Police Academy, and attending Federal, State, or municipal schools for training in building fire prevention and suppression.
+- **(g)** Investigation and establishment of water rights in accordance with local custom, laws, and decisions of courts, including the acquisition of water rights or of lands or interests in lands or rights-of-way for use and protection of water rights necessary or beneficial in the administration and public use of the national parks and monuments.
+- **(h)** Acquisition of rights-of-way and construction and maintenance of a water supply line partly outside the boundaries of Mesa Verde National Park.
+- **(i)** Official telephone service in the field in the case of official telephones installed in private houses when authorized under regulations established by the Secretary.
+
+
+*Approved August 7, 1946.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- August 7, 1946 [H. R. 6629] [Public Law 633]
+- National Park Service. Appropriations authorized.
+- Roads.
+- Recreational areas.
+- Transportation for cooperators, etc.
+- Chesapeake and Ohio Canal.
+- Educational lectures, etc.
+- Travel expenses of employees in training schools, etc.
+- Investigation, etc., of water rights.
+- Water supply line.
+- Telephone service.

@@ -1,0 +1,60 @@
+---
+volume: 60
+citation: 60 Stat. 123
+type: Chapter
+number: 215
+congress: 79
+session: 2
+scope: public
+approved: 1946-04-24
+bills: 79/hr-5544
+---
+
+# Chapter 215
+
+> AN ACT Authorizing the village of Baudette, State of Minnesota, its public successors or public assigns, to construct, maintain, and operate a toll bridge across the Rainy River at or near Baudette, Minnesota.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+That in order to facilitate international commerce, improve the postal service, and provide for military and other purposes the village of Baudette, Minnesota, its public successors and public assigns, be, and it is hereby, authorized to construct, maintain, and operate a toll bridge and approaches thereto across the Rainy River, so far as the United States has jurisdiction over the waters of said river, at a point suitable to the interests of navigation at or near Baudette, Minnesota, in accordance with the provisions of the Act entitled “An Act to regulate the construction of bridges over navigable waters”, approved March 23, 1906, subject to the conditions and limitations contained in this Act, and subject to the approval of the proper authorities in Canada.
+
+## § 2.
+
+There is hereby conferred upon the village of Baudette, Minnesota, its public successors and public assigns, all such rights and powers to enter upon lands and to acquire, condemn, occupy, possess, and use real estate and other property in the State of Minnesota, needed for the location, construction, operation, and maintenance of such bridge and its approaches as are now possessed by railroad corporations for railroad purposes or by bridge corporations for bridge purposes in the State of Minnesota upon making just compensation therefor to be ascertained and paid according to the laws of such State, and the proceedings therefor shall be the same as in the condemnation or expropriation of property for public purposes in such State.
+
+## § 3.
+
+The said village of Baudette, Minnesota, its public successors and public assigns, are authorized to fix and charge tolls for transit over such bridge in accordance with any laws of Canada applicable thereto, and the rates of toll so fixed shall be the legal rates until changed by the Secretary of War under authority contained in the Act of March 23, 1906.
+
+## § 4.
+
+In fixing the rates of toll to be charged for the use of such bridge the same shall be so adjusted as to provide a fund sufficient to pay for the reasonable cost of maintenance, repairing, and operating the bridge and its approaches under efficient and economical management, and to provide funds sufficient to amortize the cost of such bridge and its approaches, including reasonable interest and financing cost, as soon as possible, under reasonable charges, but within a period of not to exceed twenty years from the completion thereof. After funds sufficient for such amortization of said bridge and its approaches shall have been so provided, such bridge shall thereafter be maintained and operated free of tolls. An accurate record of the cost of the bridge and its approaches, the expenditure for maintaining, repairing, and operating the same, and of the daily tolls collected shall be kept and shall be available for the information of all persons interested.
+
+## § 5.
+
+The right to sell, assign, transfer, and mortgage to any public agency or to an international bridge authority is hereby granted to the village of Baudette, Minnesota, its public successors and public assigns; and any such agency or authority to whom such rights, powers, and privileges may be sold, assigned, or transferred, or who shall acquire the same by mortgage foreclosure or otherwise is hereby authorized and empowered to exercise the same as fully as though conferred herein directly upon such agency or authority.
+
+## § 6.
+
+No toll or other charge shall be levied against any employee, civil or military, or any vehicle or conveyance of the United States Government for the use of such bridge in the performance of official duties.
+
+## § 7.
+
+The right to alter, amend, or repeal this Act is hereby expressly reserved.
+
+
+*Approved April 24, 1946.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- April 24, 1946 [H. R. 5544] [Public Law 364]
+- Bridge. Rainy River.
+- 34 Stat. 84. 33 U. S. C. §§ 491–498.
+- Approval of Canadian authorities. Acquisition of property.
+- Tolls.
+- Supra.
+- Maintenance as free bridge.
+- Right to soil, etc.
+- Federal use.
