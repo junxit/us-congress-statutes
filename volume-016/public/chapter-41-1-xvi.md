@@ -1,0 +1,700 @@
+---
+volume: 16
+citation: 16 Stat. 13
+type: Chapter
+number: XVI
+congress: 41
+session: 1
+scope: public
+approved: 1869-04-10
+---
+
+# Chapter XVI
+
+> An Act making Appropriations for the current and contingent Expenses of the Indian Department, and for fulfilling Treaty Stipulations with various Indian Tribes for the Year ending June thirtieth, eighteen hundred and seventy.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+That the following sums be, and they are hereby, appropriated, out of any money in the treasury not otherwise appropriated, for the purpose of paying the current and contingent expenses of the Indian department and fulfilling treaty stipulations with the various Indian tribes :
+
+For the current and contingent expenses of the Indian department, namely:
+
+For the pay of eleven superintendents of Indian affairs and of fifty-nine Indian agents, one hundred and fourteen thousand seven hundred dollars, as follows :
+
+- *Superintendents of Indian Affairs.—* Two superintendents for the tribes east of the Rocky mountains; one for Oregon ; one for Washington Territory ; one for the Territory of New Mexico ; one for the Territory of Utah ; one for California ; one for Nevada ; one for the Territory of Arizona; one for Montana, and one for Idaho.
+- *Indian Agents.—*
+  - Three for the tribes in Oregon ; four for the tribes in New Mexico; one additional for Indians in New Mexico; one for the tribes in New Mexico; one for the tribes in Utah ; one additional for the Indians in Utah; one for the tribes in the Territory of Utah ; eleven for the tribes east of the Rocky mountains ; two for the tribes east of the Rocky mountains; four for the Indians east of the Rocky mountains, viz: Sioux and Seminoles, the Omaha, Kickapoo, Kansas, and Neosho agencies ; three for the tribes east of the Rocky mountains ; one for the Indians in the State of New York ; one for the Delaware Indians; one for Green Bay, Wisconsin ; three for the tribes in Washington Territory ; one for the Wichatas and neighboring tribes west of the Choctaws and Chickasaws ; one for the tribes east of the Rocky mountains ; one for the Indians in the Territory of New Mexico; one for the Ponca tribe ; one for the Pawnees; one for the Yancton Sioux ; three for the tribes in the Territory of Washington ; one for the Grand River and Uintah bands of Indians in the Territory of Colorado; two for the Upper Missouri and the country adjacent thereto; one for the Ottawas, Chippewas of Swan creek and Black river, and Christian Indians in Kansas; three agents for the State of California; one for the Kiowa, Apache, and Comanche Indians; one for the Sisseton and Warpeton bands of Dakota or Sioux Indians ; one for the bands of Sacs and Foxes of the Mississippi, now in Tama county, Iowa ; one for the Indians in the State of Nevada, and one for the Crow tribe of Indians: Provided, That it shall be the duty of the President to dispense with the services of such Indian agents and superintendents herein mentioned as may be practicable; and where it is practicable, he shall require the same person to perform the duties of two agencies or superintendencies for one salary.
+  - For pay of sub-agents, three in Oregon and two in Washington Territory, six thousand dollars.
+  - For pay of clerk to superintendent of central superintendency, one thousand six hundred dollars.
+  - For pay of clerk to superintendent of Indian affairs in California, one thousand eight hundred dollars.
+  - For pay of interpreters, twenty thousand four hundred dollars.
+  - For buildings at agencies and repairs thereof, five thousand dollars.
+  - For provisions for Indians visiting superintendencies and agencies ten thousand dollars.
+  - For pay of temporary clerks to superintendents, five thousand dollars.
+  - For contingencies of the Indian department, twenty-five thousand dollars.
+  - For vaccination of Indians and furnishing vaccine matter, two thousand five hundred dollars.
+  - For fulfilling treaty stipulations with various Indian tribes :
+- *Assinaboines.—* For third of twenty payments to be made during the pleasure of Congress, to be expended at the discretion of the President, in such articles, goods, and provisions as he may from time to time determine, ten thousand dollars of which may be expended in the purchase of stock, animals, and agricultural implements, in instructing in agricultural and mechanical pursuits, in employing mechanics, in educating their children, providing necessary and proper medicines and medical attendance, care for and support of their aged, infirm, and sick, for their helpless orphans, and in any other respect to promote their civilization, comfort, and improvement, and also for pay of bead chief, thirty thousand dollars.
+- *Arickarees, Gros Ventres, and Mandans.—* For third payment, to be made during the pleasure of Congress, to be expended in such goods, provisions, and other articles as the President may from time to time determine, five thousand of which may be expended in the purchase of stock animals and agricultural implements, in instructing in agricultural and mechanical pursuits, in employing mechanics, educating their children, providing medicines and medical attendance, care for and support of the aged, sick, and infirm, for the helpless orphans of said Indians, and in any other respect to promote their civilization, comfort, and improvement, and also for pay of head chief, soldier chiefs, second chief, and Pierre Gavneaux, for his services to the Arickarees, forty thousand dollars.
+- *Apaches, Kiowas, and Comanches.—*
+  - For second of thirty instalments, to be expended under the tenth article of treaty of October twenty-first, eighteen hundred and sixty-seven, concluded at Medicine Lodge Creek, in Kansas, with the Kiowas and Comanches, and under the third article of the treaty of the same date made with the Apaches, thirty thousand dollars.
+  - For purchase of clothing, under the same article and treaty, twenty-six thousand dollars.
+  - For the construction of five buildings, for carpenter, farmer, blacksmith, miller, and engineer, under the fourth article of the above-named treaty, seven thousand five hundred and eighty-two dollars and fifty cents.
+  - For the erection of a steam circular saw-mill, with a grist-mill and shingle-machine attached, under the same article of the same treaty, eight thousand dollars.
+  - For pay of farmer, carpenter, blacksmith, miller, and engineer, under the fourteenth article of said treaty, three thousand nine hundred and fifty dollars.
+  - For salary of a physician under same article of said treaty, one thousand two hundred dollars.
+  - For salary of a teacher, under same article, one thousand dollars.
+  - For the construction of a school-house or mission building, under fourth article of same treaty, three thousand seven hundred and ninety-one dollars and fifty cents.
+  - For building a dwelling-house on the reservation for Tosh-ewa or Silver Brooch, the Comanche chief, under the fifteenth article of same treaty, seven hundred and fifty dollars.
+  - For the first of three instalments, to be expended in presents to the ten persons of said tribes who, in the judgment of the agent, may grow the most valuable crops for the period named, under the same article, five hundred dollars.
+  - For transportation of goods to the Apaches, Kiowas, and Comanches, under same article, five thousand dollars.
+  - For this amount to pay J. C. D. Blackburn for subsistence furnished to the friendly Kiowa, Comanche, and Apache Indians, and to the Wichita and other affiliated dands of Indians within the Wichita agency, at Fort Cobb, in the Indian Territory, one hundred and twenty-five thousand dollars : Provided, That the said sum, if accepted, shall be in full for the claim of said Blackburn, as above stated.
+- *Northern Cheyennes and Northern Arapahoes.—*
+  - For fulfilling treaty stipulations with the Northern Cheyenne and Northern Arapahoe Indians, under treaty of May tenth, eighteen hundred and sixty-eight, for the fiscal year ending June thirtieth, eighteen hundred and seventy; for construction of school-house, per fourth article treaty May tenth, eighteen hundred and sixty-eight, five thousand dollars.
+  - For first of thirty instalments for purchase of clothing, per sixth article treaty May tenth, eighteen hundred and sixty-eight, for the fiscal year ending June thirtieth, eighteen hundred and seventy, ten thousand dollars.
+  - For first of ten instalments to be expended by the Secretary of the Interior, (ten dollars for each Indian roaming: nine hundred and sixty souls,) in the purchase of such articles as from time to time the condition and necessities of the Indians may indicate to be proper, per sixth article treaty May tenth, eighteen hundred and sixty-eight, for the fiscal year ending June thirtieth, eighteen hundred and seventy, nine thousand six hundred dollars.
+  - For first of four instalments to furnish said Indians with flour and meat, per sixth article treaty May tenth, eighteen hundred and sixtyeight, for the fiscal year ending June thirtieth, eighteen hundred and seventy, sixty-six thousand five hundred and seventy-six dollars.
+  - For the purchase of cows and oxen, per sixth article treaty May tenth, eighteen hundred and sixty-eight, ten thousand dollars.
+  - For salary of physician, twelve hundred dollars; teacher, one thousand dollars; carpenter, seven hundred and twenty dollars; miller, seven hundred and twenty dollars; engineer, eight hundred dollars; farmer, seven hundred and twenty dollars ; and blacksmith seven hundred and twenty dollars, per seventh article treaty May tenth, eighteen hundred and sixty-eight, for the fiscal year ending June thirtieth, eighteen hundred and seventy, five thousand eight hundred and eighty dollars.
+  - For first of three instalments to be expended in presents to the ten persons of said tribe who, in the judgment of the agent, may grow the most valuable crops for the respective year, per ninth article treaty May tenth, eighteen hundred and sixty-eight, for the fiscal year ending June thirtieth, eighteen hundred and seventy, five hundred dollars.
+  - For insurance and transportation of goods, and so forth, for the Northern Cheyenne and Northern Arapahoe tribes of Indians, for the fiscal year ending June thirtieth, eighteen hundred and seventy, four thousand dollars.
+- *Calapooias, Molalla, and Clackamas Indians, of Willamette Valley.—* For last of five instalments of the third series of annuity for beneficial objects, per second article treaty twenty-second January, eighteen hundred and fifty-five, six thousand five hundred dollars.
+- *Cheyennes and Arapahoes.—*
+  - For the second of thirty instalments provided to be expended under the tenth article of the treaty of October twenty-eighth, eighteen hundred and sixty-seven, concluded at Medicine Lodge Creek, in Kansas, twenty thousand dollars.
+  - For the purchase of clothing, per tenth article of the treaty of October twenty-eighth, eighteen hundred and sixty-seven, fourteen thousand five hundred dollars.
+  - For the construction of five buildings for carpenter, farmer, blacksmith, miller, and engineer, two thousand dollars each, per fourth article treaty October twenty-eighth, eighteen hundred and sixty-seven, seven thousand two hundred dollars.
+  - For the erection of a steam circular saw-mill, with a grist-mill and shingle-machine attached, per fourth article treaty October twenty-eighth, eighteen hundred and sixty-seven, eight thousand dollars.
+  - For salary of a physician, per thirteenth article treaty October twenty-eighth, eighteen hundred and sixty-seven, one thousand two hundred dollars.
+  - For pay of carpenter, fanner, blacksmith, miller, and engineer, per thirteenth article treaty October twenty-eighth, eighteen hundred and sixty-seven, three thousand nine hundred and fifty dollars.
+  - For salary of a teacher, per thirteenth article treaty October twenty-eighth, eighteen hundred and sixty-seven, one thousand dollars.
+  - For the construction of school-house or mission building, per fourth article treaty October twenty-eighth, eighteen hundred and sixty-seven, three thousand four hundred dollars.
+  - For the first of three instalments, to be expended in presents to the ten persons of said tribe who, in the judgment of the agent, may grow the most valuable crop[s] for the respective year, per fourteenth article treaty October twenty-eighth, eighteen hundred and sixty-seven, five hundred dollars.
+  - For transportation of goods, and so forth, to the Cheyennes and Arapahoes, three thousand four hundred dollars.
+- *Chasta, Scoton, and Umpqua Indians.—*
+  - For the last of fifteen instalments of annuity, to be expended as directed by the President, per third article treaty eighteenth November, eighteen hundred and fifty-four, two thousand dollars.
+  - For last of fifteen instalments for the pay of a farmer, per fifth article treaty eighteenth November, eighteen hundred and fifty-four, seven hundred and fifty dollars.
+  - For last of fifteen instalments for pay of teachers and purchase of books and stationery, per fifth article treaty eighteenth November, eighteen hundred and fifty-four, one thousand two hundred dollars.
+- *Chippewas of Saginaw, Swan Creek, and Black River.—* For this amount to be placed to credit of educational fund of the Chippewas of Saginaw, Swan creek and Black river, per fourth article treaty eighteenth October, eighteen hundred and sixty-four, twenty thousand dollars.
+- *Chippewas of Lake Superior.—*
+  - For fifteenth of twenty instalments in coin, per fourth article treaty thirtieth September, eighteen hundred and fifty-four, five thousand dollars.
+  - For fifteenth of twenty instalments in goods, household furniture, and cooking utensils, per fourth article treaty thirtieth September, eighteen hundred and fifty-four, eight thousand dollars.
+  - For fifteenth of twenty instalments for agricultural implements and cattle, carpenters’ and other tools, and building materials, per fourth article treaty thirtieth September, eighteen hundred and fifty-four, three thousand dollars.
+  - For fifteenth of twenty instalments for moral and educational purposes, three hundred dollars of which to be paid to the Grand Portage band yearly, to enable them to maintain a school at their village, per fourth article treaty thirtieth September, eighteen hundred and fifty-four, three thousand dollars.
+  - For fifteenth of twenty instalments for six smiths and assistants, per second and fifth articles treaty thirtieth September, eighteen hundred and fifty-four, five thousand and forty dollars.
+  - For fifteenth of twenty instalments for the support of six smiths’ shops, per second and fifth articles treaty thirtieth September, eighteen hundred and fifty-four, one thousand three hundred and twenty dollars.
+  - For thirteenth of twenty instalments for the seventh smith and assistant, and support of shops, per second and fifth articles treaty thirtieth September, eighteen hundred and fifty-four, one thousand and sixty dollars.
+  - For insurance, transportation, and necessary cost of delivery of annuities and provisions for Chippewas of Lake Superior, five thousand seven hundred and sixty-two dollars and sixty-three cents.
+  - For the support of a smith and shop, during the pleasure of the President, per twelfth article treaty thirtieth September, eighteen hundred and fifty-four, and third article treaty April seventh, eighteen hundred and sixty-six, six hundred dollars.
+  - For the support of two farmers, during the pleasure of the President, per twelfth article treaty September thirtieth, eighteen hundred and fifty-four, and third article treaty April seventh, eighteen hundred and sixty-six, one thousand two hundred dollars.
+- *Bois Fort Band of Chippewas.—*
+  - For fourth of twenty instalments, for the support of one blacksmith and assistant, and for tools, iron and steel, and other articles necessary for the blacksmith shop, as per third article treaty of April seventh, eighteen hundred and sixty-six, one thousand five hundred dollars.
+  - For fourth of twenty instalments for the support of one school-teacher, and for necessary books and stationery, as per third article treaty of April seventh, eighteen hundred and sixty-six, eight hundred dollars.
+  - For fourth of twenty instalments for the instruction of the Indians in farming, and purchase of seeds, tools, and so forth, as per third article treaty of April seventh, eighteen hundred and sixty-six, eight hundred dollars.
+  - For fourth of twenty instalments of annuity in money, to be paid per capita, as per third article treaty of April seventh, eighteen hundred and sixty-six, three thousand five hundred dollars.
+  - For fourth of twenty instalments of annuity in provisions, ammunition, and tobacco, as per third article treaty of April seventh, eighteen hundred and sixty-six, one thousand dollars.
+  - For fourth of twenty instalments of annuity in goods and other articles, as per third article treaty of April seventh, eighteen hundred and sixty-six, six thousand five hundred dollars.
+  - For transportation and necessary cost of delivery of annuity goods and provisions, per sixth article treaty of April seventh, eighteen hundred and sixty-six, one thousand five hundred dollars.
+- *Chippewas of the Mississippi.—*
+  - For third of ten instalments of the second series in money, per fourth article treaty fourth October, eighteen hundred and forty-two, and eighth article treaty thirtieth September, eighteen hundred and fifty-four, and third article treaty seventh May, eighteen hundred and sixty-four, four thousand one hundred and sixty-six dollars and sixty-seven cents.
+  - For third of ten instalments of the second series for the pay of two carpenters, per fourth article treaty fourth October, eighteen hundred and forty-two, and eighth article treaty thirtieth September, eighteen hundred and fifty-four, and third article treaty seventh May, eighteen hundred and sixty-four, four hundred dollars.
+  - For third of ten instalments of the second series in goods, per fourth article treaty fourth October, eighteen hundred and forty-two, and eighth article treaty thirtieth September, eighteen hundred and fifty-four, and third article treaty seventh May, eighteen hundred and sixty-four, three thousand five hundred dollars.
+  - For third of ten instalments of the second series for the support of schools, per fourth article treaty fourth October, eighteen hundred and forty-two, and eighth article treaty thirtieth September, eighteen hundred and fifty-four, and third article of treaty May seventh, eighteen hundred and sixty-four, six hundred and sixty-six dollars and sixty-seven cents.
+  - For third of ten instalments of second series, for the purchase of provisions and tobacco, per fourth article treaty fourth October, eighteen hundred and forty-two, and eighth article treaty thirtieth September, eighteen hundred and fifty-four, and third article of treaty seventh May, eighteen hundred and sixty-four, six hundred and sixty-seven dollars and sixty-seven cents.
+  - For third of ten instalments of the second series for the support of two smiths’ shops, including the pay of two smiths and assistants, and furnishing iron and steel, per fourth article treaty fourth October, eighteen hundred and forty-two, and eighth article treaty thirtieth September, eighteen hundred and fifty-four, and third article of treaty seventh May, eighteen hundred and sixty-four, six hundred and sixty-seven dollars and sixty-seven cents.
+  - For third of ten instalments of the second series, for pay of two farmers, per fourth article treaty fourth October, eighteen hundred and forty-two, and eighth article treaty thirtieth September, eighteen hundred and fifty-four, and third article treaty May seventh, eighteen hundred and sixty-four, three hundred and thirty-three dollars and thirty-three cents.
+  - For fifteenth of twenty instalments of annuity in money, per third article treaty twenty-second February, eighteen hundred and fifty-five, twenty thousand dollars.
+  - For twenty-third of twenty-six instalments, to be paid the Chippewas of Mississippi, per third article treaty of August second, eighteen hundred and forty-seven, one thousand dollars.
+  - For second of ten instalments for the support of a school or schools upon said reservation, in accordance with third article of treaty of March nineteenth, eighteen hundred and sixty-seven, four thousand dollars.
+  - For second of ten instalments to be expended in promoting the progress of the people in agriculture and assisting them to become self-sustaining, in accordance with third article of treaty of March nineteenth, eighteen hundred and sixty-seven, six thousand dollars.
+  - For second of ten instalments for the support of a physician, in accordance with third article treaty of March nineteenth, eighteen hundred and sixty-seven one thousand two hundred dollars.
+  - For second of ten instalments for the purchase of necessary medicines, in accordance with third article of treaty of March nineteenth, eighteen hundred and sixty-seven, three hundred dollars.
+  - For insurance, transportation, and necessary cost of delivery of annuities and provisions for Chippewas of Mississippi, in accordance with sixth article of the treaty of March nineteen, eighteen hundred and sixty-seven, five thousand dollars.
+- *Chippewas, Pillager, and Lake Winnebagoshish Bands.—*
+  - For fifteenth of thirty instalments of annuity in money, per third article treaty twenty-second February, eighteen hundred and fifty-five, ten thousand six hundred and sixty-six dollars and sixty-six cents.
+  - For fifteenth of thirty instalments of annuity in goods, per third article treaty twenty-second February, eighteen hundred and fifty-five, eight thousand dollars.
+  - For fifteenth of thirty instalments for purposes of utility, per third article treaty twenty-second February, eighteen hundred and fifty-five, four thousand dollars.
+  - For fifteenth of twenty instalments for purposes of education, including compensation of teacher, per third article treaty twenty-second February, eighteen hundred and fifty-five, three thousand dollars.
+  - For last of fifteen instalments for support of two smiths and smiths’ shops, per third article treaty twenty-second February, eighteen hundred and fifty-five, two thousand dollars.
+  - For the last of ten instalments for pay of an engineer to grist and sawmill at Leech Lake, per third article treaty twenty-second February, eighteen hundred and fifty-five, six hundred dollars.
+- *Chippewas of the Mississippi, Pillager, and Lake Winnebagoshish Bands of Chippewa Indians in Minnesota.—*
+  - For sixth of ten instalments to furnish said Indians with ten yoke of good work oxen, twenty log-chains, two hundred grubbing hoes, ten ploughs, ten grindstones, one hundred axes, (handled,) twenty spades, and other farming implements, per fifth article treaty May seventh, eighteen hundred and sixty-four, one thousand five hundred dollars.
+  - For the employment of two carpenters, one thousand eight hundred dollars, and two blacksmiths, one thousand eight hundred dollars; four farm laborers, two thousand four hundred dollars; one physician, one thousand two hundred dollars, and medicine for the sick, five hundred dollars, per fifth article treaty May seventh, eighteen hundred and sixty-four, seven thousand seven hundred dollars.
+  - For this amount to be applied towards the support of a saw-mill to be built for the common use of the Chippewas of Mississippi, and the Red Lake and Pembina bands of Chippewas, so long as the President may deem it necessary, per sixth article treaty May seventh, eighteen hundred and sixty-four, one thousand dollars.
+  - For pay of services and travelling expenses of a board of visitors, to consist of not more than three persons, to attend the annuity payments to the Indians, and to inspect the fields, buildings, mills, and other improvements, as stipulated in the seventh article treaty May seventh, eighteen hundred and sixty-four, not exceeding any one year more than twenty days’ service, at five dollars per day, or more than three hundred miles’ travel, at ten cents per mile, four hundred and eighty dollars.
+  - For pay of female teachers employed on the reservations to instruct Indian girls in domestic economy, one thousand dollars.
+- *Chippewas of Red Lake and Pembina Tribe of Chippewas.—*
+  - For this amount as annuity to be paid per capita to the Red Lake band of Chippewas during the pleasure of the President, per third article treaty second October, eighteen hundred and sixty-three, and second article supplementary to treaty twelfth April, eighteen hundred and sixty-four, ten thousand dollars.
+  - For this amount to the Pembina band of Chippewas, during the pleasure of the President, per same treaty, five thousand dollars.
+  - For sixth of fifteen instalments for the purpose of supplying the Red Lake band of Chippewas with gilling twine, cotton matter, calico, linsey, blankets, sheeting, flannels, provisions, farming tools, and for such other useful articles, and for such other useful purposes as may be deemed for their best interests, per third article supplementary treaty of twelfth April, eighteen hundred and sixty-four, eight thousand dollars.
+  - For the sixth of fifteen instalments for same objects for Pembina band of Chippewas, per same treaty, four thousand dollars.
+  - For sixth of fifteen instalments for pay of one blacksmith, one physician, who shall furnish medicine for the sick, one miller, and one farmer, per fourth article of same treaty, three thousand five hundred dollars.
+  - For sixth of fifteen instalments for the purchase of iron and steel and other articles for blacksmithing purposes, per same treaty as above, one thousand five hundred dollars.
+  - For sixth of fifteen installments, to be expended for carpentering and other purposes, per same treaty, one thousand dollars.
+  - For sixth of fifteen instalments, to defray expenses of a board of visitors, to consist of not more than three persons, to attend the annuity payments of the said Indians, three hundred and ninety dollars.
+  - For insurance and transportation of annuity goods and provisions, and iron and steel for blacksmiths, for the Chippewas of Red Lake and Pembina tribe, five thousand dollars.
+- *Chickasaws.—* For permanent annuity in goods, per act twenty-fifth February, seventeen hundred and ninety-nine, for the fiscal year ending June thirtieth, eighteen hundred and sixty-nine, and for the fiscal year ending June thirtieth, eighteen hundred and seventy, six thousand dollars.
+- *Choctaws.—*
+  - For permanent annuity, per second article treaty sixteenth November, eighteen hundred and five, and thirteenth article treaty twenty-second June, eighteen hundred and fifty-five, three thousand dollars.
+  - For permanent annuity for support of light horsemen, six hundred dollars.
+  - For permanent annuity for support of blacksmith, per sixth article treaty eighteenth October, eighteen hundred and twenty, ninth article treaty January twentieth, eighteen hundred and twenty-five, and thirteenth article treaty twenty-second June, eighteen hundred and fifty-five, six hundred dollars.
+  - For permanent annuity for education, per second article treaty twentieth January, eighteen hundred and twenty-five, and thirteenth article treaty twenty-second June, eighteen hundred and fifty-five, six thousand dollars.
+  - For permanent annuity for iron and steel, per ninth article treaty twentieth January, eighteen hundred and twenty-five, and thirteenth article of treaty twenty-second June, eighteen hundred and fifty-five, three hundred and twenty dollars.
+  - For interest on three hundred and ninety thousand two hundred and fifty-seven dollars and ninety-two cents, at five per centum per annum, for education, support of the government, and other beneficial purposes, under the direction of the general council of the Choctaws, in conformity with the provisions contained in the tenth and thirteenth articles of the treaty of twenty-second June, eighteen hundred and fifty-five, nineteen thousand five hundred and twelve dollars and eighty-nine cents: Provided, That it shall be the duty of the Secretary of the Interior to sell a sufficient amount of the bonds of the United States held in trust for the Choctaw Indians to enable him to pay the amount of the awards heretofore approved by him in favor of Joseph G. Heald and Reuben Wright under the provisions of the fiftieth article of the treaty concluded with the Choctaw and Chickasaw Indians on the twenty-eighth day of April, eighteen hundred and sixty-six.
+- *Confederated Tribes and Bands of Indians in Middle Oregon.—*
+  - For last of five instalments, second series, for beneficial objects, at the discretion of the President, per second article treaty twenty-fifth June, eighteen hundred and fifty-five, six thousand dollars.
+  - For tenth of fifteen instalments for pay and subsistence of one farmer, one blacksmith, and one wagon and plough maker, per fourth article treaty twenty-fifth June, eighteen hundred and fifty-five, three thousand five hundred dollars.
+  - For tenth of twenty instalments for pay and subsistence of one physician, one sawyer, one miller, one superintendent of farming operations, and one school-teacher, per fourth article treaty twenty-fifth June, eighteen hundred and fifty-five, five thousand six hundred dollars.
+  - For tenth of twenty instalments for salary of the head chief of said confederated bands, per fourth article treaty twenty-fifth June, eighteen hundred and fifty-five, five hundred dollars.
+- *Creeks.—*
+  - For permanent annuity in money, per fourth article treaty seventh August, seventeen hundred and ninety, and fifth article treaty seventh August, eighteen hundred and fifty-six, one thousand five hundred dollars.
+  - For permanent annuity in money, per second article treaty sixteenth June, eighteen hundred and two, and fifth article treaty seventh August, eighteen hundred and fifty-six, three thousand dollars.
+  - For permanent annuity in money, per fourth article treaty twenty-fourth January, eighteen hundred and twenty-six, and fifth article treaty seventh August, eighteen hundred and fifty-six, twenty thousand dollars.
+  - For permanent annuity for blacksmith and assistant, and for shop and tools, per eighth article treaty twenty-fourth January, eighteen hundred and twenty-six, and fifth article treaty seventh August, eighteen hundred and fifty-six, eight hundred and forty dollars.
+  - For permanent annuity for iron and steel for shop, per eighth article treaty twenty-fourth January, eighteen hundred and twenty-six, and fifth article treaty seventh August, eighteen hundred and fifty-six, two hundred and seventy dollars.
+  - For permanent annuity for the pay of a wheelwright, per eighth article treaty twenty-fourth January, eighteen hundred and twenty-six, and fifth article treaty seventh August, eighteen hundred and fifty-six, six hundred dollars.
+  - For blacksmith and assistant and for shop and tools, during the pleasure of the President, per fifth article treaty fourteenth February, eighteen hundred and thirty-three, and fifth article treaty seventh August, eighteen hundred and fifty-six, eight hundred and forty dollars.
+  - For iron and steel for shop during the pleasure of the President, per fifth article treaty fourteenth February, eighteen hundred and thirty-three, and fifth article treaty seventh August, eighteen hundred and fifty-six, three hundred and seventy dollars.
+  - For wagon-maker, during the pleasure of the President, per fifth article treaty February fourteenth, eighteen hundred and thirty-three, and fifth article treaty August seventh, eighteen hundred and fifty-six, six hundred dollars.
+  - For assistance in agricultural operations, during the pleasure of the President, per eighth article treaty January twenty-fourth, eighteen hundred and twenty-six, and fifth article treaty August seventh, eighteen hundred and fifty-six, two thousand dollars.
+  - For education, during the pleasure of the President, per fifth article treaty February fourteenth, eighteen hundred and thirty-three, and fifth article treaty August seventh, eighteen hundred and fifty-six, one thousand dollars.
+  - For five per centum interest on two hundred thousand dollars for purposes of education, per sixth article treaty seventh August, eighteen hundred and fifty-six, ten thousand dollars.
+  - For interest on seven hundred and seventy-five thousand one hundred and sixty-eight dollars, at the rate of five per centum per annum, to be expended under the direction of the Secretary of the Interior, under provisions of third article treaty June fourteenth, eighteen hundred and sixty-six, thirty-eight thousand seven hundred and fifty-eight dollars and forty cents.
+  - For transportation of such articles as may be purchased for the Creek nation, under treaty of June fourteenth, eighteen hundred and sixty-six, two thousand dollars.
+  - For this amount required to pay the expenses of taking a census and investigating the claims of loyal refugee Indians and freedmen, per fourth article treaty June fourteenth, eighteen hundred and sixty-six, fifteen hundred dollars.
+- *Crows.—* For first of thirty instalments to supply male persons over fourteen years of age with a suit of good substantial woollen clothing, consisting of coat, hat, pantaloons, flannel shirts, and woollen socks, per ninth article treaty of May seventh, eighteen hundred and sixty-eight, for the fiscal year ending June thirtieth, eighteen hundred and seventy, ten thousand dollars. For first of thirty instalments to supply each female over twelve years of age with a flannel skirt or the goods necessary to make the same, a pair of woollen hose, twelve yards of calico, and twelve yards cotton domestic, per ninth article treaty of May seventh, eighteen hundred and sixty-eight, for the fiscal year ending June thirtieth, eighteen hundred and seventy, five thousand dollars. For first of thirty instalments to supply the boys and girls under the ages named such flannel and cotton goods as may be needed to make each a suit as aforesaid, together with a pair of woollen hose for each, per ninth article treaty of May seventh, eighteen hundred and sixty-eight, for the fiscal year ending June thirtieth, eighteen hundred and seventy, four thousand five hundred dollars. For the first of ten instalments to be used by the Secretary of the Interior in the purchase of such articles as from time to time the condition and necessities of the Indians may indicate to be proper, the sum of ten dollars for each Indian roaming, (one thousand nine hundred and fifty-three souls,) per ninth article treaty of May seventh, eighteen hundred and sixty-eight, for the fiscal year ending June thirtieth, eighteen hundred and seventy, nineteen thousand five hundred and thirty dollars. For the construction of school-house or mission building, per third article treaty of May seventh, eighteen hundred and sixty-eight, two thousand five hundred dollars. For the erection of a steam circular saw-mill, with a grist-mill and shingle-machine attached, per third article treaty May seventh, eighteen hundred and sixty-eight, eight thousand dollars. For pay of carpenter, farmer, blacksmith, miller, and engineer, per tenth article treaty May seventh, eighteen hundred and sixty-eight, five thousand two hundred dollars. For construction of a warehouse or store-room for the use of the agent in storing goods belonging to the Indians, per third article of the treaty of May seventh, eighteen hundred and sixty-eight, two thousand five hundred dollars. For the construction of an agency building, per same article of same treaty, two thousand dollars. For the building of a residence for a physician to said Indians, per same article of same treaty, two thousand dollars. For the construction of five buildings for carpenter, farmer, blacksmith, miller, and engineer, at fifteen hundred dollars each, per same article of same treaty, seven thousand five hundred dollars.
+- *Delawares.—*
+  - For life-annuity to chief, per private article to supplemental treaty twenty-fourth September, eighteen hundred and twenty-nine, to treaty of third October, eighteen hundred and eighteen, one hundred dollars.
+  - For interest on forty-six thousand and eighty dollars, at five per centum, being the value of thirty-six sections of land set apart by treaty of eighteen hundred and twenty-nine for education, per Senate resolution January nineteen, eighteen hundred and thirty-eight, and fifth article treaty of May sixth, eighteen hundred and fifty-six [four], two thousand three hundred and four dollars.
+- *D’Wamish and other allied Tribes in Washington Territory.—*
+  - For tenth instalment on one hundred and fifty thousand dollars, under the direction of the President, per sixth article treaty twenty-second January, eighteen hundred and fifty-five, seven thousand five hundred dollars.
+  - For tenth of twenty instalments for the establishment and support of an agricultural and industrial school, and to provide said school with a suitable instructor or instructors, per fourteenth article treaty twenty-second January, eighteen hundred and fifty-five, three thousand dollars.
+  - For tenth of twenty instalments for the establishment and support of a smith and carpenter shop, and to furnish them with the necessary tools, per fourteenth article treaty twenty-second January, eighteen hundred and fifty-five, five hundred dollars.
+  - For tenth of twenty instalments for the employment of a blacksmith, carpenter, farmer, and physician, who shall furnish medicines for the sick, per fourteenth article treaty twenty-second January, eighteen hundred and fifty-five, three thousand six hundred dollars.
+- *Flatheads and other confederated Tribes.—*
+  - For the first of five instalments on one hundred and twenty thousand dollars, being the third series, for beneficial objects, at the discretion of the President, per fourth article treaty sixteenth July, eighteen hundred and fifty-five, four thousand dollars.
+  - For tenth of twenty instalments for the support of an agricultural and industrial school, keeping in repair the buildings, and providing suitable furniture, books, and stationery, per fifth article treaty sixteenth July, eighteen hundred and fifty-five, three hundred dollars.
+  - For tenth of twenty instalments for providing suitable instructors therefor, per fifth article treaty sixteenth July, eighteen hundred and fifty-five, one thousand eight hundred dollars.
+  - For tenth of twenty instalments for keeping in repair blacksmiths’, tin and gunsmiths’, carpenters’, and wagon and plough-makers’ shops, and providing necessary tools therefor, per fifth article treaty sixteenth July, eighteen hundred and fifty-five, five hundred dollars.
+  - For tenth of twenty instalments for the employment of two farmers, two millers, one blacksmith, one tanner, one gunsmith, one carpenter, and one wagon and plough maker, per fifth article treaty sixteenth July, eighteen hundred and fifty-five, seven thousand four hundred dollars.
+  - For tenth of twenty instalments for keeping in repair saw and flouring mills, and for furnishing the necessary tools and fixtures therefor, per fifth article treaty sixteenth July, eighteen hundred and fifty-five, five hundred dollars.
+  - For tenth of twenty instalments for keeping in repair the hospital and providing the necessary medicines and furniture therefor, per fifth article treaty sixteenth July, eighteen hundred and fifty-five, three hundred dollars.
+  - For tenth of twenty instalments for pay of a physician, per fifth article treaty sixteenth July, eighteen hundred and fifty-five, one thousand four hundred dollars.
+  - For tenth of twenty instalments for keeping in repair the buildings required for the various employees and furnishing necessary furniture therefor, per fifth article treaty sixteenth July, eighteen hundred and fifty-five, three hundred dollars.
+  - For tenth of twenty instalments for the pay of each of the head chiefs of the Flathead, Kootenay, and Upper Pend d’Oreilles tribes, per fifth article treaty sixteenth July, eighteen hundred and fifty-five, fifteen hundred dollars.
+  - For insurance and transportation of annuity goods and provisions, per fifth article treaty of sixteenth July, eighteen hundred and sixty-five, four thousand dollars.
+- *Iowas.—* For interest in lieu of investment on fifty-seven thousand five hundred dollars, balance of one hundred and fifty-seven thousand five hundred dollars, to the first of July, eighteen hundred and sixty-nine, at five per centum per annum, for education or other beneficial purposes, under the direction of the President, per ninth article of treaty of May seventeenth, eighteen hundred and fifty-four, two thousand eight hundred and seventy-five dollars.
+- *Kansas.—* For interest in lieu of investment on two hundred thousand dollars, at five per centum per annum, per second article treaty of January fourteen, eighteen hundred and forty-six, ten thousand dollars.
+- *Kickapoos.—*
+  - For sixteenth instalment of interest, at five per centum, on one hundred thousand dollars, for educational and other beneficial purposes, as per second article treaty May eighteen, eighteen hundred and fifty-four, five thousand dollars.
+  - For sixteenth instalment on two hundred thousand dollars, to be paid in eighteen hundred and seventy, per second article treaty eighteenth May, eighteen hundred and fifty-four, seven thousand dollars.
+- *Klamath and Modoc Indians.—*
+  - For fourth of five instalments, to be applied under direction of the President, as per second article treaty of October fourteenth, eighteen hundred and sixty-four, eight thousand dollars.
+  - For third of twenty instalments for keeping in repair one saw-mill, one flouring-mill, buildings for the blacksmith, carpenter, and wagon and plough-maker, the manual-labor school, and hospital, as per fourth article treaty of October fourteenth, eighteen hundred and sixty-four, one thousand dollars.
+  - For fourth of twenty instalments for the purchase of tools and materials for saw and flour mills, carpenter, blacksmith, wagon and plough makers’ shops, and books and stationery for the manual-labor school, as per fourth article treaty of October fourteenth, eighteen hundred and sixty-four, one thousand five hundred dollars.
+  - For fourth of fifteen instalments for pay and subsistence of one superintendent of farming, one farmer, one blacksmith, one sawyer, one carpenter, and one wagon and plough maker, as per fifth article treaty of October fourteenth, eighteen hundred and sixty-four, six thousand dollars.
+  - For fourth of twenty instalments to pay salary and subsistence of one physician, one miller, and two school-teachers, as per fifth article treaty of October fourteenth, eighteen hundred and sixty-four, three thousand six hundred dollars.
+- *Makah Tribe.—*
+  - For last of four instalments of thirty thousand dollars, (being the fourth series,) under direction of the President, as per fifth article of treaty of January thirty-first, eighteen hundred and fifty-five, one thousand five hundred dollars.
+  - For tenth of twenty instalments for support of a smith and carpenter’s shop, and to provide the necessary tools therefor, per eleventh article treaty thirty-first January, eighteen hundred and fifty-five, five hundred dollars.
+  - For tenth of twenty instalments for the support of an agricultural and industrial school, and for pay of teachers, per eleventh article treaty thirty-first January, eighteen hundred and fifty-five, two thousand dollars.
+  - For tenth of twenty instalments for the employment of a blacksmith, carpenter, farmer, and physician who shall furnish medicines for the sick, per eleventh article treaty thirty-first January, eighteen hundred and fifty-five, three thousand six hundred dollars.
+- *Menomonees.—*
+  - For fourteenth of fifteen instalments for pay of miller, per third article treaty twelfth May, eighteen hundred and fifty-four, six hundred dollars.
+  - For fourth of fifteen instalments of annuity upon two hundred and forty-two thousand six hundred and eighty-six dollars, for cession of lands, per fourth article treaty May twelfth, eighteen hundred and fifty-four, and Senate amendment thereto, sixteen thousand one hundred and seventy-nine dollars and six cents.
+- *Miamies of Kansas.—*
+  - For permanent provision for blacksmith and assistant and iron and steel for shop, per fifth article treaty sixth October, eighteen hundred and eighteen, and fourth article treaty June fifth, eighteen hundred and fifty-four, nine hundred and forty dollars.
+  - For permanent provision for miller, in lieu of gunsmith, per fifth article treaty sixth October, eighteen hundred and eighteen, fifth article treaty twenty-third October, eighteen hundred and thirty-four, and fourth article treaty fifth June, eighteen hundred and fifty-four, six hundred dollars.
+  - For interest on fifty thousand dollars, at five per centum, for educational purposes, per third article treaty fifth June, eighteen hundred and fifty-four, two thousand five hundred dollars.
+  - For tenth of twenty instalments upon two hundred thousand dollars, per third article treaty fifth June, eighteen hundred and fifty-four, seven thousand five hundred dollars.
+- *Miamies of Indiana.—* For interest on two hundred and twenty-one thousand two hundred and fifty-seven dollars and eighty-six cents, uninvested, at five per centum, per Senate’s amendment to fourth article treaty fifth June, eighteen hundred and fifty-four, eleven thousand and sixty-two dollars and eighty-nine cents.
+- *Miamies—Eel River.—*
+  - For permanent annuity in goods or otherwise, per fourth article treaty third August, seventeen hundred and ninety-five, five hundred dollars.
+  - For permanent annuity in goods or otherwise, per articles treaty twenty-first August, eighteen hundred and five, two hundred and fifty dollars.
+  - For permanent annuity in goods or otherwise, per third and separate article to treaty thirtieth September, eighteen hundred and nine, three hundred and fifty dollars.
+- *Molel Indians.—*
+  - For last of ten instalments for keeping in repair saw and flouring mills, and for the pay of necessary employees, the benefits of which to be shared alike by all the confederated bands, per second article treaty twenty-first December, eighteen hundred and fifty-five, one thousand five hundred dollars.
+  - For last of ten instalments for pay of a carpenter and joiner to aid in erecting buildings and making furniture for said Indians, and to furnish tools in in said service, per second article treaty twenty-first December, eighteen hundred and fifty-five, one thousand dollars.
+  - For pay of teachers to manual-labor school for all necessary materials therefor, and for the subsistence of the pupils, per second article treaty twenty-first December, eighteen hundred and fifty-five, twelve hundred dollars.
+- *Nisqually, Puyallup, and other Tribes and Bands of Indians.—*
+  - For fifteenth instalment, in part payment for relinquishment of title to lands, to be applied to beneficial objects, per fourth article treaty twenty-sixth December, eighteen hundred and fifty-four, one thousand two hundred dollars.
+  - For fifteenth of twenty instalments for pay of instructor, smith, physician, who shall furnish medicine for the sick, carpenter, and farmer, per tenth article treaty twenty-sixth December, eighteen hundred and fifty-four, five thousand dollars.
+  - For fifteenth of twenty instalments for the support of an agricultural and industrial school, and support of smith and carpenter shop, and providing the necessary tools therefor, in conformity with tenth article of the treaty of December twenty-sixth, eighteen hundred and fifiy-four, fifteen hundred dollars.
+- *Navajoes.—*
+  - For such articles of clothing, or raw materials in lieu thereof, for eight thousand Navajoe Indians, not exceeding five dollars each Indian, in conformity with eighth article treaty June first, eighteen hundred and sixty-eight, forty thousand dollars.
+  - For seeds, farming implements, work cattle, and other stock for fourteen hundred families, in conformity with seventh article of above-named treaty, one hundred and forty thousand dollars.
+  - For survey of the Navajoe Indian reservation, in conformity with fifth article treaty of June first, eighteen hundred and sixty-eight, thirty-six thousand two hundred and twenty dollars.
+  - For insurance and transportation for the fiscal year ending June thirtieth, eighteen hundred and seventy, fifteen thousand dollars.
+  - For deficiency in the appropriation for amount of deficiency expended in subsisting the Navajoes at the Bosque Redondo, according to the contract made by Theodore H. Dodd, from the twenty-second of May, eighteen hundred and sixty-eight, until their removal to their old homes, one thousand one hundred and fifty-five dollars and ninety cents.
+- *Sissiton and Warpeton.—* For survey of reservation for the Sissiton and Warpeton bands of Dakota or Sioux Indians, as per third, fourth, and fifth articles of the treaty with said Indians of February nineteen, eighteen hundred and sixty-seven, forty-five thousand dollars, or so much thereof as may be necessary.
+- *Nez Perce Indians.—*
+  - For last of five instalments of second series for beneficial objects, at the discretion of the President, per fourth article treaty of June eleventh, eighteen hundred and fifty-five, eight thousand dollars.
+  - For tenth of twenty instalments for the support of two schools, one of which schools to be an agricultural and industrial school, keeping in repair school buildings, and for providing suitable furniture, books, and stationery, per fifth article treaty eleventh June, eighteen hundred and fifty-five, five hundred dollars.
+  - For tenth of twenty instalments for the employment of one superintendent of teaching and two teachers, per fifth article treaty eleventh June, eighteen hundred and fifty-five, three thousand two hundred dollars.
+  - For tenth of twenty instalments for keeping in repair blacksmiths’, tinsmiths’, gunsmiths’, carpenters’, and wagon and plough makers’ shops, and for providing necessary tools therefor, per fifth article treaty eleventh June, eighteen hundred and fifty-five, five hundred dollars.
+  - For tenth of twenty instalments for the employment of one superintendent of farming, and two farmers, two millers, two blacksmiths, one tinner, one gunsmith, one carpenter, and one wagon and plough maker, per fifth article treaty eleventh June, eighteen hundred and fifty-five, eight thousand five hundred dollars.
+  - For tenth of twenty instalments for keeping in repair saw and flouring mill, and for furnishing the necessary tools and fixtures therefor, per fifth article treaty eleventh June, eighteen hundred and fifty-five, five hundred dollars.
+  - For tenth of twenty instalments for keeping in repair the hospital, and providing the necessary medicines and furniture therefor, per fifth article treaty eleventh June, eighteen hundred and fifty-five, three hundred dollars.
+  - For tenth of twenty instalments for pay of a physician, per fifth article treaty eleventh June, eighteen hundred and fifty-five, one thousand two hundred dollars.
+  - For tenth of twenty instalments for keeping in repair the buildings for the various employees, and for providing the necessary furniture therefor, per fifth article treaty eleventh June, eighteen hundred and fifty-five, two hundred dollars.
+  - For tenth of twenty instalments for the salary of such person as the tribe may select to be their head chief, per fifth article treaty eleventh June, eighteen hundred and fifty-five, five hundred dollars.
+  - For last of four instalments to enable the Indians to remove and locate upon the reservation, to be expended in ploughing land and fencing lots, as per first clause fourth article treaty of June ninth, eighteen hundred and sixty-three, fifteen thousand dollars.
+  - For fourth of the sixteen instalments for boarding and clothing the children who shall attend the schools, providing the schools and boardinghouses with necessary furniture, the purchase of necessary wagons, teams, agricultural implements, tools, and so forth, and for fencing of such lands as may be needed for gardening and farming purposes for the schools, as per fourth clause fourth article treaty of June nine, eighteen hundred and sixty-three, three thousand dollars.
+  - For salary of two subordinate chiefs, as per fifth article treaty of June nine, eighteen hundred and sixty-three, five hundred dollars each.
+  - For third of fifteen instalments to keep the blacksmith’s shop in repair and stocked with the necessary tools and materials, per fifth article treaty June ninth, eighteen hundred and sixty-three, five hundred dollars.
+  - For third of fifteen instalments for repairs of houses, mills, shops, and so forth, and providing the necessary furniture, tools, and materials, as per fifth article treaty June ninth, eighteen hundred and sixty-three, two thousand dollars. ,
+  - For salary of two matrons to take charge of the boarding-schools, two assistant teachers, one farmer, one carpenter, and two millers, as per fifth article treaty of June ninth, eighteen hundred and sixty-three, seven thousand six hundred dollars.
+- *Omahas.—*
+  - For the second of fifteen instalments of this amount, being third of series, in money or otherwise, per fourth article treaty sixteenth March, eighteen hundred and fifty-four, twenty thousand dollars.
+  - For fourth of ten installments for keeping in repair a grist and saw mill, and support of blacksmith shop, per eighth article treaty March sixteenth, eighteen hundred and fifty-four, and third article treaty March sixth, eighteen hundred and sixty-five, three hundred dollars.
+  - For pay of one engineer, twelve hundred dollars.
+  - For fourth of ten instalments for pay of one miller, per same treaties, nine hundred dollars.
+  - For fourth of ten instalments for pay of one farmer, per same treaties, seven hundred and twenty dollars.
+  - For fourth of ten instalments for pay of blacksmith, per same treaties, seven hundred and fifty dollars.
+- *Osages.—*
+  - For interest on sixty-nine thousand one hundred and twenty dollars, at five per centum per annum, being value of fifty-four sections of land set apart by said treaty for educational purposes, three thousand four hundred and fifty-six dollars.
+  - For interest on three hundred thousand dollars, at five per centum per annum, to be paid semiannually, in money or such articles as the Secretary of the Interior may direct, as per first article treaty of September twenty-nine, eighteen hundred and sixty-five, fifteen thousand dollars.
+  - For transportation of goods, provisions, and so forth, purchased for the Great and Little Osage Indians, or so much thereof as may be necessary, three thousand five hundred dollars.
+- *Ottawas and Chippewas of Michigan.—*
+  - For second of four equal annual instalments in coin of the sum of two hundred and six thousand dollars, being the unpaid part of the principal sum of three hundred and six thousand dollars, to be distributed per capita, in the usual manner of paying annuities, per third [second] article of the treaty of thirty-first July, eighteen hundred and fifty-five, fifty-one thousand five hundred dollars.
+  - For interest on one hundred and three thousand dollars, at five per centum, being the balance of two hundred and six thousand dollars, for the fiscal year ending June thirty, eighteen hundred and seventy, five thousand one hundred and fifty dollars.
+- *Ottoes and Missourias.—* For second of fifteen instalments, being the third series, in money or otherwise, per fourth article treaty fifteenth March, eighteen hundred and fifty-four, nine thousand dollars.
+- *Pawnees.—*
+  - For perpetual annuity, at least one half of which to be in goods and such articles as may be deemed necessary for them, per second article treaty twenty-fourth September, eighteen hundred and fifty-seven, thirty thousand dollars.
+  - For support of two manual-labor schools, during the pleasure of the President, per third article treaty September twenty-fourth, eighteen hundred and fifty-seven, ten thousand dollars.
+  - For purchase of iron and steel and other necessaries for the shops, during the pleasure of the President, per same treaty, five hundred dollars.
+  - For pay of two blacksmiths, one of whom shall be a gunsmith and tinsmith, per same treaty, twelve hundred dollars.
+  - For pay of two strikers or apprentices in blacksmith’s shop, per same treaty, four hundred and eighty dollars.
+  - For the purchase of farming utensils and stock, during the pleasure of the President, per same treaty, twelve hundred dollars.
+  - For pay of farmer, per same treaty, six hundred dollars.
+  - For pay of miller, at the discretion of the President, per same treaty, six hundred dollars.
+  - For pay of an engineer, at the discretion of the President, per same treaty, twelve hundred dollars.
+  - For pay of apprentices to assist in working the mill, per same treaty, five hundred dollars.
+  - For keeping in repair the grist and saw mills, per same treaty, three hundred dollars.
+- *Poncas.—*
+  - For the sixth of ten instalments of the second series, “to be paid to them or expended for their benefit,” per second article treaty twelfth March, eighteen hundred and fifty-eight, ten thousand dollars.
+  - For this amount, to be expended during the pleasure of the President in furnishing such aid and assistance in agricultural and mechanical pursuits provided for in the first part of the second article of treaty of March twelfth, eighteen hundred and fifty-eight, as the Secretary of the Interior may consider advantageous and necessary, seven thousand five hundred dollars.
+- *Pottawatomies.—*
+  - For permanent annuity in silver, per fourth article treaty third August, seventeen hundred and ninety-five, seven hundred and twenty-four dollars and seventy-seven cents.
+  - For permanent annuity in silver, per third article treaty thirtieth September, eighteen hundred and nine, three hundred and sixty-two dollars and thirty-nine cents.
+  - For permanent annuity in silver, per third article treaty second October, eighteen hundred and eighteen, one thousand eight hundred and eleven dollars and ninety-three cents.
+  - For permanent annuity in money, per second article treaty twentieth September, eighteen hundred and twenty-eight, one thousand four hundred and forty-nine dollars and fifty-four cents.
+  - For permanent annuity in specie, per second article treaty twenty-ninth July, eighteen hundred and twenty-nine, eleven thousand five hundred and ninety-six dollars and thirty-three cents.
+  - For life-annuity to chief, per third article treaty twentieth October, eighteen hundred and thirty-two, two hundred dollars.
+  - For life-annuity to chiefs, per third article treaty twenty-sixth September, eighteen hundred and thirty-three, seven hundred dollars : Provided, That satisfactory evidence shall be shown to the Secretary of the Interior that the chief or chiefs provided for by said articles are still living.
+  - For education, during the pleasure of Congress, per third article treaty of October sixteenth, eighteen hundred and twenty-six, second article treaty September twentieth, eighteen hundred and twenty-eight, and fourth article treaty October twenty-seventh, eighteen hundred and thirty-two, five thousand dollars.
+  - For permanent provision for the payment of money in lieu of tobacco, iron, and steel, per second article treaty twentieth September, eighteen hundred and twenty-eight, and tenth article of the treaty of the fifth and seventeenth June, eighteen hundred and forty-six, two hundred and seventeen dollars and forty-three cents.
+  - For permanent provision for three blacksmiths and assistants, and for iron and steel for shops, per third article treaty sixteenth October, eighteen hundred and twenty-six, second article treaty twentieth September, eighteen hundred and twenty-eight, and second article treaty twenty-ninth July, eighteen hundred and twenty-nine, two thousand and forty-two dollars and ninety-four cents.
+  - For permanent provision for fifty barrels of salt, per second article of treaty twenty-ninth July, eighteen hundred and twenty-nine, three hundred and seventeen dollars and nine cents.
+  - For interest on four hundred and sixty-six thousand and twenty-seven dollars and forty-eight cents, at five per centum, in conformity with seventh article treaty of June fifth and seventeenth, eighteen hundred and forty-six, twenty-three thousand three hundred and one dollars and thirty-seven cents.
+  - To enable the President to carry out the provisions of the third article of the treaty of November fifteen, eighteen hundred and sixty-one, with the Pottawatomie Indians, as modified by the treaty of March twenty-nine, eighteen hundred and sixty-six, by paying to certain members of said tribe who have elected to become citizens in accordance with said treaties, the proportion of the cash value of the Pottawatomie annuities to which they may be entitled, the sum of two hundred and thirty-three thousand one hundred and sixty-three dollars and eighty cents, in currency, and the sum of one hundred and twenty-three thousand six hundred and ninety-nine dollars and seventy-three cents, in gold, to be paid out of the funds belonging to said tribe of Indians, or so much of said sum as may be necessary to pay the members of said tribe who have actually withdrawn from their tribal relations, and under said treaties have become citizens of the United States, be, and the same are hereby, appropriated : Provided, That no part of said money due or belonging to minor children shall be paid to them, or to any person for them, until such children shall have attained the age of twenty-one years : And provided further, That before the President shall cause any money to be paid out of this appropriation, or any patents to be issued, he shall cause evidence to be taken, and shall be satisfied that the recipients are entitled to the same under the aforesaid treaties, and he may require the Secretary of the Interior to cause to be sold such proportion of the bonds held by him in trust for said Indians as may be necessary to comply with said provisions.
+- *Pottawatomies of Huron.—* For permanent annuity in money or otherwise, per second article treaty of seventeenth November, eighteen hundred and seven, four hundred dollars.
+- *Quapaws.—*
+  - For education, during the pleasure of the President, per third article treaty thirteenth May, eighteen hundred and thirty-three, one thousand dollars.
+  - For blacksmith and assistant, and tools, and iron and steel for shop, during the pleasure of the President, per third article treaty thirteenth May, eighteen hundred and thirty-three, one thousand and sixty dollars.
+  - For farmer, during the pleasure of the President, per third article treaty thirteenth May, eighteen hundred and thirty-three, six hundred dollars.
+- *Qui-nai-elt and Quil-leh-ute Indians.—*
+  - For the last of four instalments on twenty-five thousand dollars (being the fourth series) for beneficial objects, under the direction of the President, per fourth article treaty first of July, eighteen hundred and fifty-five, one thousand three hundred dollars.
+  - For tenth of twenty instalments for the support of an agricultural and industrial school, and pay of suitable instructors, per tenth article treaty first July, eighteen hundred and fifty-five, two thousand five hundred dollars.
+  - For tenth of twenty instalments for support of smith and carpenter shop, and to provide the necessary tools therefor, per tenth article treaty first July, eighteen hundred and fifty-five, five hundred dollars.
+  - For tenth of twenty instalments for the employment of a blacksmith, carpenter, and farmer, and a physician who shall furnish medicines for the sick, per tenth article treaty first July, eighteen hundred and fifty-five, three thousand six hundred dollars.
+- *Rogue Rivers.—* For last of sixteen instalments in blankets, clothing, farming utensils, and stock, per third article treaty tenth September, eighteen hundred and fifty-three, two thousand five hundred dollars.
+- *Sacs and Foxes of Mississippi.—*
+  - For permanent annuity in goods or otherwise, per third article treaty third November, eighteen hundred and four, one thousand dollars.
+  - For interest on two hundred thousand dollars, at five per centum, per second article treaty twenty-first October, eighteen hundred and thirty-seven, ten thousand dollars.
+  - For interest on eight hundred thousand dollars, at five per centum, per second article treaty eleventh October, eighteen hundred and forty-two, forty thousand dollars.
+- *Sacs and Foxes of Missouri.—* For interest on one hundred and fifty-seven thousand four hundred dollars, at five per centum, under the direction of the President, per second article treaty twenty-first October, eighteen hundred and thirty-seven, seven thousand eight hundred and seventy dollars.
+- *Seminoles.—*
+  - For five per centum interest on two hundred and fifty thousand dollars, to be paid as annuity, per eighth article treaty seventh August, eighteen hundred and fifty-six, twelve thousand five hundred dollars.
+  - For interest on two hundred and fifty thousand dollars, at five per centum, to be paid as annuity, (they having joined their brethren west.) per eighth article treaty seventh August, eighteen hundred and fifty-six, twelve thousand five hundred dollars.
+  - For interest on fifty thousand dollars, at the rate of five per centum per annum, “to be paid annually for the support of schools,” as per third article treaty of March twenty-first, eighteen hundred and sixty-six, twenty-five hundred dollars.
+  - For interest on twenty thousand dollars, at the rate of five per centum per annum, “to be paid annually,” for the support of the Seminole government, as per third article treaty of March twenty-first, eighteen hundred and sixty-six, one thousand dollars.
+  - For this amount, being the interest on fifty thousand dollars from August sixteenth, eighteen hundred and sixty-six, the date of the ratification of the treaty made with the Seminoles, March twenty-one, eighteen hundred and sixty-six, to November twelve, eighteen hundred and sixty-eight, the date when the payment of said sum commenced, two years, two months, and twenty-six days, as per third article of treaty of March twenty-one, eighteen hundred and sixty-six, five thousand five hundred and ninety-seven dollars and twenty-one cents.
+- *Senecas.—*
+  - For permanent annuity in specie, per fourth article treaty twenty-ninth September, eighteen hundred and seventeen, five hundred dollars.
+  - For permanent annuity in specie, per fourth article treaty seventeenth September, eighteen hundred and eighteen, five hundred dollars.
+  - For blacksmith and assistant, shop and tools, iron or [and] steel, during the pleasure of the President, as per fourth article treaty of February twenty-eight, eighteen hundred and thirty-one, one thousand and sixty dollars.
+  - For miller, during the pleasure of the President, six hundred dollars.
+- *Senecas of New York.—*
+  - For permanent annuity, in lieu of interest on stock, per act of nineteenth February, eighteen hundred and thirty-one, six thousand dollars.
+  - For interest, in lieu of investment, on seventy-five thousand dollars, at five per centum, per act of twenty-seventh June, eighteen hundred and forty-six, three thousand seven hundred and fifty dollars.
+  - For interest, at five per centum, on forty-three thousand and fifty dollars, transferred from Ontario Bank to the United States treasury, per act of twenty-seventh June, eighteen hundred and forty-six, two thousand one hundred and fifty-two dollars and fifty cents.
+- *Senecas and Shawnees.—*
+  - For permanent annuity, in specie, per fourth article treaty seventeenth September, eighteen hundred and eighteen, one thousand dollars.
+  - For blacksmith and assistant, shop and tools, and iron and steel for shop, during the pleasure of the President, per fourth article treaty twentieth July, eighteen hundred and thirty-one, one thousand and sixty dollars.
+- *Shawnees.—*
+  - For permanent annuity for educational purposes, per fourth article treaty third August, seventeen hundred and ninety-five, and third article treaty tenth May, eighteen hundred and fifty-four, one thousand dollars.
+  - For permanent annuity, in specie, for educational purposes, per fourth article treaty twenty-ninth September, eighteen hundred and seventeen, and third article treaty tenth May, eighteen hundred and fifty-four, two thousand dollars.
+  - For interest, at five per centum, on forty thousand dollars, for educational purposes, per third article treaty tenth May, eighteen hundred and fifty-four, two thousand dollars.
+- *Shoshones.—Western Bands.—* For sixth of twenty instalments, to be expended, under the direction of the President in the purchase of such articles as he may deem suitable to their wants, either as hunters or herdsmen, per seventh article treaty October first, eighteen hundred and sixty-three, five thousand dollars.
+- *Eastern Bands.—* For sixth of twenty instalments, to be expended, under the direction of the President, in the purchase of such articles as he may deem suitable to their wants, either as hunters or herdsmen, per fifth article treaty July second, eighteen hundred and sixty-three, ten thousand dollars.
+- *Northwestern Bands.—* For sixth of twenty instalments, to be expended, under the direction of the President, in the purchase of such articles as he may deem suitable to their wants, either as hunters or herdsmen, per third article treaty July thirtieth, eighteen hundred and sixty-three, five thousand dollars.
+- *Goship Bands—* For sixth of twenty instalments, to be expended, under the direction of the President, in the purchase of such articles, including cattle for herding or other purposes, as he shall deem suitable for their wants and condition, either as huntsmen or herdsmen, per seventh article treaty October twelfth, eighteen hundred and sixty-three, one thousand dollars.
+- *Six Nations of New York.—* For permanent annuity in clothing and other useful articles, per sixth article treaty seventeenth [eleventh] November, seventeen hundred and ninety-four, four thousand five hundred dollars.
+- *S’Klallams.—*
+  - For last of four instalments on sixty thousand dollars, (being fourth series,) under the direction of the President, per fifth article treaty twenty-sixth January, eighteen hundred and fifty-five, three thousand dollars.
+  - For tenth of twenty instalments for the support of an agricultural and industrial school, and for pay for suitable teachers, per eleventh article treaty twenty-sixth October [January], eighteen hundred and fifty-five, one thousand five hundred dollars.
+  - For tenth of twenty instalments for the employment of a blacksmith, carpenter, farmer, and a physician, who shall furnish medicines for the sick, per eleventh article treaty twenty-sixth October [January], eighteen hundred and fifty-five, three thousand five hundred dollars.
+- *Tabeguache Band of Utah Indians.—*
+  - For sixth of ten instalments for the purchase of goods; under the direction of the Secretary of the Interior, per eighth article treaty of October seventh, eighteen hundred and sixty-three, and Senate amendment of March twenty-fifth, eighteen hundred and sixty-four, ten thousand dollars.
+  - For sixth of ten instalments, per eighth article of said treaty, for the purchase of provisions, under the direction of the Secretary of the Interior, ten thousand dollars.
+  - For the purchase of iron, steel, and necessary tools for blacksmith’s shop, as per tenth article of said treaty, two hundred and twenty dollars.
+  - For pay of blacksmith and assistant, as per same article of same treaty, one thousand one hundred dollars.
+  - For insurance, transportation, and general incidental expenses of the delivery of goods, provisions, and stock, as per same article of same treaty, three thousand dollars.
+- *Umpquas and Calapooias, of Umpqua Valley, Oregon.—*
+  - For last of five instalments of the third series of annuity for beneficial objects, to be expended as directed by the President, per third article treaty twenty-ninth November, eighteen hundred and fifty-four, one thousand seven hundred dollars.
+  - For last of fifteen instalments for the pay of a physician and purchase of medicines, per sixth article treaty twenty-ninth November, eighteen hundred and fifty-four, one thousand five hundred dollars.
+  - For the fifteenth of twenty instalments for the pay of a teacher and purchase of books and stationery, per sixth article treaty twenty-ninth November, eighteen hundred and fifty-four, one thousand four hundred and fifty dollars.
+- *Umpquas, (Cow Creek Band.)—* For sixteenth of twenty instalments in blankets, clothing, provisions, and stock, per third article treaty nineteenth September, eighteen hundred and fifty-three, five hundred and fifty dollars.
+- *Walla-Walla, Cayuse, and Umatilla Tribes.—*
+  - For last of five instalments of second series, to be expended under the direction of the President. per second article treaty ninth June, eighteen hundred and fifty-five, six thousand dollars.
+  - For tenth of twenty instalments for the purchase of all necessary millfixtures and mechanical tools, medicines and hospital stores, books and stationery for schools, and furniture for the employees, per fourth arti-cle treaty ninth June, eighteen hundred and fifty-two, [five] two thousand dollars.
+  - For tenth of twenty instalments for the pay and subsistence of one superintendent of farming operations, one farmer, two millers, one blacksmith, one wagon and plough maker, one carpenter and joiner, one physician, and two teachers, per fourth article treaty ninth June, eighteen hundred and fifty-five, eight thousand four hundred and fifty dollars.
+  - For tenth of twenty instalments for the pay of each of the head chiefs of the Walla-Walla, Cayuse, and Umatilla bands, the sum of five hundred dollars per annum, per fifth article treaty ninth June, eighteen hundred and fifty-five, fifteen hundred dollars.
+  - For tenth of twenty instalments for salary for the son of Pio-pio-mox-mox, per fifth article treaty ninth June, eighteen hundred and fifty-five, one hundred dollars.
+- *Winnebagoes.—*
+  - For interest on one million dollars, at five per centum, per fourth article treaty first November, eighteen hundred and thirty-seven, and joint resolution July seventeen, eighteen hundred and sixty-two, fifty thousand dollars.
+  - For twenty-third of thirty instalments of interest on eighty-five thousand dollars, at five per centum, per fourth article treaty thirteenth October, eighteen hundred and forty-six, four thousand two hundred and fifty dollars.
+- *Wall-pah-pe Tribe of Snake Indians.—* For third of five instalments, to be expended under the direction of the President, as per seventh article treaty of August twelfth, eighteen hundred and sixty-five, two thousand dollars.
+- *Yakama Nation.—*
+  - For last of five instalments of second series for beneficial objects, at the discretion of the President, per fourth article treaty ninth June, eighteen hundred and fifty-five, eight thousand dollars.
+  - For tenth of twenty instalments for the support of two schools, one of which is to be an agricultural and industrial school; keeping in repair school buildings, and for providing suitable furniture, books, and stationery, per fifth article treaty ninth June, eighteen hundred and fifty-five, five hundred dollars.
+  - For tenth of twenty instalments for the employment of one superintendent of teaching and two teachers, per fifth article treaty ninth June, eighteen hundred and fifty-five, three thousand two hundred dollars.
+  - For tenth of twenty instalments for the employment of one superintendent of farming and two farmers, two millers, two blacksmiths, one tinner, one gunsmith, one carpenter, and one wagon and plough maker, per fifth article treaty ninth June, eighteen hundred and fifty-five, eight thousand five hundred dollars.
+  - For tenth of twenty instalments for keeping in repair saw and flouring mills, and for furnishing the necessary tools and fixtures, per fifth article treaty ninth June, eighteen hundred and fifty-five, five hundred dollars.
+  - For tenth of twenty instalments for keeping in repair the hospital, and providing the necessary medicines and fixtures therefor, per fifth article treaty ninth June, eighteen hundred and fifty-five, three hundred dollars.
+  - For tenth of twenty instalments for keeping in repair blacksmiths’, tinsmiths’, gunsmiths’, carpenters’, and wagon and plough makers’ shops, and for providing necessary tools therefor, per fifth article treaty June ninth, eighteen hundred and fifty-five, five hundred dollars.
+  - For tenth of twenty instalments for the pay of a physician, per fifth article treaty ninth June, eighteen hundred and fifty-five, one thousand four hundred dollars.
+  - For tenth of twenty instalments for keeping in repair the buildings required for the various employees, and for providing the necessary furniture therefor, per fifth article treaty ninth June, eighteen hundred and fifty-five, three hundred dollars.
+  - For tenth of twenty instalments for the salary of such person as the said confederated tribes and bands of Indians may select to be their head chief, per fifth article treaty ninth June, eighteen hundred and fifty-five, five hundred dollars.
+- *Yancton Tribe of Sioux.—* For first of ten instalments (second series) to be paid to them or expended for their benefit, commencing with the year in which they shall remove to and settle and reside upon their reservation, per fourth article treaty nineteenth April, eighteen hundred and fifty-eight, forty thousand dollars : Provided, that no part of the moneys appropriated to pay annuities due the several tribes or bands of Indians named in this act shall be expended for any other articles of food, clothing, agricultural or mechanical implements than such as shall be agreed upon by the chiefs and headmen of said tribe, in a general council held for this purpose, the same to be estimated for by the local agent and certified by the superintendent of Indian affairs, except where otherwise provided by treaty stipulation.
+- *Senecas, mixed Senecas and Shawnees, Quapaws, confederate[d] Peorias, Kaskaskias, Weas, and Piankeshaws, Ottawas of Blanchard’s Fork and Roche de Bœuf, and certain Wyandottes.—*
+  - To pay for twenty thousand acres of land ceded to the government by the Senecas, per first article treaty February twenty-three, eighteen hundred and sixty-seven, twenty thousand dollars. .
+  - To pay for thirty thousand acres of land ceded to the government by the Senecas, per second article treaty February twenty-three, eighteen hundred and sixty-seven, twenty-four thousand dollars.
+- *Shawnees.—*
+  - For amount to be advanced to the Shawnees to be used in establishing their homes, per eighth article treaty February twenty-three, eighteen hundred and sixty-seven, two thousand dollars.
+  - For first of five instalments for blacksmith and assistant, shop and tools, and iron and steel for shop, per eighth article treaty February twenty-three, eighteen hundred and sixty-seven, five hundred dollars.
+- *Quapaws.—* For amount to be paid to the Quapaws to assist them in re-establishing themselves at their homes upon their remaining reservation, per ninth article treaty February twenty-three, eighteen hundred and sixty-seven, five thousand dollars.
+- *Claims for Losses by the War.—* To pay a commission, not to exceed two persons, to be appointed by the Secretary of the Interior, who shall proceed to the country of the Senecas, mixed Senecas and Shawnees, and Quapaws, and make careful in vestigations of their claims for losses, per twelfth article treaty February twenty-three, eighteen hundred and sixty-seven, four thousand dollars.
+- *Wyandott[e]s.—* To pay for the services of three persons, to be appointed by the Secretary of the Interior, to ascertain and report the amount of money, if any, due by the United States to said Indians under existing treaties, and so forth, per thirteenth article treaty February twenty-three, eighteen hundred and sixty-seven, three thousand dollars.
+- *Ottowas.—* To pay the claim of J. T. Jones, being for destruction by fire of his dwelling and other property by whites in eighteen hundred and fifty-six, per eighteenth article treaty February twenty-three, eighteen hundred and sixty-seven, six thousand seven hundred dollars.
+- *Peorias, Kaskaskias, Weas, and Piankeshaws.—*
+  - To amount to be paid per capita from the sum of one hundred and sixty-nine thousand six hundred and eighty-six dollars and seventy-five cents, invested for said Indians, per act of Congress July twelve, eighteen hundred and sixty-two, per twenty-fourth article treaty February twenty-three, eighteen hundred and sixty-seven, twenty-five thousand dollars.
+  - For this amount, to be taken from the invested fund of said Indians, and to be paid to the tribe per capita, to assist them in establishing themselves in their new homes, per twenty-fourth article treaty February twenty-three, eighteen hundred and sixty-seven, thirty thousand dollars.
+  - For this amount, being the balance of interest, at five per centum per month, on thirty-nine thousand nine hundred and fifty dollars held by the United States from July, eighteen hundred and fifty-seven, till vested in Kansas bonds in December, eighteen hundred and sixty-one, per twenty-fourth article treaty February twenty-three, eighteen hundred and sixty-seven, three thousand seven hundred dollars.
+  - For first of six instalments for pay of blacksmith, and for necessary iron and steel and tools, per twenty-seventh article treaty February [twenty-three], eighteen hundred and sixty-seven, fifteen hundred dollars.
+- *Sac and Fox Indians of the Mississippi.—*
+  - For amount necessary to pay to the Sac and Fox Indians, parties to this treaty, at the rate of one dollar per acre for one hundred and forty-seven thousand three hundred and ninety-three and thirty-two one-hundredth acres of land, (being the residue of one hundred and fifty-seven thousand acres ceded to the United States, after deducting the amount of land set apart for individuals,) per third article treaty February eighteen, eighteen hundred and sixty-seven, one hundred and forty-seven thousand three hundred and ninety-three dollars and thirty-two cents.
+  - For erection of a dwelling-house for the agent of said tribe, a house and shop for a blacksmith, and dwelling-house for a physician, per seventh article treaty February eighteen, eighteen hundred and sixty-seven, six thousand dollars.
+  - For first of five instalments for the support of a physician and purchase of medicines, per tenth article treaty February eighteen, eighteen hundred and sixty-seven, fifteen hundred dollars.
+  - For first of five instalments for supplying said tribe with tobacco and salt, per tenth article treaty February eighteen, eighteen hundred and sixty-seven, three hundred and fifty dollars.
+  - To pay the claim of the Sacs and Foxes against the United States for stealing of stock, per fifteenth article treaty February eighteen, eighteen hundred and sixty-seven, sixteen thousand four hundred dollars.
+  - For amount necessary to pay the expenses of negotiating this treaty, per nineteenth article treaty February eighteen, eighteen hundred and sixty-seven, fifteen hundred dollars.
+- *Tabequache, Muache, Capote, Weeminuche, Yampa, Grand River, and Uintah Bands of Ute [Indians.]—*
+  - For construction of a warehouse or storeroom at each of the agencies, for the use of the agent in storing goods belonging to the Indians, fifteen hundred dollars each, per fourth article treaty March two, eighteen hundred and sixty-eight, three thousand dollars.
+  - For erecting an agency building for the residence of the agent at each of the agencies, fifteen hundred dollars each, per fourth article treaty March two, eighteen hundred and sixty-eight, three thousand dollars.
+  - For the construction of two school-houses, as per fourth article treaty of March two, eighteen hundred and sixty-eight, six thousand dollars.
+  - For construction of four buildings, for carpenter, farmer, blacksmith and miller, at each of the agencies, fifteen hundred dollars each, per fourth article treaty March two, eighteen hundred and sixty-eight, twelve thousand dollars.
+  - For the erection on said reservation, near each agency, of a good water power saw-mill, with grist-mill and a shingle-machine attached, as per fourth article treaty of March two, eighteen hundred and sixty-eight sixteen thousand dollars, or so much thereof as may be necessary.
+  - For pay of two carpenters, two millers, two farmers, and one black smith, per fourth and fifteenth articles treaty March two, eighteen hundred and sixty-eight, five thousand two hundred and fifty dollars.
+  - For purchase of iron and steel, and the necessary tools for the black-smith shop, per ninth article treaty March two, eighteen hundred and sixty-eight, two hundred and twenty dollars.
+  - For first of thirty instalments, to be expended under the direction of the Secretary of the Interior, for clothes, blankets, and such other articles as he may think proper and necessary, per eleventh article treaty March two, eighteen hundred and sixty-eight, thirty thousand dollars.
+  - For annual amount to be expended, under the direction of the Secretary of the Interior, in supplying said Indians with beef, mutton, wheat, flour, beans, and potatoes, until such time as said Indians shall be found to be capable of sustaining themselves, per twelfth article treaty March two, eighteen hundred and sixty-eight, thirty thousand dollars.
+  - For this amount, to be expended under the direction of the Secretary of the Interior in providing each lodge or head of a family in said confederated bands with one gentle American cow, as distinguished from the ordinary Mexican or Texas breed, and five head of sheep, per thirteenth article treaty March two, eighteen hundred and sixty-eight, forty-five thousand dollars.
+
+## general incidental expenses of the indian service.
+
+- *Arizona.—* For the general incidental expenses of the Indian service in the Territory of Arizona, presents of goods, agricultural implements, and other useful articles, and to assist them to locate in permanent abodes, and sustain themselves by the pursuits of civilized life, to be expended under the direction of the Secretary of the Interior, seventy thousand dollars.
+- *California.—* For the general incidental expenses of the Indian service in California, including travelling expensed of superintending agents, five thousand dollars.
+- *Colorado Territory.—* For the general incidental expenses of the Indian service in Colorado Territory, presents of goods, agricultural implements, and other useful articles, and to assist them to locate in permanent abodes, and sustain themselves by the pursuits of civilized life, to be expended under the direction of the Secretary of the Interior, twenty-five thousand dollars.
+- *Dakota Territory.—* For the general incidental expenses of the Indian service in Dakota Territory, presents of goods, agricultural implements, and other useful articles, and to assist them to locate in permanent abodes, and sustain themselves by the pursuits of civilized life, to be expended under the direction of the Secretary of the Interior, fifteen thousand dollars.
+- *Idaho Territory.—*
+  - For the general incidental expenses of the Indian service in Idaho Territory, presents of goods, agricultural implements, and other useful articles, and to assist them to locate in permanent abodes, and sustain themselves by the pursuits of civilized life, to be expended under the direction of the Secretary of the Interior, fifteen thousand dollars.
+  - For this amount to pay the balance due on certain contracts made by D. W. Ballard, governor and ex-officio superintendent of Indian affairs for Idaho Territory, in July, eighteen hundred and sixty-seven, for subsistence, and so forth, for Indians in that Territory, eight thousand and forty-four dollars and seventy cents.
+- *Montana Territory.—* For the general incidental expenses of the Indian service in Montana Territory, presents of goods, agricultural implements, and other useful articles, and to assist them to locate in permanent abodes, and to sustain themselves by the pursuits of civilized life, to be expended under the direction of the Secretary of the Interior, fifteen thousand dollars.
+- *Nevada.—* For the general incidental expenses of the Indian service in Nevada, presents of goods, agricultural implements, and other useful articles, and to assist them to locate in permanent abodes, and sustain themselves by the pursuits of civilized life, to be expended under the direction of the Secretary of the Interior, twenty thousand dollars.
+- *New Mexico.—*
+  - For the general incidental expenses of the Indian service in New Mexico, presents of goods, agricultural implements, and other useful articles, and to assist them to locate in permanent abodes, and sustain themselves by the pursuits of civilized life, to be expended under the direction of the Secretary of the Interior, forty thousand dollars.
+- *Oregon and Washington Territory.—* For the general incidental expenses of the Indian service in Oregon and Washington Territory, including insurance and transportation of annuity goods and presents, (where no special provision therefor is made by treaties,) and office and travelling expenses of the superintendent, agents, and sub-agents, thirty-five thousand five hundred dollars.
+- *Utah Territory.—*
+  - For the general incidental expenses, of the Indian service in Utah Territory, presents of goods, agricultural implements, and other useful articles, and to assist them to locate in permanent abodes, and sustain themselves by the pursuits of civilized life, to be expended under the direction of the Secretary of the Interior, fifteen thousand dollars.
+  - For the transportation and necessary expenses of delivery of provisions to the Indians within the Utah superintendency, ten thousand dollars.
+  - For this amount to carry out the action contemplated by act of Congress, approved May fifth, eighteen hundred and sixty-four, entitled, “An act to vacate and sell the present Indian reservations in Utah Territory, and to settle said Indians in Uintah valley,” five thousand dollars.
+- *Miscellaneous.—* For the expenses of colonizing, supporting, and furnishing agricultural implements and stock, pay of necessary employees, purchasing clothing, medicine, iron and steel, maintenance of schools for Indians lately residing in Texas, but now residing on the Choctaw leasehold, to be expended under the direction of the Secretary of the Interior, eleven thousand dollars.
+- *For the Wichitas and other affiliated Bands.—* For the expenses of colonizing, supporting, and furnishing said bands with agricultural implements and stock, pay of necessary employees, purchase of clothing, medicines, iron and steel, and maintenance of schools, to be expended under the direction of the Secretary of the Interior, fifteen thousand dollars.
+- *California.—*
+  - For the purchase of cattle for beef and milk, together with clothing and food, teams and farming tools for Indians in California, sixty thousand dollars.
+  - For pay of one physician, one blacksmith, one assistant blacksmith, one farmer, one carpenter, and one teacher upon each of the three reservations of California, and one miller at the Round Valley, and one upon the Hoopa Valley reservations, and one special agent, one physician, and two teachers for the Mission Indians of California, twenty-two thousand dollars.
+  - For this amount, or so much thereof as may be necessary to supply a deficiency in the appropriation for removing the Indians from Smith’s River reservation to Hoopa Valley and Round Valley reservations in California, two thousand five hundred dollars.
+  - For defraying the expense of removal and subsistence of Indians in Oregon not parties to any treaty, and for pay of necessary employees, twenty thousand dollars.
+  - For defraying the expense of removal and subsistence of Indians in Washington Territory not parties to any treaty, and for pay of necessary employees, fifteen thousand dollars.
+  - To enable the Secretary of the Interior to take charge of certain stray bands of Pottawatomie and Winnebago Indians, in the State of Wisconsin, five thousand dollars.
+  - For salary of a special agent to take charge of Winnebago and Pottawatomie Indians now in the State of Wisconsin, one thousand five hundred dollars.
+  - For payment of interest on one million two hundred and ninety-nine thousand three hundred dollars, non-paying stocks, held by the Secretary of the Interior in trust for various Indian tribes, up to and including the interest payable July first, eighteen hundred and sixty-nine, less two months [sevenths] of six per centum interest on seven hundred and ninety-six thousand eight hundred dollars, Virginia stock, for the payment of which provision has been made, sixty-five thousand six hundred and eighteen dollars and fifty-seven cents, or so much thereof as may be necessary.
+  - For payment of interest on fifteen thousand dollars, abstracted bonds, for the fiscal year ending June thirtieth, eighteen hundred and sixty-nine, for the Cherokee school fund, nine hundred dollars.
+  - For payment of interest on sixty-eight thousand dollars, abstracted bonds, for the fiscal year ending June thirtieth, eighteen hundred and sixty-nine, of the Cherokee national fund, four thousand and eighty dollars.
+  - For insurance, transportation, and necessary expenses of the delivery of annuities and provisions to the Indian tribes in Minnesota and Michigan, ten thousand dollars.
+  - For insurance, transportation, and necessary expenses of the delivery to the Pawnee, Ponca, and Yancton Sioux Indians of annuity goods and provisions, eight thousand dollars.
+  - For actual necessary expenses incurred, and that may hereafter be incurred, by officers of the Indian department in the rescue of prisoners from Indian tribes and returning them to their homes, and for expenses incident to the arrest and confinement within the territory of the United States, by order of such officers, of persons charged with crimes against the Indians, five thousand dollars.
+  - To pay expenses incurred in taking census of North Carolina Cherokee Indians, two thousand five hundred dollars.
+  - For this amount, or so much thereof as may be necessary to re-establish the Shoshones, Bannocks, and other strolling bands of Indians in the southern portion of Idaho Territory, and southeastern portion of Oregon, on the Fort Hall reservation, on Snake river, Idaho Territory, or on the Siletz or Klamath reservation in Oregon, as the Secretary of the Interior may determine, including the transportation of all necessary articles and the material and labor for the construction of the houses and mills and pay [of] necessary employees for one year, thirty thousand dollars.
+  - For this amount, or so much thereof as may be necessary, to aid in subsisting said Indians for the first year after their settlement on said reservation or reservations, no part of which to be expended until said Indians shall be so established, and to be applied pro rata as said settlement shall be made, twenty-five thousand dollars: Provided, that none of the payments provided for in this act shall be made unless the Secretory of the Interior shall be satisfied that the tribes, bands, or individuals named have observed the treaty stipulations under which such payments have become due, and also the provisions of any other treaties with the government to which they may be parties; or in case portions of said tribes or bands have observed all of said obligations, payments shall be made to them pro rata.
+  - To pay the expenses of two commissioners, under tenth article treaty of February twenty-seventh, eighteen hundred and sixty-seven, with the Pottawatomies, two thousand five hundred dollars.
+  - For this amount to pay for subsistence furnished to the Ponca Indians, by direction of the Indian peace commission, under a contract made with J. W. Busier, eleven thousand nine hundred dollars and twenty-six cents.
+  - For expenses incurred by M. Wilkinson, United States agent for the Arickarees, Gros Ventres, and Mandan Indians, under instructions from the Indian peace commission, to make said Indians, as far as possible, self-sustaining, twenty-eight thousand two hundred and seventy-six dollars and forty-seven cents.
+  - For this amount, to supply a deficiency in the appropriation for pay of commissioners, to be appointed by the President, as per forty-ninth and fiftieth articles treaty April twenty-eighth, eighteen hundred and sixty-six, and Senate amendment thereto, with the Choctaws and Chickasaws, fifteen hundred and thirty-eight dollars and forty-seven cents.
+  - For this amount, interest due the Choctaws and Chickasaws, August eighth, eighteen hundred and sixty-eight, on three hundred thousand dollars held in trust for said Indians, under the third article treaty of April twenty-eighth, eighteen hundred and sixty-six, fifteen thousand dollars.
+  - For this amount, or so much thereof as may be necessary to enable the Secretary of the Interior to pay unpaid vouchers audited and allowed by the Indian peace commission, twenty-two thousand five hundred dollars.
+  - For this amount, to be reimbursed from the proceeds of their lands in Kansas, for subsistence of the Great and Little Osage Indians, thirty thousand dollars.
+  - For this amount, or so much thereof as may be necessary to pay expenses incurred in making and preparing homes, furnishing provisions, tools, and farming utensils, cattle, and furnishing food and transportation for bands of Indians with which treaties have been made by the Indian peace commission, under the supervision of Brevet Major-General W. S. Harney, incurred since October first, eighteen hundred and sixty-eight, four hundred and eighty-five thousand seven hundred and eighty-four dollars and twenty-one cents.
+  - For the payment of [such] damages sustained by the citizens of Niobrara township, Nebraska, by the action of the government in moving the Santee Sioux upon their lands in the year eighteen hundred and sixty-six, as shall, [be found due,] after proper investigation under the direction of the Secretary of the Interior, who shall appoint a commission to ascertain and report the amount of the damages sustained, not exceeding fifteen thousand dollars, to be divided pro rata in payment of the claims to be found due, which shall be a final settlement of said claims.
+  - To supply deficiency of appropriation to pay for depredations committed by Indians in northwestern Iowa in the year eighteen hundred and fifty-seven, ten thousand nine hundred and six dollars and thirty-four cents.
+
+## § 2.
+
+And be it further enacted, That all goods and merchandise furnished any tribe or band of Indians under the provisions of any act shall be turned over by the agent or superintendent of such tribe or band to the chiefs of the tribe or band in bulk and in the original package, as nearly as practicable, and in the presence of the headmen of the tribe, if practicable, to be distributed to the tribe or band by the chiefs in such manner as the chiefs may deem best, in the presence of the agent or superintendent: Provided, That said chiefs have observed their treaty obligations with the government as hereinbefore stated.
+
+## § 3.
+
+And be it further enacted, That the unexpended balance now standing to the credit of the Kansas tribe of Indians on the books of the Treasury Department, appropriated for or belonging to them for educational purposes, may be used under the direction of the superintendent of Indian affairs for the central superintendency in the purchase of such articles of food and clothing as may in his discretion be thought necessary to relieve the most pressing wants of said Indians, they being in a destitute and suffering condition.
+
+## § 4.
+
+And be it further enacted, That there be appropriated the further sum of two millions of dollars, or so much thereof as may be necessary, to enable the President to maintain the peace among and with the various tribes, bands, and parties of Indians, and to promote civilization among said Indians, bring them, where practicable, upon reservations, relieve their necessities, and encourage their efforts at self-support; a report of all expenditures under this appropriation to be made in detail to Congress in December next; and for the purpose of enabling the President to execute the powers conferred by this act he is hereby authorized, at his discretion, to organize a board of commissioners, to consist of not more than ten persons, to be selected by him from men eminent for their intelligence and philanthropy, to serve without pecuniary compensation, who may, under his direction, exercise joint control with the Secretary of the Interior over the disbursement of the appropriations made by this act or any part thereof that the President may designate; and to pay the necessary expenses of transportation, subsistence, and clerk hire of said commissioners while actually engaged in said service, there is hereby appropriated, out of any money in the treasury not otherwise appropriated, the sum of twenty-five thousand dollars, or so much thereof as may be necessary.
+
+## § 5.
+
+And be it further enacted, That nothing in this act contained, or in any of the provisions thereof, shall be so construed as to ratify or approve any treaty made with any tribes, bands, or parties of Indians since the twentieth day of July, eighteen hundred and sixty-seven.
+
+## § 6.
+
+And be it further enacted, That the appropriation of one hundred and seventeen thousand dollars made to the State of Minnesota, July second, eighteen hundred and sixty-four, to supply a deficiency in the appropriation of March third, eighteen hundred and sixty-three, for the costs, charges, and expenses properly incurred by said State in suppressing Indian hostilities in the year eighteen hundred and sixty-two, be, and the same is hereby, extended to embrace such expenditures incurred in the year eighteen hundred and sixty-three, to the amount of twelve thousand four hundred and eight dollars and four cents; Provided, That only so much of such expenses shall be paid the State of Minnesota as shall be allowed by the proper accounting officers under the twenty-second section of the act approved March third, eighteen hundred and sixty-three, entitled “An act making appropriations for sundry civil expenses of the government for the year ending June thirtieth, eighteen hundred and sixty-four, and for the year ending June thirtieth, eighteen hundred and sixty-three, and for other purposes.”
+
+
+*Approved, April 10, 1869.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- April 10, 1869.
+- Appropriation for expenses of the Indian department and treaty stipulations.
+- Superintendents and agents.
+- Superintendents of Indian affairs.
+- Indian agents.
+- Services of superintendents and agents to be dispensed with when practicable, &c.
+- Sub-agents.
+- Clerks.
+- Interpreters.
+- Buildings.
+- Provisions.
+- Temporary clerks.
+- Contingencies.
+- Vaccination and vaccine matter.
+- Fulfilling treaty stipulations.
+- Assinaboines.
+- Arickarees, Gros Ventres, and Mandans.
+- Pierre Gavneaux.
+- Apaches, Kiowas, and Comanches. Vol. xv. pp. 584, 590.
+- Apaches, Kiowas, and Comanches.
+- Payment to J. C.D. Blackburn.
+- Proviso.
+- Northern Cheyennes and Arapahoes. Vol. xv. p. 655.
+- Insurance and transportation.
+- Calapooias, Molalla, and Clackamas Indians, of Willamette Valley. Vol. x. p. 1144.
+- Cheyennes and Arapahoes. Vol. xv. p. 596.
+- Transportation.
+- Chasta, Scoton, and Umpqua Indians. Vol. x. p. 1122.
+- Chippewas of Saginaw, Swan creek, and Black river. Vol. xiv. p. 658.
+- Chippewas of Lake Superior. Vol. x. p. 1109.
+- Chippew as of Lake Superior. Vol. x. p. 1109.
+- Vol. xiv. p. 765.
+- Bois Fort band of Chippewas.
+- Chippewas of the Mississippi. Vol. vii. p. 592. Vol. x. p. 1111. Vol. xiii. p. 694.
+- Chippewas of the Mississippi.
+- Vol. x. p. 1107.
+- Vol. ix. p. 904.
+- Post, p. 720.
+- Chippewas, Pillager, and
+- Lake Winnebagoshish bands. Vol. x. p. 1167.
+- Chippewas of the Mississippi, Pillager, and Lake Winnebagoshish bands of Chippewa Indians in Minnesota. Vol. xiii. p. 694.
+- Board of visitors.
+- Chippewas of Red Lake and Pembina tribe of Chippewas. Vol. xiii. pp. 668, 689.
+- Chippewas of Red Lake, &c.
+- Chickasaws. 1799, ch. 11. Vol. i. p. 618.
+- Choctaws. Vol. vii. p. 99. Vol. xi. p. 614.
+- Vol. vii. p. 212. Vol. vii. p. 236.
+- Secretary of Interior to sell certain bonds and pay awards in favor of Joseph G. Heald and Reuben Wright. Vol. xiv. p. 780.
+- Confederated tribes and bands of Indians in Middle Oregon. Vol. xii. p. 965.
+- Indians in Middle Oregon.
+- Creeks. Vol. vii. p. 86. Vol. xi. p. 700.
+- Vol. vii. p. 69.
+- Vol. vii. p. 287.
+- Vol. vii. p. 419.
+- Vol. xiv. p 786.
+- Creeks.
+- Vol. xiv. p. 787.
+- Crows.
+- Vol. xv. p. 651.
+- Delawares. Vol. vii. pp. 188, 327.
+- Vol. x. p. 1049.
+- D’Wamish and other allied tribes in Washington Territory. Vol. xii. p. 928.
+- Flatheads and other confederated tribes. Vol. xii. p. 976.
+- Iowas.
+- Vol. x. p. 1071.
+- Kansas.
+- Vol. ix. p. 842.
+- Kickapoos.
+- Vol. x. p. 1079.
+- Klamath and Modoc Indians. Post, p. 708.
+- Makah tribe.
+- Vol. xii. p. 940.
+- Menomonees. Vol. x. p. 1065.
+- Miamies of Kansas. Vol. vii. p. 191. Vol. x. p. 1095.
+- Vol. vii. p. 459.
+- Miamies of Indiana.
+- Vol. x. p. 1095.
+- Miamies—Eel River. Vol. vii. p. 51.
+- Vol. vii. p. 91.
+- Vol. vii. pp. 114, 115.
+- Molel Indians.
+- Vol. xii. p. 981.
+- Nisqually, Puyallup, and other tribes and bands of Indians. Vol. x. p. 1133.
+- Navajoes. Vol. xv. p. 669.
+- Sissiton and Warpeton. Vol. xv. p. 506.
+- Nez Perce Indians. Vol. xii. p. 958.
+- Nez Perce Indians.
+- Vol. xiv. p. 649.
+- Omahas. Vol. x. p. 1044.
+- Vol. xiv. p. 668.
+- Osages.
+- Vol. vii. p. 240.
+- Vol. xiv. p. 687.
+- Ottawas and
+- Chippewas of Michigan.
+- Vol. xi. p. 623.
+- Ottoes and Missourias. Vol. x. p. 1039.
+- Pawnees. Vol. xi. p. 729.
+- Poncas. Vol. xii. p. 997.
+- Pottawatomies. Vol. vii. p. 51.
+- Vol. vii. p. 114.
+- Vol. vii. p. 185.
+- Vol. vii. p. 317.
+- Vol. vii. p. 820.
+- Pottawatomies.
+- Vol. vii. p. 379.
+- Vol. vii. p. 433. Proviso.
+- Vol. vii. p. 296.
+- Vol. vii. p. 401.
+- Vol. ix. p. 855.
+- Vol. vii. p. 320.
+- Vol. xii. p. 1192.
+- Vol. xiv. p. 763.
+- [This proviso repealed, 1870, ch. 296. Post, p. 360.]
+- Pottawatomies of Huron. Vol. vii. p. 105.
+- Quapaws. Vol. vii. p. 425.
+- Qui-nai-elt and Quil-leh-ute Indians. Vol. xii. p. 972.
+- Rogue Rivers. Vol. x. p. 1018.
+- Sacs and Foxes of Mississippi. Vol. vii. p. 85.
+- Vol. vii. p. 541.
+- Vol. vii. p. 596.
+- Sacs and Foxes of Missouri.
+- Vol. vii. p. 540.
+- Seminoles. Vol. xi. p. 702.
+- Vol. xiv. p. 756.
+- Seminoles.
+- Senecas. Vol. vii. p. 161.
+- Vol. vii. p. 179.
+- Vol. vii p. 349.
+- Senecas of New York. 1831, ch. 26. Vol. iv. p. 442.
+- 1846, ch. 34. Vol. ix. p. 35.
+- Senecas and Shawnees. Vol. vii. p. 179.
+- Vol. vii. p. 352.
+- Shawnees.
+- Vol. vii. p. 51. Vol. x. p. 1056.
+- Vol. vii. p. 161.
+- Shoshones. Western bands.
+- Eastern bands.
+- Northwestern bands.
+- Vol. xiii. p. 663.
+- Shoshones.
+- Goship bands.
+- Vol. xiii. p. 682.
+- Six Nations of New York. Vol. vii. p. 46.
+- S’Klallams.
+- Vol. xii. p. 934.
+- Tabeguache band of Utah Indians. Vol. xiii. p. 675.
+- Umpquas and Calapooias, of Umpqua Valley, Oregon. Vol. x. p. 1126.
+- Umpquas, (Cow Creek band.) Vol. x. p. 1027.
+- Walla-Walla, Cayuse, and Umatilla tribes. Vol. xii. p. 946.
+- Walla-Walla, Cayuse, and Umatilla tribes. Vol. xii. p. 047.
+- Winnebagoes.
+- Vol. vii. p. 545. Vol. xii. p. 628.
+- Vol. ix. p. 878.
+- Wall-pah-pe tribe of Snake Indians. Vol. xiv. p. 683.
+- Yakama nation. Vol. xii. p. 953.
+- Yancton tribe of Sioux.
+- Vol. xi. p. 744.
+- Appropriations for annuities to be expended only for what articles.
+- Senecas, mixed Senecas and Shawnees, Quapaws, &c. Vol. xv. p. 514.
+- Vol. xv. p. 515.
+- Quapaws.
+- Claims for losses by the war.
+- Vol. xv. pp. 516, 526.
+- Wyandottes.
+- Ottowas.
+- Vol. xv. pp. 518, 527.
+- Peorias, Kaskaskias, Weas, and Piankeshaws. 1862, ch. 156. Vol. xii. p. 539.
+- Vol. xv. pp. 519, 527.
+- Peorias, Kaskaskias, Weas, and Piankeshaws.
+- Sac and Fox Indians of the Mississippi.
+- Vol. xv. p. 495.
+- Tabequache, Muache, Capote, Weeminuche, Yampa, Grand River, and Uintah bands of Ute Indians. Vol. xv. p. 620.
+- Tabeguache, Muache, Capote, Weeminuche, Yampa, Grand River, and Uintah bands of Ute Indians. Vol. xv. p. 622.
+- Incidental expenses of the Indian service.
+- Arizona.
+- California.
+- Colorado Territory.
+- Dakota Territory.
+- Idaho Territory.
+- Montana Territory.
+- Nevada.
+- New Mexico.
+- Oregon and Washington Territory.
+- Utah Territory.
+- 1864, ch. 77. Vol. xiii. p. 63.
+- Miscellaneous.
+- Indians lately in Texas now on Choctaw lease-hold.
+- Wichitas and other affiliated bands.
+- Reservations in California.
+- Indians in Oregon;
+- in Washington Territory.
+- Pottawatomie and Winnebago Indians in Wisconsin.
+- Interest on non-payingstock held in trust for Indian tribes;
+- on abstracted bonds of the Cherokee funds.
+- Delivery of annuities in Minnesota and Michigan;
+- to the Pawnee, Ponca, and Yancton Sioux.
+- Rescue of prisoners from Indians and arrest of persons charged with crimes against Indians.
+- Census of North Carolina Cherokees.
+- Re-establishing the Shoskones, Bannocks, and other strolling tribes on reservations;
+- subsisting the same Indians.
+- No part to be expended until, &c.
+- No payments to be made, unless the Secretary of the Interior is satisfied that the tribes, &c. have observed treaty stipulations.
+- Commissioners, Pottawatomies. Vol. xv. p. 533.
+- Poncas.
+- Commissioners, Choctaws and Chickasaws. Vol. xiv. p. 780.
+- Interest due the Choctaws and Chickasaws.
+- Vouchers allowed by the Indian peace commission.
+- Great and Little Osage Indians.
+- Indians with whom treaties were made by Indian peace commission.
+- Damages to the citizens of Niobrara, Nebraska, by moving the Santee Sioux on their lands. Commission.
+- Depredations by Indians in Iowa.
+- Mode of delivery of goods, &c. to Indians.
+- Education appropriation for Kansas Indians may be used to buy food and
+- clothing for Kansas Indians.
+- Appropriation to maintain peace and promote civilization among the Indians.
+- Report to be made to Congress.
+- Commissioners to aid in the disbursement of appropriations by this act. 1871, ch. 120. Post, p. 568.
+- Expenses of commission.
+- No treaty with Indians since July 20, 1867, approved by this act.
+- Appropriation to Minnesota for expenses in suppressing Indian hostilities, to include what expenditures. 1864, ch. 210. Vol. xiii. p. 351.
+- 1863, ch. 79, § 22. Vol. xii. p. 754.
