@@ -1,0 +1,49 @@
+---
+volume: 117
+citation: 117 Stat. 841
+type: Public Law
+number: 43
+congress: 108
+scope: public
+approved: 2003-07-01
+bills: 108/hr-788
+---
+
+# Public Law 108–43
+
+> An Act To revise the boundary of the Glen Canyon National Recreation Area in the States of Utah and Arizona.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+## § 1. SHORT TITLE.
+
+This Act may be cited as the “Glen Canyon National Recreation Area Boundary Revision Act”.
+
+## § 2. GLEN CANYON NATIONAL RECREATION AREA BOUNDARY REVISION.
+
+- **(a)** *In General.—* The first section of Public Law 92–593 (16 U.S.C. 460dd; 86 Stat. 1311) is amended—
+  - **(1)** by striking “That in” and inserting “Section 1. (a) In”; and
+  - **(2)** by adding at the end the following:
+    > - **(b)** In addition to the boundary change authority under subsection (a), the Secretary may acquire approximately 152 acres of private land in exchange for approximately 370 acres of land within the boundary of Glen Canyon National Recreation Area, as generally depicted on the map entitled ‘Page One Land Exchange Proposal’, number 608/60573a–2002, and dated May 16, 2002. The map shall be on file and available for public inspection in the appropriate offices of the National Park Service. Upon conclusion of the exchange, the boundary of the recreation area shall be revised to reflect the exchange.”.
+
+- **(b)** *Change in Acreage Ceiling.—* Such section is further amended by striking “one million two hundred and thirty-six thousand eight hundred and eighty acres” and inserting “1,256,000 acres”.
+
+
+*Approved July 1, 2003.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- July 1, 2003 [H.R. 788]
+- Glen Canyon National Recreation Area Boundary Revision Act. 16 USC 460dd note.
+
+## Legislative history
+
+**LEGISLATIVE HISTORY—H.R. 788:**
+
+
+*CONGRESSIONAL RECORD, Vol. 149 (2003):*
+
+- Mar. 25, considered and passed House.
+- June 16, considered and passed Senate.

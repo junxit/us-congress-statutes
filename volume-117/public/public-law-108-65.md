@@ -1,0 +1,39 @@
+---
+volume: 117
+citation: 117 Stat. 875
+type: Public Law
+number: 65
+congress: 108
+scope: public
+approved: 2003-07-29
+bills: 108/s-1399
+---
+
+# Public Law 108–65
+
+> An Act To redesignate the facility of the United States Postal Service located at 101 South Vine Street in Glenwood, Iowa, as the “William J. Scherle Post Office Building”.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+## § 1. WILLIAM J. SCHERLE POST OFFICE BUILDING.
+
+- **(a)** *Redesignation.—* The facility of the United States Postal Service located at 101 South Vine Street in Glenwood, Iowa, and known as the Glenwood Main Office, shall be known and designated as the “William J. Scherle Post Office Building”.
+- **(b)** *References.—* Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in subsection (a) shall be deemed to be a reference to the William J. Scherle Post Office Building.
+
+
+*Approved July 29, 2003.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- July 29, 2003 [S. 1399]
+
+## Legislative history
+
+**LEGISLATIVE HISTORY—S. 1399:**
+
+*CONGRESSIONAL RECORD, Vol. 149 (2003):*
+
+- July 17, considered and passed Senate.
+- July 21, considered and passed House.

@@ -1,0 +1,51 @@
+---
+volume: 117
+citation: 117 Stat. 1161
+type: Public Law
+number: 93
+congress: 108
+scope: public
+approved: 2003-10-03
+bills: 108/s-111
+---
+
+# Public Law 108–93
+
+> An Act To direct the Secretary of the Interior to conduct a special resource study to determine the national significance of the Miami Circle site in the State of Florida as well as the suitability and feasibility of its inclusion in the National Park System as part of Biscayne National Park, and for other purposes.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+## § 1. SPECIAL RESOURCE STUDY.
+
+- **(a)** *Study.—* Not later than 3 years after the date funds are made available, the Secretary of the Interior (hereinafter referred to as the “Secretary”) shall conduct a special resource study to determine the national significance of the Miami Circle archaeological site in Miami-Dade County, Florida (hereinafter referred to as “Miami Circle”), as well as the suitability and feasibility of its inclusion in the National Park System as part of the Biscayne National Park. In conducting the study, the Secretary shall consult with the appropriate American Indian tribes and other interested groups and organizations.
+- **(b)** *Content of Study.—* In addition to determining national significance, feasibility, and suitability, the study shall include the analysis and recommendations of the Secretary on—
+  - **(1)** any areas in or surrounding the Miami Circle that should be included in Biscayne National Park;
+  - **(2)** whether additional staff, facilities, or other resources would be necessary to administer the Miami Circle as a unit of Biscayne National Park; and
+  - **(3)** any effect on the local area from the inclusion of Miami Circle in Biscayne National Park.
+- **(c)** *Submission of Report.—* Not later than 30 days after completion of the study, the Secretary shall submit a report on the findings and recommendations of the study to the Committee on Energy and Natural Resources of the Senate and the Committee on Resources of the United States House of Representatives.
+
+## § 2. AUTHORIZATION OF APPROPRIATIONS.
+
+There are authorized to be appropriated such sums as are necessary to carry out this Act.
+
+
+*Approved October 3, 2003.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- Oct. 3, 2003 [S. 111]
+- Deadlines.
+- Native Americans.
+
+## Legislative history
+
+**LEGISLATIVE HISTORY—S. 111:**
+
+
+
+*CONGRESSIONAL RECORD, Vol. 149 (2003):*
+
+- Mar. 4, considered and passed Senate.
+- Sept. 23, considered and passed House.
