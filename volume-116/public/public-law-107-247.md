@@ -1,0 +1,66 @@
+---
+volume: 116
+type: Public Law
+number: 247
+congress: 107
+scope: public
+approved: 2002-10-23
+bills: 107/hr-4085, 107/s-1090, 107/s-2074
+---
+
+# Public Law 107-247
+
+> An Act To increase, effective as of December 1, 2002, the rates of compensation for veterans with service-connected disabilities and the rates of dependency and indemnity compensation for the survivors of certain disabled veterans.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+## § 1. SHORT TITLE.
+
+This Act may be cited as the “Veterans’ Compensation Cost- of-Living Adjustment Act of 2002”.
+
+## § 2. INCREASE IN RATES OF DISABILITY COMPENSATION AND DEPENDENCY AND INDEMNITY COMPENSATION.
+
+- **(a)** *Rate Adjustment.—* The Secretary of Veterans Affairs shall, effective on December 1, 2002, increase the dollar amounts in effect for the payment of disability compensation and dependency and indemnity compensation by the Secretary, as specified in subsection (b).
+- **(b)** *Amounts To Be Increased.—* The dollar amounts to be increased pursuant to subsection (a) are the following:
+  - **(1)** *Compensation.—* Each of the dollar amounts in effect under section 1114 of title 38, United States Code.
+  - **(2)** *Additional compensation for dependents.—* Each of the dollar amounts in effect under section 1115(1) of such title.
+  - **(3)** *Clothing allowance.—* The dollar amount in effect under section 1162 of such title.
+  - **(4)** *New DIC RATES.—* The dollar amounts in effect under paragraphs (1) and (2) of section 1311(a) of such title.
+  - **(5)** *Old dic rates.—* Each of the dollar amounts in effect under section 1311(a)(3) of such title.
+  - **(6)** *Additional dic for surviving spouses with minor CHILDREN.—* The dollar amount in effect under section 1311(b) of such title.
+  - **(7)** *Additional dic for disability.—* The dollar amounts in effect under sections 1311(c) and 1311(d) of such title.
+  - **(8)** *for dependent children.—* The dollar amounts in effect under sections 1313(a) and 1314 of such title.
+- **(c)** *Determination of Increase.—*
+  - **(1)** The increase under subsection (a) shall be made in the dollar amounts specified in subsection (b) as in effect on November 30, 2002.
+  - **(2)** Except as provided in paragraph (3), each such amount shall be increased by the same percentage as the percentage by which benefit amounts payable under title II of the Social Security Act (42 U.S.C. 401 et seq.) are increased effective December 1, 2002, as a result of a determination under section 215(i) of such Act (42 U.S.C. 415(i)).
+  - **(3)** Each dollar amount increased pursuant to paragraph (2) shall, if not a whole dollar amount, be rounded down to the next lower whole dollar amount.
+- **(d)** *Special Rule.—* The Secretary may adjust administratively, consistent with the increases made under subsection (a), the rates of disability compensation payable to persons within the purview of section 10 of Public Law 85-857 (72 Stat. 1263) who are not in receipt of compensation payable pursuant to chapter 11 of title 38, United States Code.
+
+## § 3. PUBLICATION OF ADJUSTED RATES.
+
+At the same time as the matters specified in section 215(i)(2)(D) of the Social Security Act (42 U.S.C. 415(i)(2)(D)) are required to be published by reason of a determination made under section 215(i) of such Act during fiscal year 2003, the Secretary of Veterans Affairs shall publish in the Federal Register the amounts specified in subsection (b) of section 2, as increased pursuant to that section.
+
+
+*Approved October 23, 2002.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- Oct. 23, 2002 [H.R. 4085]
+- Veteran’s Compensation Cost-of-Living Adjustment Act of 2002.
+- 38 USC 101 note.
+- 38 USC 1114 note.
+- Federal Register, publication. 38 USC 1114 note.
+
+## Legislative history
+
+**LEGISLATIVE HISTORY—H.R. 4085 (S. 1090) (S. 2074):**
+
+
+
+*CONGRESSIONAL RECORD, Vol. 148 (2002):*
+
+- May 20, 21, considered and passed House.
+- Sept. 26, considered and passed Senate, amended.
+- Oct. 7, House concurred in Senate amendments.

@@ -1,0 +1,69 @@
+---
+volume: 116
+type: Public Law
+number: 332
+congress: 107
+scope: public
+approved: 2002-12-16
+bills: 107/hr-38
+---
+
+# Public Law 107–332
+
+> An Act To provide for additional lands to be included within the boundaries of the Homestead National Monument of America in the State of Nebraska, and for other purposes.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+## § 1. SHORT TITLE.
+
+This Act may be cited as the “Homestead National Monument of America Additions Act”.
+
+## § 2. DEFINITIONS.
+
+In this Act:
+
+- **(1)** *Map.—* The term “map” means the map entitled “Proposed Boundary Adjustment, Homestead National Monument of America, Gage County, Nebraska”, numbered 368/80036 and dated March 2000.
+- **(2)** *Monument.—* The term “Monument” means the Homestead National Monument of America, Nebraska.
+- **(3)** *Secretary.—* The term “Secretary” means the Secretary of the interior.
+
+## § 3. ADDITIONS TO HOMESTEAD NATIONAL MONUMENT OF AMERICA.
+
+- **(a)** *In General.—* The Secretary may acquire, by donation or by purchase with appropriated or donated funds, from willing sellers only, the privately-owned property described in paragraphs (1) and (2) of subsection (b). The Secretary may acquire, by donation only, the State-owned property described in paragraphs (3) and (4) of subsection (b).
+- **(b)** *Parcels.—* The parcels referred to in subsection (a) are the following:
+  - **(1)** *Graff property.—* The parcel consisting of approximately 15.98 acres of privately-owned land, as depicted on the map.
+  - **(2)** *Pioneer acres green.—* The parcel consisting of approximately 3 acres of privately-owned land, as depicted on the map.
+  - **(3)** *Segment of state highway 4.—* The parcel consisting of approximately 5.6 acres of State-owned land including Nebraska State Highway 4, as depicted on the map.
+  - **(4)** *State Triangle.—* The parcel consisting of approximately 8.3 acres of State-owned land, as depicted on the map.
+- **(c)** *Boundary Adjustment.—* Upon acquisition of a parcel described in subsection (b), the Secretary shall modify the boundary of the Monument to include the parcel. Any parcel included within the boundary shall be administered by the Secretary as part of the Monument.
+- **(d)** *Deadline for Acquisition of Certain Property.—* If the property described in subsection (b)(1) is not acquired by the Secretary from a willing seller within 5 years after the date of the enactment of this Act, the Secretary shall no longer be authorized to acquire such property pursuant to this Act and such property shall not become part of the Monument pursuant to this Act.
+- **(e)** *Availability of Map.—* The map shall be on file in the appropriate offices of the National Park Service.
+- **(f)** *Authorization of Appropriations.—* There is authorized to be appropriated to carry out this Act $400,000.
+
+## § 4. COOPERATIVE AGREEMENTS.
+
+The Secretary may enter into cooperative agreements with the State of Nebraska, Gage County, local units of government, private groups, and individuals for operation, maintenance, interpretation, recreation, and other purposes related to the proposed Homestead Heritage Highway to be located in the general vicinity of the Monument.
+
+
+*Approved December 16, 2002.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- Dec. 16, 2002 [H.R. 38]
+- Homestead National Monument of America Additions Act. 16 USC 450u note.
+
+## Legislative history
+
+**LEGISLATIVE HISTORY—H. R. 38:**
+
+*HOUSE REPORTS:*
+
+
+*SENATE REPORTS:*
+
+
+*CONGRESSIONAL RECORD:*
+
+- Vol. 147 (2001): Dec. 11, considered and passed House.
+- Vol. 148 (2002): Nov. 19, considered and passed Senate.

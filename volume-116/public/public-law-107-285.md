@@ -1,0 +1,41 @@
+---
+volume: 116
+type: Public Law
+number: 285
+congress: 107
+scope: public
+approved: 2002-11-06
+bills: 107/hr-5336, 107/s-2918
+---
+
+# Public Law 107–285
+
+> An Act To designate the facility of the United States Postal Service located at 380 Main Street in Farmingdale, New York, as the “Peter J. Ganci, Jr. Post Office Building”.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+## § 1. DESIGNATION.
+
+The facility of the United States Postal Service located at 380 Main Street in Farmingdale, New York, shall be known and designated as the “Peter J. Ganci, Jr. Post Office Building”.
+
+## § 2. REFERENCES.
+
+Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in section 1 shall be deemed to be a reference to the “Peter J. Ganci, Jr. Post Office Building”.
+
+
+*Approved November 6, 2002.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- Nov. 6, 2002 [H.R. 5336]
+
+## Legislative history
+
+**LEGISLATIVE HISTORY—H.R. 5336 (S. 2918):**
+
+*CONGRESSIONAL RECORD, Vol. 148 (2002):*
+
+- Sept. 9, considered and passed House.
+- Oct. 17, considered and passed Senate.

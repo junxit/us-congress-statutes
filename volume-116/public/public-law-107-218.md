@@ -1,0 +1,63 @@
+---
+volume: 116
+type: Public Law
+number: 218
+congress: 107
+scope: public
+approved: 2002-08-21
+---
+
+# Public Law 107–218
+
+> An Act To revise the boundary of the Tumacacori National Historical Park in the State of Arizona.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+## § 1. SHORT TITLE.
+
+This Act may be cited as the “Tumacacori National Historical Park Boundary Revision Act of 2002”.
+
+## § 2. FINDINGS AND PURPOSES.
+
+- **(a)** *Findings.—* The Congress finds the following:
+  - **(1)** Tumacacori Mission in southern Arizona was declared a National Monument in 1908 in recognition of its great historical significance as “one of the oldest mission ruins in the southwest”.
+  - **(2)** In establishing Tumacacori National Historical Park in 1990 to include the Tumacacori Mission and the ruins of the mission of Los Santos Angeles de Guevavi and the Kino visita and rancheria of Calabazas, Congress recognized the importance of these sites “to protect and interpret, for the education and benefit of the public, sites in the State of Arizona associated with the early Spanish missionaries and explorers of the 17th and 18th centuries”.
+  - **(3)** Tumacacori National Historical Park plays a major role in interpreting the Spanish colonial heritage of the United States.
+- **(b)** *Purposes.—* The purposes of this Act are—
+  - **(1)** to protect and interpret the resources associated with the Tumacacori Mission by revising the boundary of Tumacacori National Historical Park to include approximately 310 acres of land adjacent to the park; and
+  - **(2)** to enhance the visitor experience at Tumacacori by developing access to these associated mission resources.
+
+## § 3. BOUNDARY REVISION, TUMACACORI NATIONAL HISTORICAL PARK, ARIZONA.
+
+Section 1(b) of Public Law 101–344 (16 U.S.C. 410ss(b)) is amended—
+
+- **(1)** by inserting after the first sentence the following new sentence: “The park shall also consist of approximately 310 acres of land adjacent to the original Tumacacori unit of the park and generally depicted on the map entitled 'Tumacacori National Historical Park, Arizona Proposed Boundary Revision 2001', numbered 310/80,044, and dated July 2001.”; and
+- **(2)** in the last sentence—
+  - **(A)** by striking “The map” and inserting “The maps”; and
+  - **(B)** by striking “the offices” and inserting “the appropriate offices”.
+
+
+*Approved August 21, 2002.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- Aug. 21, 2002 [H.R. 2234]
+- Tumacacori National Historical Park Boundary Revision Act of 2002. 16 USC 410ss note.
+- 16 USC 410ss note.
+
+## Legislative history
+
+**LEGISLATIVE HISTORY—H.R. 2234:**
+
+*HOUSE REPORTS:*
+
+
+*SENATE REPORTS:*
+
+
+*CONGRESSIONAL RECORD, Vol. 148 (2002):*
+
+- Jan. 23, considered and passed House.
+- Aug. 1, considered and passed Senate.
