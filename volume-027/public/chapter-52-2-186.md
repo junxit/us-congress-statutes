@@ -1,0 +1,291 @@
+---
+volume: 27
+citation: 27 Stat. 515
+type: Chapter
+number: 186
+congress: 52
+session: 2
+scope: public
+approved: 1893-03-01
+---
+
+# Chapter 186
+
+> An Act making appropriations for the support of the Military Academy for the fiscal year ending June thirtieth, eighteen hundred and ninety-four.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+That the following sums be, and the same are hereby, appropriated, out of any money in the Treasury not otherwise appropriated, for the support of the Military Academy for the fiscal year ending June thirtieth, eighteen hundred and ninety-four:
+
+- For pay of one superintendent of the United States Military Academy (colonel), in addition to pay as lieutenant-colonel of engineers, five hundred dollars.
+- For pay of eight professors, twenty-seven thousand dollars.
+- For pay of one associate professor of mathematics, two thousand dollars; and there shall be appointed at the Military Academy from the Army, in addition to the professors authorized by the existing laws, an associate professor of mathematics, who shall receive the pay and allowances of a captain mounted, and when his service as associate professor of mathematics at the Academy exceeds ten years, he shall receive the pay and allowances of major; and hereafter there shall be allowed and paid to the said associate professor of mathematics ten per centum of his current yearly pay for each and every term of five years’ service in the Army and at the Academy: Provided, That such addition shall in no case exceed forty per centum of said yearly pay; and said associate professor of mathematics is hereby placed upon the same footing as regards restrictions upon pay and retirement from active service as officers of the Army.
+- For one commandant of cadets (lieutenant colonel), in addition to pay as captain, one thousand two hundred dollars.
+- For pay of one instructor of practical military engineering (major), in addition to pay as captain, five hundred dollars.
+- For pay of one instructor of ordnance and science of gunnery (major), in addition to pay as captain, five hundred dollars.
+- For pay of eight assistant professors (captains), in addition to pay as first lieutenants, four thousand dollars.
+- For pay of three senior instructors of cavalry, artillery, and infantry tactics (captains), in addition to pay as first lieutenants, one thousand five hundred dollars.
+- For pay of four assistant instructors of cavalry, artillery, and infantry tactics (captains), in addition to pay as first lieutenants, two thousand dollars.
+- For pay of one adjutant, in addition to pay as second lieutenant, four hundred dollars.
+- For pay of one treasurer, quartermaster, and commissary of cadets, in addition to pay as captain of infantry, seven hundred dollars.
+- For pay of one master of the sword, one thousand five hundred dollars.
+- For pay of cadets, one hundred and sixty-seven thousand dollars; and hereafter no cadet shall receive more than at the rate of five hundred and forty dollars a year.
+- For pay of one teacher of music, one thousand and eighty dollars.
+- For pay of the Military Academy band, nine thousand two hundred and forty dollars.
+- For additional pay of professors and officers (on increased rank) for length of service, nine thousand seven hundred and fifty dollars.
+- For pay of field musicians:
+- One sergeant, two hundred and four dollars;
+- Fourteen privates, two thousand one hundred and eighty-four dollars;
+- Additional pay for length of service, two hundred and eighty-eight dollars:
+- Retained pay on discharge, two hundred and eighty-eight dollars:
+- Clothing on discharge, two hundred and eighty-one dollars and eight cents; in all, three thousand two hundred and forty-five dollars and eight cents.
+- For current expenses as follows:
+- Repairs and improvements, namely: Timber, planks, boards, joists, wall strips, laths, shingles, slate, tin, sheet lead, zinc, nails, screws, locks, hinges, glass, paints, turpentine, oils, varnish, brushes, stone, brick. flag, lime, cement, plaster, hair, sewer and drain pipe, blasting powder, fuse, iron, steel, tools, machinery, mantels, and other similar materials, renewing roofs, and for pay of overseer and master builder and citizen mechanics, and labor employed upon repairs and improvements that can not be done by enlisted men, sixteen thousand dollars.
+- For fuel and apparatus, namely: Coal, wood, charcoal, stoves, grates, heaters, furnaces, ranges and fixtures, fire bricks, clay, sand, repairs of steam heating apparatus, grates, stoves, heaters, ranges, and furnaces, mica, twenty thousand dollars.
+- For gas pipes, fixtures, lampposts, gasometers, and retorts, and annual repairs of the same, one thousand five hundred dollars.
+- For fuel for cadets’ mess hall, shops, and laundry, three thousand dollars.
+- For postage and telegrams, two hundred and fifty dollars.
+- For stationery, namely: Blank books, paper, envelopes, quills, steel pens, rubbers, erasers, pencils, mucilage, wax, wafers, folders, fasteners, rules, files, ink, inkstands, typewriting supplies, penholders, tape, desk knives, blotting pads, and rubber bands, eight hundred dollars.
+- For transportation of materials, discharged cadets, and ferriages, one thousand seven hundred and fifty dollars.
+- Printing: For printing and binding, type, materials for office, including repairs to motor and other machinery, diplomas for graduates, annual registers, blanks and monthly reports to parents of cadets, one thousand dollars.
+- For clerk to the disbursing officer and quartermaster, thirteen hundred and fifty dollars.
+- For clerk to adjutant in charge of cadet records, thirteen hundred and fifty dollars.
+- For clerk to treasurer, one thousand live hundred dollars.
+- For one clerk to the adjutant, one thousand dollars.
+- For one clerk to the quartermaster, one thousand dollars.
+- For department of cavalry, artillery, and infantry tactics, namely: For tan bark or other proper cover for riding hall, to be immediately available and to be purchased in open market on written order of the Superintendent, six hundred dollars:
+- For repairing camp stools and camp furniture, one hundred dollars;
+- For furniture for offices and reception room for visitors, one hundred dollars;
+- For stationery for use of instructor and assistant instructors of tactics, one hundred and fifty dollars;
+- For plumes for cadet officers of the first class, seventy-five dollars;
+- For foils, masks, belts, fencing gloves and fencing jackets, gaiters, and repairs, two hundred and fifty dollars;
+- For repairs and improvements of dressing rooms, walks, and dock at swimming place, two hundred and twenty dollars;
+- For books and maps, binding books, and mounting maps, seventy-five dollars;
+- For silk sashes for cadet privates of the first class acting as officers of the. day or officers of the guard, and for cadet first sergeants and color-bearer, two hundred and twenty dollars—:
+- For soap used in scrubbing cadet barracks, fifty dollars—:
+- In all, one thousand eight hundred and forty dollars.
+- For department of civil and military engineering: For models, maps, purchase and repair of instruments, textbooks, books of reference and stationery for the use of instructors, and contingencies, one thousand five hundred dollars;
+- For extra pay of one enlisted man employed as draftsman, two hundred and fifty-six dollars;
+- In all, one thousand seven hundred and fifty-six dollars.
+- For department of natural and experimental philosophy: For additions to apparatus to illustrate the principles of mechanics, acoustics, optics, and astronomy, one thousand dollars; for books of reference, scientific periodicals, textbooks, stationery, materials, and repairs, four hundred dollars, for pay of mechanic assistant, one thousand dollars; for repairs to the observatory building and clocks four hundred and fifty dollars; for fitting up as far as will permit the new lecture room and section rooms provided for the department of philosophy in the new academic building, one thousand dollars; in all, three thousand eight hundred and fifty dollars.
+- For department of instruction in mathematics, namely: For repairs and materials for preservation of models and instruments, twenty-five dollars; for textbooks, books of reference, binding, and stationery for instructors, one hundred and twenty-five dollars; three Gunter’s chains, twenty-five dollars; three sets of marking pins, ten dollars, two Vernier compasses, six-inch needles, and tripods, one hundred dollars; two surveying transits, with stadia micrometers, four hundred dollars; three T-squares and two ten-inch triangles, seven dollars and fifty cents; one Jacob staff, five dollars; one Y-level with tripod, one hundred and twenty-five dollars; three New York leveling rods, sixty dollars; five plumb-bobs, fifteen dollars; three stadia rods, forty dollars; five pocket magnifying glasses, six dollars; for contingencies, twenty-five dollars; in all, nine hundred and sixty-eight dollars and fifty cents.
+- For department of history, geography, and ethics: For text-books, books of reference, maps and globes, and stationery for use of instructors. and repairs, one bundled and fifty dollars.
+- For department of chemistry, mineralogy, and geology: For chemicals, chemical apparatus, glass and porcelain ware, paper, wire, sheet metal, ores, photographic apparatus and materials, five hundred dollars;
+- For rough specimens, fossils, and for apparatus and material to be used in the practical determinations of mineralogical and geological specimens, pencils and papers for practical instructions in the same branches, and for gradual increase and improvement of the cabinet, five hundred dollars;
+- For repairs and additions to electric, magnetic, pneumatic, thermic, and optical apparatus, six hundred and fifty dollars: Provided, That any of the above-named sums not expended for the purposes named, may be used in fittings of the laboratory of new academic buildings.
+- For pay of mechanic employed in chemical and geological section rooms and in lecture rooms, one thousand dollars;
+- For models, maps, and diagrams, books of reference, text books, and stationery for the use of instructors, one hundred and eighty dollars;
+- For contingencies, one hundred dollars;
+- In all, two thousand nine hundred and thirty dollars.
+- For department of drawing: For periodicals and books on art and technology, one hundred dollars;
+- For one. copy Century Dictionary in six volumes at fifteen dollars per volume, ninety dollars;
+- For models in fiat and relief for second and third classes, one hundred dollars;
+- For repairs to desks, models, stretchers, and material, seventy-five dollars;
+- For drawing material for use of instructors, sponges, wash-brushes, tacks, alcohol, turpentine, paint, tumblers, saucers, and contingencies, two hundred and fifty dollars;
+- For frames for retained drawings of cadets, with glass and mats, fifty dollars;
+- For fifteen new drawing boards, at two dollars and fifty cents, thirty-seven dollars and fifty cents;
+- For binding periodicals, thirty dollars;
+- For forty new steel triangles, at two dollars and fifty cents, one hundred dollars;
+- For two surveying transits with tripods complete for contouring and topographical work, at two hundred dollars, four hundred dollars;
+- For three steel chains, at eight dollars, twenty four dollars;
+- For three sets brass arrows, at two dollars, six dollars;
+- For four hand levels, at eight dollars, thirty-two dollars;
+- For six prismatic compasses, at fifteen dollars, ninety dollars;
+- For one hundred and sixty-five chairs for lecture room, at two dollars and seventy-five cents, four hundred and fifty-three dollars and seventy-five cents;
+- For one dividing stereopticon for electric light for lecture room, two hundred dollars;
+- For eight stands for models and drawing materials for second class, drawing academy, at eight dollars, sixty-four dollars;
+- For fifteen stands for models and drawing materials for third class, drawing academy, at ten dollars, one hundred and fifty dollars;
+- For eighteen rolling shades, twenty feet long by four feet wide, for skylights of drawing academy, at five dollars, ninety dollars;
+- For shelving and wall cases for maps, models, drawings, and material for drawing academies, one hundred dollars;
+- For shelving for plaster and solid models in model room, seventy-five dollars;
+- For shelving and fixtures in photograph room, enlarging and developing rooms, one hundred dollars;
+- For shelving and bench in storeroom and workshop, fifty dollars;
+- For fifty new stools for drawing academies, at one dollar and seventy-five cents, eighty-seven dollars and fifty cents;
+- For pine bookshelves in office, forty dollars;
+- For preparation of wall in rear of lecture room for blackboard, seventy-five dollars;
+- For drop screens for stereopticon and color lectures, fifty dollars;
+- For hooks, sponge racks, and miscellaneous conveniences, fifty dollars;
+- For extra pay of one enlisted man, employed in the department of drawing, at fifty cents per day in lieu of all extra pay now paid him, one hundred and fifty-six dollars and fifty cents;
+- In all, three thousand one hundred and twenty-six dollars and twenty-five cents.
+- For department of modern languages: For stationery, textbooks, and books of reference for the use of instructors, for repairs of books, apparatus, and office furniture, and for printing examination papers, two hundred dollars;
+- For department of law: For stationery, textbooks, and books for use of instructors, and for repairing and rebinding same, and furniture for office, two hundred and fifty dollars;
+- For blackboards, double scholar desks, instructor’s desks and chairs, and book shelving for use in section rooms in new academic building, three hundred dollars;
+- In all, five hundred and fifty dollars.
+- For department of practical military engineering: For purchase and repair of instruments, transportation, purchase of tools, implements, and materials, and for extra duty pay of engineer soldiers, as follows, namely: For instruments for use in instructing cadets, in making reconnaissances; photographic apparatus and material for field photography; drawing instruments and material for platting reconnaissances, surveying instruments, instruments and material for signaling and field telegraphy; transportation of field parties; tools and materials for the preservation, augmentation, and repair of wooden ponton and one canvas ponton bridge train, sapping and mining tools and material; rope, cordage, material for rafts and for spar and trestle bridges; intrenching tools, tools and material for the repair of Fort Clinton and the batteries at the academy, and extra duty pay of engineer soldiers, at fifty cents per day each, when performing special skilled mechanical labor in the department of practical military engineering; for models, books of reference, and stationery, one thousand two hundred dollars.
+- For department of ordnance and gunnery: For purchase and repairs of instruments, models, and apparatus, and purchase of necessary materials; for the purchase of samples of arms and accouterments other than those supplied to the military service; for books of reference, textbooks. stationery, and lithographic printing materials, four hundred and fifty dollars.
+- For extra pay of one ordnance soldier as draftsman and lithographic printer, at fifty cents per day, one hundred and forty-three dollars and fifty cents.
+- For extra pay of one ordnance soldier as machinist, at fifty cents per day, one hundred and forty-three dollars and fifty cents.
+- For purchase of one Maxim or Nordenfelt threepounder quick-fire gun, mounted on nonrecoil field carriage, complete, with spare parts and appendages, and ammunition therefor, including customs dues five thousand dollars.
+- For manufacture or purchase of models of the new steel guns and carriages for field, siege, and seacoast, with breech mechanism, complete and thousand five hundred dollars;
+- For purchase of one Pratt and Whitney lathe, with chuck, pulleys, belting, and attachments, complete, to replace old, worn out machines, six hundred and fifty dollars;
+- For purchase of one Pratt and Whitney pillar shaper, with pulleys, belting, and attachments, complete, to replace old, worn out machines, five hundred and dollars.
+- In all, eight thousand three hundred and eighty-seven dollars.
+- For stationery for office of the treasurer, United States Military Academy, namely, blank books, paper, envelopes, steel pens, mucilage, typewriting supplies, blotting pads, rubber bands, and other items of stationery necessary, fifty dollars.
+- For extra pay of two enlisted men employed as clerks in the offices of the adjutant United States Military Academy and commandant of cadets, at fifty cents and thirty five cents per day, two hundred and eighty-four dollars and twenty five cents.
+- For extra pay of four enlisted men as printers, at headquarters United States Military-Academy, at fifty each per day, six hundred and twenty-six dollars.
+- For extra pay of one enlisted man employed as watchman, at thirty five cents per day, one hundred and fifty-nine dollars and sixty cents.
+- For extra pay of one enlisted man as trumpeter at the cadet-bar-racks at thirty-five cents per day, one hundred and twenty-seven dollars and seventy-five cents.
+- For extra pay of one enlisted man employed in the Philosophical department, observatory, as mechanic, at fifty cents per day, one hundred and fifty-six dollars and fifty cents.
+- For extra pay of one enlisted man employed in the chemical Department, at fifty cents per day, one hundred and fifty-six dollars and fifty cents.
+- For extra pay of two enlisted men (cavalrymen) when performing special skilled mechanical labor, at fifty cents each per day, three hundred and thirteen dollars.
+- For extra pay of one enlisted man employed as saddler, at fifty cents per day, one hundred and fifty-six dollars and fifty cents: Provided, that the extra pay provided for by the eight preceding paragraphs shall not be paid to any enlisted man who receives extra-duty pay under existing laws or Army regulations.
+- For expenses of the Board of Visitors, including mileage, three thousand dollars.
+- For miscellaneous and incidental expenses: For gas coal, oil, candles, lanterns, matches, chimneys, and wicking for lighting the Academy, chapel, library, cadet barracks, mess hall, shops, hospitals, offices, stables, and and riding hall, sidewalks, camp, and wharves, five thousand dollars.
+- For water pipe, plumbing, and repairs, two thousand dollars;
+- For cleaning public buildings (not quarters), six hundred dollars;
+- For brooms, brushes, pails, tubs, soap, and clothes, two hundred dollars;
+- For chalk, crayons, sponges, slate, rubbers, and card for recitation rooms, three hundred dollars;
+- For compensation of chapel organist two hundred dollars;
+- For compensation of librarian, one hundred and twenty dollars;
+- For pay of engineer of heating and ventilating apparatus for the Academic building, the cadet barracks, and office building, cadet Hospital, chapel, and philosophical building, including the library, one thousand five hundred dollars;
+- For pay of assistant engineer of same, one thousand dollars;
+- For pay of eight firemen, four thousand eight hundred dollars;
+- For pay of librarian’s assistant, one thousand dollars;
+- For pay of one landscape gardener, in charge of cemetery and general care of public grounds for such period as his services may be necessary, five hundred dollars;
+- In all, seventeen thousand two hundred and twenty dollars.
+- For pay of one superintendent of gas works, fifteen hundred dollars: Provided, That all proceeds of sales of gas be paid into the post fund.
+- For pay of one civilian plumber, nine hundred dollars.
+- For increase and expense of library, namely: For periodicals, Stationery, binding books, and scientific, historical, biographical, and general literature, to be purchased in open market on the written order of the Superintendent, two thousand dollars.
+- For repairing books, for furniture and contingent repairs of library rooms two hundred dollars
+- For furniture for cadet hospital, and repairs of the same, one hundred dollars
+- For contingencies for Superintendent of the Academy, one thousand dollars.
+- For renewing furniture in section rooms, and repairing the same, five hundred dollars.
+- For repairs, upholstering, and carpeting the Academy chapel, one hundred and fifty dollars.
+- For contingent funds, to be expended under the direction of the Academic Board; for instruments, books, repairs to apparatus, and other incidental expenses not otherwise provided for, one thousand dollars: Provided, That all technical and scientific supplies for the de- partments of instruction of the Military Academy shall be purchased by contract or otherwise, as the Secretary of War may deem best.
+- For purchase of instruments for band, eight hundred and sixty-seven dollars and fifty cents
+- For purchase of music for band to be purchased in open market on the order of the Superintendent, two hundred dollars.
+- Purchase of springs, pads, strings, and other necessary articles, for band instruments, one hundred dollars.
+
+## public works.
+
+- For buildings and grounds: For repairing roads and paths, including roads and bridges on reservation, five hundred dollars.
+- For continuing construction of breast-high wall in dangerous places, five hundred dollars.
+- For water works: Renewal of material in filter beds; improving ventilation of filter house and water house; hose for use in cleaning filter beds and water house, and for use in fire service at same; tools, implements, and materials for use of the two keepers, and for repairs of siphon house, filter house, and of four and one-half miles of supply pipes; for shed for tools and storage of fuel for keeper of Round Pond, and for tool house at filter; for gauges at Round Pond and Delafield Pond, and stairs for access to same, five hundred dollars.
+- For broken stone and gravel for roads, two thousand dollars.
+- For maintaining and improving the grounds of the post cemetery, including the purchase of trees, plants, tools, and materials, to be immediately available, one thousand five hundred dollars.
+- For repair of cooking utensils and the replacement of worn-out cooking utensils in the cadet subsistence department, three hundred and twenty-six dollars, to be expended without advertising.
+- For repairs of chairs, tables, and other furniture in cadet subsistence department, to be expended without advertising, fifty dollars.
+- For painting, kalsomining, whitewashing, and repairing interior walls of cadet mess building, kitchen, dish pantry, bakery, dormitories, and storerooms, and for incidental repairs about the same, to be expended without advertising, one hundred and fifty dollars.
+- For general repairs to the cadet laundry, painting, renewing machinery, and incidental repairs to machinery, to be expended without advertising, three hundred dollars.
+- For plastering the unfinished parts of the double building occupied by the cadet quartermaster’s department, for painting, and for general incidental repairs and improvements to the said building, five hundred dollars.
+- For machines, mattresses, and apparatus tor the equipment of the new gymnasium, one thousand five hundred dollars, to be immediately available.
+- For repairs to cadet barracks, kalsomining ceilings in cadet rooms, one thousand two bundled dollars.
+- For new roof on porch, four hundred and eighty dollars.
+- For painting walls and woodwork, one thousand eight hundred dollars.
+- For retubing and repairing four eighty-horse power horizontal tubular boilers used for heating with steam the academic building, cadet barracks, commandant’s office, mess hall, hospital, and cadet sinks, one thousand five hundred dollars.
+- For heating and supplying river water for swimming tank in the new gymnasium, including building for apparatus, six thousand dollars.
+- For enlargement of the steam heating plant of the Academy, nine thousand five hundred dollars.
+- For one steam heating apparatus complete, for quarters No. twentyseven, four hundred and fifty dollars.
+- For hot-water heating apparatus complete, for quarters no. forty-one, three hundred and twenty-five dollars.
+- For completing the modernization and improvement of the plumbing and sewerage of the post, three thousand dollars.
+- For repairs to cadet hospital as follows;
+- For repainting inside walls and ceilings of hospital throughout; for repainting inside woodwork of hospital; for repairing and relacquering mantelpieces; for repairing plastering where needed; for repainting banisters of inside front stairway; for restaining rims of bath tubs; for one gallon of ready-mixed cherry color, for two sash tools; for two varnish brushes; for whitewashing sides of elevator shaft; for repairs to elevator; for painting and japanning iron water pipes in cellar; for nineteen sash locks for windows in cellar; for repairs to door of storeroom and cellar; for new bath tub and ventilating trap of wash bath, first floor; for new wooden covering for outside steps, for use in winter; for placing faucets for drawing water in bath rooms on the second and third floors; for keys of three small drug closets; for reoiling and relacquering hardwood floors of hospital throughout; for material for rejapauning ironwork about fire places of hospital throughout; for material for rebronzing radiators throughout hospital; and for glass for reglazing windows throughout hospital, eight hundred and seventy dollars and ninety-nine cents.
+- For material necessary to keep the polished floor of the soldier’s hospital in condition, year ending June thirtieth, eighteen hundred and ninety-four:
+- For floor waxing and polishing brushes, number two, iron weighted, with carpet covered edges and sides weight of brush fifty pounds, twenty dollars;
+- For rubbing felt pieces, two, number four American, eighteen by eighteen, one and one-half inches thick, five dollars;
+- For butcher’s Boston polish for floors, five liquid gallons, ten dollars;
+- For improvements and additions required for soldiers’ hospital:
+- For seeding two acres of ground in lawn grass, two dollars and fifty cents.
+- For constructing three hundred yards of walk and filling the same with half-inch stone, one hundred and ninety-six dollars.
+- For two gas lamps and lampposts and connections with hospital main, one at main gate and one at main entrance, seventy dollars;
+- For whitewash and brushes scaffolding, and cost of labor for cleaning the interior of riding hall, and necessary paint for covering cavalry stables throughout, four hundred and fifty dollars.
+- For repairing road from south gate to the southern boundary line of the reservation and for laying a stone or cement walk along the same, two thousand dollars.
+- For new sewer from Log town, one thousand three hundred dollars.
+- For asphalt road and walk in front of and around the new gymnasium, two thousand dollars.
+- For painting the inside of the new cavalry barracks, one thousand eight hundred dollars.
+- For repairs to ordnance laboratory:
+- For new floor in barrack room, seventy-five dollars.
+- For new spouting on all buildings, one hundred and fifty dollars.
+- For repairs of north building:
+- For walls, plastering, flooring, and so forth, two hundred and fifty dollars.
+- For tin roof for instrument shed, fifty dollars.
+- For increase of water supply in laboratory yard, one hundred and fifty dollars.
+- For new wash basins in barrack room for use of enlisted men, fifty dollars.
+- For repair of instrument house:
+- For relining acid troughs for batteries, twenty-five dollars;
+- For repair of water faucets, fifteen dollars.
+- For repair of firing house:
+- For reshingling roof, fifty dollars.
+- For constructing a porch around the east end of the West Point army mess building, and for repairs and improvements of the mess building, one thousand five hundred dollars.
+- For addition to house of master mechanic, eight hundred dollars.
+- For one blacksmith shop near the cavalry stable and riding hall, four hundred dollars.
+- For repairs to quarters of married enlisted men, three thousand dollars.
+- For repairs and improvements to barracks of Company E. Battalion of Engineers, and steam plant for heating same, three thousand dollars.
+- For one set of officers’ quarters, seven thousand dollars: Provided, That the quarters be so constructed as to accommodate two married officers and their families.
+- For quarters in one building for unmarried officers, including plumbing, heating, and lighting apparatus complete, fifteen thousand dollars.
+- For one set of hospital steward’s quarters at soldier’s hospital, West Point, New York, in accordance with modifications made by Assistant Surgeon Kilbourne in plan of Plates P and Q, Appendix to Circular numbered ten, War Department, Surgeon-General’s Office, eighteen hundred and eighty-seven, during fiscal year ending June thirtieth, eighteen hundred and ninety-four, material to be of brick instead of wood, as in plan, and to have a cemented cellar under kitchen; bath room to have a bath tub, water-closet, and requisite plumbing; house drains to be connected with hospital sewer; set washtubs in kitchen with necessary plumbing; kitchen sink, with requisite plumbing; gas fixtures and connection with hospital main; range and boiler in kitchen, and necessary plumbing to supply bath room, kitchen sink, and washtubs; coal grate in parlor and in front chamber; dining room walls to be pierced for stovepipe leading from stove in lobby; space between chimney and wall in front chamber to be inclosed and finished as a closet opening into this and the eleven by fourteen foot chamber; detached coal and wood shed in rear of quarters; two thousand six hundred and forty-five dollars and twenty cents.
+- For one one-story brick building, fifteen by twenty feet, for housing the engine and dynamo used in electric lighting of the riding hall, three hundred dollars.
+- For one new reservoir, sixteen thousand dollars.
+- For one platform tor new eight-inch rille and one platform for twelve-inch breech-loading mortar, as follows:
+- For platform for the eight-inch rifle, five hundred and fifty dollars.
+- For platform for twelve-inch breech-loading mortar, six hundred dollars, to be immediately available.
+- For replacing three granite centerpintle platforms for eight-inch converted rifles in the seacoast battery with frontpintle granite platforms, at six hundred dollars each, one thousand eight hundred dollars.
+
+
+*Approved, March 1, 1893.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- March 1, 1893.
+- Military Academy appropriations.
+- Pay of superintendent, professors, etc.
+- Associate professor of mathematics. Pay and allowances. Longevity pay.
+- Proviso. Limit, etc.
+- Cadets.
+- Band.
+- Longevity pay.
+- Field musicians.
+- Current expenses. Repairs, etc.
+- Fuel and light.
+- Postage, etc. Stationery.
+- Transportation, etc.
+- Printing.
+- Clerks.
+- Department of cavalry, artillery, and infantry tactics.
+- Department of civil and military engineering.
+- Department of natural and experimental philosophy.
+- Department of mathematics.
+- Department of history, geography, and ethics.
+- Department of chemistry, mineralogy, and geology.
+- Proviso. Laboratory.
+- Department of drawing
+- Department of modern languages.
+- Department of law.
+- Department of practical military engineering.
+- Department of ordnance and gunnery.
+- Maxim or Norden, felt gun.
+- Models of new steel guns, etc.
+- Pratt and Whitney lathe.
+- Pratt and Whitney pillar shaper.
+- Treasurer’s office.
+- Extra pay to enlisted men.
+- Proviso. Limit.
+- Board of Visitors.
+- Miscellaneous expenses.
+- Compensation.
+- Mechanics.
+- Proviso. Sales of gas. Library.
+- Furniture, etc.
+- Proviso. Technical supplies.
+- Musical supplies.
+- Public works.
+- Repairing roads,etc.
+- Waterworks.
+- Cemetery.
+- Subsistence Department.
+- Repairs and improvements.
+- New gymnasium.
+- Cadet barracks.
+- Steam heating, etc.
+- Plumbing and sewerage.
+- Hospital repairs, etc.
+- Soldiers’ hospital.
+- Cavalry barracks.
+- Repairs of North building.
+- Repairs.
+- Officers’ quarters. Proviso. Construction.
+- Hosptal steward’s quarters.
+- New reservoir. Gun platforms.
+- Immediately available.
