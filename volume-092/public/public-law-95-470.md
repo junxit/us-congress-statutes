@@ -1,0 +1,59 @@
+---
+volume: 92
+citation: 92 Stat. 1323
+type: Public Law
+number: 470
+congress: 95
+session: 2
+scope: public
+approved: 1978-10-17
+bills: 95/s-2376
+---
+
+# Public Law 95–470
+
+> An Act To authorize withholding from salaries disbursed by the Secretary of the Senate and from certain employees under the jurisdiction of the Architect of the Capitol for contribution to certain charitable organizations.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+That
+
+- **(a)** for purposes of this Act, the term—
+  - **(1)** “Secretary” means the Secretary of the Senate; and
+  - **(2)** “Architect” means the Architect of the Capitol.
+- **(b)**
+  - **(1)** The Secretary and the Architect shall notify individuals whose pay is disbursed by the Secretary or who are employees of the Architect, including employees of the Botanic Garden or the Senate Restaurants of the opportunity to have amounts withheld from their pay pursuant to this section for contribution to national voluntary health and welfare agencies designated by the Chairman of the Civil Service Commission pursuant to Executive Order 10927, dated March 18, 1961.
+  - **(2)** Upon request by such an individual specifying the amount to be withheld and one Combined Federal Campaign Center in the Washington metropolitan area to receive such amount, the Secretary, the Architect, or any other officer who disburses the pay of such individual, as the case may be, shall—
+    - **(A)** withhold such amount from the pay of such individual; and
+    - **(B)** transmit (not less than once each calendar quarter) the amount so withheld to the Combined Federal Campaign Center as specified in such request.
+- **(c)** The Secretary and the Architect shall, to the extent practicable, carry out subsection (b) at or about the time of the Combined Federal Campaign and other fundraising in the executive branch of the Federal Government conducted pursuant to Executive Order 10927, dated March 18, 1961, and at such other times as each such officer deems appropriate.
+- **(d)**
+  - **(1)** No amount shall be withheld under subsection (b) from the pay of any individual for any pay period if the amount of such pay for such period is less than the sum of—
+    - **(A)** the amount specified to be withheld from such pay under subsection (b) for such period; plus
+    - **(B)** the amount of all other withholdings from such pay for such period,
+  - **(2)** No amount may be specified by an individual to be withheld for any pay period under subsection (b) which is less than—
+    - **(A)** 50 cents, if the pay period of such individual is biweekly or semimonthly; or
+    - **(B)** $1, if the pay period of such individual is monthly.
+- **(e)** This section imposes no duty, burden, or requirement upon the United States, the Senate, or any officer or employee of the United States, except as specifically provided in this section. Nothing in this section shall be deemed to consent to the application of any provision of law which has the effect of subjecting the United States, the Senate, or any officer or employee of the United States to any penalty or liability by reason of the provisions of this section. Any paper, form, document, or any other item filed with the Secretary under this section is a paper of the Senate within the provisions of rule XXX of the Standing Rules of the Senate.
+- **(f)** The Secretary and the Architect are authorized to issue rules and regulations they consider appropriate in carrying out their duties under this section.
+
+
+*Approved October 17, 1978.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- Oct. 17, 1978 [S. 2376]
+- Congressional employees, contributions to charitable organizations. 2 USC 60c–4.
+- Rules and regulations.
+
+## Legislative history
+
+**LEGISLATIVE HISTORY:**
+
+
+*CONGRESSIONAL RECORD, Vol. 124 (1978):*
+
+- Sept. 11, considered and passed Senate.
+- Oct. 3, considered and passed House.
