@@ -1,0 +1,28 @@
+---
+volume: 30
+citation: 30 Stat. 1463
+type: Chapter
+number: 472
+congress: 55
+session: 2
+scope: private
+approved: 1898-06-18
+---
+
+# Chapter 472
+
+> An Act Granting an increase of pension to Bettie Hord Brown.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+That the Secretary of the Interior be, and he is hereby, authorized and directed to place on the pension roll the name of Bettie Hord Brown, widow of Orlando Brown, late lieutenant-colonel of the Fourteenth Kentucky Infantry Volunteers, United States Army, and pay her a pension at the rate of thirty dollars a month, in lieu of that which she is now receiving.
+
+
+*Approved, June 18, 1898.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- June 18, 1898.
+- Bettie Hord Brown. Pension increased.
