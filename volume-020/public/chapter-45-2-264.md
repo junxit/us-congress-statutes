@@ -1,0 +1,530 @@
+---
+volume: 20
+citation: 20 Stat. 152
+type: Chapter
+number: 264
+congress: 45
+session: 2
+scope: public
+approved: 1878-06-18
+---
+
+# Chapter 264
+
+> AN ACT making appropriations for the construction, repair, preservation, and completion of certain public works on rivers and harbors, and for other purposes.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+That the following sums of money be, and are hereby, appropriated, to be paid out of any money in the Treasury not otherwise appropriated, to be expended, under the direction of the Secretary of War, for the repair, preservation, construction, and completion of the public works hereinafter named:
+
+- For improving Chester River, at Kent Island Narrows, Maryland, three thousand dollars.
+- For improving harbor at Baltimore, Maryland, seventy-five thousand dollars.
+- For improving Wicomico River, Maryland, five thousand dollars.
+- For improving James River, Virginia, seventy thousand dollars.
+- For improving Appomattox River, Virginia, thirty thousand dollars.
+- For improving Great Kanawha River, West Virginia, two hundred and twenty-two thousand dollars.
+- For improving New River, from Lead Mines in Wythe County, Virginia, to mouth of Greenbrier River, fifteen thousand dollars.
+- For improving Cape Fear River, North Carolina, one hundred and sixty thousand dollars.
+- For improving mouth of Occoquan River, Virginia: Completing the improvement, ten thousand dollars.
+- For improving Aquia Creek, Virginia: Completing the improvement, five thousand dollars.
+- For improving the Rappahannock River, Virginia, thirteen thousand five hundred dollars.
+- For improving South Branch of Elizabeth River, Virginia, five thousand dollars.
+- For continuing construction of ice harbor at New Castle, Delaware, ten thousand dollars.
+- For improving harbor at Norfolk, Virginia, and its approaches, fifty thousand dollars.
+- For improving French Broad River, North Carolina, fifteen thousand dollars.
+- For improving Nansemond River, Virginia: Completing the improvement, two thousand dollars.
+- For improving harbor at Charleston, South Carolina, two hundred thousand dollars.
+- For improving harbor at Savannah, Georgia, seventy thousand dollars.
+- For improving harbor at Cedar Keys, Florida, twenty thousand dollars.
+- For improving Apalachicola River, Florida, eight thousand dollars.
+- For improving Chattahoochee River, Alabama and Georgia, eighteen thousand dollars.
+- For improving Alabama River, twenty-five thousand dollars.
+- For deepening the bar at the mouth of Saint John’s River, Florida, ten thousand dollars.
+- For Port Clinton, Ohio, ten thousand dollars.
+- For improving Flint River, Georgia, ten thousand dollars.
+- For improving the Warrior and Tombigbee Rivers, Alabama and Mississippi, forty thousand dollars; of which sum twenty-eight thousand dollars shall be expended on the Warrior and Tombigbee and twelve thousand dollars on the Tombigbee above Columbus.
+- For improvement of ship channel in Galveston Bay, Texas, between Boliver Channel and Bed Fish Bar, seventy-five thousand dollars; and the appropriation made for this work by the act of fourteenth of August, eighteen hundred and seventy-six, is hereby made available for the same part of said channel.
+- For improving Mississippi and Arkansas Rivers: Continuing operations, removing snags, and other obstructions, one hundred and eighty thousand dollars; of which sum ten thousand dollars shall be used for removing the bar in the Arkansas River at Fort Smith.
+- For the survey of the Missouri River from its mouth to Sioux City, and estimates for the improvement and maintenance of its navigation, fifty thousand dollars.
+- For the improvement of the Missouri River: Removal of snags, wrecks, and so forth, seventy thousand dollars.
+- For improving entrance to Galveston Harbor, Texas, fifty thousand dollars.
+- For improving Sabine Pass, Texas, deepening channel at the entrance and at Blue Buck Bar, thirty thousand dollars.
+- For improving Passo Cavallo Inlet into Matagorda Bay, Texas, twenty-five thousand dollars.
+- For improving Ouachita River, Arkansas and Louisiana, ten thousand dollars.
+- For improving Yazoo River, Mississippi, twenty-five thousand dollars.
+- For removing raft in Red River and closing Tones Bayou, Louisiana, twenty-four thousand dollars.
+- For improving Cypress Bayou, Texas and Louisiana, fifteen thousand dollars.
+- For annual expense of gauging the waters of the Lower Mississippi River and its tributaries: Continuing observations of the rise and tall of the river and its chief tributaries, as required by joint resolution of February twenty-first, eighteen hundred and seventy-one, five thousand dollars.
+- For improving White and Saint Francis Rivers, Arkansas, forty thousand dollars.
+- For improving the Missouri River, opposite or near Saint Joseph, Missouri, fifty thousand dollars.
+- For improving mouth of Red River, Louisiana, one hundred and fifty thousand dollars.
+- For removing obstructions in Pocomoke River, Maryland, ten thousand dollars.
+- For the improvement of the Missouri River at Council Bluff’s, Iowa, and Omaha, Nebraska, fifty thousand dollars.
+- For improving the Missouri River, at Nebraska City, Nebraska, twenty thousand dollars.
+- For improvement of L’Anguille River, Arkansas, ten thousand dollars.
+- For removing bar in Mississippi River, opposite Dubuque, Iowa, ten thousand dollars.
+- For improving Rush Chute and the harbor of Burlington, Iowa, ten thousand dollars.
+- For improving harbor at Fort Madison, Iowa, eight thousand dollars.
+- For improving Rock Island Rapids, Mississippi River, thirty thousand dollars.
+- For improving Illinois River, seventy-five thousand dollars.
+- For the improvement of the Mississippi River, between the mouths of the Ohio and Illinois Rivers, two hundred and forty thousand dollars; of which sum twenty thousand dollars shall be expended between the mouths of the Illinois and Missouri Rivers; seventy-five thousand dollars for constructing dam at Cahokia Chute, opposite Saint Louis; forty thousand dollars between the foot of Dickey’s Island and the mouth of the Ohio River; and ten thousand dollars between Islands Numbers Fourteen and Fifteen, near the town of Kaskaskia, Illinois.
+- For removing snags and other obstructions from Red River, Louisiana, twenty five thousand dollars.
+- For the improvement of the Missouri River above the mouth of the Yellowstone, thirty thousand dollars.
+- For the improvement of the Mississippi River: Widening and deepening the channel from Saint Paul to Des Moines Rapids, two hundred and fifty thousand dollars.
+- For widening and deepening the channel of the Mississippi River from Des Moines Rapids to the mouth of the Ohio, one hundred thousand dollars.
+- For the improvement of Mobile Harbor, ten thousand dollars, to be applied to making tests, surveys, and borings to determine whether the ship-channel now leading from the lower anchorage in Mobile Bay can be deepened so as to admit vessels drawing twenty-two feet, or any less draught above thirteen feet, to the wharves at the city of Mobile.
+- For the improvement of Cumberland River above Nashville, Tennessee, sixty thousand dollars; of which sum twenty thousand dollars shall be expended between Nashville and the Kentucky line; thence to the foot of Smith’s Shoals, eight thousand dollars; and for Smith’s Shoals, thirty thousand dollars; thence to the falls of the Cumberland, two thousand dollars.
+- For improving Minnesota River, ten thousand dollars.
+- For improving Red River of the North, Minnesota, thirty thousand dollars.
+- For improving Tennessee River: Continuing operations above Chattanooga, fifteen thousand dollars; continuing operations below Chattanooga, including Muscle Shoals, three hundred thousand dollars; fifteen thousand dollars of which sum, or so much thereof as may be necessary, to be expended in the improvement of Duck River Shoals, on Tennessee River.
+- For improving Cumberland River, below Nashville, Tennessee, forty-five thousand dollars.
+- For improving Coosa River, between Rome, Georgia, and the Selma, Rome and Dali on Railroad bridge, Alabama, seventy-five thousand dollars.
+- For improving Hiawassee River, Tennessee, ten thousand dollars.
+- For improving Ocmulgee River, Georgia, fifteen thousand dollars.
+- For improving Oostenaula and Coosawattee Rivers, Georgia, four thousand dollars.
+- For improving Little Kanawha River, West Virginia, eighteen thousand dollars.
+- For improving Wabash River, Indiana, fifty thousand dollars.
+- For dredging Superior Bay, Wisconsin: Improving natural entrance to Superior Bay, three thousand dollars; continuing improvement of the harbor of Duluth, thirty thousand dollars.
+- For improving harbor at Ontonagon, Michigan, fifteen thousand dollars.
+- For improving Eagle Harbor, Michigan, eight thousand dollars.
+- For improving harbor at Marquette, Michigan, two thousand dollars.
+- For improving harbor at Menomonee, Wisconsin, ten thousand dollars.
+- For improving harbor at Green Bay, Wisconsin, five thousand dollars.
+- For improving harbor of refuge, entrance at Sturgeon Bay Canal, thirty thousand dollars.
+- For improving harbor at Ahnapee, Wisconsin, eight thousand dollars.
+- For improving harbor at Two Rivers, Wisconsin, ten thousand dollars.
+- For improving harbor at Manitowoc, Wisconsin, fifteen thousand dollars.
+- For improving harbor at Sheboygan, Wisconsin, four thousand dollars.
+- For improving harbor at Port Washington, Wisconsin, five thousand dollars.
+- For improving the Mississippi River, from the bridge of the Chicago, Milwaukee and Saint Paul Railroad Company above La Crosse, Wisconsin, to the mouth of Root River, below said city, twelve thousand five hundred dollars.
+- For improving and deepening the channel of the Ohio River, including the removal of snags, wrecks, and so forth, from Pittsburgh to its mouth, three hundred thousand dollars; of which sum fifty thousand dollars shall be expended at Grand Chain for removal of obstructions and deepening the channel at that point.
+- For the construction of a harbor or harbors of refuge, at or near Cincinnati, to protect the commerce of the Ohio River from floes of ice, fifty thousand dollars, to be expended under the direction and control of the Engineer Corps of the Army.
+- For improvement of the harbor at New Orleans, Louisiana, including cost of surveys and estimates fifty thousand dollars.
+- For the improvement of Monongahela River, West Virginia and Pennsylvania, to be expended in completing lock and dam at Hoard’s Rocks, twenty-five thousand dollars.
+- For the improvement of harbor at Michigan City, Indiana, seventy-five thousand dollars; of which sum twenty-five thousand dollars shall be expended for the improvement of the inner harbor.
+- For the improvement of Gut opposite Bath, Maine, seventeen thousand dollars.
+- For the improvement of Waddington Harbor, New York, five thousand dollars.
+- For the improvement of Oakland Harbor, California, eighty thousand dollars; but this sum shall not be available until the right of the United States to the bed of the estuary and training walls of this work is secured, free of expense to the government, in a manner satisfactory to the Secretary of War.
+- For improving harbor at Milwaukee, Wisconsin, fifteen thousand dollars.
+- For improving harbor at Racine, Wisconsin, ten thousand dollars.
+- For improving harbor at Kenosha, Wisconsin, eight thousand dollars.
+- For removing wrecks and other obstructions to navigation at Brazos Santiago, Texas, six thousand dollars.
+- For improving Fox and Wisconsin Rivers, two hundred and fifty thousand dollars.
+- For improving harbor at Chicago, Illinois: Extending breakwater and dredging channel, seventy-five thousand dollars.
+- For improving harbor at Calumet, Illinois, fifteen thousand dollars.
+- For improving harbor at Charlevoix, Michigan, twelve thousand dollars.
+- For improving harbor at Frankfort, Michigan, eight, thousand eight hundred dollars.
+- For improving harbor at Manistee, Michigan, fifteen thousand dollars.
+- For improving harbor at Ludington, Michigan, fifteen thousand dollars.
+- For improving harbor at Pentwater, Michigan, ten thousand dollars.
+- For improving harbor at White River Michigan, twelve thousand dollars.
+- For improving harbor at Grand Haven, Michigan, fifteen thousand dollars.
+- For improving harbor at Black Lake, Michigan, ten thousand dollars.
+- For improving harbor at Saugatuck, Michigan, two thousand five hundred dollars
+- For removing obstructions in Bayou La Fourches, Louisiana, ten thousand dollars.
+- For improving harbor at South Haven, Michigan, twelve thousand dollars.
+- For improving harbor at Saint Joseph, Michigan, twelve thousand dollars.
+- For improving Saint Mary’s River and Saint Mary’s Falls Canal, Michigan, one hundred and seventy-five thousand dollars.
+- For improving Harbor of Refuge, Lake Huron, Michigan, one hundred thousand dollars.
+- For improving Saint Clair River at month of Black River, Michigan, one thousand five hundred dollars.
+- For improving Detroit River, Michigan, one hundred thousand dollars.
+- For improving Saint Clair Flats, Michigan, five thousand dollars.
+- For improving Saginaw River, Michigan, twenty-five thousand dollars.
+- For improving harbor at Cheboygan, Michigan, eight thousand dollars.
+- For improving harbor at Monroe, Michigan, two thousand five hundred dollars.
+- For improving harbor at Toledo, Ohio, fifty thousand dollars.
+- For the improvement of Guyandotte River, West Virginia, two thousand dollars.
+- For the improvement of the Raritan River, New Jersey, two hundred thousand dollars.
+- For the improvement of Blackwater River, Virginia, five thousand dollars.
+- For the improvement of Hampton River, Virginia, ten thousand dollars.
+- For the improvement of Chickahominy River, Virginia, five thousand dollars.
+- For the improvement of the Narrows above Orange, on the Sabine River, Texas, and deepening the channel at the mouth of said river, ten thousand dollars.
+- For deepening the channel at the mouth of the Trinity River, Texas, and removing obstructions to Liberty, ten thousand dollars.
+- For deepening the channel at the mouth of the Neches River, Texas, and removing obstructions to Beaumont, eight thousand dollars.
+- For improving Pascagoula River, Mississippi, and deepening the channel at its mouth, ten thousand dollars.
+- For the improvement of the harbor and the Mississippi River at Memphis, Tennessee, forty-six thousand dollars.
+- For the improvement of Elk River, West Virginia, five thousand dollars.
+- For improving harbor at Sandusky City, Ohio, twenty thousand dollars.
+- For improving harbor at Huron, Ohio, one thousand dollars.
+- For improving harbor at Vermillion, Ohio, four thousand dollars.
+- For breakwater at Cleveland, Ohio, and repairs of harbor, one hundred thousand dollars.
+- For improving harbor at Fairport, mouth of Grand River, Ohio, five thousand dollars.
+- For improving harbor at Ashtabula, Ohio, twelve thousand dollars.
+- For improving harbor at Erie, Pennsylvania, twenty-five thousand dollars.
+- For improving harbor at Buffalo, New York, eighty thousand dollars.
+- For improving harbor at Oak Orchard, New York, two thousand dollars.
+- For improving harbor at Charlotte, New York, one thousand dollars.
+- For improving harbor at Pultneyville, New York, five thousand dollars.
+- For improving harbor at Great Sodus Bay, New York, five thousand dollars.
+- For improving harbor at Little Sodus Bay, New York, ten thousand dollars.
+- For improving harbor at Oswego, New York, ninety thousand dollars.
+- For breakwater at Wilmington, California, twenty thousand dollars.
+- For improving Sacramento and Feather Rivers, California, fifteen thousand dollars.
+- For improving Lower Willamette and Columbia Rivers, from Portland, Oregon, to the sea, thirty thousand dollars.
+- For improving Upper Willamette River, Oregon, twenty thousand dollars.
+- For improving Upper Columbia River, including Snake River, twenty thousand dollars.
+- For constructing a canal around the Cascades of Columbia River, one hundred and fifty thousand dollars.
+- For the improvement of Big Sandy River, from Catlettsburg, Kentucky, to the head of navigation, twelve thousand dollars.
+- For the improvement of the mouth of the Columbia River, Oregon, five thousand dollars, the same or so much thereof as may be necessary to be expended under the direction of the Secretary of War in making a thorough survey of the bar at the mouth of said river and in the preparation of a plan and estimates for its permanent improvement; any balance to be used in the temporary improvement of said bar.
+- For repairs of ice-harbor at Chester, Pennsylvania, three thousand four hundred dollars.
+- For the improvement of the Oconee River, Georgia, ten thousand dollars; of which sum eight thousand dollars shall be expended between Dublin and the Central Railroad bridge, and two thousand dollars between Dublin and the Ocmulgee River.
+- For the improvement of Galena River, Illinois, making a channel of one hundred feet width, and the improvement, of the harbor of Galena, thirty thousand dollars.
+- For the improvement of the Mississippi River at and near Vicksburg, Mississippi, and protection of harbor at Vicksburg, Mississippi eighty-four thousand dollars.
+- For improving the channel of Salem River, New Jersey, and removing obstructions in the Delaware River at the month of Salem River, three thousand dollars.
+- For improving the Missouri River at Omaha City, Nebraska, thirty thousand dollars.
+- For the improvement of the Saint Croix River, Wisconsin, ten thousand dollars.
+- For completing and protecting wing dams and jetties now in course of construction upon the Chippewa River in Wisconsin in and near its mouth and below the lower point of Beef Island, ten thousand dollars: Provided, That nothing herein shall be construed, nor shall any expenditure of this appropriation be made so as to affect existing legal or equitable rights in or upon the said Chippewa River or its branches, whether such rights arise under the laws of the United States or the State of Wisconsin.
+- For the improvement of the Missouri River, at Atchison, Kansas, twenty thousand dollars.
+- For the improvement of the Missouri River at Eastport, Iowa, and Nebraska City, Nebraska, twenty thousand dollars.
+- For the improvement of the Osage River in Missouri and Kansas, twenty thousand dollars.
+- For the improvement of the Missouri River at or near Fort Lea van-worth, Kansas, twenty-five thousand dollars.
+- For improving the Missouri River at Sioux City, Iowa, twelve thousand five hundred dollars.
+- For the improvement of the Neuse River, North Carolina, forty thousand dollars.
+- For the improvement of the harbor, including survey and estimate for removal of wrecks at Pensacola, Florida, twenty thousand dollars.
+- For the improvement of Currituck Sound and North River Bar, North Carolina, twenty thousand dollars.
+- For the improvement of Souppernong River, North Carolina, two thousand dollars.
+- For the improvement of Edenton Harbor, North Carolina, four thousand dollars.
+- For completing the improvement of Black River Harbor, Ohio, one thousand dollars.
+- For the improvement, of the harbor at New Haven, Connecticut, twenty-five thousand dollars.
+- For the improvement of the harbor at Darien, Georgia, eight thousand dollars.
+- For continuing the improvement of Penobscot River, Maine, twelve thousand dollars; of which sum two thousand five hundred dollars, or so much thereof as may be necessary, shall be expended at or near the Narrows in said river at Bucksport.
+- For the improvement of the harbor at Bridgeport, Connecticut, ten thousand dollars; of which sum not less than one-half shall be expended between the lower bridge and the horse-railroad bridge.
+- For the improvement of Harlem River, New York, three hundred thousand dollars; but this sum is not to be available until the right of way for this work is secured to the United States free of cost.
+- For improving harbor at Belfast, Maine, twelve thousand dollars.
+- For improving Richmond Island Harbor, Maine, six thousand dollars.
+- For improving Cocheco River, New Hampshire, six thousand dollars.
+- For improving Merrimac River, Massachusetts, below Mitchell’s Falls, ten thousand dollars.
+- For improving harbor at Boston, Massachusetts, fifty-five thousand dollars.
+- For improving harbor at Plymouth, Massachusetts, five thousand dollars.
+- For improving harbor at Provincetown, Massachusetts, one thousand dollars.
+- For improving harbor at Hyannis, Massachusetts, three thousand dollars.
+- For improving Taunton River, Massachusetts, two thousand dollars.
+- For improving Providence River, Rhode Island; Removing Bulkhead Rock, five thousand dollars.
+- For improving Little Narragansett Bay, Rhode Island and Connecticut, ten thousand dollars.
+- For improving Providence River and Narragansett Bay, fifty thousand dollars.
+- For the improvement of Echo Harbor, New Rochelle, New York, ten thousand dollars.
+- For the improvement of Staten Island Sound, between New Jersey and Staten Island, fifteen thousand dollars.
+- For improving the harbor of Breton Bay, Leonardtown, Maryland, five thousand dollars.
+- For improving the inner harbor at Cambridge, Maryland, five thousand dollars.
+- For improving the harbors and channels at Washington and Georgetown, District of Columbia, fifty thousand dollars; of which sum twenty thousand dollars is to be expended in Washington harbor and channel below the Long Bridge, and thirty thousand dollars to be expended in Georgetown harbor and channel.
+- For improving Connecticut River, below Hartford, Connecticut, thirty thousand dollars; of which sum five thousand dollars shall be used for dredging the river between Hartford and Middletown; and two thousand dollars for improving the mouth of Salmon River in the town of East Haddam.
+- For improving harbor at Stonington, Connecticut, forty thousand dollars.
+- For improving Thames River, Connecticut, ten thousand dollars.
+- For improving harbor at Milford Connecticut, ten thousand dollars.
+- For improving Housatonic River, Connecticut, five thousand dollars.
+- For improving harbor at Norwalk, Connecticut, six thousand dollars.
+- For improving harbor at Port Jefferson, Long Island Sound, New York, eight thousand dollars.
+- For improving Hudson River, New York, seventy thousand dollars.
+- For removing obstructions in East River and Hell Gate, New York, three hundred and fifty thousand dollars.
+- For improving Passaic River, New Jersey, ten thousand dollars.
+- For improving East Chester Creek, New York, ten thousand dollars.
+- For improving harbor at Rondout, New York, thirty thousand dollars.
+- For improving harbor at Burlington, Vermont, twenty thousand dollars.
+- For improving harbor at Swanton, Vermont, twenty thousand dollars.
+- For improving Otter Creek, Vermont, eight thousand dollars.
+- For constructing piers in Delaware Bay, near Lewes, Delaware, twenty thousand dollars.
+- For improving harbor at Wilmington, Delaware, seven thousand dollars.
+- For improving Schuylkill River, Pennsylvania, thirty thousand dollars, lars.
+- For improving Delaware River, below Bridesburg, one hundred thousand dollars.
+- For improving Delaware River, between Trenton and White Hill, New Jersey, ten thousand dollars.
+- For improving North and South Branches of Shrewsbury River, New Jersey, eighteen thousand dollars.
+- For improving Cohansey Creek, New Jersey, five thousand dollars.
+- For improving Des Moines Rapids, and operating the canal, ninety-five thousand dollars.
+- For improving Upper Mississippi River, from the mouth of the Illinois: Removal of snags and obstructions, forty-one thousand five hundred dollars.
+For continuing surveys and examinations at the South Pass of the Mississippi River, fifteen thousand dollars.
+
+It shall be the duty of the Secretary of War to apply the money herein appropriated for improvements, other than surveys and estimates, in carrying on the various works by contract or by hired labor, at his discretion, and as in his judgment may be most advantageous to the Government; and, where said works are done by contract, such contracts shall be made after sufficient public advertisement for proposals in such manner and form as the Secretary of War shall prescribe; and such contracts shall be made with the lowest responsible bidders therefor, accompanied by such securities as the’ Secretary of War shall require.
+
+## § 2.
+
+That the Secretary of War is hereby directed at his discretion to cause examinations or surveys, or both, and estimates of cost of improvements proper to be made at the following points, namely:
+
+- Portsmouth Harbor, New Hampshire;
+- For improving the navigation at the Falls on Red River near Alexandria Louisiana;
+- The Mispillion Creek, Delaware;
+- Cape Foul weather, Oregon, to ascertain its adaptability as a harbor of refuge;
+- The entrance of Coos Bay.
+- The Conecuh, Patsaligo, and Escambia Rivers, Alabama;
+- The Yadkin, North Carolina, between the bridge on the North Carolina Railroad and Wilkesborongh;
+- Flushing Bay, New York;
+- The Thames River Connecticut;
+- The Big Sunflower, Cbickasahoy, Tallahatchie, Cold Water, Pearl, and Pascagoula, Mississippi; and the expenses of survey of the Pascagoula shall be defrayed out of the sum herein appropriated for the improvement thereof;
+- North Landing River, Virginia;
+- Ananeock Harbor, Virginia;
+- TheSalem River, New Jersey, between Sharpstown and Delaware Canal. The Suwannee River, Florida;
+- The Caloosahatchie River, Florida;
+- Mississippi River at and above the city of Alexandria, Missouri;
+- The mouth of Hillsborough River and Tampa Bay, Florida;
+- Caney’s Fork and Obey’s Rivers, Tennessee;
+- Bayou Bartbolemew, Arkansas;
+- Upper Red River, from the raft up to the Missouri, Kansas and Texas Railroad bridge; and also the Brazos River in Texas from eight miles above its mouth, down through its mouth to the outer edge of the bar in the Gulf of Mexico.
+- Aransas Pass and Bay, up to Rockport and Corpus Christi, Texas; and Corpus Christi Pass and Channel;
+- Little River, Arkansas;
+- Saline River, Arkansas;
+- The bar at the mouth of Brazos River, Texas, including a report upon the capacity of the harbor at the mouth of the Brazos, and its adaptability as a harbor of ref uge and naval station;
+- The Missouri River at Cedar City, in Callaway County, Missouri;
+- Missouri River at the city of St Charles, Missouri;
+- Yellow Stone River;
+- The Nottoway River, Virginia;
+- The coast of Long Island, New York, between Coney Island Point and Rockaway Inlet, in New York Bay;
+- Sheepshead Bay, New York;
+- Oanarsie Bay, New York;
+- The Chattahoochee River, Georgia, above Columbus;
+- The Flint River, Georgia, from Albany to Montezuma;
+- The Etowah River, Georgia;
+- The Savannah River, above Augusta, Georgia;
+- The Fonche La Fave in Arkansas;
+- The harbor of San Luis Obispo, California, with a view to the practicability of building breakwater;
+- The harbor of San Buenaventura, California, with a view to the practicability of building breakwater;
+- The harbor of Santa Barbara, California, with a view to the practicability of building breakwater;
+- The Mississippi River, to ascertain the practicability, cost, and utility of a dike from Bloody Island, opposite the city of Saint Louis, Missouri, north to the dike or dam opposite Brooklyn, on the Illinois shore;
+- A survey and estimate of the damages, if any, done, or to be done, to riparian owners of lands, and improvements thereon, at or in front of the town of Venice, Illinois, near Saint Louis, Missouri, by reason of government improvements made, or to be made, at or near said town of Venice;
+- Dan River, Virginia, from Clarksville, via Danville, Virginia, to Danbury, North Carolina;
+- Staunton River, from Roanoke Depot, in Charlotte County, Virginia, to Brookneal, in the county of Campbell, Virginia;
+- New River, from the Lead Mines in Wythe County to the mouth of Wilson in Grayson County, Virginia;
+- The harbor at Quincy, Illinois;
+- Tones Bayou, Bayous Pierre and Wincey and Lakes Bayou Pierre and Cannasanier, Louisiana;
+- Scituate Harbor, Massachusetts, with a view to its adaptability as a harbor of refuge;
+- Tongapahoe Biver, Louisiana;
+- Wolf River, from Lake Boygau to Red River, Wisconsin;
+- The Arkansas River, from Fort Smith, Arkansas, to the mouth of Little Arkansas;
+- Woodbridge Creek, Middlesex County, New Jersey;
+- Elizabeth River, New Jersey;
+- Rahway River, New Jersey;
+- Charles River, Massachusetts, to the bead of tidewater;
+- Mauasquau River New Jersey;
+- White River, Indiana, including the East Fork to the new bridge in course of construction near Bedford, and the West Fork to the town of Gosport;
+- Portage Lake, Manistee County, Michigan, with a view to its adaptability as a harbor of refuge;
+- Westport Harbor, Massachusetts;
+- Wood’s Holl, Massachusetts;
+- Peedee River, from Cheraw, South Carolina, to the mouth of Uwharic River, North Carolina;
+- The bars at the entrance of Annapolis Harbor, Maryland, with a view to accommodation of deepdraught vessels at low tide;
+- West Branch of Patapsco River, Maryland, from Lightstreet bridge to head of tidewater, and an estimate of the cost of making the same navigable for canal-boats;
+- The Kentucky River and navigable tributaries, Kentucky;
+- The Licking River, Kentucky;
+- The falls of the Cumberland, Kentucky;
+- Clearwater River, Idaho;
+- The Missouri and Kansas Rivers, at and near their junction;
+- The Trent River, North Carolina;
+- Neuse River, from Smithfield to Goldsborough, North Carolina;
+- Chowan River, North Carolina;
+- The Tar River, North Carolina, from Washington to Tarborough;
+- Humboldt River, California, with a view to its adaptability as a Harbor of refuge;
+- Crescent City Harbor, California, with a view to its adaptability as a harbor of refuge;
+- The examination of the sources of the Mississippi River and of the Saint Croix River in Wisconsin and Minnesota, and of the Chippewa and Wisconsin Rivers in the State of Wisconsin, to determine the practicability and cost of creating and maintaining reservoirs upon the headwaters of said rivers and their tributaries for the purpose of regulating the volume of water and improving the navigation of said rivers, and that of the Mississippi River, and an estimate of the damage to result therefrom to property of any kind;
+- The Muskingum River, Ohio, below the second dam, to ascertain its adaptability for an ice-harbor, for the protection of steamers and other craft on the Ohio River;
+- Colorado of the West from Fort Yuma to El Dorado Canon;
+- The Kiskiminetas and Conemaugh Rivers, Pennsylvania, from the mouth of the Kiskiminetas to the mouth of Stony Creek on the Conemaugh;
+- The Allegheny River, up to the mouth of French Creek;
+- The Kankakee River, Illinois, and Indiana;
+- Lincolnville Harbor, Maine;
+- Lubec Channel, Maine;
+- Apalachicola Bay, Florida;
+- East River, New York, at its junction with Newtown Creek;
+- The peninsula of Maryland and Delaware, with a view to a construction of a ship-canal to connect the waters of the Delaware and Chesapeake Bays;
+- The peninsulas of Florida with a view to the construction of a ship canal from the Saint Mary’s River to the Gulf of Mexico;
+- Duck Creek, Delaware;
+- The mouth of Saint John’s River, Florida;
+- The Kansas River from its mouth to Junction City, Kansas;
+- The Delaware River below League Island;
+- For survey of the Saint John’s River, Florida, between Lake George and Lake Monroe, and estimates of cost of deepening the Volusia Bar and straightening the river by cutoffs;
+- Port Orford, Oregon, to ascertaiu its adaptability for a harbor of refuge;
+- Rogue River, Oregon, between Scottsburg and its mouth;
+- Coquille River, Oregon;
+- Alsea River and Bay, Oregon;
+That the sum of twenty thousand dollars is hereby appropriated, out of any moneys in the Treasury not otherwise provided for, for the purpose of having a complete survey and examination of all the water lines and routes leading or that may lead from the Harbor of Norfolk to the Atlantic Ocean south of Hatteras, including any communication that
+
+maybe practicable with the Cape Fear River; and the said examination and survey shall embrace the line known as the Dismal Swamp line and the line known as the Albermarle and Chesapeake Canal line, and all other routes and lines that may be practicable in the waters of Eastern North Carolina connecting Norfolk Harbor by inland navigation with the ocean south of Cape Hatteras.
+
+## § 3.
+
+That for the examinations and surveys herein provided for, and for incidental repairs of harbors for which there is no special appro- priation, the sum of one hundred and fifty thousand dollars is hereby appropriated, to be paid out of any moneys in the Treasury not otherwise appropriated.
+
+
+*Approved, June 18, 1878.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- June 18, 1878.
+- Appropriations. Rivera and Harbors.
+- Chester River.
+- Baltimore.
+- Wicomico River.
+- James River.
+- Appomattox River. Great Kanawha River.
+- New River.
+- Cape Fear River.
+- Occoquan River.
+- Aquia Creek.
+- Rappahannock River.
+- Elizabeth Elver.
+- New Castle.
+- Norfolk.
+- French Broad River.
+- Nanscmond River.
+- Charleston.
+- Savannah.
+- Cedar Keys.
+- Apalachicola River. Chattahoochee River. Alabama River. St. John’s River.
+- Port Clinton. Flint River. Warrior and Tombigbee Rivers.
+- Galveston Bay. 1876 ch. 267, 19 Stat., 133.
+- Mississippi and Arkansas Rivers.
+- Missouri River.
+- Galveston Harbor,
+- Sabine Paas.
+- Passo Cavallo Inlet.
+- Ouachita River.
+- Yazoo River. Red River.
+- Cypress Bayou.
+- Lower Mississippi River.
+- White and St.
+- Francis Rivers.
+- Red River.
+- Pocomoke River.
+- L’Anguille River. Mississippi River.
+- Burlington.
+- Fort Madison. Rock Island Rapids. Illinois River. Mississippi River.
+- Red River, Missouri River.
+- Mississippi River.
+- Mobile Harbor.
+- Cumberland River.
+- Minnesota River. Red River.
+- Tennessee River.
+- Coosa River.
+- Hiawassee River. Ocmulgee River. Oostenaula and Coosawattee Rivers. Little Kanawha River. Wabash River. Superior Bay.
+- Ontonagon.
+- Eagle Harbor. Marquette. Menomonee. Green Bay. Sturgeon Bay.
+- Ahnapee. Two Rivers. Manitowoc.
+- Sheboygan. Port Washington. Mississippi River.
+- Ohio River.
+- Cincinnati.
+- New Orleans.
+- Monongahela River.
+- Michigan City.
+- Bath.
+- Waddington Harbor. Oakland Harbor.
+- Milwaukee.
+- Racine. Kenosha. Brazos Santiago.
+- Fox and Wisconsin Rivers. Chicago.
+- Calomet. Charlevoix.
+- Frankfort.
+- Manistee. Ludington.
+- Pentwater. White River Harbor.
+- Grand Haven.
+- Black Lake. Saugatuck.
+- Bayou La Fourches.
+- South Haven.
+- Saint Joseph.
+- Saint Mary’s River, etc.
+- Harbor of Refuge, Lake Huron.
+- Saint Clair River. Detroit River.
+- SaintClairFlats.
+- Saginaw River.
+- Cheboygan.
+- Monroe.
+- Toledo. Guyandotte River.
+- Raritan River.
+- Blackwater River.
+- Hampton River.
+- Chickahominy River.
+- Sabine River.
+- Trinity River.
+- Neches River.
+- Pascagoula River.
+- Memphis.
+- Elk River. Post, 370.
+- Sandusky City.
+- Huron. Vermillion. Cleveland.
+- Fairport.
+- Ashtabula. Erie.
+- Buffalo. Oak Orchard.
+- Charlotte. Pultneyville.
+- Great Sodus Bay.
+- Little Sodus Bay.
+- Oswego. Wilmington. Sacramento and Feather Rivers.
+- Lower Willamette and Columbia, Rivers. Upper Willamette River.
+- Upper Columbia River.
+- Cascades, Columbia River. Big Sandy River.
+- Columbia River.
+- Chester.
+- Oconee River.
+- Galena River.
+- Vioksburg.
+- Salem River.
+- Saint Croix River.
+- Chippewa River. Proviso.
+- Osage River.
+- Neuse River.
+- Pensacola.
+- Currituck Sound.
+- Souppernong River.
+- Edenton Harbor.
+- Black River Harbor.
+- New Haven.
+- Darien.
+- Penobscot River.
+- Bridgeport.
+- Harlem River. Post, 372.
+- Belfast. Richmond Island Harbor. Cocheco River. Merrimac River.
+- Boston.
+- Plymouth.
+- Provincetown.
+- Hyannis.
+- Taunton River. Providence River.
+- Little Narragansett Bay.
+- Providence River.
+- Echo Harbor.
+- Staten Island Sound.
+- Bruton Buy.
+- Cain bridge.
+- Washington and Georgetown.
+- Connecticut River.
+- Stonington.
+- Thames River. Milford. Housatonio River. Norwalk. Port Jefferson.
+- Hudson River. Hell Gate.
+- Passaic River. East Chester Creek. Rondout. Burlington.
+- Swanton. Otter Creek. Lewes.
+- Wilmington.
+- Schuylkill River.
+- Delaware River.
+- Shrewsbury River. Cohansey Creek. Des Moines Rapids. Upper Mississippi River.
+- South Pass.
+- Use and expenditure of appropriations.
+- Surreys and examinations.
+- Portsmouth. Red River Falls.
+- Mispillion Creek. Cape Foul weather.
+- Coos Bay. Conecub, etc., Rivers. Yadkin River.
+- Flushing Bay. Thames River. Big Sunflower, etc., rivers.
+- North Landing River. Anancock Harbor. Salem River. Suwannee River. Caloosahatchie River. Mississippi River. Hillsborough River. Caney’s Fork and Obey’s River. Bayou Bartholomew. Upper Red River. Brazos River.
+- Aransas Pass.
+- Little River. Saline River. Brazos River.
+- Yellow Stone River. Nottoway River. Long Island coast
+- Sheepshead Bay. Canarsie Bay. Chattahoochee River. Flint River. Etowah River. Savannah River. Fouche La Fave. San Luis Obispo.
+- San Buenaventura.
+- Banta Barbara.
+- St. Lon is dike.
+- Damages at Venice.
+- Dan River.
+- Staunton River.
+- Quincy. Tones Bayou, etc.
+- Scituate.
+- Tongapahoe River. Wolf River. Arkansas River.
+- Wood bridge Creek. Elizabeth River. Rahway River. Charles River. Manasquan River. White River.
+- Portage Lake.
+- Westport. Wood’s Holl. Peadee River.
+- Annapolis.
+- Patapseo River, West Branch.
+- Kentucky River. Licking River. Cumberland Falls Clearwater River
+- Missouri and Kansas Rivers. Trent River. Neuse River. Chowan River. Tar River. Humboldt River.
+- Crescent City Harbor. Reservoirs on Mississippi, St. Croix, Chippewa, and Wisconsin Rivers.
+- Muskingum River.
+- Colorado of the West. Kiskiminetas and Conemaugh Rivers.
+- Allegheny River. Kankakee River. Lincolnville Harbor. Lubec Channel. Apalachicola Bay East River. Maryland and Delaware peninsula canal.
+- Florida peninsula canal.
+- Duck Creek. St. John’s River. Kansas River. Delaware River. St. John’s River.
+- Port Orford.
+- Rogue River. Coquille River. Alsea River and Bay. Water lines from Norfolk to Cape Fear River.
+- What lines to be surveyed
+- Examinations, etc., appropriation.

@@ -1,0 +1,27 @@
+---
+volume: 20
+citation: 20 Stat. 622
+type: Chapter
+number: 256
+congress: 45
+session: 2
+scope: private
+approved: 1879-03-03
+---
+
+# Chapter 256
+
+> AN ACT granting a pension to Mrs. Rosa Gale.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+That the Secretary of the Interior is hereby directed to place on the pension-rolls, the name of Mrs Rosa Gale, widow of Captain Benjamin B. Gale, late of Atchinson, Kansas, and pay her a pension at the rate of thirty dollars per month from the passage of this act.
+
+Approved, March 3, 1879
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- March 3, 1879 .
+- Rosa Gale. Pension.
