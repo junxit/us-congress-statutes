@@ -1,0 +1,1093 @@
+---
+volume: 52
+citation: 52 Stat. 710
+type: Chapter
+number: 464
+congress: 75
+session: 3
+scope: public
+approved: 1938-06-16
+bills: 75/hr-10238
+---
+
+# Chapter 464
+
+> AN ACT Making appropriations for the Department of Agriculture and for the Farm Credit Administration for the fiscal year ending June 30, 1939, and for other purposes.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+That the following sums are appropriated, out of any money in the Treasury not otherwise appropriated, for the Department of Agriculture and for the Farm Credit Administration for the fiscal year ending June 30, 1939, namely:
+
+## TITLE I — DEPARTMENT OF AGRICULTURE
+
+## Office of the Secretary
+
+## salaries
+
+For the Secretary of Agriculture, Under Secretary of Agriculture, Assistant Secretary, Director of Finance and Budget Officer at $8,500 so long as the position is held by the present incumbent, and for other personal services in the District of Columbia, and elsewhere, $581,920: Provided, That in expending appropriations or portions of appropriations contained in this Act for the payment of personal services in the District of Columbia in accordance with the Classification Act of 1923, as amended, with the exception of the Assistant Secretary, the average of the salaries of the total number of persons under any grade in any bureau, office, or other appropriation unit shall not at any time exceed the average of the compensation rates specified for the grade by such Act as amended and in grades in which only one position is allocated the salary of such position shall not exceed the average of the compensation rates for the grade, except that in unusually meritorious cases of one position in a grade advances may be made to rates higher than the average of the compensation rates of the grade but not more often than once in any fiscal year and then only to the next higher rate: Provided further, That this restriction shall not apply (1) to grades 1, 2, 3, and 4 of the clerical-mechanical service, or (2) to require the reduction in salary of any person whose compensation was fixed as of July 1, 1924, in accordance with the rules of section 6 of such Act, (3) to require the reduction in salary of any person who is transferred from one position to another position in the same or different grade, in the same or different bureau, office, or other appropriation unit, (4) to prevent the payment of a salary under any grade at a rate higher than the maximum rate of the grade when such higher rate is permitted by the Classification Act of 1923, as amended, and is specifically authorized by other law, or (5) to reduce the compensation of any person in a grade in which only one position is allocated: Provided further, That the Secretary of Agriculture is authorized to contract for stenographic reporting services, and the appropriations made in this Act shall be available for such purposes: Provided further, That the Secretary of Agriculture is authorized to expend from appropriations available for the purchase of lands not to exceed $1 for each option to purchase any particular tract or tracts of land: Provided further, That not to exceed $40,000 of the appropriations available for salaries and expenses of officers and employees of the Department of Agriculture permanently stationed in foreign countries may be used for payment of allowances for living quarters, including heat, fuel, and light, as authorized by the Act approved June 26, 1930 (5 U. S. C. 118a): Provided further, That with the approval of the Secretary of Agriculture employees of the Department of Agriculture stationed abroad may enter into leases for official quarters, for periods not exceeding one year, and may pay rent, telephone, subscriptions to publications, and other charges incident to the conduct of their offices and the discharge of their duties, in advance, in any foreign country where custom or practice requires payment in advance: Provided further, That no part of the funds appropriated by this Act shall be used for the payment of any officer or employee of the Department of Agriculture who, as such officer or employee, or on behalf of the Department or any division, commission, or bureau thereof, issues, or causes to be issued, any prediction, oral or written, or forecast with respect to future prices of cotton or the trend of same: Provided further, That no part of the funds appropriated by this Act shall be used for laboratory investigations to determine the possibly harmful effects on human beings of spray insecticides on fruits and vegetables.
+
+## miscellaneous expenses, department of agriculture
+
+For stationery, supplies, materials, and equipment, freight, express, and drayage charges, advertising and press clippings, communication service, postage, washing towels, repairs, and alterations; for the maintenance, repair, and operation of one motorcycle and not to exceed three motor-propelled passenger-carrying vehicles (including one for the Secretary of Agriculture, one for general utility needs of the entire Department, and one for the Forest Service) and purchase of one motor-propelled passenger-carrying vehicle at not to exceed $1,500, including the exchange value of one such vehicle, for official purposes only; for official traveling expenses, including examination of estimates for appropriations in the field for any bureau, office, or service of the Department; and for other miscellaneous supplies and expenses not otherwise provided for and necessary for the practical and efficient work of the Department, which are authorized by such officer as the Secretary may designate, $108,250: Provided, That this appropriation shall be available for the payment of salaries of employees engaged in the maintenance, repair, and operation of motor transport vehicles, and that this appropriation shall be reimbursed from the appropriation made for any bureau or office for which such service is performed, in accordance with the provisions of the Act of May 11, 1922 (5 U. S. C. 543): Provided further, That the Secretary of Agriculture, during the fiscal year for which this appropriation is made, may maintain stocks of stationery, supplies, equipment, and miscellaneous materials sufficient to meet, in whole or in part, requirements of the bureaus and offices of the Department in the city of Washington and elsewhere, but not to exceed in the aggregate $200,000 in value at the close of the fiscal year, and the appropriations of such bureaus, offices, and agencies available for the purchase of stationery, supplies, equipment, and miscellaneous materials shall be available to reimburse the appropriation for miscellaneous expenses current at the time supplies are allotted, assigned, or issued, or when payment is received; for transfer for the purchase of inventory; and for transfer pursuant to the provisions of section 601 of the Act approved June 30, 1932 (31 U. S. C. 686): Provided further, That the appropriations made hereunder shall be available for the payment of salaries and expenses for purchasing, storing, handling, packing, or shipping supplies and blank forms, and there shall be charged proportionately as a part of the cost of supplies issued an amount to cover such salaries and expenses, and in the case of blank forms and supplies not purchased from this appropriation an amount to cover such salaries and expenses shall be charged proportionately to the proper appropriation: Provided further, That the facilities of the central storehouse of the Department shall to the fullest extent practicable be used to make unnecessary the maintenance of separate bureau storehouse activities in the Department: Provided further, That a separate schedule of expenditures, transfers of funds, or other transactions hereunder shall be included in the annual Budget.
+
+## rent of buildings in the district of columbia
+
+For rent of buildings and parts of buildings in the District of Columbia, for use of the various bureaus, divisions, and offices of the Department of Agriculture, $180,655.
+
+Total, Office of the Secretary, $870,825.
+
+## OFFICE OF THE SOLICITOR
+
+Salaries and expenses: For the employment of personal services in the District of Columbia and elsewhere, and for other necessary expenses, $219,240, of which not to exceed $174,541 may be expended for personal services in the District of Columbia.
+
+## OFFICE OF INFORMATION
+
+## salaries and expenses
+
+For necessary expenses in connection with the publication, indexing, illustration, and distribution of bulletins, documents, and reports, including labor-saving machinery and supplies, envelopes, stationery and materials, office furniture and fixtures, photographic equipment and materials, artists’ tools and supplies, telephone and telegraph service, freight and express charges; purchase and maintenance of bicycles; purchase of manuscripts; traveling expenses; electrotypes, illustrations, and other expenses not otherwise provided for, $379,800, of which not to exceed $359,338 may be used for personal services in the District of Columbia.
+
+## printing and binding
+
+For all printing and binding for the Department of Agriculture, including all of its bureaus, offices, institutions, and services located in Washington, District of Columbia, and elsewhere, $1,094,970, including the purchase of reprints of scientific and technical articles published in periodicals and journals; the Annual Report of the Secretary of Agriculture, as required by the Acts of January 12, 1895 (44 U. S. C. III, 212–220, 222, 241, 244), March 4, 1915 (7 U. S. C. 418), and June 20, 1936 (5 U. S. C. 108), and in pursuance of the Act approved March 30, 1906 (44 U. S. C. 214, 224), and also including not to exceed $250,000 for farmers’ bulletins, which shall be adapted to the interests of the people of the different sections of the country, an equal proportion of four-fifths of which shall be delivered to or sent out under the addressed franks furnished by the Senators, Representatives, and Delegates in Congress, as they shall direct, but not including work done at the field printing plants of the Weather Bureau and of the Forest Service authorized by the Joint Committee on Printing, in accordance with the Act approved March 1, 1919 (44 U. S. C. 111, 220).
+
+Total, Office of Information, $1,474,770.
+
+## LIBRARY, DEPARTMENT OF AGRICULTURE
+
+Salaries and expenses: For purchase and exchange of books of reference, law books, technical and scientific books, periodicals, and for expenses incurred in completing imperfect series; not to exceed $1,200 for newspapers, and when authorized by the Secretary of Agriculture for dues for library membership in societies or associations which issue publications to members only or at a price to members lower than to subscribers who are not members; for salaries in the city of Washington and elsewhere; for official traveling expenses, and for library fixtures, library cards, supplies, and for all other necessary expenses, $105,420, of which amount not to exceed $71,600 may be expended for personal services in the District of Columbia.
+
+## OFFICE OF EXPERIMENT STATIONS
+
+## paymnets to states, hawaii, alaska, and puerto rico for agricultural experiment stations
+
+Hatch Act: To carry into effect the provisions of an Act approved March 2, 1887 (7 U. S. C. 362, 363, 365, 368, 377–379), entitled “An Act to establish agricultural experiment stations in connection with the colleges established in the several States under the provisions of an Act approved July 2, 1862 (7 U. S, C. 301–308), and of the Acts supplementary thereto”, the sums apportioned to the several States, to be paid quarterly in advance, $720,000.
+
+Adams Act: To carry into effect the provisions of an Act approved March 16, 1906 (7 U. S. C. 369), entitled “An Act to provide for an increased annual appropriation for agricultural experiment stations and regulating the expenditure thereof”, and Acts supplementary thereto, the sums apportioned to the several States to be paid quarterly in advance, $720,000.
+
+Purnell Act: To carry into effect the provisions of an Act entitled “An Act to authorize the more complete endowment of agricultural experiment stations”, approved February 24, 1925 (7 U. S. C. 361, 366, 370, 371, 373–376, 380, 382), $2,880,000.
+
+Hawaii: To carry into effect the provisions of an Act entitled “An Act to extend the benefits of certain Acts of Congress to the Territory of Hawaii”, approved May 16, 1928 (7 U. S, C. 386–386b), $55,000.
+
+Alaska: To carry into effect the provisions of an Act entitled “An Act to extend the benefits of the Hatch Act and the Smith-Lever Act to the Territory of Alaska”, approved February 23, 1929 (7 U. S. C. 386c), $15,000; and the provisions of section 2 of the Act entitled “An Act to extend the benefits of the Adams Act, the Purnell Act, and the Capper-Ketcham Act to the Territory of Alaska, and for other purposes”, approved June 20, 1936 (7 U. S. C. 369a), $8,750; in all, for Alaska, $23,750.
+
+Puerto Rico: To carry into effect the provisions of an Act entitled “An Act to coordinate the agricultural experiment station work and to extend the benefits of certain Acts of Congress to the Territory of Puerto Rico”, approved March 4, 1931 (7 U. S. C. 386d–386f), $42,500.
+
+Title 1, Bankhead-Jones Act: For payments to States, Hawaii, Alaska, and Puerto Rico, pursuant to authorizations contained in title 1 of an Act entitled “An Act to provide for research into basic laws and principles relating to agriculture and to provide for the further development of cooperative agricultural extension work and the more complete endowment and support of land-grant colleges”, approved June 29, 1935 (7 U. S. C. 427–427g), $2,100,000.
+
+In all, payments to States, Hawaii, Alaska, and Puerto Rico for agricultural experiment stations, $6,541,250.
+
+## salaries and expenses
+
+Administration of grants to States and coordination of research: To enable the Secretary of Agriculture to enforce the provisions of the Acts approved March 2, 1887 (7 U. S. C. 362, 363, 365, 368, 377–379), March 16, 1906 (7 U. S. C. 369, 375), February 24, 1925 (7 U. S. C. 361, 366, 370, 371, 373–376, 380, 382), May 16, 1928 (7 U. S. C. 386–386b), February 23, 1929 (7 U. S. C. 386c), March 4, 1931 (7 U. S. C. 386d–386f), and June 20, 1936 (7 U. S. C. 369a), and Acts amendatory or supplementary thereto, relative to their administration and for the administration of an agricultural experiment station in Puerto Rico, including the employment of persons and means in the city of Washington and elsewhere, $161,735; and the Secretary of Agriculture shall prescribe the form of the annual financial statement required under the above Acts, ascertain whether the expenditures are in accordance with their provisions, coordinate the research work of the Department of Agriculture and coordinate the research work of the Department with that of the State agricultural colleges and experiment stations in the lines authorized in said Acts, and make report thereon to Congress.
+
+Insular experiment stations: To enable the Secretary of Agriculture to establish and maintain an agricultural experiment station in Puerto Rico, including the erection of buildings, the preparation, illustration, and distribution of reports and bulletins, $67,245: Provided, That the Secretary of Agriculture may, at his discretion, transfer such property and equipment, including the library, of the Hawaii Experiment Station, formerly maintained by the Department of Agriculture, as he may deem necessary and advisable to the experiment station of the University of Hawaii, which has been conducted jointly and in collaboration with the former Federal station under the Act of May 16, 1928 (7 U. S. C. 386–386b); and the Secretary of Agriculture is authorized to sell such products as are obtained on the land belonging to the agricultural experiment station in Puerto Rico, and the amount obtained from the sale thereof shall be covered into the Treasury of the United States as miscellaneous receipts.
+
+In all, salaries and expenses, $228,980.
+
+Total, Office of Experiment Stations, $6,770,230, of which amount not to exceed $150,105 may be expended for personal services in the District of Columbia, and not to exceed $750 shall be available for the purchase of motor-propelled and horse-drawn passenger-carrying vehicles necessary in the conduct of field work outside the District of Columbia.
+
+## SPECIAL RESEARCH FUND, DEPARTMENT OF AGRICULTURE
+
+For enabling the Secretary of Agriculture to carry into effect the provisions of an Act entitled “An Act to provide for research into basic laws and principles relating to agriculture and to provide for the further development of cooperative agricultural extension work and the more complete endowment and support of land-grant colleges”, approved June 29, 1935 (7 U. S. C. 427, 427b, 427c, 427f); for administration of the provisions of section 5 of the said Act, and for special research work, including the planning, programming, and coordination of such research, to be conducted by such agencies of the Department of Agriculture as the Secretary of Agriculture may designate or establish, and to which he may make allotments from this fund, including the employment of persons and means in the District of Columbia and elsewhere, and the purchase, maintenance, repair, and operation of motor-propelled and horse-drawn passenger-carrying vehicles necessary in the conduct of field work outside the District of Columbia, $1,400,000.
+
+## EXTENSION SERVICE
+
+## payments to states, hawaii, alaska, and puerto rico
+
+Supplementary cooperative extension work: For cooperative agricultural extension work, to be allotted, paid, and expended in the same manner, upon the same terms and conditions, and under the same supervision as the additional appropriations made by the Act of May 8, 1914 (7 U. S. C. 341–348), entitled “An Act to provide for cooperative agricultural extension work between the agricultural colleges in the several States receiving benefits of an Act of Congress approved July 2, 1862 (7 U. S. C. 301–308), and of Acts supplementary thereto, and the United States Department of Agriculture”, $395,000; and all sums appropriated by this Act for use for demonstration or extension work within any State shall be used and expended in accordance with plans mutually agreed upon by the Secretary of Agriculture and the proper officials of the college in such State which receives the benefits of said Act of May 8, 1914: Provided, That of the above appropriation not more than $300,000 shall be expended for purposes other than salaries of county agents.
+
+Capper-Ketcham extension work: To enable the Secretary of Agriculture to carry into effect the provisions of the Act entitled “An Act to provide for the further development of agricultural extension work between the agricultural colleges in the several States receiving the benefits of the Act entitled ‘An Act donating public lands to the several States and Territories which may provide colleges for the benefit of agriculture and mechanic arts’, approved July 2, 1862 (7 U. S. C. 301–308), and all Acts supplementary thereto, and the United States Department of Agriculture”, approved May 22, 1928 (7 U. S. C. 343a, 343b), $1,480,000.
+
+Extension work, section 21, Bankhead-Jones Act: To enable the Secretary of Agriculture to carry into effect the provisions of section 21, title II, of the Act entitled “An Act to provide for research into basic laws and principles relating to agriculture and to provide for the further development of cooperative agricultural extension work and the more complete endowment and support of land-grant colleges”, approved June 29, 1935 (7 U. S. C. 343c), $11,000,000.
+
+Alaska: To enable the Secretary of Agriculture to carry into effect the provisions of the Act entitled “An Act to extend the benefits of the Hatch Act and the Smith-Lever Act to the Territory of Alaska”, approved February 23, 1929 (7 U. S. C. 386c), $13,918; and the provisions of section 3 of the Act entitled “An Act to extend the benefits of the Adams Act, the Purnell Act, and the Capper-Ketcham Act to the Territory of Alaska, and for other purposes”, approved June 20, 1936 (7 U. S. C. 343e). $7,500; in all, for Alaska, $21,418.
+
+Puerto Rico: To enable the Secretary of Agriculture to carry into effect the provisions of the Act entitled “An Act to extend the benefits of section 21 of the Bankhead-Jones Act to Puerto Rico”, approved August 28, 1937 (50 Stat. 881), $45,000.
+
+Additional cooperative extension work: For additional cooperative agricultural extension work, including employment of specialists in economics and marketing, to be allotted and paid by the Secretary of Agriculture to the several States and the Territory of Hawaii in such amounts as he may deem necessary to accomplish such purposes, $275,000.
+
+In all, payments to States, Hawaii, Alaska, and Puerto Rico for agricultural extension work, $13,216,418.
+
+## salaries and expenses
+
+General administrative expenses: For necessary expenses for general administrative purposes, including personal services in the District of Columbia, $126,246.
+
+Farmers’ cooperative demonstration work: For farmers’ cooperative demonstration work, including special suggestions of plans and methods for more effective dissemination of the results of the work of the Department of Agriculture and the agricultural experiment stations and of improved methods of agricultural practice, at farmers’ institutes and in agricultural instruction, and for such work on Government reclamation projects, and for personal services in the city of Washington and elsewhere, supplies, and all other necessary expenses, $545,170: Provided, That the expense of such service shall be defrayed from this appropriation and such cooperative funds as may be voluntarily contributed by State, county, and municipal agencies, associations of farmers, and individual farmers, universities, colleges, boards of trade, chambers of commerce, other local associations of business men, business organizations, and individuals within the State.
+
+Motion pictures: For the preparation and distribution of motion and sound pictures, and sound recordings, as a means of disseminating information to farmers and others on the results of scientific research of the Department, and of teaching improved methods and practices in agriculture, home economics, and other subjects related to the work of the Department of Agriculture; including the employment of persons and means in the District of Columbia and elsewhere, $79,000.
+
+Agricultural exhibits at fairs: To enable the Secretary of Agriculture to make suitable agricultural exhibits at State, interstate, and international fairs held within the United States including the employment of persons and means in the District of Columbia and elsewhere, $85,000.
+
+Cooperative farm forestry extension work: For cooperation with appropriate officials of the various States or with other suitable agencies to assist the owners of farms in establishing, improving, and renewing wood lots, shelterbelts, windbreaks, and other valuable forest growth, and in growing and renewing useful timber crops under the provisions of section 5 of the Act entitled “An Act to provide for the protection of forest lands, for the reforestation of denuded areas, for the extension of national forests, and for other purposes, in order to promote the continuous production of timber on lands chiefly suitable therefor”, approved June 7, 1924 (16 U. S. C. 564–570), including personal services in the District of Columbia, $56,838.
+
+In all, salaries and expenses, $892,254, of which amount not to exceed $680,316 may be expended for personal services in the District of Columbia.
+
+Total, Extension Service, $14,108,672.
+
+Grand total, Office of the Secretary of Agriculture, $24,949,157.
+
+## WEATHER BUREAU
+
+## salaries and expenses
+
+For the employment of persons and means required for carrying into effect in the District of Columbia and elsewhere in the United States, in the West Indies, in the Panama Canal, the Caribbean Sea, and on adjacent coasts, in the Hawaiian Islands, in Bermuda, and in Alaska the provisions of an Act approved October 1, 1890 (15 U. S. C. 311–313, 317), so far as they relate to the weather service transferred thereby to the Department of Agriculture, and the amendment thereof contained in section 5 (e) of the Air Commerce Act of 1926 (15 U. S. C. 313); for repair, alterations, and improvements to existing buildings and care and preservation of grounds, including the construction of necessary outbuildings and side walks on public streets, abutting Weather Bureau grounds; for the erection of temporary buildings for living quarters of observers; for telephone rentals, and for telegraphing, telephoning, and cabling reports and messages, rates to be fixed by the Secretary of Agriculture by agreement with the companies performing the service; for the establishment, equipment, and maintenance of meteorological offices and stations and for the issuing of weather forecasts and warmings of storms, cold waves, frosts, and heavy snows, the gaging and measuring of the flow of rivers and the issuing of river forecasts and warnings; for observations and reports relating to crops; and for other necessary observations and reports, including cooperation with other bureaus of the Government and societies and institutions of learning as follows:
+
+General administrative expenses: For necessary expenses for general administrative purposes, including the salary of chief of bureau and other personal services in the District of Columbia, $145,000.
+
+General weather service and research: For necessary expenses incident to collecting and disseminating meteorological, climatological, and marine information, and for investigations in meteorology, climatology, seismology, evaporation, and aerology in the District of Columbia and elsewhere, including $3,930 for investigations of the relationship of weather conditions to forest fires, under section 6 of the Act approved May 22, 1928 (16 U. S. C. 581e), $2,342,870, of which not to exceed $1,500 may be expended for the contribution of the United States to the cost of the office of the secretariat of the International Meteorological Committee, and not to exceed $10,000 may be expended for the maintenance of a printing office in the city of Washington for the printing of weather maps, bulletins, circulars, forms, and other publications: Provided, That no printing shall be done by the Weather Bureau that can be done at the Government Printing Office without impairing the service of said Bureau.
+
+Aerology: For the maintenance of stations for observing, measuring, and investigating atmospheric phenomena, including salaries and other expenses, in the city of Washington and elsewhere, $2,500,000.
+
+Total, Weather Bureau, $4,987,870, of which amount not to exceed $575,619 may be expended for personal services in the District of Columbia: Provided, That Weather Bureau part-time employees, appointed by designation or otherwise, under regulations of the Civil Service Commission, for observational work, may perform odd jobs in the installation, repair, improvement, alteration, cleaning, or removal of Government property and receive compensation therefor at rates of pay to be fixed by the Secretary of Agriculture.
+
+## BUREAU OF ANIMAL INDUSTRY
+
+## salaries and expenses
+
+For carrying out the provisions of the Act approved May 29, 1884 (7 U. S. C. 391; 21 U. S. C. 112–119, 130), establishing a Bureau of Animal Industry, and the provisions of the Act approved March 3, 1891 (45 U. S. C. 75, 76), providing for the safe transport and humane treatment of export cattle from the United States to foreign countries, and for other purposes; the Act approved August 30, 1890 (21 U. S. C. 101–105), providing for the importation of animals into the United States, and for other purposes; and the provisions of the Act approved February 2, 1903 (21 U. S. C. 111–113, 120–122), to enable the Secretary of Agriculture to more effectually suppress and prevent the spread of contagious and infectious diseases of livestock, and for other purposes; and also the provisions of the Act approved March 3, 1905 (21 U. S. C. 123–128), to enable the Secretary of Agriculture to establish and maintain quarantine districts, to permit and regulate the movement of cattle and other livestock therefrom, and for other purposes; and for carrying out the provisions of the Act of June 29, 1906 (45 U. S. C. 71–74), entitled “An Act to prevent cruelty to animals while in transit by railroad or other means of transportation”; and for carrying out the provisions of the Meat Inspection Act of June 30, 1906 (21 U. S. C. 95), as amended by the Act of March 4, 1907 (21 U. S. C. 71–94), as extended to equine meat by the Act of July 24, 1919 (21 U. S. C. 96), and as authorized by section 2 (a) of the Act of June 26, 1934 (31 U. S. C. 725a); and for carrying out the provisions of the Act approved March 4, 1913 (21 U. S. C. 151–158), regulating the preparation, sale, barter, exchange, or shipment of any virus, serum, toxin, or analogous products manufactured in the United States and the importation of such products intended for use in the treatment of domestic animals; and for carrying out the provisions of the Packers and Stockyards Act, approved August 15, 1921 (7 U. S. C. 181–229), as amended by the Act of August 14, 1935 (7 U. S. C. 218–218d); and the Secretary of Agriculture, upon application of any exporter, importer, packer, owner, agent of, or dealer in livestock, hides, skins, meat, or other animal products, may, in his discretion, make inspections and examinations at places other than the headquarters of inspectors for the convenience of said applicants and charge the applicants for the expenses of travel and subsistence incurred for such inspections and examinations, the funds derived from such charges to be deposited in the Treasury of the United States to the credit of the appropriation from which the expenses are paid; and to enable the Secretary of Agriculture to collect and disseminate information concerning livestock and animal products; to prepare and disseminate reports on animal industry; to employ persons and means in the city of Washington or elsewhere; to purchase in the open market samples of all tuberculin, serums, antitoxins, or analogous products, of foreign or domestic manufacture, which are sold in the United States, for the detection, prevention, treatment, or cure of diseases of domestic animals, to test the same, and to disseminate, the results of said tests in such manner as he may deem best; to purchase and destroy diseased or exposed animals, including poultry, or quarantine the same whenever in his judgment essential to prevent the spread of pleuropneumonia, tuberculosis, contagious poultry diseases, or other diseases of animals from one State to another, as follows:
+
+General administrative expenses: For necessary expenses for general administrative purposes, including the salary of chief of bureau and other personal services in the District of Columbia, $178,220.
+
+Animal husbandry: For investigations and experiments in animal husbandry; for experiments in animal feeding and breeding, including cooperation with the State agricultural experiment stations and other agencies, including repairs and additions to and erection of buildings absolutely necessary to carry on the experiments, $789,380, including $12,500 for livestock experiments and demonstrations at Big Springs or elsewhere in Texas, to be available only when the State of Texas, or other cooperating agency in Texas, shall have appropriated an equal amount or, in the opinion of the Secretary of Agriculture, shall have furnished its equivalent in value in cooperation for the same purpose during the fiscal year 1939: Provided, That of the sum thus appropriated $238,957 may be used for experiments in poultry feeding and breeding, of which amount $40,000 may be used in cooperation with State authorities in the administration of regulations for the improvement of poultry, poultry products, and hatcheries.
+
+Diseases of animals: For scientific investigations of diseases of animals, including the construction of necessary buildings at Beltsville, Maryland, and necessary expenses for investigations of tuberculin, serums, antitoxins, and analogous products, $447,000: Provided, That of said sum $78,182 may be used for researches concerning the cause, modes of spread, and methods of treatment and prevention of the disease of contagious abortion of animals.
+
+Eradicating tuberculosis and Bang’s disease: For the control and eradication of the diseases of tuberculosis and paratuberculosis of animals, avian tuberculosis, and Bang’s disease of cattle, $5,403,000, together with the unobligated balances of the funds made available by the Act of May 25, 1934 (48 Stat. 805), and section 37 of the Act of August 24, 1935 (49 Stat. 775–776): Provided, That in carrying out the purpose of this appropriation, if in the opinion of the Secretary of Agriculture it shall be necessary to condemn and destroy tuberculous or paratuberculous cattle, or cattle reacting to the test for Bang’s disease, and if such animals have been destroyed, condemned, or die after condemnation, he may, in his discretion, and in accordance with such rules and regulations as he may prescribe, expend in the city of Washington or elsewhere such sums as he shall determine to be necessary for the payment of indemnities to owners of such animals but, except as hereinafter provided, no part of the money hereby appropriated shall be used in compensating owners of such cattle except in cooperation with and supplementary to payments to be made by State, Territory, county, or municipality where condemnation of such cattle shall take place, nor shall any payment be made hereunder as compensation for or on account of any such animal if at the time of inspection or test, or at the time of condemnation thereof, it shall belong to or be upon the premises of any person, firm, or corporation to which it has been sold, shipped, or delivered for the purpose, of being slaughtered: Provided further, That out of the money hereby appropriated no payment as compensation for any cattle condemned for slaughter shall exceed one-third of the difference between the appraised value of such cattle and the value of the salvage thereof; that, except as hereinafter provided, no payment hereunder shall exceed the amount paid or to be paid by the State, Territory, county, and municipality where the animal shall be condemned; and that in no case, shall any payment hereunder be more than $25 for any grade animal or more than $50 for any purebred animal: Provided further, That indemnity payments may be made for cattle slaughtered prior to May 1, 1939, even though the State, Territory, county, or municipality where animals are condemned has made no payment or has not equaled the Federal payment, but in no case arising under this proviso shall the Federal payment exceed the highest amount authorized to be paid at the time by the Federal Government in similar cases in any State contributing to such indemnity payments; and this proviso shall apply only to Bang’s disease work: Provided further, That not to exceed $100,000 of the amount herein made available may be used for continuation of scientific experimentation in diseases of livestock as authorized by section 37 of the Act of August 24, 1935 (7 U. S. C. 612b).
+
+Eradicating cattle ticks: For the eradication of southern cattle ticks, $503,940: Provided, That, except upon the written order of the Secretary of Agriculture, no part, of this appropriation shall be used for the purchase of animals or in the purchase of materials for or in the construction of dipping vats upon land not owned solely by the United States, except at fairs or expositions where, the Department of Agriculture makes exhibits or demonstrations; nor shall any part of this appropriation be used in the purchase of materials or mixtures for use in dipping vats except in experimental or demonstration work carried on by the officials or agents of the. Bureau of Animal Industry.
+
+Hog-cholera control: For the control and eradication of hog cholera and related swine diseases, by such means as may be necessary, including demonstrations, the formation of organizations, and other methods, either independently or in cooperation with farmers’ associations, State or county authorities, $122,000.
+
+Inspection and quarantine: For inspection and quarantine work, including the eradication of scabies in sheep and cattle and dourine in horses, the inspection of southern cattle, the supervision of the transportation of livestock, and the inspection of vessels, the execution of the twenty-eight-hour law, the inspection and quarantine of imported animals, including the establishment and maintenance of quarantine stations and repairs, alterations, improvements, or additions to buildings thereon; the inspection work relative to the existence of contagious diseases, and the mallein testing of animals, $680,000.
+
+Meat inspection: For expenses in carrying out the provisions of the Meat Inspection Act of June 30, 1906 (21 U. S. C. 95), as amended by the Act of March 4, 1907 (21 U. S. C. 71–94), as extended to equine meat by the Act of July 24, 1919 (21 U. S. C. 96), and as authorized by section 2 (a) of the Act of June 26, 1934 (31 U. S. C. 725a), including the purchase of printed tags, labels, stamps, and certificates without regard to existing laws applicable to public printing, $5,412,600.
+
+Virus-Serum-Toxin Act: For carrying out the provisions of the Act approved March 4, 1913 (21 U. S. C. 151–158), regulating the preparation, sale, barter, exchange, or shipment of any virus, serum, toxin, or analogous product manufactured in the United States and the importation of such products intended for use in the treatment of domestic animals, $218,712.
+
+Marketing agreements with respect to hog cholera virus and serum: The sum of $30,000 of the appropriation made by section 12 (a) of the Agricultural Adjustment Act, approved May 12, 1933, is hereby made available during the fiscal year for which appropriations are herein made to carry into effect sections 56 to 60, inclusive, of the Act approved August 24, 1935 (7 U. S. C. 851–855), entitled “An Act to amend the Agricultural Adjustment Act, and for other purposes”, including the employment of persons and means in the District of Columbia and elsewhere.
+
+Packers and Stockyards Act: For carrying out the provisions of the Packers and Stockyards Act, approved August 15, 1921 (7 U. S. C. 181–229), as amended by the Act of August 14, 1935 (7 U. S. C. 218–218d), $381,879: Provided, That the Secretary of Agriculture may require reasonable bonds from every market agency and dealer, under such rules and regulations as he may prescribe, to secure the performance of their obligations, and whenever, after due notice and hearing, the Secretary finds any registrant is insolvent or has violated any provisions of said Act he may issue an order suspending such registrant for a reasonable specified period. Such order of suspension shall take effect within not less than five days, unless suspended or modified or set aside by the Secretary of Agriculture or a court of competent jurisdiction: Provided further, That the Secretary of Agriculture may, whenever necessary, authorize the charging and collection from owners of a reasonable fee for the inspection of brands appearing upon livestock subject to the provisions of the said Act for the purpose of determining the ownership of such livestock: Provided further, That such fee shall not be imposed except upon written request made to the Secretary of Agriculture by the Board of Livestock Commissioners, or duly organized livestock association of the States from which such livestock have originated or been shipped to market.
+
+## eradication of foot-and-mouth and other contagious diseases of animals
+
+In case of an emergency arising out of the existence of foot-and-mouth disease, rinderpest, contagious pleuropneumonia, or other contagious or infectious disease of animals which, in the opinion of the Secretary of Agriculture, threatens the livestock industry of the country, he may expend in the city of Washington or elsewhere any unexpended balances of appropriations heretofore made for this purpose in the arrest and eradication of any such disease, including the payment of claims growing out of past and future purchases and destruction, in cooperation with the States, of animals affected by or exposed to, or of materials contaminated by or exposed to, any such disease, wherever found and irrespective of ownership, under like or substantially similar circumstances, when such owner has complied with all lawful quarantine regulations: Provided, That the payment for animals hereafter purchased may be made on appraisement based on the meat, dairy, or breeding value, but in case of appraisement based on breeding value no appraisement of any animal shall exceed three times its meat or dairy value, and, except in case of an extraordinary emergency, to be determined by the Secretary of Agriculture, the payment by the United States Government for any animals shall not exceed one-half of any such appraisements: Provided further, That the sum of $5,000 of the unexpended balance of the appropriation of $3,500,000 contained in the Second Deficiency Appropriation Act, fiscal year 1924, approved December 5, 1924, for the eradication of the foot-and-mouth disease and other contagious or infectious diseases of animals, is hereby made available during the fiscal year for which appropriations are herein made to enable the Secretary of Agriculture to control and eradicate the European fowl pest and similar diseases in poultry.
+
+Total, Bureau of Animal Industry, $14,136,731, of which amount not to exceed $873,141 may be expended for departmental personal services in the District of Columbia, and not to exceed $66,150 shall be available for the purchase of motor-propelled and horse-drawn passenger-carrying vehicles necessary in the conduct of field work outside the District of Columbia.
+
+## BUREAU OF DAIRY INDUSTRY
+
+## salaries and expenses
+
+For carrying out the provisions of the Act approved May 29, 1924 (7 U. S. C. 401–404), establishing a Bureau of Dairying, for salaries in the city of Washington and elsewhere, and for all other necessary expenses, as follows:
+
+General administrative expenses: For necessary expenses for general administrative purposes, including the salary of the Chief of Bureau and other personal services in the District of Columbia, $70,495.
+
+Dairy investigations: For conducting investigations, experiments, and demonstrations in dairy industry, cooperative investigations of the dairy industry in the various States, and inspection of renovated-butter factories, including repairs to buildings, not to exceed $5,000 for the construction of buildings, $646,910.
+
+Total, Bureau of Dairy Industry, $717,405, of which amount not to exceed $343,510 may be expended for personal services in the District of Columbia.
+
+## BUREAU OF PLANT INDUSTRY
+
+## salaries and expenses
+
+For the investigation of fruits, fruit trees, grain, cotton, tobacco, vegetables, grasses, forage, drug, medicinal, poisonous, fiber, and other plants and plant industries in cooperation with other branches of the Department, the State experiment stations, and practical farmers; for the erection of necessary farm buildings: Provided, That the cost of any building erected, except head houses connecting greenhouses, shall not exceed $2,500: and for the employment of persons and means in the city of Washington and elsewhere required for the investigations, experiments, and demonstrations herein authorized, as follows:
+
+General administrative expenses: For necessary expenses for general administrative purposes, including the salary of chief of bureau and other personal services in the District of Columbia, $189,242.
+
+Arlington Farm: For continuing the necessary improvements to establish and maintain a general experiment farm and agricultural station on the Arlington estate, in the State of Virginia, in accordance with the provisions of the Act of Congress approved April 18, 1900 (31 Stat. 135, 136), $49,414.
+
+Botany: For investigation, improvement, and utilization of wild plants and grazing lands, and for determining the distribution of weeds and means of their control, $76,635, of which $40,000 shall be expended for scientific investigation concerning control and eradication of whitetop, bind weed, and other noxious weeds.
+
+Cereal crops and diseases: For the investigation and improvement of cereals, including corn, and methods of cereal production and for the study and control of cereal diseases, and for the investigation of the cultivation and breeding of flax for seed purposes, including a study of flax diseases, and for the investigation and improvement of broomcorn and methods of broomcorn production, $532,371.
+
+Cotton and other fiber crops and diseases: For investigation of the production of cotton and other fiber crops, including the improvement by cultural methods, breeding, and selection, fiber yield and quality, and the control or diseases, $399,385, of which sum not less than $14,700 shall be used for experimenting in Sea Island cotton, including its hybridization with other varieties.
+
+Drug and related plants: For the investigation, testing, and improvement of plants yielding drugs, spices, poisons, oils, and related products and byproducts, $47,139.
+
+Dry-land agriculture: For the investigation and improvement of methods of crop production under subhumid, semiarid, or dry-land conditions, $226,828: Provided, That no part of this appropriation shall be used for the establishment of any new field station.
+
+Experimental greenhouse maintenance: For maintenance and operation of experimental greenhouses and adjacent experimental grounds and plots, $77,372.
+
+Forage crops and diseases: For the investigation and improvement of forage crops, including grasses, alfalfas, clovers, soybeans, lespedezas, vetches, cowpeas, field peas, and miscellaneous legumes; for the investigation of green-manure crops and cover crops; for investigations looking to the improvement of pastures; and for the investigation of forage-crop diseases and methods of control, $294,993.
+
+Forest pathology: For the investigation of diseases of forest and ornamental trees and shrubs, including a study of the nature and habits of the parasitic fungi causing the chestnut-tree bark disease, the white-pine blister rust, and other epidemic tree diseases, for the purpose of discovering new methods of control and applying methods of eradication or control already discovered, and including $132,569 for investigations of diseases of forest trees and forest products, under section 3 of the Act approved May 22, 1928 (16 U. S. C. 581b), $255,392.
+
+Fruit and vegetable crops and diseases: For investigation and control of diseases, for improvement of methods of culture, propagation, breeding, selection, and related activities concerned with the production of fruits, nuts, vegetables, ornamentals, and related plants, for investigation of methods of harvesting, packing, shipping, storing and utilizing these products, and for studies of the physiological and related changes of such products during processes of marketing and while in commercial storage, $1,289,182.
+
+Genetics and biophysics: For biophysical investigations in connection with the various lines of work herein authorized, $31,675.
+
+Mycology and disease survey: For mycological collections and the maintenance of a plant-disease survey, $45,818.
+
+National Arboretum: For the maintenance and development of the National Arboretum established under the provisions of the Act entitled “An Act authorizing the Secretary of Agriculture to establish a National Arboretum, and for other purposes”, approved March 4, 1927 (20 U. S. C. 191–194), including erection of buildings, employment of persons and means in the city of Washington and elsewhere, and traveling expenses of employees and advisory council, $54,587, of which such amounts as may be necessary may be expended by contract or otherwise for the services of consulting landscape architects without reference to the Classification Act of 1923, as amended, or civil-service rules.
+
+Nematology: For crop technological investigations, including the study of plant-infesting nematodes, $48,961.
+
+Plant exploration and introduction: For investigations in seed and plant introduction, including the study, collection, purchase, testing, propagation, and distribution of rare and valuable seeds, bulbs, trees, shrubs, vines, cuttings, and plants from foreign countries and from our possessions, and for experiments with reference to their introduction and cultivation in this country, $200,933.
+
+Plant nutrition: For plant-nutrition investigations, $16,024.
+
+Rubber and other tropical plants: For investigation of crops, from tropical regions, and for the study and improvement of rubber plants by cultural methods, breeding, acclimatization, adaptation, and selection, and for investigation of their diseases, $46,749.
+
+Seed investigations: For studying and testing commercial seeds, including the testing of samples of seeds of grasses, clover, or alfalfa, and lawn-grass seeds secured in the open market, and where such samples are found to be adulterated or misbranded the results of the tests shall be published, together with the names of the persons by whom the seeds were offered for sale, and for carrying out the provisions of the Act approved August 24, 1912 (7 U. S. C. 111–114), entitled “An Act to regulate foreign commerce by prohibiting the admission into the United States of certain adulterated grain and seeds unfit for seeding purposes”, as amended by the Act approved April 26, 1926 (7 U. S. C. III, 115, 116), $72,293: Provided, That not to exceed $250 of this amount may be used for meeting the share of the United States in the expenses of the International Seed Testing Congress in carrying out plans for correlating the work of the various adhering governments on problems relating to seed analysis or other subjects which the Congress may determine to be necessary in the interest of international seed trade.
+
+Soil-fertility investigations: For soil investigations into causes of infertility; maintenance of productivity; effects of soil composition, cultural methods, and fertilizers on yield and quality of crops; and the properties, composition, formation, and transformation of soil organic matter, $168,457.
+
+Soil microbiology investigations: For investigations of the micro-organisms of the soil and their activities, including the testing of samples procured in the open market, of cultures for inoculating legumes, other crops, or soil, and the publication of results, and if any such samples are found to be impure, nonviable, or misbranded, the results of the tests may be published, together with the names of the manufacturers and of the persons by whom the cultures were offered for sale, $39,854.
+
+Sugar-plant investigations: For sugar-plant investigations, including studies of diseases and the improvement of sugar beets and sugar-beet seed, $322,500.
+
+Tobacco investigations: For the investigation and improvement of tobacco and the methods of tobacco production and handling, $135,544.
+
+Western irrigation agriculture: For investigations in connection with western irrigation agriculture, the utilization of lands reclaimed under the Reclamation Act, and other areas in the arid and semiarid regions, $120,327.
+
+Total, Bureau of Plant Industry, $4,741,675, of which amount not to exceed $1,504,573 may be expended for departmental personal services in the District of Columbia and not to exceed $14,550 shall be available for the purchase of motor-propelled and horse-drawn passenger-carrying vehicles necessary in the conduct of field work outside the District of Columbia.
+
+## FOREST SERVICE
+
+## salaries and expenses
+
+For the employment of persons and means in the District of Columbia and elsewhere to enable the Secretary of Agriculture to experiment and to make and continue investigations and report on forestry, national forests, forest fires, and lumbering, but no part of this appropriation shall be used for any experiment or test made outside the jurisdiction of the United States; to advise the owners of woodlands as to the proper care of the same; to investigate and test. American timber and timber trees and their uses, and methods for the preservative treatment of timber; to seek, through investigations and the planting of native and foreign species, suitable trees for the treeless regions; to erect necessary buildings: Provided, That the cost of any building purchased, erected, or as improved, exclusive of the cost of constructing a water-supply or sanitary system and of connecting the same with any such building, and exclusive of the cost of any tower upon which a lookout house may be erected, shall not exceed $7,500, with the exception that any building erected, purchased, or acquired, the cost of which was $7,500 or more, may be improved out of the appropriations made under this Act for the Forest Service by an amount not to exceed 2 per centum of the cost of such building as certified by the Secretary of Agriculture; to protect, administer, and improve the national foreste, including tree planting and other measures to prevent erosion, drift, surface wash, soil waste, and the formation of floods, and to conserve water and including the payment of rewards under regulations of the Secretary of Agriculture for information leading to the arrest and conviction for violation of the laws and regulations relating to fires in or near national forests, or for the unlawful taking of, or injury to, Government property; to ascertain the natural conditions upon and utilize the national forests, to transport and care for fish and game supplied to stock the national forests or the waters therein; to collate, digest, report, and illustrate the results of experiments and investigations made by the Forest Service; to purchase law books, reference and technical books, and technical journals for officers of the Forest Service stationed outside of Washington, and for medical supplies and services and other assistance necessary for the immediate relief of artisans, laborers, and other employees engaged in any hazardous work under the Forest Service: Provided further, That the appropriations for the work of the Forest Service shall be available for meeting the expenses of warehouse maintenance and the procurement, care, and handling of supplies and materials stored therein for distribution to projects under the supervision of the Forest Service and for sale and distribution to other Government activities, the cost of such supplies and materials, including the cost of supervision, transportation, and handling, to be reimbursed to appropriations current at the time additional supplies and materials are produced for warehouse stocks from the appropriations chargeable with the cost of stock issued, as follows:
+
+General administrative expenses: For necessary expenses for general administrative purposes, including the salary of the Chief Forester, for the necessary expenses of the National Forest Reservation Commission as authorized by section 14 of the Act of March l, 1911 (16 U. S. C. 514), and for other personal services in the District of Columbia, $607,500.
+
+National forest protection and management: For the administration, protection, use, maintenance, improvement, and development of the national forests, including the establishment and maintenance of forest tree nurseries, including the procurement of tree seed and nursery stock by purchase, production, or otherwise, seeding and tree planting and the care of plantations and young growth; the maintenance and operation of aerial fire control by contract or otherwise, including the purchase of one airplane; the maintenance of roads and trails and the construction and maintenance of all other improvements necessary for the proper and economical administration, protection, development, and use of the national forests, including experimental forests: Provided, That where, in the opinion of the Secretary of Agriculture, direct purchases will be more economical than construction, improvements may be purchased; the construction, equipment, and maintenance of sanitary, fire preventive, and recreational facilities; control of destructive forest tree diseases and insects; timber cultural operations; development and application of fish and game management plans; propagation and transplanting of plants suitable for planting on semiarid portions of the national forests; estimating and appraising of timber and other resources and development and application of plans for their effective management, sale, and use; examination, classification, surveying, and appraisal of land incident to effecting exchanges authorized by law and of lands within the boundaries of the national forests that may be opened to homestead settlement and entry under the Act of June 11, 1906 (16 U. S. C. 506–509), and the Act of August 10, 1912 (16 U. S. C. 506), as provided by the Act of March 4, 1913 (16 U. S. C. 512); and all expenses necessary for the use, maintenance, improvement, protection, and general administration of the national forests, including lands under contract for purchase or for the acquisition of which condemnation proceedings have been instituted under the Act of March 1, 1911 (16 U. S. C. 521), and the Act of June 7, 1924 (16 U. S. C. 471, 499, 505, 564–570), lands transferred by authority of the Secretary of Agriculture from the Resettlement Administration to the Forest Service, and lands transferred to the Forest Service under authority of the Bankhead-Jones Farm Tenant Act, $11,569,754: Provided, That $200 of this appropriation shall be available for the expenses of properly caring for the graves of fire fighters buried at Wallace, Idaho; Newport, Washington; and Saint Maries, Idaho.
+
+Water rights: For the investigation and establishment of water rights, including the purchase thereof or of lands or interests in lands or rights-of-way for use and protection of water rights necessary or beneficial in connection with the administration and public use of the national forests, $20,000.
+
+Fighting forest fires: For fighting and preventing forest fires on or threatening the national forests and unappropriated public forest lands, $100,000, which amount shall be immediately available.
+
+Private forestry cooperation: For cooperation with and advice to timberland owners and associations, wood-using industries or other appropriate agencies in the application of forest management principles to private forest lands, so as to attain sustained yield management, the conservation of the timber resource, the productivity of forest lands, and the stabilization of employment and economic continuance of forest industries, $100,000.
+
+Forest research: For forest research in accordance with the provisions of sections 1, 2, 7, 8, 9, and 10 of the Act entitled “An Act to insure adequate supplies of timber and other forest products for the people of the United States, to promote the full use for timber growing and other purposes of forest lands in the United States, including farm wood lots and those abandoned areas not suitable for agricultural production, and to secure the correlation and the most economical conduct of forest research in the Department of Agriculture through research in reforestation, timber growing, protection, utilization, forest economics, and related subjects”, approved May 22, 1928, as amended (16 U. S. C. 581, 581a, 581f—581i), as follows:
+
+Forest management: Fire, silvicultural, and other forest investigations and experiments under section 2, as amended, at forest experiment stations or elsewhere, $648,403.
+
+Range investigations: Investigations and experiments to develop improved methods of management of forest and other ranges under section 7, at forest or range experiment stations or elsewhere, $225,935.
+
+Forest products: Experiments, investigations, and tests of forest products under section 8, at the Forest Products Laboratory, or elsewhere, $628,361.
+
+Forest survey: A comprehensive forest survey under section 9, $250,000.
+
+Forest economics: Investigations in forest economics under section 10, $121,295.
+
+Forest influences: For investigations and experiments at forest experiment stations or elsewhere for determining and demonstrating the influence of natural vegetative cover characteristic of forest, range, or other wild land on water conservation, flood control, stream-flow regulation, erosion, climate, and maintenance of soil productivity, and for developing preventive and control measures therefor, $139,152.
+
+In all, salaries and expenses, $14,410,400; and in addition thereto there are hereby appropriated all moneys received as contributions toward cooperative work under the provisions of section 1 of the Act approved March 3, 1925 (16 U. S. C. 572), which funds shall be covered into the Treasury and constitute a part of the special funds provided by the Act of June 30, 1914 (16 U. S. C. 498): Provided, That not to exceed $853,349 may be expended for departmental personal services in the District of Columbia: Provided further, That not to exceed $1,000 may be expended for the contribution of the United States to the cost of the office of the secretariat of the International Union of Forest Research Stations.
+
+## forest-free cooperation
+
+For cooperation with the various States or other appropriate agencies in forest-fire prevention and suppression and the protection of timbered and cut-over lands in accordance with the provisions of sections 1, 2, and 3 of the Act entitled “An Act to provide for the protection of forest lands, for the reforestation of denuded areas, for the extension of national forests, and for other purposes, in order to promote continuous production of timber on lands chiefly valuable therefor”, approved June 7, 1924 (16 U. S. C. 564–570), as amended, including also the study of the effect of tax laws and the investigation of timber insurance as provided in section 3 of said Act, $2,000,000, of which not to exceed $50,000 shall be available for departmental personal services in the District of Columbia and not to exceed $2,500 for the purchase of supplies and equipment required for the purposes of said Act in the District of Columbia.
+
+## cooperative farm forestry
+
+For cooperation with the various States in the procurement, production, and distribution of forest-tree seeds and plants in establish-ing windbreaks, shelterbelts, and farm wood lots upon denuded or nonforested lands within such cooperating States, under the provisions of section 4 of the Act entitled “An Act to provide for the protection of forest lands, for the reforestation of denuded areas, for the extension of national forests, and for other purposes, in order to promote the continuous production of timber on lands chiefly suitable therefor”, approved June 7, 1924 (16 U. S. C. 567), and Acts supplementary thereto, $100,000: Provided, That no part of the latter sum shall be expended in any State or Territory unless the State or Territory, or local subdivision thereof, or individuals, or associations contribute a sum equal to that to be allotted by the Government or make contributions other than money deemed by the Secretary of Agriculture to be the value equivalent thereof; which amount shall be available for the employment of persons and means in the District of Columbia and elsewhere: Provided further, That no part of this appropriation shall be used to establish new nurseries or to acquire land for the establishment of such new nurseries.
+
+## acquisition of lands for national forests
+
+For the acquisition of forest lands under the provisions of the Act approved March 1, 1911, as amended (16 U. S. C. 513–519, 521) , including the transfer to the Office of the Solicitor of such funds for the employment by that office of persons and means in the District of Columbia and elsewhere as may be necessary in connection with the acquisition of such lands, $3,000,000: Provided, That not to exceed $112,500 of the sum appropriated in this paragraph may be expended for departmental personal services in the District of Columbia.
+
+For the acquisition of land in accordance with the provisions of the Act entitled “An Act to facilitate the control of soil erosion and/or flood damage originating upon lands within the exterior boundaries of the Uinta and Wasatch National Forests, Utah”, approved August 26, 1935 (49 Stat. 866), not to exceed $50,000 from the entire receipts from the sale of natural resources or occupancy of public land within said national forests for the fiscal year 1938.
+
+Total, Forest Service, $19,560,400, of which amount not to exceed $57,915 shall be available for the purchase of motor-propelled and horse-drawn passenger-carrying vehicles necessary in the conduct of field work outside the District of Columbia, and in addition thereto there is authorized for expenditure from funds provided for carrying out the provisions of the Federal Highway Act of November 9, 1921 (23 U. S. C. 21, 23), not to exceed $7,087 for the purchase of motor-propelled passenger-carrying vehicles for use by the Forest Service in the construction and maintenance of national-forest roads.
+
+## BUREAU OF CHEMISTRY AND SOILS
+
+## salaries and expenses
+
+For investigations, experiments, and demonstrations hereinafter authorized, independently or in cooperation with other branches of the Department of Agriculture, other departments or agencies of the Federal Government, States, State agricultural experiment stations, universities and other State agencies and institutions, counties, municipalities, business, or other organizations and corporations, individuals, associations, and scientific societies, including the employment of necessary persons and means in the city of Washington and elsewhere; and for erection, alteration, and repair of buildings outside the District of Columbia at a total cost not to exceed $5,000, as follows:
+
+General administrative expenses: For necessary expenses for general administrative purposes, including the salary of Chief of Bureau and other personal services in the District of Columbia, $90,200.
+
+Agricultural chemical investigations: For conducting the investigations contemplated by the Act of May 15, 1862 (5 U. S. C. 511, 512), relating to the application of chemistry to agriculture; for the biological, chemical, physical, microscopical, and technological investigation of foods, feeds, drugs, plant and animal products, and substances used in the manufacture thereof; for investigations of the physiological effects and for the pharmacological testing of such products and of insecticides; for the investigation and development of methods for the manufacture of sugars, sugar sirups and starches and the utilization of new agricultural materials for such purposes; for the technological investigation of the utilization of fruits and vegetables and for frozen pack investigations; for the investigation of chemicals for the control of noxious weeds and plants; and to cooperate with associations and scientific societies in the development of methods of analysis, $372,500.
+
+Industrial utilization of farm products and byproducts: For the investigation, development, experimental demonstration and application of methods for the industrial utilization of agricultural products, waste, and byproducts, and products made therefrom except as otherwise provided for in this Act, by the application of chemical, physical, and technological methods, including the changes produced by micro-organisms such as yeasts, bacteria, molds, and fungi; the utilization for color, medicinal, and technical purposes of substances grown or produced in the United States, $236,200, of which not to exceed $25,000 shall be available for the construction and equipment of an experimental laboratory building, to be erected on land donated to the United States.
+
+Agricultural fires and explosive dusts: For the investigation, development, experimental demonstration, and application of methods for the prevention and control of dust explosions and fires during the harvesting, handling, milling, processing, fumigating, and storing of agricultural products, and for other dust explosions and resulting fires not otherwise provided for, including fires in grain mills and elevators, cotton gins, cotton-oil mills, and other structures; the heating, charring, and ignition of agricultural products; fires on farms and in rural communities and other explosions and fires in connection with farm and agricultural operations, $40,000.
+
+Naval-stores investigations: For the investigation of naval stores (turpentine and rosin) and their components; the investigation and experimental demonstration of improved equipment, methods, or processes of preparing naval stores; the weighing, storing, handling, transportation, and utilization of naval stores; and for the assembling and compilation of data on production, distribution, and consumption of turpentine and rosin, pursuant to the Act of August 15, 1935 (5 U. S. C. 556b), $79,400.
+
+Soil survey: For the investigation of soils and their origin, for survey of the extent of classes and types, and for indicating upon maps and plats, by coloring or otherwise, the results of such investigations and surveys, $298,708.
+
+Soil chemical and physical investigations: For chemical, physical, and physical-chemical investigations of soil types, soil composition, and soil minerals, the soil solution, solubility of soil, and all chemical and physical properties of soils in their relation to soil formation, soil texture, erosibility, and soil productivity, $76,700.
+
+Fertilizer investigations: For investigations within the United States of fertilizers, fertilizer ingredients, including phosphoric acid and potash, and other soil amendments and their suitability for agricultural use, $263,800.
+
+Total, Bureau of Chemisty1 and Soils, $1,457,508, of which amount not to exceed $1,003,541 may be expended for personal services in the District of Columbia, and not to exceed $1,900 shall be available for the purchase of motor-propelled and horse-drawn passenger-carrying vehicles necessary in the conduct of field work outside the District of Columbia.
+
+## BUREAU OF ENTOMOLOGY AND PLANT QUARANTINE
+
+## salaries and expenses
+
+For necessary expenses connected with investigations, experiments, and demonstrations for the promotion of economic entomology, for investigating and ascertaining the best means of destroying insects and related pests injurious to agriculture, for investigating and importing useful and beneficial insects and bacterial, fungal, and other diseases of insects and related pests, for investigating and ascertaining the best means of destroying insects affecting man and animals, to enable the Secretary of Agriculture to carry into effect the provisions of the Plant Quarantine Act of August 20, 1912, as amended, to conduct other activities hereinafter authorized, and for the eradication, control, and prevention of spread of injurious insects and plant pests, independently or in cooperation with other branches of the Federal Government, States, counties, municipalities, corporations, agencies, individuals, or with foreign governments; including the employment of necessary persons and means in the District of Columbia and elsewhere, rent, construction, or repair of necessary buildings outside the District of Columbia: Provided, That, unless otherwise specifically provided, the cost for the construction of any building shall not exceed $1,500 and the total amount expended for such construction in any one year shall not exceed $7,000, as follows:
+
+General administrative expenses: For general administrative purposes, including the salary of Chief of Bureau and other personal services, $166,280.
+
+Fruit insects: For insects affecting fruits, grapes, and nuts, $428,600.
+
+Japanese beetle control: For the control and prevention of spread of the Japanese beetle, $395,000.
+
+Mexican fruitfly control: For the control and prevention of spread of the Mexican fruitfly, including necessary surveys and control operations in Mexico in cooperation with the Mexican Government or local Mexican authorities, $160,460.
+
+Citrus canker eradication: For determining and applying such methods of eradication or control of the disease of citrus trees known as “citrus canker” as in the judgment of the Secretary of Agriculture may be necessary, including cooperation with such authorities of the States concerned, organizations of growers, or individuals, as he may deem necessary to accomplish such purposes, $13,485: Provided, That no part of the money herein appropriated shall be used to pay the cost or value of trees or other property injured or destroyed.
+
+Sweetpotato weevil control: For the determination and application of such methods of control for sweetpotato weevils as, in the judgment of the Secretary of Agriculture, may be necessary, $75,000: Provided, That, in the discretion of the Secretary of Agriculture, no part of this appropriation shall be expended for the control of sweetpotato weevil in any State until such State has provided cooperation necessary to accomplish this purpose: Provided further, That no part of this appropriation shall be used to pay the cost or value of fam animals, farm crops, or other property injured or destroyed.
+
+Phony peach and peach mosaic eradication: For determining and applying such methods of eradication, control, and prevention of spread of the diseases of peach trees known as “phony peach” and “peach mosaic” as in the judgment of the Secretary of Agriculture may be necessary, including cooperation with such authorities of the States concerned, organizations of growers, or individuals, as he may deem necessary to accomplish such purposes, including the certification of products out of the infested areas to meet the requirements of State quarantines, $89,800: Provided, That no part of the money herein appropriated shall be used to pay the cost or value of trees or other property injured or destroyed.
+
+Forest insects: For insects affecting forests and forest products, under section 4 of the Act approved May 22, 1928 (16 U. S. C. 581c), entitled “An Act to insure adequate supplies of timber and other forest products for the people of the United States, to promote the full use for timber growing and other purposes of forest lands in the United States, including farm wood lots and those abandoned areas not suitable for agricultural production, and to secure the correlation and the most economical conduct of forest research in the Department of Agriculture, through research in reforestation, timber growing, protection, utilization, forest economics, and related subjects”, and for insects affecting ornamental trees and shrubs, $253,100: Provided, That $40,000 of this amount shall only be available for expenditure when matched by State funds.
+
+Gypsy and brown-tail moth control: For the control and prevention of spread of the gypsy and brown-tail moths, $375,000.
+
+Blister rust control: For applying such methods of eradication, control, and prevention of spread of the white pine blister rust as in the judgment of the Secretary of Agriculture may be necessary to accomplish such purposes, and in the discretion of the Secretary of Agriculture no expenditures shall be made for these purposes until a sum or sums at least equal to such expenditures shall have been appropriated, subscribed, or contributed by State, county, or local authorities, or by individuals or organizations concerned, $300,000: Provided, That no part of this appropriation shall be used to pay the cost or value of trees or other property injured or destroyed.
+
+Dutch elm disease eradication: For determining and applying methods of eradication, control, and prevention of spread of the disease of elm trees known as “Dutch elm disease”, $378,489: Provided, That, in the discretion of the Secretary of Agriculture, no expenditures from this appropriation shall be made for these purposes until a sum or sums at least equal to such expenditures shall have been appropriated, subscribed, or contributed by State, county, or local authorities, or by individuals, or organizations concerned: Provided further, That no part of this appropriation shall be used to pay the cost or value of trees or other property injured or destroyed.
+
+Truck crop and garden insects: For insects affecting truck crops, ornamental, and garden plants, including tobacco, sugar beets, and greenhouse and bulbous crops, $461,580, of which $80,000 shall be immediately available for construction and equipment of laboratory and service buildings and necessary facilities.
+
+Cereal and forage insects: For insects affecting cereal and forage crops, including sugarcane and rice, and including research on the European corn borer, $363,669.
+
+European corn borer control: For the control and prevention of spread of the European corn borer and for the certification of products out of the infested areas to meet the requirements of State quarantines on account of the European corn borer, $32,939.
+
+Barberry eradication: For the eradication of the common barberry and for applying such other methods of eradication, control, and prevention of spread of cereal rusts as in the judgment of the Secretary of Agriculture may be necessary to accomplish such purposes, $200,000: Provided, That, in the discretion of the Secretary of Agriculture, no expenditures from this appropriation shall be made for these purposes until a sum or sums at least equal to such expenditures shall have been appropriated, subscribed, or contributed by States, counties, or local authorities, or by individuals or organizations for the accomplishment of such purposes: Provided further, That no part of the money herein appropriated shall be used to pay the cost or value of property injured or destroyed.
+
+Cotton insects: For insects affecting cotton, $144,544.
+
+Pink bollworm control: For the control and prevention of spread of the pink bollworm, including the establishment of such cotton-free areas as may be necessary to stamp out any infestation, and for necessary surveys and control operations in Mexico in cooperation with the Mexican Government or local Mexican authorities, $446,800.
+
+Thurberia weevil control: For the control and prevention of spread of the Thurberia weevil, $2,808.
+
+Bee culture: For bee culture and apiary management, $83,000.
+
+Insects affecting man and animals: For insects affecting man, household possessions, and animals, $191,100.
+
+Insect pest survey and identification: For the identification and classification of insects, including taxonomic, morphological, and related phases of insect pest control and the maintenance of an insect pest survey for the collection and dissemination of information to Federal, State, and other agencies concerned with insect pest control, $149,790.
+
+Foreign parasites: For administrative expenses in connection with the introduction of natural enemies of injurious insects and related pests and for the exchange with other countries of useful and beneficial insects and other arthropods, $38,000.
+
+Control investigations: For developing equipment or apparatus to aid in enforcing plant quarantines, eradication and control of plant pests, determining methods of disinfecting plants and plant products to eliminate injurious pests, determining the toxicity of insecticides, and related phases of insect-pest control, $72,518.
+
+Insecticide and fungicide investigations: For the investigation and development of methods of manufacturing insecticides and fungicides, and for investigating chemical problems relating to the composition, action, and application of insecticides and fungicides, $123,984.
+
+Transit inspection: For the inspection in transit or otherwise of articles quarantined under the Act of August 20, 1912 (7 U. S. C. 161, 164a), as amended, and for the interception and disposition of materials found to have been transported interstate in violation of quarantines promulgated thereunder, $44,059.
+
+Foreign plant quarantines: For enforcement of foreign plant quarantines, at the port of entry and port of export, and to prevent the movement of cotton and cottonseed from Mexico into the United States, including the regulation of the entry into the United States of railway cars and other vehicles, and freight, express, baggage, or other materials from Mexico, and the inspection, cleaning, and disinfection thereof, including construction and repair of necessary buildings, plants, and equipment, for the fumigation, disinfection, or cleaning of products, railway cars, or other vehicles entering the. United States from Mexico, $680,000: Provided, That any moneys received in payment of charges fixed by the Secretary of Agriculture on account of such cleaning and disinfection shall be covered into the Treasury as miscellaneous receipts.
+
+Certification of exports: For the inspection, under such rules and regulations as the Secretary of Agriculture may prescribe, of domestic plants and plant products when offered for export and to certify to shippers and interested parties as to the freedom of such products from injurious plant diseases and insect pests according to the sanitary requirements of the foreign countries affected and to make such reasonable charges and to use such means as may be necessary to accomplish this object, $31,862: Provided, That moneys received on account of such inspection and certification shall be covered into the Treasury as miscellaneous receipts.
+
+Total, Bureau of Entomology and Plant Quarantine, $5,701,867, of which amount not to exceed $856,710 may be expended for per sonal services in the District of Columbia, and not to exceed $46,880 shall be available for the purchase of motor-propelled and horse-drawn passenger-carrying vehicles necessary in the conduct of field work outside the District of Columbia.
+
+## BUREAU OF BIOLOGICAL SURVEY
+
+## salaries and expenses
+
+For the employment of persons and means in the city of Washington and elsewhere, including the purchase of printed bags, tags, and labels, without regard to existing laws applicable to public printing, and all other expenses necessary in conducting investigations and carrying out the work of the Bureau, including cooperation with Federal, State, county, or other agencies or with farm bureaus, organizations, or individuals, as follows:
+
+General administrative expenses: For necessary expenses for general administrative purposes, including the salary of Chief of Bureau and other personal services in the District of Columbia, $110,000.
+
+Food habits of birds and animals: For investigating the food habits and economic value of North American birds and animals in relation to agriculture, horticulture, and forestry, including methods of conserving beneficial and controlling injurious birds and animals, $68,140.
+
+Fur resources investigations: For investigations, experiments, demonstrations, and cooperation in connection with the production and utilization of animals the pelts of which are used commercially for fur, including the erection of necessary buildings and other structures, $91,000.
+
+Biological investigations: For biological investigations, including the relations, habits, geographic distribution, and migration of animals and plants, and the preparation of maps of the life zones, and including $30,738 for investigations of the relations of wild animal life to forests, under section 5 of the Act approved May 22, 1928 (16 U. S. C. 581d), and for investigations, experiments, and demonstrations in the establishment, improvement, and increase of the reindeer industry and of musk oxen and mountain sheep in Alaska, including the erection of necessary buildings and other structures, $171,149.
+
+Control of predatory animals and injurious rodents: For investigations, demonstrations, and cooperation in destroying animals injurious to agriculture, horticulture, forestry, animal husbandry, and wild game; and in protecting stock and other domestic animals through the suppression of rabies and other diseases in predatory wild animals; and for construction, repairs, additions, and installations in and about the grounds and buildings of the game-management supply depot and laboratory at Pocatello, Idaho, including purchase, transportation, and handling of supplies and materials for distribution from said depot to other projects, in accordance with the provisions of the Act approved June 24, 1936 (16 U. S. C. 667), $650,000.
+
+Protection of migratory birds: For all necessary expenses for enforcing the provisions of the Migratory Bird Treaty Act of July 3, 1918 (16 U. S. C. 703–711), as amended by the Act of June 20, 1936 (16 U. S. C. 703–709a), to carry into effect the treaty with Great Britain for the protection of birds migrating between the United States and Canada (39 Stat., pt. 2, 1702), and the convention between the United States and the United Mexican States for the protection of migratory birds and game mammals; for cooperation with local authorities in the protection of migratory birds, and for necessary investigations connected therewith; for the enforcement of sections 241, 242, 243, and 244 of the Act approved March 4, 1909 (18 U. S. C. 391–394), entitled “An Act to codify, revise, and amend the penal laws of the United States”, as amended by title II of the Act approved June 15, 1935 (18 U. S. C. 392–394), and for the enforcement of section 1 of the Act approved May 25, 1900 (16 U. S. C. 701), entitled “An Act to enlarge the powers of the Department of Agriculture, prohibit the transportation by interstate commerce of game killed in violation of local laws, and for other purposes”, including all necessary investigations in connection therewith, $315,000, of which not to exceed $10,000 may be expended in the discretion of the Secretary of Agriculture for the purpose of securing information concerning violations of the laws for the enforcement of which this appropriation is made available.
+
+Enforcement of Alaska game law: For the enforcement of the provisions of the Alaska game law, approved January 13, 1925, as amended by the Act of February 14, 1931 (48 U. S. C. 192–211), $130,798.
+
+Maintenance of mammal and bird reservations: For the maintenance of the Montana National Bison Range, the Upper Mississippi River Wildlife Refuge, the Bear River Migratory Bird Refuge, the Wichita Mountains Wildlife Refuge, and other reservations, and for the maintenance of game introduced into suitable localities on public lands, under supervision of the Biological Survey, including construction of fencing, wardens’ quarters, shelters for animals, landings, roads, trails, bridges, ditches, telephone lines, rockwork, bulk-heads, and other improvements necessary for the economical administration and protection of the reservations; for the enforcement of section 84 of the Act approved March 4, 1909 (18 U. S. C. 145), entitled “An Act to codify, revise, and amend the penal laws of the United States”, and Acts amendatory thereto, and section 10 of the Migratory Bird Conservation Act of February 18, 1929 (16 U. S. C. 715i); for the purchase, capture, and transportation of game for national reservations; and for the maintenance of the herd of long-horned cattle on the Wichita Mountains Wildlife Refuge, $447,500.
+
+Migratory bird conservation refuges: For carrying into effect the provisions of the Act entitled “An Act to more effectively meet the obligations of the United States under the migratory-bird treaty with Great Britain (39 Stat., pt. 2, 1702) by lessening the dangers threatening migratory game birds from drainage and other causes by the acquisition of areas of land and water to furnish in perpetuity reservation for the adequate protection of such birds; and authorizing appropriations for the establishment of such areas, their maintenance and improvement, and for other purposes”, approved February 18, 1929, as amended by title III of the Act approved June 15, 1935 (16 U. S. C. 715–715r), $79,753, authorized by section 12 of the Act, which sum is a part of the remaining $490,640 of the $1,000,000 authorized to be appropriated for the fiscal year ending June 30, 1933.
+
+In all, salaries and expenses $2,063,340.
+
+## migratory bird conservation fund
+
+For carrying into effect the provisions of section 4 of the Act entitled “An Act to supplement and support the Migratory Bird Conservation Act by providing funds for the acquisition of areas for use as migratory-bird sanctuaries, refuges, and breeding grounds, for developing and administering such areas, for the protection of certain migratory birds, for the enforcement of the Migratory Bird Treaty Act and regulations thereunder, and for other purposes”, approved March 16, 1934 (16 U. S, C. 718–71811), as amended by an Act entitled “An Act to amend the Migratory Bird Hunting Stamp Act of March 16, 1934, and certain other Acts relating to game and other wildlife, administered by the Department of Agriculture, and for other purposes”, approved June 15, 1935 (16 U. S. C. 718a–718e), an amount equal to the sum received during the fiscal year 1939 from the proceeds from the sale of stamps, to be warranted monthly; and in addition thereto an amount equal to the unobligated balance on June 30, 1938, of the total of the proceeds received from the sale of stamps prior to July 1, 1938: Provided, That the sum of $125,000 shall be advanced from the general fund of the Treasury on the first day of the fiscal year to the foregoing appropriation, to be returned to the surplus fund of the Treasury when the first $125,000 of revenue from the sale of stamps has been received and warranted for the fiscal year 1939.
+
+## federal aid in wildlife restoration
+
+For carrying out the provisions of the Act entitled “An Act to provide that the United States shall aid the States in wildlife restoration projects, and for other purposes”, approved September 2, 1937 (50 Stat. 917), $1,000,000: Provided, That expenditures hereunder shall not exceed the aggregate receipts covered into the Treasury under the provisions of said Act.
+
+Total, Bureau of Biological Survey, $3,188,340, of which amount not to exceed $640,700 may be expended for personal services in the District of Columbia, and not to exceed $54,185, shall be available for the purchase of motor-propelled passenger-carrying vehicles necessary in the conduct of field work outside the District of Columbia: Provided, That the appropriation of $6,000,000 contained in title VII of the Act of June 15, 1935 (16 U. S. C. 715k–l), shall be available for the maintenance, repair, and operation of motor-propelled passenger-carrying vehicles.
+
+## BUREAU OF PUBLIC ROADS
+
+General administrative expenses: For the employment of persons and means in the city of Washington and elsewhere for the purpose of conducting research and investigational studies, either independently or in cooperation with State, highway departments, or other agencies, including studies of highway administration, legislation, finance, economics, transport, construction, operation, maintenance, utilization, and safety, and of street and highway traffic control; investigations and experiments in the best methods of road making, especially by the use of local materials; and studies of types of mechanical plants and appliances used for road building and maintenance and of methods of road repair and maintenance suited to the needs of different localities; for maintenance and repairs of experimental highways; for furnishing expert advice on these subjects; for collating, reporting, and illustrating the results of same; and for preparing, publishing, and distributing bulletins and reports; to be paid from any moneys available from the administrative funds provided under the Act of July 11, 1916 (39 Stat. 355–359), as amended, or as otherwise provided.
+
+## federal-aid highway system
+
+For carrying out the provisions of the Act entitled “An Act to provide that the United States shall aid the States in the construction of rural post roads, and for other purposes”, approved July 11, 1916 (39 Stat. 355–359), and all Acts amendatory thereof and supplementary thereto, to be expended in accordance with the provisions of said Act, as amended, including not to exceed $1,120,000 for departmental personal services in the District of Columbia, $125,000,000, to be immediately available and to remain available until expended, which sum is the amount authorized to be appropriated for the fiscal year 1938, by section 1 of the Act approved June 16, 1936 (49 Stat. 1519–1520): Provided, That none of the money herein appropriated shall be paid to any State on account of any project on which convict labor shall be employed, except this provision shall not apply to convict labor performed by convicts on parole or probation: Provided further, That not to exceed $45,000 of the funds provided for carrying out the provisions of the Federal Highway Act of November 9, 1921 (23 U. S. C. 21, 23), shall be available for the purchase of motor-propelled passenger-carrying vehicles necessary for carrying out the provisions of said Act, including the replacement of not to exceed one such vehicle for use in the administrative work of the Bureau of Public Roads in the District of Columbia at a cost, including the exchange value of the vehicle to be replaced, not to exceed $1,200: Provided further, That, during the fiscal year 1939, whenever performing authorized engineering or other services in connection with the survey, construction, and maintenance, or improvement of roads for other Government agencies the charge for such services may include depreciation on engineering and road-building equipment used, and the amounts received on account of such charges shall be credited to the appropriation concerned: Provided further, That during the fiscal year 1939 the appropriations for the work of the Bureau of Public Roads shall be available for meeting the expenses of warehouse maintenance and the procurement, care, and handling of supplies, materials, and equipment stored therein for distribution to projects under the supervision of the Bureau of Public Roads, and for sale and distribution to other Government activities, the cost of such supplies and materials or the value of such equipment (including the cost of transportation and handling) to be reimbursed to appropriations current at the time additional supplies, materials, or equipment are procured, from the appropriation chargeable with the cost or value of such supplies, materials, or equipment: Provided further, That the appropriations available to the Bureau of Public Roads may be used in emergency for medical supplies and services and other assistance necessary for the immediate relief of employees engaged on hazardous work under that Bureau.
+
+## federal-aid secondary or feeder roads
+
+For secondary or feeder roads, including farm-to-market roads, rural free delivery mail roads, and public-school bus routes, $20,000,000, to be immediately available and to remain available until expended, which sum is the remainder of the $25,000,000 authorized to be appropriated for the fiscal year 1938 by section 7 of the Act approved June 16, 1936 (49 Stat. 1521).
+
+## elimination of grade crossings
+
+For the elimination of hazards to life at railroad grade crossings, including the separation or protection of grades at crossings, the reconstruction of existing railroad grade-crossing structures, and the relocation of highways to eliminate grade crossings, $40,000,000, to be immediately available and to remain available until expended, which sum is the remainder of the $50,000,000 authorized to be appropriated for the fiscal year 1938 by section 8 of the Act approved June 16, 1936 (49 Stat 1521).
+
+## public-lands highways
+
+For the survey, construction, reconstruction, and maintenance of main roads through unappropriated or unreserved public lands, non-taxable Indian lands, or other Federal reservations other than the forest reservations, under the provisions of the Act of June 24, 1930 (23 U. S. C. 3), $2,500,000, to be immediately available and to remain available until expended, which sum is the amount authorized for the fiscal year 1939 by section 3 of the Act approved June 16, 1936 (49 Stat. 1520).
+
+Total, Bureau of Public Roads, $187,500,000.
+
+## BUREAU OF AGRICULTURAL ENGINEERING
+
+## salaries and expenses
+
+General administrative expenses; For necessary expenses for general administrative purposes, including the salary of Chief of Bureau and other personal services in the District of Columbia, $37,600.
+
+Agricultural engineering investigations: For investigations, experiments, and demonstrations involving the application of engineering principles to agriculture, independently or in cooperation with Federal, State, county, or other public agencies or with farm bureaus, organizations, or individuals; for investigating and reporting upon the utilization of water in farm irrigation and the best methods to apply in practice; the different kinds of farm power and appliances; the flow of farm water in ditches, pipes, and other conduits; the duty, apportionment, and measurement of farm irrigation water; the customs, regulations, and laws affecting farm irrigation; snow surveys and forecasts of farm irrigation water supplies, and the drainage of farms and of swamps and other wet lands which may be made available for agricultural purposes; for preparing plans for the removal of surplus farm water by drainage; for developing equipment for farm irrigation and drainage; for investigating and reporting upon farm domestic water supply and drainage disposal, upon the design and construction of farm buildings and their appurtenances and of buildings for processing and storing farm products; upon farm power and mechanical farm equipment and rural electrification; upon the engineering problems relating to the processing, transportation, and storage of perishable and other agricultural products; and upon the engineering problems involved in adapting physical characteristics of farm land to the use of modern farm machinery; for investigations of cotton ginning under the Act approved April 19, 1930 (7 U. S. C. 424, 425); for giving expert advice and assistance in agricultural engineering; for collating, reporting, and illustrating the results of investigations and preparing, publishing, and distributing bulletins, plans, and reports; including the employment of persons and means in the District of Columbia and elsewhere, and not to exceed $10,000 for construction of buildings, $472,400.
+
+Total, Bureau of Agricultural Engineering, $510,000, of which amount not to exceed $185,955 may be expended for personal services in the District of Columbia, and not to exceed $4,375 shall be available for the purchase of motor-propelled and horse-drawn passenger-carrying vehicles necessary in the conduct of field work outside the District of Columbia.
+
+## BUREAU OF AGRICULTURAL ECONOMICS
+
+## salaries and expenses
+
+For the employment of such persons and means in the city of Washington and elsewhere as may be necessary in conducting investigations, experiments, and demonstrations as follows:
+
+General administrative expenses: For necessary expenses for general administrative purposes, including the salary of Chief of Bureau and other personal services in the District of Columbia, $236,306.
+
+Farm management and practice: To investigate and encourage the adoption of improved methods of farm management and farm practice, and for ascertaining the cost of production of the principal staple agricultural products, $346,580.
+
+Marketing and distributing farm products: For acquiring and diffusing among the people of the United States useful information on subjects connected with the marketing, handling, utilization, grading, transportation, and distributing of farm and non manufactured food products and the purchasing of farm supplies, including the demonstration and promotion of the use of uniform standards of classification of American farm products throughout the world, including scientific and technical research into American-grown cotton and its byproducts and their present and potential uses, including new and additional commercial and scientific uses for cotton and its byproducts, and including investigations of cotton ginning under the Act approved April 19, 1930 (7 U. S. C. 424, 425), and for collecting and disseminating information on the adjustment of production to probable demand for the different farm and animal products, independently and in cooperation with other branches of the Department, State agencies, purchasing and consuming organizations, and persons engaged in the marketing, handling, utilization, grading, transportation, and distributing of farm and food products, and for investigation of the economic costs of retail marketing of meat and meat products, $823,650, of which $35,000 shall be immediately available: Provided, That practical forms of the grades recommended or promulgated by the Secretary for wool and mohair may be sold under such rules and regulations as he may prescribe, and the receipts therefrom deposited in the Treasury to the credit of miscellaneous receipts.
+
+Crop and livestock estimates: For collecting, compiling, abstracting, analyzing, summarizing, interpreting, and publishing data relating to agriculture, including crop and livestock estimates, acreage, yield, grades, staples of cotton, stocks, and value of farm crops and numbers, grades, and value of livestock and livestock products on farms, in cooperation with the Extension Service and other Federal, State, and local agencies, $671,289: Provided, That no part of the funds herein appropriated shall be available for any expense incident to ascertaining, collating, or publishing a report stating the intention of farmers as to the acreage to be planted in cotton.
+
+Foreign competition and demand: To enable the Secretary of Agriculture to carry into effect the provisions of the Act entitled “An Act to promote the agriculture of the United States by expanding in the foreign field the service now rendered by the United States Department of Agriculture in acquiring and diffusing useful information regarding agriculture, and for other purposes”, approved June 5, 1930 (7 U. S. C. 541–545), and for collecting and disseminating to American producers, importers, exporters, and other interested persons information relative to the world supply of and need for American agricultural products, marketing methods, conditions, prices, and other factors, a knowledge of which is necessary to the advantageous disposition of such products in foreign countries, independently and in cooperation with other branches of the Government, State agencies, purchasing and consuming organizations, and persons engaged in the transportation, marketing, and distribution of farm and food products, including the purchase of such books and periodicals and not to exceed $1,000 for newspapers as may be necessary in connection with this work, $295,000.
+
+Market inspection of farm products: For enabling the Secretary of Agriculture, independently and in cooperation with other branches of the Government, State agencies, purchasing and consuming organizations, boards of trade, chambers of commerce, or other associations of businessmen or trade organizations, and persons or corporations engaged in the production, transportation, marketing, and distribution of farm and food products, whether operating in one or more jurisdictions, to investigate and certify to shippers and other interested parties the class, quality, and condition of cotton, tobacco, fruits, and vegetables, whether raw, dried, or canned, poultry, butter, hay, and other perishable farm products when offered for interstate shipment or when received at such important central markets as the Secretary of Agriculture may from time to time designate, or at points which may be conveniently reached therefrom, under such rules and regulations as he may prescribe, including payment of such fees as will be reasonable and as nearly as may be to cover the cost for the service rendered: Provided, That certificates issued by the authorized agents of the department shall be received in all courts of the United States as prima facie evidence of the truth of the statements therein contained, $450,000.
+
+Tobacco Inspection Act: To enable the Secretary of Agriculture to carry into effect the provisions of an Act entitled “An Act to establish and promote the use of standards of classification for tobacco, to provide and maintain an official tobacco-inspection service, and for other purposes”, approved August 23, 1935 (7 U, S. C. 511–511q), $365,000.
+
+Market news service: For collecting, publishing, and distributing, by telegraph, mail, or otherwise, timely information on the market supply and demand, commercial movement, location, disposition, quality, condition, and market prices of livestock, meats, fish, and animal products, dairy and poultry products, fruits and vegetables, peanuts and their products, grain, hay, feeds, tobacco, cottonseed, and seeds, and other agricultural products, independently and in cooperation with other branches of the Government, State agencies, purchasing and consuming organizations, and persons engaged in the production, transportation, marketing, and distribution of farm and food products, $1,122.302.
+
+Perishable Agricultural Commodities Act: To enable the Secretary of Agriculture to carry into effect the provisions of the Act entitled “An Act to suppress unfair and fraudulent practices in the marketing of perishable agricultural commodities in interstate and foreign commerce”, as amended (7 U. S. C, 499a–499r), $143,890.
+
+Standard Container, Hamper, and Produce Agency Acts: To enable the Secretary of Agriculture to carry into effect the Act entitled “An Act to fix standards for Climax baskets for grapes and other fruits and vegetables, and to fix standards for baskets and other containers for small fruits, berries, and vegetables, and for other purposes”, approved August 31, 1916 (15 U. S. C. 251–256), the Act entitled “An Act to fix standards for hampers, round stave baskets, and splint baskets for fruits and vegetables, and for other purposes”, approved May 21, 1928 (15 U. S. C. 257–257i), and the Act entitled “An Act to prevent the destruction or dumping without good and sufficient cause therefor, of farm produce received in interstate commerce by commission merchants and others and to require them truly and correctly to account for all farm produce received by them”, approved March 3, 1927 (7 U. S. C. 491–497), $27,738.
+
+Peanut stocks and standards: To enable the Secretary of Agriculture to carry into effect the provisions of the Act entitled “An Act to provide for the collection and publication of statistics of peanuts by the Department of Agriculture”, approved June 24, 1936 (7 U. S. C. 951–957), $10,000.
+
+Tobacco stocks and standards: To enable the Secretary of Agriculture to carry into effect the provisions of the Act entitled “An Act to provide for the collection and publication of statistics of tobacco by the Department of Agriculture”, approved January 14, 1929 (7 U. S. C. 501–508), as amended, $17,187.
+
+Cotton quality statistics and classing Acts: To enable the Secretary of Agriculture to carry into effect the Act entitled “An Act authorizing the Secretary of Agriculture to collect and publish statistics of the grade and staple length of cotton”, approved March 3, 1927 (7 U. S. C. 471–476), as amended by the Act entitled “An Act authorizing the Secretary of Agriculture to provide for the classification of cotton, to furnish information on market supply, demand, location, condition, and market prices for cotton, and for other purposes”, approved April 13, 1937 (7 U. S. C. 473a–473c), $450,060.
+
+United States Cotton Futures and United States Cotton Standards Acts: To enable the Secretary of Agriculture to carry into effect the provisions of the United States Cotton Futures Act, as amended March 4, 1919 (26 U. S. C. 1090–1106), and to carry into effect the provisions of the United States Cotton Standards Act, approved March 4, 1923 (7 U. S. C. 51–65), including such means as may be necessary for effectuating agreements heretofore or hereafter made with cotton associations, cotton exchanges, and other cotton organizations in foreign countries, for the adoption, use, and observance of universal standards of cotton classification, for the arbitration or settlement of disputes with respect thereto, and for the preparation, distribution, inspection, and protection of the practical forms or copies thereof under such agreements, $491,900.
+
+United States Grain Standards Act: To enable the Secretary of Agriculture to carry into effect the provisions of the United States Grain Standards Act, $723,941.
+
+United States Warehouse Act: To enable the Secretary of Agriculture to carry into effect the provisions of the United States Warehouse Act, $336,700.
+
+Total, Bureau of Agricultural Economics, $6,511,483, of which amount not to exceed $2,208,259 may be expended for personal services in the District of Columbia, and not to exceed $36,500 shall be available for the purchase of motor-propelled and horse-drawn passenger-carrying vehicles necessary in the conduct of field work outside the District of Columbia.
+
+## BUREAU OF HOME ECONOMICS
+
+## salaries and expenses
+
+General administrative expenses: For necessary expenses for general administrative purposes, including the salary of Chief of Bureau and other personal services in the District of Columbia, $31,735.
+
+Home economics investigations: For conducting either independently or in cooperation with other agencies, investigations of the relative utility and economy of agricultural products for food, clothing, and other uses in the home, with special suggestions of plans and methods for the more effective utilization of such products for these purposes, and for disseminating useful information on this subject, including the employment of persons and means in the District of Columbia and elsewhere, $273,350.
+
+Total, Bureau of Home Economics, $305,085, of which amount not to exceed $268,350 may be expended for personal services in the District of Columbia.
+
+## ENFORCEMENT OF THE COMMODITY EXCHANGE ACT
+
+To enable the Secretary of Agriculture to carry into effect the provisions of the Commodity Exchange Act of June 15, 1936 (7 U. S. C. 1–17a), as amended, $635,000, of which amount not to exceed $35,000 may be used to carry into effect the provisions of the Act of April 7, 1938, amending the Commodity Exchange Act and of which amount not to exceed $240,940 may be expended for personal services in the District of Columbia.
+
+## FOOD AND DRUG ADMINISTRATION
+
+## salaries and expenses
+
+For all necessary expenses, for chemical apparatus, chemicals, and supplies, repairs to apparatus, gas, electric current, official traveling expenses, telegraph and telephone service, express and freight charges, for the employment of such assistants, clerks, and other persons as the Secretary of Agriculture may consider necessary for the purposes named, in the city of Washington and elsewhere, in conducting investigations; collecting, reporting, and illustrating the results of such investigations; and for rent outside the District of Columbia for carrying out the investigations and work herein authorized, as follows:
+
+General administrative expenses: For necessary expenses for general administrative purposes, including the salary of chief of administration and other personal services in the District of Columbia, $100,802.
+
+Enforcement of the Food and Drugs Act: For enabling the Secretary of Agriculture to carry into effect the provisions of the Act of June 30, 1906 (21 U. S. C. 1–15), entitled “An Act for preventing the manufacture, sale, or transportation of adulterated, or misbranded, or poisonous, or deleterious foods, drugs, medicines, and liquors, and for regulating traffic therein, and for other purposes”, as amended; to cooperate with associations and scientific societies in the revision of the United States pharmacopoeia and development of methods of analysis, and for investigating the character of the chemical and physical tests which are applied to American food products in foreign countries, and for inspecting the same before shipment when desired by the shippers or owners of these products intended for countries where chemical and physical tests are required before the said products are allowed to be sold therein, $1,750,000: Provided, That not more than $4,280 shall be used for travel outside the United States.
+
+Enforcement of the Tea Importation Act: For enabling the Secretary of Agriculture to carry into effect the provisions of the Act approved March 2, 1897 (21 U. S. C. 41–50), entitled “An Act to prevent the importation of impure and unwholesome tea”, as amended, including payment of compensation and expenses of the members of the board appointed under section 2 of the Act and all other necessary officers and employees, $40,094.
+
+Naval Stores Act: For enabling the Secretary of Agriculture to carry into effect the provisions of the Naval Stores Act of March 3, 1923 (7 U. S. C. 91–99), $34,700.
+
+Enforcement of the Insecticide Act: For enabling the Secretary of Agriculture to carry into effect the provisions of the Act of April 26, 1910 (7 U. S. C. 121–134), entitled “An Act for preventing the manufacture, sale, or transportation of adulterated or misbranded paris greens, lead arsenates, other insecticides, and also fungicides, and for regulating traffic therein, and for other purposes”, $203,180.
+
+Enforcement of the Milk Importation Act: For enabling the Secretary of Agriculture to carry into effect the provisions of an Act approved February 15, 1927 (21 U. S. C. 141–149), entitled “An Act to regulate the importation of milk and cream into the United States for the purpose of promoting the dairy industry of the United States and protecting the public health”, $19,241.
+
+Enforcement of the Caustic Poison Act: For enabling the Secretary of Agriculture to carry into effect the provisions of an Act approved March 4, 1927 (15 U. S. C. 401–411), entitled “An Act to safeguard the distribution and sale of certain dangerous caustic or corrosive acids, alkalies, and other substances in interstate and foreign commerce”, $24,741.
+
+Enforcement of the Filled Milk Act: For enabling the Secretary of Agriculture to carry into effect the provisions of the Act entitled “An Act to prohibit the shipment of filled milk in interstate or foreign commerce”, approved March 4, 1923 (21 U. S. C. 61–63), as amended by the Act of August 27, 1935 (21 U. S. C. 64), $10,000.
+
+Enforcement of the Sea Food Inspectors Act: For personal services of sea food inspectors designated to examine and inspect sea food and the production, packing, and labeling thereof upon the application of any packer of any sea food for shipment or sale within the jurisdiction of the Federal Food and Drugs Act, in accordance with the provisions of an Act entitled “An Act to amend section 10A of the Federal Food and Drugs Act of June 30, 1906, as amended”, approved August 27, 1935 (21 U. S. C. 14a), $40,000.
+
+Total, Food and Drug Administration, $2,227,758, of which amount not to exceed $653,056 may be expended for personal services in the District of Columbia, and not to exceed $18,175 shall be available for the purchase of motor-propelled and horse-drawn passenger-carrying vehicles necessary in the conduct of field work outside the District of Columbia.
+
+## SOIL CONSERVATION SERVICE
+
+## salaries and expenses
+
+To carry out the provisions of an Act entitled “An Act to provide for the protection of land resources against soil erosion and for other purposes”, approved April 27, 1935 (16 U. S. C. 590a–590f), which provides for a national program of erosion control and soil and moisture conservation to be carried out directly and in cooperation with other agencies; including the employment of persons and means in the District of Columbia and elsewhere, purchase of books and periodicals, maintenance, repair, and operation of one passenger-carrying automobile in the District, of Columbia, furnishing of subsistence to employees, training of employees, and the purchase and erection of permanent buildings: Provided, That the cost of any building purchased, erected, or as improved, exclusive of the cost of constructing a water supply or sanitary system and connecting the same with any such bunding, shall not exceed $2,500 except where buildings are acquired in conjunction with land being purchased for other purposes and except for six buildings to be constructed at a cost not to exceed $15,000 per building: Provided further, That no money appropriated in this Act shall be available for the construction of any such building on land not owned by the Government: Provided further, That during the fiscal year 1939 the appropriations for the work of the Soil Conservation Service shall be available for meeting the expenses of warehouse maintenance and the procurement, care, and handling of supplies, materials, and equipment stored therein for distribution to projects under the supervision of the Soil Conservation Service and for sale and distribution to other Government activities, the cost of such supplies and materials or the value of such equipment (including the cost of transportation and handling), to be reimbursed to appropriations current at the time additional supplies, materials, or equipment are procured from the appropriations chargeable with the cost or value of such supplies, materials, or equipment: Provided further, That reproductions of such aerial or other photographs, mosaics, and maps as shall be required in connection with the authorized work of the Soil Conservation Service may be furnished at the cost of reproduction to Federal, State, county, or municipal agencies requesting such reproductions, the money received from such sales to be deposited in the Treasury to the credit of this appropriation; as follows:
+
+General administrative expenses: For necessary expenses for general administrative purposes, including the salary of the Chief of the Soil Conservation Service and other personal services in the District of Columbia, $552,050: Provided, That no part of the money appropriated in this paragraph shall be available for expenditure if any emergency or other appropriations are made available for administrative expenses in administering the funds provided in regular appropriations to the Soil Conservation Service.
+
+Soil and moisture conservation and land-use investigations: For research and investigations into the character, cause, extent, history, and effects of erosion and soil and moisture depletion and methods for soil and moisture conservation, including construction, operation, and maintenance of experimental watersheds, stations, laboratories, plots, and installations, $1,510,601.
+
+Soil and moisture conservation operations, demonstrations, and information: For carrying out preventive measures to conserve soil and moisture, including such special measures as may be necessary to prevent floods and the siltation of reservoirs, the establishment and operation of erosion nurseries, the making of conservation plans and surveys, and the dissemination of information, $21,462,349.
+
+Total, Soil Conservation Service, $23,525,000, of which not to exceed $1,734,636 may be expended for personal services in the District of Columbia, and not to exceed $100,000 shall be available for the purchase of motor-propelled and horse-drawn passenger-carrying vehicles necessary in the conduct of field work outside the District of Columbia.
+
+## CONSERVATION AND USE OF AGRICULTURAL LAND RESOURCES, DEPARTMENT OF AGRICULTURE
+
+To enable the Secretary of Agriculture to carry into effect the provisions of sections 7 to 17, inclusive, of the Soil Conservation and domestic Allotment Act, approved February 29, 1936 (16 U. S. C. 590g-–590q), and the provisions of the Agricultural Adjustment Act of 1938 (except the making of payments pursuant to sections 303 and 381 and the provisions of titles IV and V), including the employment of persons and means in the District of Columbia and elsewhere; rent in the District of Columbia; printing and binding; purchase of law books, books of reference, periodicals, and newspapers, $345,000,000, together with not to exceed $155,000,000 of the unexpended balance of the appropriations made by the Supplemental Appropriation Act, fiscal year 1936, under the head “Payments for Agricultural Adjustment” (49 Stat. 1116), by section 12 (a), title I, of the Agricultural Adjustment Act of May 12, 1933 (7 U. S. C. 612), and by section 2 of the Independent Offices Appropriation Act, 1937, approved March 19, 1936 (49 Stat. 1183), in all, not to exceed $500,000,000, to remain available until June 30, 1940, for compliances under said Act of February 29, 1936, as amended, pursuant to the provisions of the 1938 programs carried out during the period November 1, 1937, to December 31, 1938, inclusive: Provided, That no part of such amount shall be available for carrying out the provisions of section 202 (f) of the Agricultural Adjustment Act of 1938, and not to exceed $100,000 shall be available under the provisions of section 202 (a) to 202 (e), inclusive, of said Act to conduct a survey to determine the location of said laboratories and the scope of the investigations to be made and to coordinate the research work now being carried on: Provided further, That no part of such amount shall be available after June 30, 1939, for salaries and other administrative expenses except for payment of obligations therefor incurred prior to July 1, 1939: Provided further, That such amount shall be available for salaries and other administrative expenses in connection with the formulation and administration of the 1939 programs or plans now or hereafter authorized under section 7 or 8, or both, of said Act of February 29, 1936, or under said provisions of the Agricultural Adjustment Act of 1938: Provided further, That the Secretary of Agriculture may, in his discretion, from time to time transfer to the General Accounting Office such sums as may be necessary to pay administrative expenses of the General Accounting Office in auditing payments under this item: Provided further, That such amount shall be available for the purchase of seeds, fertilizers, lime, trees, or any other farming materials and making grants thereof to agricultural producers to aid them in carrying out farming practices approved by the Secretary of Agriculture in the 1938 and 1939 programs under said Act of February 29, 1936, as amended; for the reimbursement of the Tennessee Valley Authority or any other Government agency for fertilizers, seeds, lime, trees, or other farming materials furnished by such agency; and for the payment of all expenses necessary in making such grants including all or part of the costs incident to the delivery thereof: And provided further, That the funds provided by section 32 of the Act entitled “An Act to amend the Agricultural Adjustment Act, and for other purposes”, approved August 24, 1935 (7 U. S. C. 612c), shall be available during the fiscal year 1939 for administrative expenses, in accordance with the provisions of section 392 of the Agricultural Adjustment Act of 1938, in carrying out the provisions of said section, including the employment of persons and means in the District of Columbia and elsewhere, in accordance with the provisions of law applicable to the employment of persons and means by Agricultural Adjustment Administration: And provided, further, That in carrying out the provisions of the Third Deficiency Appropriation Act, fiscal year 1937, and section 381 (a) of the Agricultural Adjustment Act of 1938, as amended, relating to cotton price adjustment payments with respect to the 1937 cotton crop, in order to accelerate such payments the Secretary shall, notwithstanding said provisions, (1) treat all cotton not sold prior to September 10, 1937, as if it had been sold on a date when the average price of seven-eighths-inch Middling cotton on the ten designated spot cotton markets was less than 9 cents per pound; (2) make payment on the basis of applications filed prior or subsequent to July 16, 1938, on forms prescribed by the Secretary, by the 1937 operator or other person designated pursuant to regulations prescribed by the Secretary on behalf of all the producers on the farm in 1937 or by individual producers, provided that (a) payment will not be made to the 1938 operator of the farm unless he certifies that he has complied thereon with the requirements defined in said section 381 (a), which certificate shall be taken to certify to such compliance on the part of all producers on the farm in 1938 who produced cotton in 1937, (b) payment shall not be delivered to any operator or producer until he has agreed in writing to refund the payment forthwith upon demand in case it is subsequently found that he has failed to comply with the requirements as defined herein and in said section 381 (a), (c) in cases where cotton was produced in 1937 on two or more producer units on the farm it shall be assumed that the production thereon was uniform, and (d) it shall be assumed that there was a total or partial crop failure resulting from hail, drought, flood, or boll-weevil infestation (which is defined to include any other insect or fungus) only if the yield in 1937 is below the base yield for the farm and in such case the total production shall be considered to be the normal yield for the farm multiplied by the number of acres planted to cotton in 1937; and (3) make payments, as soon as practicable, on the basis of his estimate of the amounts which will be covered by the applications to be filed and of the funds to be used out of the appropriation for the necessary administrative expenses of making the cotton price adjustment payments: And provided further, That in administering the naval stores conservation programs authorized in section 8 of the Soil Conservation and Domestic Allotment Act and in making payments thereunder to gum naval stores producers the Secretary may utilize the services of regional associations of such producers or any agency of the Government in lieu of the State, county, and other local committees utilized in the, other agricultural conservation programs if he finds that more efficient administration will result, and the provisions of section 388 (b) of the Agricultural Adjustment Act of 1938 shall otherwise be applicable to the administration of said naval stores conservation programs.
+
+## FEDERAL CROP INSURANCE ACT
+
+Administrative and operating expenses: Not to exceed $5,500,000 of the unobligated balance of the, appropriation made in the Department of Agriculture Appropriation Act, 1938, under the heading “Conservation and Use of Agricultural Land Resources, Department of Agriculture”, is hereby made available for operating and administrative expenses under the Federal Crop Insurance Act (title V, Agricultural Adjustment Act of 1938), approved February 16, 1938, during the fiscal year ending June 30, 1939, to be allotted by the Secretary of Agriculture (a) to the Federal Crop Insurance Corporation, as authorized by section 516 (a) of such Act, and (b) to bureaus and offices of the Department of Agriculture or for transfer to other agencies of State and Federal Governments, as authorized by section 507 (d) of such Act; and such part as the Secretary allots under clause (b) hereof, shall be available for the employment of persons and means in the District of Columbia and elsewhere, rent in the District of Columbia, printing and binding, purchase of law books, books of reference, periodicals, and newspapers.
+
+Subscriptions to capital stock, Federal Crop Insurance Corporation: Not to exceed $20,000,000 of the unobligated balance of the appropriation made in the Department of Agriculture Appropriation Act, 1938, approved June 29, 1937, under the head “Conservation and Use of Agricultural Land Resources, Department of Agriculture”, is hereby made available for use by the Secretary of the Treasury during the fiscal year 1939, at such times and in such amounts as the Secretary of Agriculture may request, for the purpose of subscribing to and paying for the capital stock of the Federal Crop Insurance Corporation of the United States of America, as provided for in section 504 of the Federal Crop Insurance Act, approved February 16, 1938. The payment for said stock by the Secretary of the Treasury shall, with the approval of the Secretary of Agriculture, be subject to call in whole or in part by the Board of Directors of the Federal Crop Insurance Corporation, and shall be effected by transfer of funds on the books of the Treasury Department to the credit of the corporation, the funds so transferred to be subject to requisition by the corporation with the approval of the Secretary of Agriculture.
+
+## THE SUGAR ACT OF 1937
+
+To enable the Secretary of Agriculture to carry into effect the provisions, other than those specifically relating to the Philippine Islands, of the Sugar Act of 1937, approved September 1, 1937 (7 U. S. C. 1100–1183), including printing and binding, and the employment of persons and means, in the District of Columbia and elsewhere, as authorized by said Act, $48,000,000.
+
+## RETIREMENT OF COTTON POOL PARTICIPATION TRUST CERTIFICATES
+
+To enable the Secretary of Agriculture to carry into effect the provisions of title IV of the Agricultural Adjustment Act of 1938, approved February 16, 1938, fiscal year 1938, to remain available until June 30, 1939, $1,800,000: Provided, That the Secretary of Agriculture may, in his discretion, from time to time transfer to the General Accounting Office such sums as may be necessary to pay administrative expenses of the General Accounting Office in auditing payments under this title: Provided further, That the authority of the manager, cotton pool, to purchase and pay for participation trust certificates, Form C-5-I, shall extend to and include the 31st day of December 1938 but after the expiration of said limit, the purchase may be consummated of any such certificates tendered to the manager, cotton pool, on or before December 31, 1938, but where for any reason the purchase price shall not have, been paid by the manager, cotton pool: Provided further, That the date May 1, 1938, appearing in title IV of the Agricultural Adjustment Act of 1938, as amended, shall not be applicable: Provided further, That in case any person who is entitled to payment on a participation trust certificate, Form C-5-I, dies, becomes incompetent, or disappears before receiving such payment or before application for such payment is executed, the Secretary of Agriculture shall provide by regulations, without regard to any other provisions of law, for such payment to such person as he may determine to be fairly and reasonably entitled thereto.
+
+## INTERNATIONAL PRODUCTION CONTROL COMMITTEES
+
+During the fiscal year 1939 the Secretary of Agriculture may expend not to exceed $17,500 from the funds available to the Agricultural Adjustment Administration for the share of the United States as a member of the International Wheat Advisory Committee, the International Sugar Council, or like events or bodies concerned with the reduction of agricultural surpluses or with other objectives of the Agricultural Adjustment Administration, together with traveling and other necessary expenses relating thereto.
+
+## FARM TENANT ACT
+
+## farm tenancy
+
+To enable the Secretary of Agriculture to carry out the provisions of title I of the Bankhead-Jones Farm Tenant Act, approved July 22, 1937 (7 U. S. C. 1000–1006), including the employment of persons and means in the District of Columbia, and elsewhere, as authorized by said Act, $25,000,000, together with the unexpended balance of the appropriation made under said Act for the fiscal year 1938.
+
+## liquidation and management of resettlement projects
+
+To enable the Secretary of Agriculture to carry out the provisions of section 43 of title IV of the Bankhead-Jones Farm Tenant Act, approved July 22, 1937 (7 U. S. C. 1014–1029), including the employment of persons and means, in the District of Columbia and elsewhere, as authorized by said Act, $2,000,000.
+
+## land utilization and retirement of submarginal land
+
+To enable the Secretary of Agriculture to carry out the provisions of title III of the Bankhead-Jones Farm Tenant Act, approved July 22, 1937 (7 U. S. C. 1010–1013), including the employment of persons and means in the District of Columbia and elsewhere, as authorized by said Act, $5,000,000, and the amount appropriated for this purpose for the fiscal year 1938 (Third Deficiency Appropriation Act, fiscal year 1937), remaining unobligated on June 30, 1938, shall continue available to June 30, 1939.
+
+Total, Farm Tenant Act, $32,000,000.
+
+## WATER FACILITIES, ARID AND SEMI-ARID AREAS
+
+To enable the Secretary of Agriculture to carry into effect the provisions of the Act entitled “An Act to promote conservation in the arid and semi-arid areas of the United States by aiding in the development of facilities for water storage and utilization, and for other purposes”, approved August 28, 1937 (16 U. S. C. 590r–590x), including the employment of persons and means in the District of Columbia and elsewhere; printing and binding; the purchase, exchange, operation, and maintenance of passenger-carrying vehicles; and rent in the District of Columbia and elsewhere, $500,000, of which not to exceed $25,000 may be expended in the District of Columbia: Provided, That not to exceed $50,000 of this appropriation shall be available for expenditure for any one project designed in whole or in part to benefit lands by the irrigation thereof and all project facilities and appurtenances which depend for their utility in whole or in part upon each other or upon any common facility shall be deemed one project, and the authority contained in said Act shall not be deemed to authorize the construction of any project not in accord with this limitation.
+
+## BELTSVILLE RESEARCH CENTER
+
+For general administrative purposes, including maintenance, operation, repairs, and other expenses, $85,000; and, in addition thereto, this appropriation may be augmented, by transfer of funds or by reimbursement, from applicable appropriations, to cover the cost, including handling and other related charges, of services and supplies, equipment and materials furnished, stores of which may be maintained at the Center, and the applicable appropriations may also be charged their proportionate share of the necessary general expenses of the Center not covered by this appropriation.
+
+## FOREST ROADS AND TRAILS
+
+For carrying out the provisions of section 23 of the Federal Highway Act approved November 9, 1921 (23 U. S. C. 23), including not to exceed $59,500 for departmental personal services in the District of Columbia, $14,000,000, which sum consists of the balance of the amount authorized to be appropriated for the fiscal year 1938 and $7,000,000 of the amount authorized to be appropriated for the fiscal year 1939 by the Act approved June 16, 1936, to be immediately available and to remain available until expended: Provided, That this appropriation shall be available for the rental, purchase, or construction of buildings necessary for the storage or equipment and supplies used for road and trail construction and maintenance, but the total cost of any such building purchased or constructed under tins authorization shall not exceed $7,500: Provided further, That there shall be available from this appropriation not to exceed $50,000 for the completion of construction of buildings at Denver, Colorado, for the storage and repair of Government equipment for use in the construction and maintenance of roads.
+
+## INTERCHANGE OF APPROPRIATIONS
+
+Not to exceed 5 per centum of the foregoing amounts for the miscellaneous expenses of the work of any bureau, division, or office herein provided for shall be available interchangeably for expenditures on the objects included within the general expenses of such bureau, division, or office, but no more than 5 per centum shall be added to any one item of appropriation except in cases of extraordinary emergency.
+
+## WORK FOR OTHER DEPARTMENTS
+
+During the fiscal year 1939 the head of any department or independent establishment of the Government requiring inspections, analyses, and tests of food and other products, within the scope of the functions of the Department of Agriculture and which that Department is unable to perform within the limits of its appropriations, may, with the approval of the Secretary of Agriculture transfer to the Department of Agriculture for direct expenditure such sums as may be necessary for the performance of such work.
+
+## PASSENGER-CARRYING VEHICLES
+
+Within the limitations specified under the several headings the lump-sum appropriations herein made for the Department of Agriculture shall be available for the purchase of motor-propelled and horse-drawn passenger-carrying vehicles necessary in the conduct of the field work of the Department of Agriculture outside the District of Columbia: Provided, That such vehicles shall be used only for official service outside the District of Columbia, but this shall not prevent the continued use for official service of motortrucks in the District of Columbia: Provided further, That the limitation on expenditures for purchase of passenger-carrying vehicles in the field service shall be interchangeable between the various bureaus and offices of the Department, to such extent as the exigencies of the service may require: Provided further, That appropriations contained in this Act shall be available for the maintenance, operation, and repair of motor-propelled and horse-drawn passenger-carrying vehi cles: Provided further, That the Secretary of Agriculture may exchange motor-propelled and horse-drawn vehicles, tractors, road equipment, and boats, and parts, accessories, tires, or equipment thereof, in whole or in part payment for vehicles, tractors, road equipment, or boats, or parts, accessories, tires, or equipment of such vehicles, tractors road equipment, or boats purchased by him: Provided further, That the funds available to the Agricultural Adjustment Administration may be used during the fiscal year for which appropriations are herein made for the maintenance, repair, and operation of one passenger-carrying vehicle for official purposes in the District of Columbia.
+
+This title may be cited as the “Department of Agriculture Appropriation Act, 1939”.
+
+## TITLE II — FARM CREDIT ADMINISTRATION
+
+## salaries and expenses
+
+For salaries and expenses of the Farm Credit Administration in the District of Columbia and the field; traveling expenses of officers and employees including not to exceed $5,000 for travel incurred under proper authority attending meetings or conventions of members of organizations at which matters of importance to the work of the Farm Credit Administration are to be discussed or transacted; printing and binding contingent and miscellaneous expenses, including law books, books of reference, and not to exceed $1,000 for periodicals, newspapers, and maps; contract stenographic reporting services, and expert services for the preparation of amortization tables; library membership fees or dues in organizations which issue publications to members only or to members at a lower price than to others, payment for which may be made in advance; purchase of manuscripts, data, and special reports by personal service without regard to the provisions of any other Act; procurement of supplies and services without regard to section 3709 of the Revised Statutes (U. S. C., title 41, sec. 5) when the aggregate amount, involved does not exceed $50; purchase, exchange, maintenance, repair, and operation of motor-propelled passenger-carrying vehicles and motor trucks to be used only for official purposes; typewriters, adding machines, and other labor-saving devices, including their repair and exchange; garage rental in the District of Columbia and elsewhere; payment of actual transportation expenses and not to exceed $10 per diem in lieu of subsistence and other expenses of persons serving, while away from their homes, without other compensation from the United States, in an advisory capacity to the Farm Credit Administration; employment of persons, firms, and others for the performance of special services, including legal services, and other miscellaneous expenses; collection of moneys due the United States on account of loans made under the provisions of the Acts of March 3, 1921 (41 Stat., p. 1347), March 20, 1922 (42 Stat., p. 467), April 26, 1924 (43 Stat., p. 110), February 28, 1927 (44 Stat., p. 1251), February 25, 1929 (45 Stat., p. 1306), as amended May 17, 1929 ( 46 Stat., p. 3), March 3, 1930 (46 Stat., pp. 78, 79), December 20, 1930 (46 Stat., p. 1032), February 14, 1931 (46 Stat., p. 1160), and February 23, 1931 (46 Stat., p. 1276); January 22, 1932 (47 Stat., p. 5), February 4, 1933 (47 Stat., p. 795), March 4, 1933 (47 Stat., p. 1547), February 23, 1934 (48 Stat., p. 354), March 10, 1934 (48 Stat., p. 402), June 19, 1934 (48 Stat., p. 1021), February 20, 1935 (49 Stat., p. 28), March 21, 1935 (49 Stat., p. 49), April 8, 1935 (49 Stat., p. 115), January 29, 1937 (Public, Numbered 3, Seventy-fifth Congress), and February 9, 1937 (Public, Numbered 4, Seventy-fifth Congress), and Executive Order Numbered 7305, dated February 28, 1936; examination of corporations, banks, associations, credit unions, and institutions operated, supervised, or regulated by the Farm Credit Administration: Provided, That the expenses and salaries of employees engaged in such examinations shall be assessed against the said corporations, banks, or institutions in accordance with the provisions of existing laws; in all, $3,750,000, together with not to exceed $2,800,000 from the funds made available to the Farm Credit Administration under section 7 (a) of Public Law Numbered 3, Seventy-fifth Congress, approved January 29, 1937, and under the First-Deficiency Appropriation Act, fiscal year 1937 (Public, Numbered 4, Seventy-fifth Congress), approved February 9, 1937 (50 Stat. 433–434).
+
+## federal farm mortgage corporation
+
+Not to exceed $10,000,000 of the funds of the Federal Farm Mortgage Corporation, established by the Act of January 31, 1934 (48 Stat. 344), shall be available during the fiscal year 1939 for administrative expenses of the Corporation, including personal services in the District of Columbia and elsewhere; travel expenses of officers and employees of the Corporation, in accordance with the Standardized Government Travel Regulations and the Act of June 3, 1926, as amended (5 U. S. C. 821–833); printing and binding; law books, books of reference, and not to exceed $250 for periodicals and newspapers; contract stenographic reporting services; procurement of supplies, equipment, and services; purchase (at not to exceed $750 each), exchange, maintenance, repair, and operation of motor-propelled passenger-carrying vehicles, to be used only for official purposes; typewriters, adding machines, and other labor-saving devices, including their repair and exchange; rent in the District of Columbia and elsewhere; payment of actual transportation expenses and not to exceed $10 per diem in lieu of subsistence and other expenses of persons serving, while away from their homes, without other compensation from the United States, in an advisory capacity to the Corporation; employment on a contract or fee basis of persons, firms, and corporations for the performance of special services, including legal services; use of the services and facilities of Federal land banks, national farm loan associations. Federal Reserve banks, and agencies of the Government as authorized by said Act of January 31, 1934; and all other necessary administrative expenses: Provided, That all necessary expenses (including services performed on a force account, contract or fee basis, but not including other personal services) in connection with the operation, maintenance, improvement, or disposition of real or personal property of the Corporation shall be considered as non-administrative expenses for the purposes hereof: Provided further, That except for the limitations in amounts hereinbefore specified, and the restrictions in respect to travel expenses, the administrative expenses and other obligations of the Corporation shall be incurred, allowed and paid, in accordance with the provisions of said Act of January 31, 1934, as amended (12 U. S. C. 1016–1020 (h)).
+
+This title may be cited as the “Farm Credit Administration Appropriation Act of 1939”.
+
+
+*Approved, June 16, 1938.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- June 16, 1938 [H. R. 10238] [Public, No. 644]
+- Department of Agriculture and Farm Credit Administration appropriations, 1939.
+- Title I—Department of Agriculture.
+- Office of the Secretary.
+- Salaries.
+- Provisos. Salaries limited to average rates under Classification Act. 42 Stat. 1488. 5 U. S. C. §§ 661–674; Supp. III, §§ 673, 673c.
+- If only one position in grade.
+- Restriction not applicable to clerical-mechanical service. No reduction in fixed salaries. 42 Stat. 1490. 5 U. S. C. § 666. Transfers without reduction.
+- Higher rates permitted.
+- Contracts for stenographic reporting.
+- Options to purchase lands.
+- Allowances for living quarters abroad.
+- 46 Stat. 818. 5 U. S. C § 118a. Advance payments.
+- Employees predicting future prices of cotton; payments to, forbidden.
+- Effects of spray insecticides on fruit, etc., use of funds for investigations forbidden.
+- Miscellaneous expenses.
+- Vehicles.
+- Provisos. Maintenance, etc., of vehicles; reimbursement from other appropriations.
+- 42 Stat. 508. 5 U. S. C. § 543. Maintenance of stationery, etc., stocks.
+- Maximum.
+- Reimbursement from other appropriations.
+- 47 Stat. 417. 31 U. S. C. § 686.
+- Salaries and expenses, handling, etc., of supplies.
+- Use of central storehouse.
+- Segregation of transactions.
+- Rent.
+- Buildings in the District of Columbia. Post, p. 1125.
+- Office of the Solicitor.
+- Salaries and expenses.
+- Office of Information.
+- Personal services, D. C.
+- Printing and binding.
+- Annual Report of the Secretary. 26 Stat. 612; 34 Stat. 825; 40 Stat. 1550. 44 U. S. C. 111, 212–220, 222, 241, 244; 7 U. S. C. § 418; 5 U. S. C., Supp. III, § 108. 34 Stat. 825. 44 U. S. C. 214, 224. Farmers’ bulletins.
+- Exceptions.
+- 40 Stat. 1270. 44 U. S. C. §§ 111, 220.
+- Library.
+- Personal services, D.C.
+- Office of Experiment Stations.
+- Support of stations. 24 Stat. 440. 7 U. S. C. § 362, 333, 365, 368, 377–379.
+- College-aid land grants. 12 Stat. 503. 7 U. S. C. §§ 301–308.
+- Increased allotments. 34 Stat. 63. 7 U. S. C. § 369.
+- Further allotments. 43 Stat. 970. 7 U. S. C. §§ 361, 366, 370, 371, 373–376, 380, 382.
+- Hawaii. 45 Stat. 571. 7 U. S. C. §§ 386–386b.
+- Alaska. 45 Stat. 1256. 7 U. S. C. § 386c.
+- Benefits of other previsions extended to. 49 stat. 1554. 7 U. S. C., Supp. III, § 369a.
+- Puerto Rico. 46 Stat. 1520. 7 U. S. C. §§ 386d–386f.
+- Research into basic agricultural laws anil principles.
+- 49 Stat. 436. 7 U. S. C., Supp. III. §§ 127–127g.
+- Total.
+- Salaries and expenses. Administration of grants to States, etc. 24 Stat. 440; 34 Stat. 63; 43 Stat. 970; 45 Stat. 571, 1250; 46 Stat. 1520. 7 U. S. C. §§ 361–363, 365, 366, 368–371, 373–380, 382, 386–386f. 49 Stat. 1553. 7 U. S. C., Supp, III, § 369a. Puerto Rico, station.
+- Form of annual financial statement, etc.
+- Insular experiment stations.
+- Proviso. Transfer of equipment.
+- 45 Stat. 571. 7 U. S. C. §§ 386–386b. Sale of products.
+- Deposit of receipts.
+- Vehicles, field service.
+- Special research fund; administrative expenses.
+- 49 Stat. 436. 7 U. S. C. Supp. III, §§ 427, 427b, 427c, 427f. Administration of stations.
+- Extension Service.
+- Supplementary cooperative extension work.
+- 38 Stat. 372; 45 Stat. 711. 7 U. S. C. §§ 341–348.
+- 12 Stat. 503. 7 U. S. C. §§ 301–308.
+- Use of funds.
+- Proviso. Limitation on expenditure.
+- Further cooperation with State colleges.
+- 12 Stat. 503; 38 Stat. 372; 45 Stat. 711; 46 Stat. 83. 7 U. S. C. §§ 301–308, 343a, 343b.
+- Cooperative State agricultural extension work.
+- 49 Stat. 438. 7 U. S. C., Supp. III, § 343c.
+- Alaska. 45 Stat. 1256. 7 U. S. C. § 386c. Benefits of designated acts extended to.
+- 49 Stat. 1554. 7 U. S. C., Supp. III, § 343e.
+- Puerto Rico. 50 Stat. 881. 7 U. S. C., Supp. III, § 343f.
+- Additional cooperative extension work.
+- General administrative expenses.
+- Farmers’ cooperative demonstration work.
+- Farmers’ institutes.
+- Proviso. Acceptance of voluntary contributions within State.
+- Motion and sound pictures. Preparation and distribution.
+- Agricultural exhibits at fairs.
+- Cooperative farm forestry extension work.
+- 43 Stat. 654. 16 U. S. C. §§ 564–570.
+- Weather Bureau.
+- 26 Stat. 653. 15 U. S. C. §§ 311–313, 317.
+- Air navigation reports. 44 Stat. 571. 15 U. S. C. § 313. Buildings and grounds.
+- Living quarters of observers.
+- Telegraphing, etc.
+- Issuing forecasts and warnings.
+- Cooperation with other bureaus, etc.
+- Administrative expenses.
+- General weather service and research.
+- Weather relationship to forest fires.
+- 45 Stat. 701. 16 U. S. C. § 581e. International Meteorological Committee.
+- Printing office.
+- Proviso. Restriction.
+- Aerology.
+- Proviso. Part-time employees.
+- Bureau of Animal Industry.
+- Salaries and expenses. 23 Stat. 31. 7 U. S. C. § 391; 21 U. S. C. §§ 112–119, 130. 26 Stat. 833. 45 U. S. C. §§ 75, 76.
+- 26 Stat. 414. 21 U. S. C. §§ 101–105. Contagious disease, etc. 32 Stat. 792. 21 U. S. C. §§ 111–113, 120–122.
+- Cattle quarantine. 33 Stat. 1264. 21 U. S. C. §§ 123–128.
+- Twenty-eight hour law. 34 Stat. 607. 45 U. S. C. 71–74.
+- Meat inspection. 34 Stat. 674, 1260; 41 Stat. 241. 21 U. S. C. 95, 71–94 96. 48 Stat. 1225. 31 U. S. C. § 725a.
+- Animal viruses, etc. 37 Stat. 832. 21 U. S. C. §§ 151–158. Packers and Stockyards Act. 42 Stat. 159; 49 Stat. 648. 7 U. S. C. §§ 181–229; Supp. III, 218–218d. Inspections other than at headquarters.
+- Credit of fees to appropriate fund.
+- Collection and dissemination of information. Personal services.
+- Tuberculin, serums, etc., purchase of samples.
+- Purchase and destruction of diseased, etc., animals, including poultry.
+- Animal husbandry. Feeding, breeding, etc., experiments.
+- Big Springs, Tex., cooperative demonstrations, etc.; conditions.
+- Proviso. Poultry feeding and breeding.
+- Animal diseases, investigations. Beltsville, Md., station.
+- Proviso. Contagious abortion of animals.
+- Eradicating tuberculosis and Bang’s disease.
+- Unobligated balances reappropriated. 48 Stat. 805; 49 Stat. 775. Provisos. Indemnities for destroyed animals.
+- State, etc., cooperation.
+- Compensation, limitation.
+- Payments for cattle slaughtered prior to May 1, 1939.
+- Conditions.
+- Diseased dairy and beef cattle, experimentation. 49 Stat. 775. 7 U. S. C., Supp. III, § 612b. Eradicating southern cattle ticks. Proviso. Limitation on purchase of animals, etc.
+- Materials for dipping vats.
+- Hog-cholera control.
+- Inspection and quarantine.
+- Mallein testing of animals.
+- Meat inspection. 34 Stat. 679, 1260. 21 U. S. C. §§ 95, 71–94, 96. Equine meat.
+- 48 Stat. 241. 31 U. S. C. § 725a.
+- Virus-Serum-Toxin Act. 37 Stat. 832. 21 U. S. C. 151–158.
+- Marketing agreements with respect to hog cholera virus and serum. 49 Stat. 781. 7 U. S. C., Supp. III, §§ 851–855.
+- Packers and Stockyards Act. 42 Stat. 159; 49 Stat. 648. 7 U. S. C. §§ 181–229; Supp. III, §§ 218–218d. Provisos. Bonds from agencies and dealers. Suspension for violation.
+- Fee for inspecting brands.
+- Not imposed unless requested.
+- Contagious diseases of animals.
+- Emergency eradication of foot-and-mouth, etc., diseases.
+- Balances available.
+- Payment for destroyed animals.
+- Basis of appraisement.
+- Limitation.
+- Eradication of European fowl post, etc.
+- 43 Stat. 682.
+- Bureau of Dairy Industry.
+- Salaries and expenses. 43 Stat. 243. 7 U. S. C. §§ 401–404.
+- Investigations, demonstrations, etc.
+- Bureau of Plant Industry.
+- Investigation of fruits, plants, products, etc.
+- Proviso. Cost limit for buildings.
+- Arlington, Va., experimental farm, etc.
+- 31 Stat. 135.
+- Wild plants and grazing lands.
+- Eradication of noxious weeds.
+- Cereal crops and diseases, investigation, etc.
+- Flax, broomcorn, etc.
+- Cotton, etc., production and diseases.
+- Sea Island cotton.
+- Drug, etc., plants.
+- Dry-land agriculture.
+- Proviso. New field stations forbidden.
+- Experimental greenhouse maintenance.
+- Forage crops and diseases.
+- Forest pathology.
+- 45 Stat. 701. 16 U. S. C. § 581b.
+- Fruit and vegetable crops and diseases.
+- Genetics and biophysics.
+- Mycology and disease survey.
+- National Arboretum.
+- 44 Stat. 1422. 20 U. S. C. §§ 191–194.
+- Consulting landscape architects.
+- Nematology.
+- Plant exploration and introduction.
+- Plant nutrition.
+- Rubber, etc., plants.
+- Seed investigations.
+- 37 Stat. 506; 44 Stat. 325. 7 U. S. C. §§ 111–116.
+- Proviso. International Seed Testing Congress.
+- Soil-fertility investigations.
+- Soil microbiology investigations.
+- Publication of results.
+- Sugar-plant investigations.
+- Tobacco investigations.
+- Western irrigation agriculture.
+- Forest Service.
+- Experiments and investigations.
+- Restricted to United States.
+- Provisos. Cost of buildings.
+- Protection, etc., of national forests.
+- Care of fish and game.
+- Supplies, etc.
+- Warehouse maintenance, etc.
+- 36 Stat. 963. 16 U. S. C. § 514.
+- National forest protection and management.
+- Nurseries.
+- Aerial fire control.
+- Experimental forest. Proviso. Direct purchases.
+- Lands opened to entry, etc.
+- 34 Stat. 233; 37 Stat. 287, 842; 43 Stat. 1144. 16 U. S. C. §§ 506–509, 512.
+- Purchase or acquisition. 36 Stat. 963; 43 Stat. 655. 16 U. S. C. §§ 521, 471, 499, 505, 564–570.
+- Lands transferred. 50 Stat. 522. 7 U. S. C., Supp. III. ch. 33. Proviso. Care of graves of fire fighters.
+- Water rights, investigations, etc.
+- Fighting forest fires.
+- Private forestry cooperation.
+- Forest research.
+- 45 Stat. 699. 16 U. S. C. §§ 581, 581a, 581f–581i. Forest management.
+- 45 Stat. 700.
+- Range investigations.
+- 45 Stat. 701.
+- Forest products.
+- Forest survey. 45 Stat. 702.
+- Forest economics. 45 Stat. 702.
+- Forest influences.
+- Aggregate; additional, from contributions.
+- Provisos. Personal services, D. C. International Union of Forest Research Stations, contribution.
+- Cooperation with States, etc.
+- 43 Stat. 653. 16 U. S. C. §§ 564–570.
+- Study of effect of tax laws and timber insurance investigation. Personal services, D. C. Supplies and equipment.
+- 43 Stat. 654. 16 U. S. C. § 567.
+- Provisos. Local contributions.
+- New nurseries, restriction.
+- Additional forest lands.
+- Acquisition, under Conservation Act. 36 Stat. 961. 16 U. S. C. §§ 513–519, 521.
+- Proviso. Personal services, D. C.
+- Uinta and Wasatch National Forests, Utah. Soil erosion control, etc.
+- 49 Stat. 866.
+- Vehicles, field work.
+- 42 Stat. 217. 23 U. S. C. §§ 21, 23.
+- Bureau of Chemistry and Soils.
+- Personal services.
+- Agricultural chemical investigations. 12 Stat. 387. 5 U. S. C. §§ 511, 512. Biological, etc., investigations.
+- Investigation, etc., of methods of sugar manufacture, etc.
+- Industrial utilization of farm products and byproducts.
+- Agricultural fires and explosive dusts.
+- Naval-stores investigations.
+- Turpentine and rosin, data. 49 Stat. 653. 5 U. S. C., Supp. III, § 556b.
+- Soil survey.
+- Soil chemical and physical investigations.
+- Fertilizer investigations.
+- Bureau of Entomology and Plant Quarantine. Salaries and expenses.
+- Investigations, etc.
+- Plant Quarantine Act, enforcement. 37 Stat. 315. 7 U. S. C. §§151–167.
+- Proviso. Cost of buildings.
+- Fruit insects.
+- Japanese beetle control.
+- Mexican fruitfly control.
+- Citrus canker eradication.
+- Proviso. No indemnity for destroyed, etc., property.
+- Sweetpotato weevil control.
+- Provisos. State cooperation.
+- No indemnity for destroyed, etc., property.
+- Phony peach, etc., eradication.
+- Forest insects. 45 Stat. 701. 16 U. S. C. § 581c.
+- Ornamental trees and shrubs. Proviso. Matching by State funds.
+- Gypsy and brown-tail moth control.
+- Blister rust control.
+- Dutch elm disease eradication.
+- Provisos. State, etc., contributions.
+- Truck crop and garden insects.
+- Cereal and forage insects.
+- European corn borer control.
+- Barberry eradication.
+- Cotton insects.
+- Pink boll worm control.
+- Cooperation with Mexican Government.
+- Thurberia weevil control.
+- Bee culture.
+- Insects affecting man and animals.
+- Insect pest survey and identification.
+- Foreign parasites.
+- Control investigations.
+- Insecticide and fungicide investigations.
+- Transit inspection. 37 Stat. 315. 7 U. S. C. §§ 161, 164a.
+- Foreign plant quarantines.
+- Mexican cotton, etc.
+- Inspection, cleaning etc.
+- Proviso. Receipts covered into Treasury.
+- Certification of exports.
+- Bureau of Biological Survey.
+- Food habits of birds and animals.
+- Fur resources investigations.
+- Biological investigations.
+- 45 Stat. 701. 16 U. S. C. § 581d.
+- Predatory animals, etc., control.
+- Reindeer, musk oxen, etc., in Alaska.
+- Pocatello, Idaho, depot and laboratory.
+- 49 Stat. 1913. 16 U. S. C., Supp. III, § 667.
+- Protection of migratory birds. 40 Stat. 755; 49 Stat. 1556. 16 U. S. C. §§ 703–711; Supp. III, §§ 703–709a.
+- 39 Stat. 1702.
+- Cooperation with local authorities.
+- 35 Stat. 1137. 18 U. S. C. §§ 391–394. Traffic in game and other wild life, etc, 49 Stat. 380. 18 U. S. C., Supp. III, §§ 392–394.
+- Transportation of illegally-killed birds.
+- 31 Stat. 187. 16 U. S. C. § 701.
+- Securing information of law violations.
+- Enforcement of Alaska game law. 43 Stat. 739; 46 Stat. 1111. 48 U. S. C. 192–211.
+- Mammal and bird reservations. Post, p. 1126.
+- Taking eggs on bird breeding grounds. 35 Stat. 1104; 43 Stat. 98. 18 U. S. C. § 145. Prohibited acts, law enforcement. 45 Stat. 1224. 16 U. S. C. § 715i.
+- Long-horned cattle, Wichita Mountains Wildlife Refuge.
+- Migratory bird conservation refuges.
+- 45 Stat. 1222; 49 Stat. 381. 16 U. S. C. 715–7l5r; Supp. III, §§ 715d–l–715e–l.
+- Migratory bird conservation fund.
+- 48 Stat. 451. 16 U. S. C. §§ 718–7l8h.
+- 46 Stat. 378. 16 U. S. C., Supp. III, §§ 718a–718a. Receipts from stamp sales. Balance available.
+- Proviso. Advance of funds from Treasury; reimbursement.
+- Wildlife restoration.
+- Federal aid to States.
+- 50 Stat. 917. 16 U. S. C., Supp. III, 669–669j.
+- Vehicles for field work.
+- Proviso. Fund available for maintenance, etc. 49 Stat. 384. 16 U. S. C., Supp. III, § 715k–l.
+- Bureau of Public Roads.
+- Road making experiments, etc.
+- 39 Stat. 355; 42 Stat. 212. 23 U. S. C. §§ 1–25.
+- Federal-aid high-way system.
+- Construction of rural post roads.
+- 39 Stat. 355; 49 Stat. 1519. 23 U. S. C. §§ 1–25; Supp. III, ch. 1.
+- Provisos. Convict labor.
+- Replacements.
+- Depreciation on engineering, etc., equipment.
+- Reimbursement for cost of material, etc.
+- Medical supplies, etc., in emergencies.
+- Federal-aid secondary or feeder roads.
+- 49 Stat. 1521.
+- Elimination of rail-road grade crossings.
+- Public-lands highways.
+- Survey, construction, etc.
+- 46 Stat. 805. 23 U. S. C. § 3.
+- 49 Stat. 1520.
+- Bureau of Agricultural Engineering.
+- Agricultural engineering investigations.
+- Cotton ginning investigations. 46 Stat. 248. 7 U. S. C. §§ 424, 425.
+- Bureau of Agricultural Economics.
+- Farm management, and practice.
+- Marketing and distributing farm products.
+- Promotion of uniform standards.
+- Cotton and byproducts research.
+- 46 Stat. 248. 7 U. S. C. §§ 424, 425.
+- Proviso. Sale of forms of wool and mohair grades.
+- Crop and livestock estimates.
+- Proviso. Restriction on expenditure.
+- Foreign competition and demand.
+- 46 Stat. 497. 7 U. S. C. §§ 541–545. Dissemination of information to American producers, etc.
+- Market Inspection of farm products.
+- Proviso. Certificates as evidence.
+- Tobacco Inspection Act.
+- 49 Stat. 731. 7 U. S. C., Supp. III, §§ 511–511q.
+- Market news service.
+- Perishable Agricultural Commodities Act. 46 Stat. 531. 7 U. S. C. §§ 499a–499r.
+- Standard Container, Hamper, and Produce Agency Acts.
+- 39 Stat. 673; 45 Stat. 685; 48 Stat. 930. 15 U. S. C. §§ 251–256, 257–257i.
+- Antidumping Act.
+- 44 Stat. 1355. 7 U. S. C. §§491–497.
+- Peanut statistics. 49 Stat. 1898. 7 U. S. C., Supp. III, §§ 951–957.
+- Tobacco statistics.
+- 45 Stat. 1079; 47 Stat. 662. 7 U. S. C. §§ 501–508.
+- Cotton quality statistics and classing Acts. 44 Stat. 1372. 7 U. S. C. §§ 471–476.
+- 50 Stat. 62. 7 U. S. C., Supp. III, §§ 473a–473c. Cotton Futures Act. 39 Stat. 476; 40 Stat. 1351. 26 U. S. C. §§ 1090–1106.
+- Cotton Standards Act. 42 Stat. 1517. 7 U. S. C. §§ 51–65. Agreements as to standards, etc., in foreign countries.
+- Grain Standards Act. 39 Stat. 482. 7 U. S. C. 71–87.
+- Warehouse Act. 39 Stat. 486. 7 U. S. C. §§ 241–273. Post, p. 1126.
+- Bureau of Home Economics.
+- Home economics investigations.
+- Commodity Exchange Act.
+- Enforcement expenses. 42 Stat. 998; 49 Stat. 1491. 7 U. S. C. §§ 1–17; Supp. III, §§ l–17a.
+- Food and Drug Administration.
+- Rent outside D. C.
+- Food and Drugs Act, enforcement. 34 Stat. 768. 21 U. S. C. §§ 1–15. Post, p. 1059.
+- Revision of Pharmacopoeia.
+- Proviso. Travel outside United States.
+- Tea Importation Act, enforcement. 29 Stat. 604; 41 Stat. 712. 21 U. S. C. §§ 41–50.
+- Naval Stores Act. 42 Stat. 1435. 7 U. S. C. §§ 91–99.
+- Insecticide Act, enforcement. 36 Stat. 331. 7 U. S. C. §§ 121–134.
+- Milk Importation Act, enforcement. 44 Stat. 1101. 21 U. S. C. §§ 141–149.
+- Caustic Poison Act, enforcement. 44 Stat. 1406. 15 U. S. C. §§ 401–411.
+- Filled Milk Act, enforcement. 42 Stat. 1486; 49 Stat. 885. 21 U. S. C. §§ 61–63; Supp. III, § 64.
+- Sea Food Inspectors Act, enforcement.
+- 34 Stat. 768. 21 U. S. C. §§ 1–5, 7–15. 49 Stat. 871. 21 U. S. C., Supp. III, § 14a.
+- Soil Conservation Service.
+- 49 Stat. 163. 16 U. S. C., Supp. III, §§ 590a–f.
+- Construction on Government-owned land.
+- Reproductions of photographs, etc.
+- Soil and moisture conservation and land-use investigations.
+- Operations, demonstrations, etc.
+- Personal services, D.C. Vehicles.
+- Conservation and use of agricultural land resources.
+- Administrative expenses. 49 Stat. 1148. 16 U. S. C., Supp. III, §§ 590g–590q. Ante, p. 31.
+- Sums reappropriated.
+- 49 Stat. 1116. 48 Stat. 38. 7 U. S. C. § 612.
+- 49 Stat. 1183.
+- Availability.
+- Provisos. Use restricted.
+- Ante, p. 37.
+- Laboratories and other research facilities.
+- Use restricted.
+- Availability for 1939 programs.
+- Transfer of funds.
+- Purchase of seed, etc., and issuance to producers.
+- Tennessee Valley Authority, etc., reimbursement.
+- Funds for administrative expenses.
+- 49 Stat. 774. 7 U. S. C., Supp. III, § 612c.
+- Ante, p. 69.
+- Cotton price adjustment payments. 50 Stat. 762; ante, p. 66.
+- Acceleration of payments.
+- Applications.
+- Certificate of compliance.
+- Agreement to refund if subsequently found operator failed to comply.
+- Where cotton produced in 1937 on two or more farm units.
+- Total or partial crop failure from hail, etc., conditions.
+- Payments.
+- Naval stores conservation programs, payments. 49 Stat. 1149.
+- Services of regional associations, etc.
+- Ante, p. 68.
+- Federal Crop Insurance Act.
+- Administrative and operating expenses.
+- 50 Stat. 430.
+- Ante, p. 72.
+- Designated allotments.
+- Ante, p. 77.
+- Ante, p. 73.
+- Federal Crop Insurance Corporation, subscriptions to capital stock.
+- Payment subject to call; transfer of funds to credit of corporation.
+- Ante, p. 71
+- Sugar Act of 1987.
+- 50 Stat. 903. 7 U. S. C., Supp. III, §§ 1100–1183.
+- Cotton pool participation trust certificates.
+- Expenses, retirement of. Ante, p. 70. Availability.
+- Provisos. Transfer of funds.
+- Authority of manager to purchase, etc., certificates extended.
+- Consummation after time expiration.
+- Textual correction. Ante, p. 204.
+- Provision where person entitled to payment dies, etc.
+- International Production Control Committees.
+- Share of expenses.
+- Farm Tenant Act.
+- Loans for acquisition of farms. 50 Stat. 522. 7 U. S. C., Supp. III, 1000–1006.
+- Resettlement projects.
+- Liquidation and management. 50 Stat. 530. 7 U. S. C., Supp. III, §§ 1014–1029.
+- Submarginal land.
+- Land utilization and retirement. 50 Stat. 525. 7 U. S. C., Supp. III, §§ 1010–1013.
+- 50 Stat. 762.
+- Water facilities, arid and semi-arid areas.
+- Development, etc., of.
+- 50 Stat. 869. 16 U. S. C., Supp. III, §§ 590r–590x. Printing and binding. Vehicles.
+- Proviso. Use restricted.
+- Beltsville Research Center.
+- General expenses. Additional funds.
+- Forest roads and trails. 42 Stat. 218, 661. 23 U. S. C. § 23.
+- 49 Stat. 1519. 23 U. S. C., Supp, III, ch. 1. Provisos. Authorized expenditures.
+- Buildings at Denver, Colo.
+- Interchange of appropriations.
+- Work for other departments, etc.
+- Passenger-carrying vehicles.
+- Availability of funds for purchase, etc.
+- Provisos. Limitation on use.
+- Interchangeability.
+- Maintenance, etc.
+- Exchanges.
+- Vehicle for use in D. C.
+- Short title.
+- Title II—Farm Credit Administration.
+- Salaries and expenses. Traveling expenses
+- Contingent expenses. Printing and binding.
+- Services and supplies. R. S. § 3709. 41 U. S. C. § 5. Vehicles.
+- Transportation and subsistence.
+- Collection of loans under designated Acts.
+- Examinations, etc.
+- Proviso. Assessment for expenses.
+- Additional funds.
+- 50 Stat. 7, 11.
+- Federal Farm Mortgage Corporation.
+- Administrative expenses. 48 Stat. 344. 12 U. S. C. § 1020.
+- Travel expenses. 44 Stat. 688. 5 U. S. C. §§ 821–833.
+- Labor-saving devices.
+- Special services.
+- 48 Stat. 344.
+- Provisos. Certain expenses considered nonadministrative.
+- Payment, etc., of obligations.
+- 48 Stat. 344. 12 U. S. C. 1016–1020 (h).

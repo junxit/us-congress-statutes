@@ -1,0 +1,31 @@
+---
+volume: 52
+citation: 52 Stat. 1381
+type: Chapter
+number: 617
+congress: 75
+session: 3
+scope: private
+approved: 1938-06-23
+bills: 75/hr-4032
+---
+
+# Chapter 617
+
+> AN ACT For the relief of the New Amsterdam Casualty Company.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+That the Secretary of the Treasury be, and he is hereby, authorized and directed to pay, out of any money in the Treasury not otherwise appropriated, to the New Amsterdam Casualty Company, San Francisco, California, the sum of $6,000 in full settlement of all claims against the Government of the United States, for the amount of a bail bond of $10,000 filed in the case of the United States against Zangwell Engelsher, and subsequently forfeited on April 18, 1933, when the said Engelsher failed to appear for trial, although he was later apprehended and convicted of counterfeiting through the efforts of the claimant herein: Provided, That no part of the amount appropriated in this Act in excess of 10 per centum thereof shall be paid or delivered to or received by any agent or agents, attorney or attorneys, on account of services rendered in connection with said claim. It shall be unlawful for any agent or agents, attorney or attorneys, to exact, collect, withhold, or receive any sum of the amount appropriated in this Act in excess of 10 per centum thereof on account of services rendered in connection with said claim, any contract to the contrary notwithstanding. Any person violating the provisions of this Act shall be deemed guilty of a misdemeanor and upon conviction thereof shall be fined in any sum not exceeding $1,000.
+
+
+*Approved, June 23, 1938.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- June 23, 1938 [H. R. 4032] [Private, No. 683]
+- New Amsterdam Casualty Company. Payment to.
+- Proviso. Limitation on attorney’s, etc., fees.
+- Penalty for violation.
