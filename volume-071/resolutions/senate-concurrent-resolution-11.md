@@ -1,0 +1,263 @@
+---
+volume: 71
+type: Senate Concurrent Resolution
+number: 11
+bills: 85/sconres-11
+---
+
+# Senate Concurrent Resolution 11
+
+> DEPORTATION SUSPENSIONS
+
+*Resolved by the Senate (the House of Representatives concurring),*
+
+That the Congress favors the suspension of deportation in the case of each alien hereinafter named, in which case the Attorney General has suspended deportation for more than six months:
+
+- A–9716766, Alfonso, Jose Fortich.
+- A–6949986, Alter, Chain.
+- A–10135642, Alter, Paula.
+- A–6821652, Chao, Chi-Hsien.
+- A–7174725, Chillemi, Agatino.
+- A–5225158, Chor, Lin let.
+- A–9769273, Choy, Yen Chu.
+- A–9635428. Constan tinides, Michael.
+- A–7485232, Crisci, Chung May Fong.
+- T–2672020, Cuevas-Fausto, Marciso.
+- A–2545910, Goumas, Costas Theodore.
+- A–6662794, Halberstam, Hersch.
+- A–6463603, Halberstam, Brucha.
+- A–7858110, Halbrecht, Miriam Baraks.
+- A–7821864, Huerta, Juana Villanueva De.
+- A–7821806, Huerta-Villaneuva, Elena.
+- A–7457147, Iniguez-Gomez, Martin.
+- 0900–55633, Iniguez, Petra Martinez De.
+- A–6760550, Klein, Leon.
+- 0300–403947, Lam, Bee.
+- A–2976235, Lam, Tit Hong.
+- T–2671987, Lopez-Martinez, Fidencio.
+- A–5319344, Minami, Tom Miyoshi.
+- A–4802395, Miyashta, Hisano.
+- 0900–63110, Ortiz-Soto, Efrain.
+- A–5977278, Santos, Marcolino.
+- A–1985208, Veronis, Gerasimos Nicholaou.
+- A–4956624, Wallace, Empson Clarkston.
+- T–1496984, Uyeyama, Miyasumi.
+- A–4095935, Aguirre-Ruiz, Jose.
+- A–7354329, Arbutjman, Lejb Bernardo.
+- A–6612013, Arzrouni, Achoude.
+- A–4784317, Bakker, Harry Paul Marinus.
+- 1600–97772, Barra-Duarte, Aureliano.
+- A–2938135, Beker, Leon.
+- 0900–64192, Camarena-Arias, Juan.
+- A–9669215, Dedo, Styepo.
+- A–9737095, De Moura, Julio.
+- A–7898941, Douskos, Carmen Maria.
+- A–6507735, Douskos, George.
+- A–9518412, Foo, Nee Ah.
+- E–89750, Gee, Chin Jun Kim.
+- 0900–64550, Hernandez-Castro, Juan.
+- A–6048903, Huerta-Santellan, Angel Magdaleno.
+- E–056666, Joe, Kwok Liang.
+- E–056667, Joe, Paylan Liang.
+- E–056668, Joe, Lee San.
+- A–6597759, Legister, Albert John.
+- T–2760961, Levy, Rene Cisneros.
+- A–7250484, Lockhart, Baleeka.
+- V–319235, Long, Haydee Rueda.
+- A–4954329, Lumas, Joseph.
+- A–6726819, Madrazo, Elisa Amparo.
+- A–8876988, O’Donnell, William John.
+- A–7270220, Palombella, Francesco.
+- A–9707191, Ramos, Pedro.
+- A–6711481, Rizk, Alfred Alexander.
+- T–2760421, Rodriguez-Garcia, Rafael.
+- A–3822477, Sanchez-Alejandro, Esteban.
+- A–3038125, Sanchez-Alejandro, Filomeno.
+- A–4010160, Sanchez-Alejandro, Gregoria.
+- A–4209497, Sanchez-de, Natividad Bazan.
+- T–1499169, Si, Wang.
+- A–5904796, Sua, Kipeni.
+- A–4219656, Temita, Tamio.
+- A–5338975, Traynor, Janet Jessie.
+- A–9581816, Trojanovic, Pedro.
+- A–5423889, Tsien, Wei Hwa.
+- A–923872, Tsien, Wei Nan.
+- E–44755, Vega, Maria.
+- A–3610417, Ying, Teresa.
+- A–10086556, Ying, Yuen.
+- 0966–263, Zamarripa-Barrera, Petra.
+- 0966–264, Zamarripa-Barrera, Enrique.
+- A–2821296, Cnapich. Joseph.
+- A–7225061, Di Mamoro, Edoardo.
+- V–1240687, Okana, Takeko.
+- A–7469332, Nevarez-Meraz, Alberto.
+- A–7044290, Rainirez-Mata, Carles.
+- T–2672016, Ramirez, Petra Aida Montes De.
+- A–7188173, Roden, Adolf.
+- A–5528068, Todeschini, Isidoro Oreste.
+- A–6346278, Valkana, Constantinos.
+- A–6357988, Valkana, Panagiota.
+- A–6079538, Browne, Candelaria S. M.
+- A–6078003, Browne, Cynthia.
+- A–6079549, Browne, Rudolph.
+- A–8938372, Browne, Albert.
+- A–6079545, Browne, Leslie.
+- A–6078002, Browne, Vernon.
+- A–6870027, Fong, Way Chong.
+- A–7367898, Chu, Lau Hing.
+- A–5978605, Engelmann, August Max.
+- A–5763362, Fong, Liu.
+- A–4030307, Hee, Yep.
+- A–5967408, Ikari, Manuel Enrique.
+- A–5982007, Katsuro, Shuhei.
+- A–6886810, Lawrence, Genoveva Adelina.
+- A–5814895, Marshall, Jolin Neil.
+- A–1080362, Maya-Ybarra, Francisco.
+- A–4334530, Miki, Tomizo.
+- A–10416353, Orozco-Estrada, Pedro.
+- 0300–387312, Quintero-Toscano, Candido.
+- A–5248778, Singh, Channan.
+- A–6352536, Soltero, Silverio.
+- A–8039899, Stumbaugh, Giovanna Flammini Di Loreto.
+- A–8901479, Tang, Lily Cheng-Li.
+- 1600–101488, Toro-Moreno, Manuel Del.
+- A–10504578, Valles, Luz Gasca De.
+- 1500–42507, Velez, Esteban.
+- 1500–42508, Velez, Eduviges.
+- 1500–42509, Velez, Elvira.
+- A–7283659, Wah, Leung.
+- T–1892615, Foo, Wong Ah.
+- A–9747459, Henderson, Cecil Ashton.
+- A–6097780, Honda, Katsuki.
+- A–2573276, Li, I-Ying.
+- A–4829259, Mischler, Richard Robert.
+- A–6063644, Nielson, Lindsay Franklin.
+- A–6930858, Paradissis, Philip John.
+- A–8883007, Petrizzo, Maria Rosaria.
+- A–7751743, Pigulewski, Nicholas De Lorence.
+- A–1657086, Redko, Isay Ivanovich.
+- A–10086222, Scurvin, Lancelot Seymore.
+- A–2994820, Alfaro, Lydia Molina De.
+- A–8021752, Alfaro-Molina, Samuel.
+- A–6160109, Davis, Guy Henry.
+- A–7391996, Herrera-Ruiz, Juan.
+- A–3972563, Kogano, Takashi.
+- A–9708088, Naum, Lee.
+- 0300–415842, Ong, Min.
+- A–5186985, Perez-Perez, Ruben.
+- A–10492500, Perez, Socorro Luna De.
+- A–10492499, Luna, Maria de Jesus.
+- A–8082062, Sing, Au.
+- E–118899, Wong, Ah Liang.
+- A–2185719, Alie, Alex.
+- A–5672581, Havlasa, Jan Klecanda.
+- A–4967880, Korogiannos, Eponinodas.
+- A–9645741, Lee, De She.
+- 0300–398983, Leong, Mock Fook.
+- A–8014953. Nardo, Albert Di.
+- A–6161490, Ozawa, Atsumi Angelica.
+- A–6354359, Perlaki, Thomas.
+- A–7764289, Plaushak, Pamela Lysa.
+- A–7930337, Poy, Ngai Kai.
+- T–1892169, Sam. Chin You.
+- A–9513946, Sze. To King.
+- A–6161489, Yoshimura, Snzuko.
+- A–7284855, Benn, Hajara Singh.
+- A–6226075, Carlson, Susan.
+- A–3497151, Cosgrove, James.
+- A–8258649, Dominguez, Beatrice Rodriguez De.
+- A–10474407, Guerra, Maria Tovares De.
+- A–4352288, Hurtado. Lucia Espinosa De.
+- A–8832503, Mazer, Carmen Enriqueta De.
+- A–9501884, Michalakis, George.
+- A–7772769, Pinedo-Tamayo, Adolfo.
+- A–2706650, Sato, Kunishige.
+- A–7295956, Villapudua-Sanchez, Armando.
+- A–2319483, Zara, Thomas.
+- A–5997836, Gonzalez, Feliciano.
+- A–5882765, Gutierrez, Angelina Cuellar.
+- A–3653450, Lee, Hsin Chin.
+- A–9747187, Locke, George Frederick.
+- A–2008973, Maticzuk, Nicolaj.
+- A–6459301, Paneth, Lea.
+- A–8851449, Ulrych, Boruch.
+- A–8851450, Ulrych, Chaia Tauba.
+- A–3812648, Won, Tom Yon.
+- A–7439457, Aguirre, Rita Talavera De.
+- A–6484421, Fischer, Isidor.
+- T–303675, Garcia-Ramos, Eulalio.
+- A–9333333, Jit, Boh Tong.
+- A–3818721, Jung, Wood Dar.
+- A–8039673, Kenul, Joseph.
+- A–7290162, Ijee, John.
+- A–5360726, Maldonado-Gonzalez, Fidel.
+- A–8258739, Padron-Lizana, Enrique.
+- A–1196312, Silverman, Ada.
+- A–5753515, Sutherland, William George.
+- A–7363001, Vernazza, Gina Letina.
+- A–8871495, Ybarra-Torres, Eugenio.
+- A–7276513, Wing, Jew.
+- A–9151185, Akerberg, Hjalmar Alfons.
+- A–9684304, Fat, Lam.
+- A–7361923, Jung, Guey.
+- A–9538393, Leetmaa, Kaarel.
+- A–8870247, Martinez-Gutierrez, Alvino.
+- A–3379867, Naito, Tornio.
+- A–4784332, Nelson, Minnie.
+- A–6496278, Oriel, Benjamin Joseph.
+- A–4234512, Paz, Alicia Hernandez De.
+- A–3095797, Tsichlis, Vasilios.
+- A–4381523, Cook, Anthony.
+- A–5944885, Crowther, Angela Knez.
+- A–6899161, Dirks, Hendrik.
+- A–4820438, Frangos, Nicholas Kostantinos.
+- A–5154701, La Guardia, Francisco Marti.
+- A–9117178, Legac, George.
+- A–5966811, Miculinic, Joseph.
+- A–10499492, Mohamed, John.
+- A–4906873, Pizarro, Emilio Anastacio.
+- A–5997834, Prieto, Angel.
+- A–5997834, Prieto, Jr., Angel.
+- A–7201762, Scott, George Edward Wisdom.
+- A–10416355, Atilano, Berta Morales De.
+- A–9517004. Fong, Foh Hua.
+- A–10075140, Foo, Mali Hong.
+- A–5549548, Friedrich, Hans Max.
+- A–7984748, Gonzalez-Perez, Angel.
+- A–3573618, Green, Caroline Louise.
+- A–6549172, Lazaro, Pelagia Javier.
+- A–6614916, Livas, Gregory Panagiotou.
+- A–5785564, Merayo, Agustin.
+- A–74445700, Niewolkiewicz, Mary.
+- A–10416327, Ramirez, Luis Ortega.
+- A–7841671, Shew, Gee.
+- A–1305814, Diamond, Phillip.
+- A–6476840, Figueroa-Ayuso, Eulalio.
+- A–10256536, Hung, Wong.
+- A–7140275, Lopez-Barragon, Nicolas.
+- A–5372469, Marcev, Samuel Anton.
+- A–5778460, Naess. Fred.
+- A–7115379, Scime, Marianne.
+- A–3747236, Tai, Mook Hoo.
+- A–8883649, Barbosa-Gomez, Luis Emilio.
+- A–7251809. Kehoe, Sophie.
+- A–8190275, Lai, William.
+- A–1945249, Rumenko, Frank.
+- A–7028911, Shavulsky, David.
+- A–5415136, Shavulsky, Goldie.
+- A–7028913, Shavulsky, Sylvia.
+- A–9582980, Syrigos, Antonios.
+- A–6849417, Tung, Ching Chen.
+- A–6967562, Tung, Lillian Liu.
+- A–9662775, Van Diepen, John.
+- A–9260398, Ward, Frank Joseph.
+- A–10255874, Chow, Fai King.
+
+
+*Agreed to April 16, 1957.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- April 16, 1937 [S. Con. Res. 11]
