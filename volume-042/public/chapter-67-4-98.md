@@ -1,0 +1,620 @@
+---
+volume: 42
+citation: 42 Stat. 1264
+type: Chapter
+number: 98
+congress: 67
+session: 4
+scope: public
+approved: 1923-02-20
+bills: 67/hr-13920
+---
+
+# Chapter 98
+
+> An Act Making appropriations for the Legislative Branch of the Government for the fiscal year ending June 30, 1924, and for other purposes.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+That the following sums are appropriated, out of any money in the Treasury not otherwise appropriated, for the Legislative Branch of the Government for the fiscal year ending June 30, 1924, namely:
+
+## SENATE.
+
+## salaries and mileage of senators.
+
+For compensation of Senators, $720,000.
+
+For mileage of Senators, $51,000.
+
+For compensation of officers, clerks, messengers, and others:
+
+## office of the vice president.
+
+Salaries: Secretary to the Vice President, $4,000; clerk, $1,600; messenger, $1,000; in all, $6,600.
+
+## chaplain.
+
+For Chaplain, $1,200.
+
+## office of the secretary.
+
+Salaries: Secretary of the Senate, including compensation as disbursing officer of salaries of Senators and of contingent fund of the Senate, $6,500; assistant secretary, Henry M. Rose, $5,500; reading clerk, $4,000; financial clerk, $4,500; chief clerk, $3,250; assistant financial clerk, $3,600; minute and Journal clerk, $3,600; principal clerk, librarian, enrolling clerk, and printing clerk, at $3,000 each; executive clerk, $2,750; file clerk, chief bookkeeper, and assistant Journal clerk, at $2,500 each; first assistant librarian, and keeper of stationery, at $2,400 each; assistant librarian, $1,800; skilled laborer, $1,200; clerks—three at $2,500 each, two at $2,220 each, one $2,100, one $1,750, one $1,440; assistant keeper of stationery, $2,000; assistant in stationery room, $1,200; messenger in the library, $1,000; assistant messenger, $1,200; laborers—three at $840 each, three at $720 each, one in stationery room, $1,200; in all, $89,510.
+
+## document room.
+
+Salaries: Superintendent, $3,500; first assistant, $2,500; two clerks, at $1,440 each; skilled laborer, $1,200; in all, $10,080.
+
+## committee employees.
+
+Clerks and messengers to the following committees: Agriculture and Forestry—clerk $2,500, assistant clerk $1,800, assistant clerk $1,500; Appropriations—clerk $6,000, assistant clerk $3,000, two assistant clerks at $2,500 each, three assistant clerks at $1,800 each, messenger $1,200; To Audit and Control the Contingent Expenses of the Senate—clerk $2,500, assistant clerk $1,600, assistant clerk $1,500; Banking and Currency—clerk $3,000, assistant clerk $1,800, two assistant clerks at $1,500 each: Civil Service—clerk $2,500, assistant clerk $1,600, assistant clerk $1,500, additional clerk $1,200; Claims—clerk $2,500, assistant clerk $2,000, two assistant clerks at $1,500 each; Commerce—clerk $2,500, assistant clerk $2,220, assistant clerk $1,800, assistant clerk $1,500; Conference Minority of the Senate—clerk $3,000, assistant clerk $1,800, two assistant clerks at $1,500 each; District of Columbia—clerk $2,500, assistant clerk $2,240, assistant clerk $1,500; Education and Labor—clerk $2,500, assistant clerk $1,800, assistant clerk $1,500; Enrolled Bills—clerk $2,500, assistant clerk $1,600, assistant clerk $1,500, additional clerk $1,200; Expenditures in the Executive Departments—clerk $2,500, assistant clerk $1,600, assistant clerk $1,500, additional clerk $1,200; Finance—clerk $3,000, special assistant to die committee $3,000, assistant clerk $2,220, assistant clerk $2,100, assistant clerk $1,600, two assistant clerks at $1,500 each, two experts (one for the majority and one for the minority) at $2,000 each; Foreign Relations—clerk $3,000, assistant clerk $2,220, assistant clerk $1,500; Immigration—clerk $2,500, assistant clerk $1,800, assistant cleric $1,500; Indian Affairs—clerk $2,500, assistant clerk $1,800, assistant clerk $1,500; Interoceanic Canals—clerk $2,500, assistant clerk $1,800, assistant clerk $1,500; Interstate Commerce—clerk $3,000, two assistant clerks at $1,800 each, assistant clerk $1,500; Irrigation and Reclamation—clerk $2,500, assistant clerk $1,600, assistant clerk $1,500, additional clerk $1,200; Judiciary—clerk $2,500, assistant clerk $2,220, two assistant clerks at $1,800 each, assistant clerk $1,500; Library—clerk $2,500, assistant clerk $1,600, assistant clerk $1,500, additional clerk $1,200; Manufactures—clerk $2,500, assistant clerk $1,800, assistant clerk $1,500; Military Affairs—clerk $2,500, assistant clerk $2,220, three assistant clerks at $1,500 each; Mines and Mining—clerk $2,500, assistant clerk $1,600, assistant clerk $1,500, additional clerk $1,200; Naval Affairs—clerk $2,500, assistant clerk $2,220, two assistant clerks at $1,500 each; Patents—clerk $2,500, assistant clerk $1,600, assistant clerk $1,500, additional clerk $1,200; Pensions—clerk $2,500, assistant clerk $1,800, four assistant clerks at $1,500 each; Post Offices and Post Roads—clerk $2,500, assistant clerk $2,220, three assistant clerks at $1,500 each; Printing—clerk $2,500, assistant clerk $1,800, assistant clerk $1,500; Privileges and Elections—clerk $2,500, assistant clerk $1,800, assistant clerk $1,500; Public Buildings and Grounds—clerk $2,500, assistant clerk $1,600, assistant clerk $1,500; Public Lands and Surveys—clerk $2,500, assistant clerk $1,800, two assistant clerks at $1,500 each; Revision of the Laws—clerk $2,500, assistant clerk $1,600, assistant clerk $1,500, additional clerk $1,200; Rules—clerk $2,720, to include full compensation for the preparation biennially of the Senate Manual under the direction of the Committee on Rules, assistant clerk $1,800, assistant clerk $1,500; Territories and Insular Possessions—clerk $2,500, assistant clerk $1,600, assistant clerk $1,500, additional clerk $1,200; in all, $270,100.
+
+## clerical assistance to senators.
+
+For clerical assistance to Senators who are not chairmen of the committees specifically provided for herein: Seventy clerks at $2,500 each, seventy assistant clerks at $1,600 each, seventy assistant clerks at $1,500 each, $392,000: Provided, That such clerks and assistant clerks shall be ex officio clerks and assistant clerks of any committee of which their Senator is chairman;
+
+Eighty-four additional clerks at $1,200 each, one for each Senator having no more than one clerk and two assistant clerks for himself or for the committee of which he is chairman, $100,800; in all, $492,800,
+
+Senators elected, whose term of office begins on the 4th day of March, and whose credentials in due form of law shall have been, presented to the Senate, or filed with the Secretary thereof, are authorized to appoint the same number of clerical assistants, not to exceed four, at the same annual salaries to which qualified Senators, not chairmen of committees, are entitled, whose compensation shall be paid out of the appropriation for clerical assistance to Senators.
+
+For compiling the Navy Yearbook for the calendar year 1922, under the direction of the chairman of the Committee on Naval Affairs, $500.
+
+## office of sergeant at arms and doorkeeper.
+
+Salaries: Sergeant at Arms and Doorkeeper, $6,500; Assistant Doorkeeper, $3,600; Acting Assistant Doorkeeper, $3,600; two floor assistants, at $2,500 each; messengers—five (acting as assistant doorkeepers, including one for minority) at $1,800 each, thirty-eight (including one for minority) at $1,440 each, one $1,000, one at card door $1,600; clerk on Journal work for Congressional Record, to be selected by the official reporters, $2,800; storekeeper, $2,500; stenographer in charge of furniture accounts and records, $1,200; upholsterer and locksmith, $1,440; cabinetmaker, $1,200; three carpenters, at $1,080 each; janitor, $1,200; five skilled laborers, at $1,000 each; laborer in charge of private passage, $900; three female attendants in charge of ladies’ retiring rooms, at $1,000 each; three attendants to women’s toilet rooms, Senate Office Building, at $720 each; telephone operators—chief $1,800, four at $900 each, night operator $720; telephone page, $720; laborer in charge of Senate toilet rooms in old library space, $660; press gallery—superintendent $2,500, assistant superintendent $1,600, messenger for service to press correspondents $1,000; laborers—three at $800 each, thirty-four at $720 each; sixteen pages for the Senate Chamber, at the rate of $2.50 per day each during the session, $8,440; in all, $157,580.
+
+For police force for Senate Office Building under the Sergeant at Arms: Sixteen privates, at $1,050 each; special officer, $1,200; in all, $18,000.
+
+## post office.
+
+Salaries: Postmaster, $2,500; chief clerk, $1,800; eight mail carriers and one wagon master, at $1,200 each; three riding pages, at $912.50 each; in all, $17,837.50.
+
+## folding room.
+
+Salaries: Foreman, $1,600; assistant, $1,400; clerk, $1,200; folders—seven at $1,000 each, seven at $840 each; in all, $17,080.
+
+## contingent expenses of the senate.
+
+For stationery for Senators and the President of the Senate, including $7,500 for stationery for committees and officers of the Senate, $25,000.
+
+Postage stamps: For office of Secretary, $200; office of Sergeant at Arms, $100; in all, $300.
+
+For maintaining, exchanging, and equipping motor vehicles for carrying the mails and for official use of the offices of the Secretary and Sergeant at Arms, $10,000.
+
+For driving, maintenance, and operation of an automobile for the Vice President, to be immediately available, $3,000.
+
+For materials for folding, $1,500.
+
+For folding speeches and pamphlets, at a rate not exceeding $1 per thousand, $10,000.
+
+For fuel, oil, cotton waste, and advertising, exclusive of labor, $2,000.
+
+For purchase of furniture, $5,000.
+
+For materials for furniture and repairs of same, exclusive of labor, $3,000.
+
+For services in cleaning, repairing, and varnishing furniture, $2,000.
+
+For packing boxes, $970.
+
+For rent of warehouse for storage of public documents, $1,800.
+
+For miscellaneous items, exclusive of labor, $100,000.
+
+For expenses of inquiries and investigations ordered by the Senate, including compensation to stenographers to committees, at such rate as may be fixed by the Committee to Audit and Control the Contingent Expenses of the Senate, but not exceeding 25 cents per hundred words, $100,000.
+
+For reporting the debates and proceedings of the Senate, payable in equal monthly installments, $44,844.
+
+For repairs, improvements, equipment, and supplies for Senate kitchens and restaurants, Capitol Building and Senate Office Building, including personal and other services, to be expended from the contingent fund of the Senate, under the supervision of the Committee on Rules, United States Senate, $30,000.
+
+## HOUSE OF REPRESENTATIVES.
+
+## salaries and mileage of members.
+
+For compensation of Members of the House of Representatives, Delegates from Territories, the Resident Commissioner from Porto Rico, and the Resident Commissioners from the Philippine Islands, $3,304,500.
+
+For mileage of Representatives and Delegates and expenses of Resident Commissioners, $175,000.
+
+For compensation of officers, clerks, messengers, and others:
+
+## office of the speaker.
+
+Salaries: Secretary to Speaker, $4,000; clerk to Speaker’s table, $3,600, and for preparing Digest of the Rules, $1,000 per annum; clerk to Speaker, $1,600; messenger to Speaker, $1,200; messenger to Speaker’s table, $1,200; in all, $12,600.
+
+## chaplain.
+
+For Chaplain, $1,200.
+
+## office of the clerk.
+
+Salaries: Clerk of the House of Representatives, including compensation as disbursing officer of the contingent fund, $6,500; Chief Clerk, $4,500; journal clerk and two reading clerks, at $4,000 each; disbursing clerk, $3,400; tally clerk, $3,300; file clerk, $3,250; enrolling clerk, $3,000 and $1,000 additional so long as the position is held by the present incumbent; chief bill clerk, $3,000; assistant to Chief Clerk, and assistant enrolling clerk, at $2,500 each; assistant to disbursing clerk, $2,400; stationery clerk, $2,200; librarian, $2,100; assistant librarian, $2,000; assistant file clerk, $1,900; assistant librarian and assistant Journal clerk, at $1,800 each; clerks—one $1,800, three at $1,680 each; bookkeeper, and assistant in disbursing office, at $1,600 each; four assistants to chief bill clerk, at $1,500 each; stenographer to Clerk, $1,400; locksmith and typewriter repairer, $1,300; messenger in Chief Clerk’s office, and assistant in stationery room, at $1,200 each; three messengers, at $1,100 each; stenographer to Journal clerk, $1,000; nine telephone operators, at $900 each; three session telephone operators, at $75 per month each from December 1, 1923, to June 30, 1924; substitute telephone operator when required, at $2.50 per day, $500; laborers—three at $900 each, nine at $720 each; allowance to Chief Clerk for stenographic and typewriter services, $1,000; purchase, exchange, operation, maintenance, and repair of motor vehicle, $1,200; in all, $106,145.
+
+## committee employees.
+
+Clerks, messengers, and janitors to the following committees: Accounts—clerk $2,500, assistant clerk $1,800, janitor $1,000; Agriculture—clerk $2,500, assistant clerk $1,800, janitor $1,000; Appropriations—clerk $5,000 and $1,000 additional so long as the position is held by the present incumbent, assistant clerk $4,000, six assistant clerks at $3,000 each, assistant clerk $2,200, janitor $1,200; Banking and Currency—clerk $2,000, assistant clerk $1,200, janitor $720; Census—clerk $2,000, janitor $720; Claims—clerk $2,500, assistant clerk $1,200, janitor $720; Coinage, Weights, and Measures—clerk $2,000, janitor $720; Disposition of Useless Executive Papers—clerk $2,000; District of Columbia—clerk $2,500, assistant clerk $1,800, janitor $720; Education—clerk $2,000; Election of President, Vice President, and Representatives in Congress—clerk $2,000; Elections Number One—clerk $2,000, janitor $1,000; Elections Number Two—clerk $2,000, janitor $720; Elections Number Three—clerk $2,000, janitor $720; Enrolled Bills —clerk $2,000, janitor $720; Flood Control—clerk $2,000, janitor $720; Foreign Affairs—clerk $2.500; assistant clerk $1,800, janitor $720; Immigration and Naturalization—clerk $2,000, janitor $720; Indian Affairs—clerk $2,500, assistant clerk $1,800, janitor $720; Industrial Arts and Expositions—clerk $2,000, janitor $720; Insular Affairs—clerk $2,000, janitor $720; Interstate and Foreign Commerce—clerk $2,500, additional clerk $2,000, assistant clerk $1,500, janitor $1,000: Irrigation of Arid Lands—clerk $2,000, janitor 720; Invalid Pensions—clerk $2,500, stenographer $2,190, assistant clerk $2,000, janitor $1,000; Judiciary—clerk $2,500, assistant clerk $1,600, janitor $1,000; Labor—clerk $2,000, janitor $720; Library—clerk $2,000, janitor $720; Merchant Marine and Fisheries—clerk $2,000, janitor $720; Military Affairs—clerk $2,500, assistant clerk $1,500, janitor $1,000; Mines and Mining—clerk $2,000, janitor $720; Naval Affairs—clerk $2,500, assistant clerk $1,500, janitor $1,000; Patents—clerk $2,000, janitor $720; Pensions—clerk $2,500, assistant clerk $1,600, janitor $720; Post Offices and Post Roads—clerk $2,500, assistant clerk $1,400, janitor $1,000; Printing—clerk $2,000, janitor $1,000; Public Buildings and Grounds—clerk $2,500, assistant clerk $1,200, janitor $720; Public Lands—clerk $2,000, assistant clerk $1,200, janitor $720; Reform in the Civil Service—clerk $2,000, janitor $720: Revision of the Laws—clerk $3,000, janitor $720; Rivers and Harbors—clerk $2,500, assistant clerk $1,800, janitor $1,000; Roads—clerk $2,000, janitor $720; Rules—clerk $2,000, assistant clerk $1,500, janitor $720; Territories—clerk $2,000, janitor $720; War Claims—clerk $2,500, assistant clerk $1,200, janitor $720; Ways and Means—clerk $3,000, assistant clerk and stenographer $2,000, assistant clerk $1,900, janitors—one $1,000, one $720; in all $200,490.
+
+Appropriations in the foregoing paragraph shall not be available for the payment of any clerk or assistant clerk to a committee who does not, after the termination of the Congress during which he was appointed, perform his duties under the direction of the Clerk of the House: Provided, That the foregoing shall not apply to the Committee on Accounts.
+
+Janitors under the foregoing shall be appointed by the chairmen, respectfully, of said committees, and shall perform under the direction of the Doorkeeper all of the duties heretofore required of messengers detailed to said committees by the Doorkeeper, and shall be subject to removal by the Doorkeeper at any time after the termination of the Congress during which they were appointed.
+
+## office of sergeant at arms.
+
+Salaries: Sergeant at Arms, $6,500; deputy sergeant at arms, $2,500; cashier, $4,000; two bookkeepers, at $2,400 each; deputy sergeant at arms in charge of pairs, $1,800; pair clerk and messenger, 1,800; messenger $1,400; stenographer and typewriter, $900; skilled laborer, $840; hire of automobile, $600; in all, $25,140.
+
+For police force, House Office Building, under the Sergeant at Arms: Lieutenant, $1,200; nineteen privates, at $1,050 each; in all, $21,150.
+
+## office of doorkeeper.
+
+Salaries: Doorkeeper, $5,000; maintenance and repair of folding room motor truck, $500; special employee, $1,800; superintendent of House press gallery, $2,000; assistant to the superintendent of the House press gallery, $1,200; janitor, $1,500; messengers—seventeen at $1,180 each; fourteen on soldiers’ roll at $1,200 each; laborers—seventeen at $720 each, two known as cloakroom men at $840 each, eight known as cloakroom men, one $600 and $120 additional so long as the position is held by the present incumbent, and seven at $600 each; two female attendants in ladies’ retiring rooms at $1,200 each; superintendent of folding room, $2,500; foreman, $2,100; chief clerk to superintendent of folding room, $1,800; three clerks, at $1,600 each; janitor, $720; laborer, $720; thirty-one folders, at $900 each; shipping clerk, $1,200; two drivers, at $840 each; two chief pages, at $1,500 each; two telephone pages, at $1,200 each; two floor managers of telephones (one for the minority), at $2,160 each; assistant messenger in charge of telephones, $1,500; forty-two pages, during the session, including a press-gallery page and ten pages for duty at the entrances to the Hall of the House, at $2.50 per day each, $22,155; laborer, $800, superintendent of document room, $2,900; assistant superintendent, $2,100; clerk, $1,700; assistant clerk, $1,600; eight assistants, at $1,280 each; janitor, $920; messenger to press room, $1,000; in all, $168,155.
+
+## special and minority employees.
+
+For the employment of Joel Grayson in the document room, $2,500.
+
+For six minority employees at $1,800 each, authorized and named in the resolution of April 11, 1921, $10,800.
+
+To continue employment of the assistant foreman of the folding room, authorized in the resolution of September 30, 1913, at $3.85 per day, $1,409.10.
+
+To continue employment of the person named in the resolution of April 28, 1914, as a laborer, $840.
+
+To continue employment of the laborer authorized and named in the resolution of December 19, 1901, $840.
+
+Successors to any of the employees provided for in the four preceding paragraphs may be named by the House of Representatives at any time.
+
+Office of majority floor leader: Legislative clerk, $3,600; clerk, $2,500; assistant clerk, $1,500; janitor, $1,000; in all, $8,600.
+
+Conference minority: Clerk, $2,500; assistant clerk, $1,500; janitor, $1,000; in all, $5,000; the same to be appointed by the chairman of the conference minority.
+
+To continue the employment of messengers in the majority and minority caucus rooms, to be appointed by the majority and minority whips, respectively, at $1,200 each; in all, $2,400.
+
+## post office.
+
+Salaries: Postmaster, $4,000; assistant postmaster, $2,200; registry and money order clerk, $1,500; thirty-four messengers (including one to superintend transportation of mails), at $1,200 each; for the employment of substitute messengers and extra services of regular employees at the rate of not to exceed $100 per month each, $1,000; laborer, $720; in all, $50,220.
+
+For the purchase, exchange, maintenance, and repair of motor vehicles for carrying the mails, $3,400.
+
+## official reporters of debates.
+
+Salaries: Six official reporters of the proceedings and debates of the House, at $6,000 each; assistant, $3,000; six expert transcribers, at $1,200 each; janitor, $980; in all $47,180.
+
+## committee stenographers.
+
+Salaries: Four stenographers to committees, at $6,000 each; janitor, $980; in all, $24,980.
+
+Wherever the words “during the session” occur in the foregoing paragraphs they shall be construed to mean the two hundred and eleven days from December 3, 1923, to June 30, 1924, both inclusive.
+
+## clerk hire, members and delegates.
+
+For clerk hire necessarily employed by each Member, Delegate, and Resident Commissioner, in the discharge of his official and representative duties, $3,200 per annum, in monthly installments, $1,408,000.
+
+## contingent expenses of the house.
+
+For wrapping paper, pasteboard, paste, twine, newspaper wrappers, and other necessary materials for folding, for use of Members, the Clerk’s office, and folding room, not including envelopes, writing paper, and other paper and materials to be printed and furnished by the Public Printer upon requisitions from the Clerk of the House, under provisions of the Act approved January 12, 1895, $10,000.
+
+For furniture and materials for repairs of the same, including not to exceed $15,000 for labor, tools, and machinery for furniture repair shop, $30,000.
+
+For packing boxes, $4,500.
+
+For miscellaneous items and expenses of special and select committees, exclusive of salaries and labor, unless specifically ordered by the House of Representatives, and including reimbursement to the official stenographers to committees for the amounts actually and necessarily paid out by them for transcribing hearings, $190,000.
+
+For stationery for Representatives, Delegates, and Resident Commissioners, including $5,000 for stationery for the use of the committees and officers of the House, $60,000.
+
+For postage stamps: Postmaster, $250; Clerk, $450; Sergeant at Arms, $300; Doorkeeper, $150; in all, $1,150.
+
+For driving, maintenance, repair, and operation of an automobile for the Speaker, $3,000.
+
+For folding speeches and pamphlets, at a rate not exceeding $1 per thousand, $8,000.
+
+For assistance rendered during the calendar years 1922 and 1923 in compiling list of reports to be made to Congress by public officials; compiling copy and revising proofs for the House portion of the Official Register; preparing and indexing the statistical reports of the Clerk of the House; compiling the telephone and Members’ directories; preparing and indexing the daily Calendars of Business; preparing the official statement of Members’ voting records; preparing and indexing questions of order printed in the appendix to the Journal pursuant to House Rule III; and for recording and filing statements of political committees and candidates for nomination and election to the House of Representatives pursuant to the campaign contribution laws, $5,000, to be immediately available.
+
+## capitol police.
+
+For captain, $1,800; three lieutenants, at $1,200 each; two special officers, at $1,200 each; thirty-three privates, at $1,050 each; one-half of said privates to be selected by the Sergeant at Arms of the Senate and one-half by the Sergeant at Arms of the House; in all, $42,450.
+
+For contingent expenses, $200.
+
+For purchasing and supplying uniforms to Capitol police, $3,000.
+
+Protection of the Capitol: For an additional uniformed police force for the protection of the Capitol Building and Grounds, the Senate and House Office Buildings, and the Capitol power plant, and for emergencies, and each and every item incident thereto, $15,000: Provided, That the appointments to the positions herein provided shall be made by the Sergeants at Arms of the two Houses and the Architect of the Capitol, and shall be made solely on account of efficiency and special qualifications.
+
+One-half of the foregoing amounts under “Capitol Police” shall be disbursed by the Secretary of the Senate and one-half by the Clerk of the House.
+
+## JOINT COMMITTEE ON PRINTING.
+
+For clerk, $4,000; inspector, under section 20 of the Act approved January 12, 1895, $2,250; stenographer, $1,500; for expenses of compiling, preparing, and indexing the Congressional Directory, $1,600; in all, $9,350, one half to be disbursed by the Secretary of the Senate and the other half to be disbursed by the Clerk of the House.
+
+## LEGISLATIVE DRAFTING SERVICE.
+
+For salaries and expenses of maintenance of the Legislative Drafting Service, as authorized by section 1303 of the Revenue Act of 1918, $40,000, one-half of such amount to be disbursed by the Secretary of the Senate and one-half by the Clerk of the House of Representatives.
+
+## STATEMENT OF APPROPRIATIONS.
+
+For preparation, under the direction of the Committees on Appropriations of the Senate and House of Representatives, of the statements for the third and fourth sessions of the Sixty-seventh Congress, showing appropriations made, new offices created, offices the salaries of which have been omitted, increased, or reduced, indefinite appropriations, and contracts authorized, together with a chronological history of the regular appropriation bills, as required by law, $4,000, to be paid to the persons designated by the chairmen of said committees to do the work.
+
+## ARCHITECT OF THE CAPITOL.
+
+## office of architect of the capitol.
+
+Salaries: Architect of the Capitol, $6,000; chief clerk and accountant, $3,000; civil engineer, $2,400; construction draftsman, $2,000; two clerks, at $1,200 each: compensation to disbursing clerk, $1,000; laborers—two at $720 each, two at $660 each; forewoman of charwomen, $480; twenty-one charwomen at $240 each; in all, $25,080.
+
+For forty-eight elevator conductors, including fourteen for the Senate Office Building and fourteen for the House Office Building, at $1,200 each, $57,600.
+
+## capitol buildings and grounds.
+
+Capitol Buildings: For work at the Capitol and for general repairs thereof, including cleaning and repairing works of art, flags for the east and west fronts of the center of the Capitol and for Senate and House Office Buildings; flagstaffs, halyards, and tackle; wages of mechanics and laborers; purchase and maintenance, and driving of motor-propelled, passenger-carrying office vehicles; and not exceeding $100 for the purchase of technical and necessary reference books and city directory, $65,000.
+
+For continuing the work of restoring the decoration on the walls of the first-floor corridors in the Senate wing of the Capitol, to be expended under the direction of the Architect of the Capitol, $5,000.
+
+For special repairs to the Senate Chamber, including extension of ceiling skylight, painting, reconstruction of air chamber under floor, and for new flooring, to be immediately available, $31,385.
+
+Capitol Grounds: For care and improvement of grounds surrounding the Capitol, Senate and House Office Buildings, pay of one clerk, mechanics, gardeners, care of trees, plantings, fertilizers, repairs to pavements, walks, and roadways, $52,250.
+
+For repairs and improvements to Senate and House stables and Maltby Building, including personal services, $1,500.
+
+Senate Office Building: For maintenance, miscellaneous items and supplies, and for all necessary personal and other services for the care and operation of the Senate Office Building, under the direction and supervision of the Senate Committee on Rules, $56,000.
+
+For furniture for the Senate Office Building and for labor and material incident thereto and repairs thereof, window shades, awnings, carpets, glass for windows and bookcases, desk lamps, window ventilators, name plates for doors and committee tables, electric fans, and so forth, $7,500.
+
+For painting and renovating Senate Office Building, and for all purposes connected therewith, to be immediately available, $55,370.
+
+For one hundred woven-iron storeroom cages, attic floor, Senate Office Building, to be immediately available, $16,180.
+
+House Office Building: For maintenance, including miscellaneous items, and for all necessary services, $74,614.
+
+Capitol power plant: For lighting, heating, and power for the Capitol, Senate and House Office Buildings, and Congressional Library Building and the grounds about the same, Coast and Geodetic Survey, the Union Station group of temporary housing, Botanic Garden, Senate stables, House stables, Maltby Building, and folding and storage rooms of the Senate, Government Printing Office, and Washington City post office; pay of superintendent of meters, at the rate of $1,600 per annum, who shall inspect all gas and electric meters of the Government in the District of Columbia without additional compensation; for necessary personal and other services; and for materials and labor in connection with the maintenance and operation of the heating, lighting, and power plant and substations connected therewith, $239,080.
+
+For fuel, oil, and cotton waste, and advertising for the power plant which furnishes heat and light for the Capitol and congressional buildings and other buildings specified in the foregoing paragraph, $200,000.
+
+The foregoing appropriations under the Architect of the Capitol may be expended without reference to section 4 of the Act approved June 17, 1910, concerning purchases for executive departments.
+
+The Department of the Interior, the Public Health Service, the Coast and Geodetic Survey, the Union Station group of temporary housing, the Government Printing Office, and the Washington City post office shall reimburse the Capitol power plant for heat, light, and power furnished during the fiscal year 1924, and the amounts so reimbursed shall be credited to the appropriations for the said plant and be available for the purposes named therein.
+
+## library building and grounds.
+
+Salaries: Two carpenters, at $900 each; decorator, $1,400; painter, $900; chief engineer, $1,500; assistant engineers—one $1,200, three at $900 each; electrician, $1,500; machinists—one $1,000, one $900; two wiremen, at $900 each; plumber, $900; seven skilled laborers, at $720 each; in all, $20,640.
+
+For trees, shrubs, plants, fertilizers, and skilled labor for the grounds of Library of Congress, $1,000.
+
+For extra services of employees under the Architect of the Capitol to provide for the opening of the Library Building from two until ten o’clock post meridian on Sundays and legal holidays, $1,100.
+
+For repairs, miscellaneous supplies, electric and steam apparatus, and all incidental expenses in connection with the mechanical and structural maintenance of said building, $9,000.
+
+For furniture, including partitions, screens, shelving, and electrical work pertaining thereto, $12,000.
+
+For map cases for the Division of Maps and Charts, $6,000.
+
+For steel shelving in cellar for storage of library material to replace old wooden shelving, $5,000.
+
+For fire alarm stations to connect with District of Columbia system, $450.
+
+For miscellaneous and necessary painting throughout the Library Building, $5,000.
+
+## BOTANIC GARDEN.
+
+Salaries: For director, $3,600; assistant director, $1,800; clerk, $1,600; greenhouse foreman, $1,250; expert grower, $1,440; head gardener, $1,200; gardener in charge of greenhouses, $1,180; four gardeners at $1,100 each; outside foreman, $1,000; two clerics at 1,150 each; two shipping clerks at $1,000 each; general mechanic, $1,500; carpenters—one $1,460, one $1,200; nine skilled laborers at $864 each; painter, $936; skilled laborers and laborers at rates to be fixed by the director, $18,000; all under the direction of the Joint Committee on the Library, $52,642.
+
+Repairs and improvements: For procuring manure, soil, tools, purchasing trees, shrubs, plants, and seeds; materials and miscellaneous supplies; traveling expenses and per diem in lieu of subsistence of the director and his assistants not to exceed $300; street car fares not exceeding $25; office equipment and contingent expenses in connection with repairs and improvements to Botanic Garden; exchange, care, and maintenance of motor-propelled delivery vehicles; purchase of botanical books, periodicals and books of reference not to exceed $100; general repairs to buildings, greenhouses, heating apparatus, packing sheds, storerooms, and stables; painting, glazing; repairs to footwalks and roadways; repairing and putting comfort stations in sanitary condition; repairs and improvements to director’s resi-dence; reconstruction of greenhouses; all under the direction of the Joint Committee on the Library, $41,500, of which $20,000 shall be immediately available for repair and reconstruction of greenhouses.
+
+The sum of $25 may be expended at any one time by the Botanic Garden for the purchase of plants, trees, shrubs, and other nursery stock, without reference to section 4 of the Act approved June 17, 1910, concerning purchases for executive departments and other governmental establishments in Washington.
+
+## LIBRARY OF CONGRESS.
+
+## salaries.
+
+General administration: Librarian, $7,500; chief assistant librarian, $4,500; chief clerk, $2,500; librarian’s secretary, $1,800; assistant chief clerk, $1,600; assistant in charge of supplies, $1,400; clerks—one $1,200, two at $1,000 each; stenographers and typewriters—one to chief assistant librarian $1,200, one $1,200, one $900; messenger, $840; messenger to chief assistant librarian, $600; junior messenger, $420; operator of photographic copying machine, $600; in all, $28,260.
+
+Mail and delivery: Assistants—one in charge $1,600, chief $1,200, one $960, one $780, one $600; junior messenger, $420; in all, $5,560.
+
+Order and accession: Chief of division, $2,500; assistants—one $1,500, two at $1,200 each, three at $960 each, two at $840 each, two at $600 each, one $580; two junior messengers, at $420 each; in all, $13,580.
+
+Catalogue, classification, and shelf: Chief of division, $3,000; chief classifier, $2,000; chief shelf-listing section, $1,500; assistants—four at $1,800 each, seven at $1,500 each, six at $1,400 each, twelve at $1,200 each, six at $1,000 each, fourteen at $960 each, four at $920 each, thirteen at $840 each, thirteen at $600 each, four at $540 each; six junior messenger’s, at $420 each; in all, $93,520.
+
+Binding: Assistants—one in charge $1,500, one $960; junior messenger, $420; in all, $2,880.
+
+Bibliography: Chief of division, $3,000; assistants—one $1,500, two at $960 each, one $840; stenographer and typewriter, $960; junior messenger, $420; in all, $8,640.
+
+Reading rooms (including evening service) and special collections: Superintendent, $3,000; assistants—two at $1,800 each, seven at $1,200 each (including one in room for the blind), three at $1,000 each, two at charging desk at $1,080 each, eight at $960 each (including one for Toner library and one for Washington library), one in room for the blind $900, thirty at $840 each, seven at $600 each; inspector of stacks, $1,440; stenographer and typewriter, $960; attendants—Senate reading room, one $960, Representatives’ reading room—one $960, one $840, two in cloakroom at $780 each, two for gallery and alcoves at $540 each; telephone reference assistant, $720; four junior messengers, at $420 each; two watchmen, at $780 each; in all, $69,900.
+
+Periodical (including evening service): Chief of division, $2,000; assistans—chief $1,500, two at $960 each, five at $840 each; stenographer and typewriter, $960; two junior messengers, at $420 each; in all, $11,420.
+
+Documents: Chief of division, $3,000; assistants—one $1,500, one $960, one $840; two translators, at $1200 each; stenographer and typewriter, $960; junior messenger, $420; in all, $10,080.
+
+Manuscript: Chief of division, $3,000; assistants—chief $1,500, one $960; junior messenger, $420; in all, $5,880.
+
+Maps and charts: Chief of division, $3,000; assistants—one $1,500, two at $960 each, one $840; junior messenger $420; in all, $7,680.
+
+Music: Chief of division, $3,000; assistants—one $1,500, one $1,000, two at $840 each; junior messenger, $420; in all, $7,600.
+
+Prints: Chief of division, $2,000; assistants—one $1,500, two at $960 each; junior messenger, $420; in all $5,840.
+
+Smithsonian deposit: Custodian, $1,500; assistants—one $1,500, one $840; junior messenger, $420; in all, $4,260.
+
+Congressional Reference Library: Custodian, $2,000; assistants—one $1500, one $960, one $840; two junior messengers, at $420 each; in all, $5,840.
+
+Law Library: Law librarian, $3,000; stenographer and typewriter, $960; assistants—two at $1,400 each, two at $960 each, one $600, one $540, one (evening service), $1,500; in all, $11,320.
+
+Semitic, Slavic, and Oriental Literature: Chief of division, $3,000; assistants—two at $1,500 each, one $900; junior messenger $420; in all, $7,320.
+
+Temporary services: For special and temporary service, including extra special services of regular employees, at the discretion of the Librarian, $3,000.
+
+Carrier service: For service in connection with the Senate and House Office Buildings, $960.
+
+## copyright office.
+
+Register, $4,000; assistant register, $3,000; chief clerk, $2,260; clerks—four at $2,000 each, five at $1,800 each, seven at $1,600 each, one $1,500, eight at $1,400 each, thirteen at $1,200 each, ten at $1,000 each, eighteen at $960 each, two at $860 each, ten at $780 each, four at $600 each, two at $480 each, four junior messengers, at $420 each. Arrears, special service: Three clerks, at $1500 each; porter, $780; junior messenger, $420; in all, $112,400.
+
+## legislative reference service.
+
+To enable the Librarian of Congress to employ competent persons to gather, classify, and make available, in translation, indexes, digests, compilations, and bulletins, and otherwise, data for or bearing upon legislation, and to render such data serviceable to Congress and committees and Members thereof, $40,000: Provided, That not to exceed one person shall be employed hereunder at a rate of compensation exceeding $3,000 per annum.
+
+## distribution of card indexes.
+
+For service in connection with distribution of card indexes and other publications of the Library: Chief of division, $3,000; chief assistant, $1,800; assistants—two at $1,600 each, four at $1,500 each, three at $1,400 each, four at $1,200 each, four at $1,100 each, four at $1,000 each; for services of assistants at salaries less than $1,000 per annum and for piecework and work by the hour, $26,000, including not exceeding $500 for freight charges, expressage, postage, traveling expenses connected with such distribution, and expenses of attendance at meetings when incurred on the written authority and direction of the Librarian; in all, $57,400.
+
+## sunday opening.
+
+To enable the Library of Congress to be kept open for reference use on Sundays and on holidays within the discretion of the Li-brarian, including the extra services of employees and the services of additional employees under the Librarian, $13,125, of which $625 shall be immediately available.
+
+## increase of the library.
+
+For purchase of books for the Library, including payment in advance for subscription books, and society publications, and for freight, commissions, and traveling expenses, and all other expenses incidental to the acquisition of books by purchase, gift, bequest, or exchange, to continue available during the fiscal year 1925, $90,000;
+
+For purchase of books and for periodicals for the law library, under the direction of the Chief Justice, $3,000;
+
+For purchase of new books of reference for the Supreme Court, to be a part of the Library of Congress, and purchased by the marshal of the Supreme Court, under the direction of the Chief Justice, $2,500;
+
+For purchase of miscellaneous periodicals and newspapers, $5,000;
+
+In all, $100,500.
+
+## printing and binding.
+
+For printing and binding for the Library of Congress, including the Copyright Office and the publication of the Catalogue of Title Entries of the Copyright Office, binding, rebinding, and repairing of library books, and for the Library Building, $212,250.
+
+## contingent expenses of the library.
+
+For miscellaneous and contingent expenses, stationery, supplies, stock, and materials directly purchased, miscellaneous traveling expenses, postage, transportation, incidental expenses connected with the administration of the Library and Copyright Office, including not exceeding $500 for expenses of attendance at meetings when incurred on the written authority and direction of the Librarian, $10,000.
+
+## library building.
+
+Salaries: Administrative assistant and disbursing officer, $3,000; clerks—one $2,250, one $1,600, one $1,400, one $1,000; property clerk, $900; messenger, $840; assistant messenger, $720; three telephone switchboard operators, at $720 each; captain of the watch, $1,400; two lieutenants of the watch, at $1,000 each; twenty-two watchmen, at $900 each; foremen of laborers, $900; sixteen laborers, at $660 each; two book cleaners, at $720 each; laundress, $660; two attendants in ladies’ room, at $720 each; four check boys, at $360 each; mistress of charwomen, $425; assistant mistress of charwomen, $300; fifty-eight charwomen, at $240 each; four elevator conductors, at $720 each; three skilled laborers, at $720 each; in all, $73,195.
+
+For extra services of employees and additional employees under the Librarian to provide for the opening of the Library Building on Sundays and on holidays, $2,000.
+
+For mail, delivery, and telephone services, stationery, miscellaneous supplies, and all other incidental expenses in connection with the custody and maintenance of the Library Building, $7,000.
+
+## GOVERNMENT PRINTING OFFICE.
+
+## office of public printer.
+
+Salaries: Public Printer, $6,000; Deputy Public Printer, $4,500; purchasing agent, $3,600; chief clerk, $2,750; assistant purchasing agent, $2,500; disbursing clerk, $2,500: Provided, That the disbursing clerk of the Government Printing Office hereafter shall be charged with the receipt and disbursement of all moneys for said office in accordance with the provisions of law relating to the Public Printer and other disbursing officers of the Government, under such bond and rules as the Secretary of the Treasury shall prescribe; and thereafter the Public Printer shall give a bond in the sum of $25,000 for the faithful performance of his duties; clerk in charge of Congressional Record at Capitol, $3,000; private secretary, $2,500; paying teller, $2,000; clerks—three at $2,000 each, two at $1,800 each, six at $1,600 each, five at $1,400 each, four at $1,200 each, seven at $1,000 each, one $840; captain of guards, $1,400; four lieutenants of guards, at $1,200 each; forty-eight guards, at $840 each; three messengers, at $840 each; delivery men—chief $1,400, five at $1,100 each; telephone switchboard operator, $840; three assistant telephone switchboard operators, at $720 each; four messenger boys, at $420 each; in all, $128,810. The Public Printer may hereafter employ such number of apprentices (not to exceed two hundred at any one time) as in his judgment will be consistent with the economical service of the office.
+
+## public printing and binding.
+
+To provide the Public Printer with a working capital for the following purposes for the execution of printing, binding, lithographing, mapping, engraving, and other authorized work of the Government Printing Office for the various branches of the Government: For salaries, compensation, or wages of all necessary employees additional to those herein specifically appropriated for (including the compensation of the foreman of binding, the foreman of printing, and the foreman of press work, at $3,000 each); to enable the Public Printer to comply with the provisions of law granting holidays and Executive orders granting holidays and half holidays with pay to employees; to enable the Public Printer to comply with the provisions of law granting thirty days’ annual leave to employees with pay; rents, fuel, gas, electric current, gas and electric fixtures; bicycles, motor-propelled vehicles for the carriage of printing and printing supplies, and the maintenance, repair, and operation of the same, to be used only for official purposes, including purchase, exchange, operation, repair, and maintenance of motor-propelled passenger-carrying vehicles for official use of the officers of the Government Printing Office when in writing ordered by the Public Printer (not exceeding $5,500); freight, expressage, telegraph and telephone service; furniture, typewriters, and carpets; traveling expenses; stationery, postage, and advertising; directories, technical books, and books of reference (not exceeding $500); adding and numbering machines, time stamps, and other machines of similar character; machinery (not exceeding $200,000); equipment, and for repairs to machinery, implements, and buildings, and for minor alterations to buildings; necessary equipment, maintenance, and supplies for the emergency room for the use of all employees in the Government Printing Office who may be taken suddenly ill or receive injury while on duty; other necessary contingent and miscellaneous items authorized by the Public Printer; and for all the necessary paper, materials, and equipment needed in the prosecution and delivery and mailing of the work, $2,000,000, to which shall lie charged the printing and binding authorized to be done for Congress, the printing and binding for use of the Government Printing Office, and printing and binding (not exceeding $250) for official use of the Architect of the Capitol when authorized by the Secretary of the Senate, in all to an amount not exceeding this sum.
+
+Printing and binding for Congress chargeable to the foregoing appropriation, when recommended to be done by the Committee on Printing of either House, shall be so recommended in a report containing an approximate estimate of the cost thereof, together with a statement from the Public Printer of estimated approximate cost of work previously ordered by Congress within the fiscal year for which this appropriation is made.
+
+During the fiscal year 1924 any executive department or independent establishment of the Government ordering printing and binding from the Government Printing Office shall pay promptly by check to the Public Printer upon his written request, either in advance or upon completion of the work, all or part of the estimated or actual cost thereof, as the case may be, and bills rendered by the Public Printer in accordance herewith shall not be subject to audit or certification in advance of payment: Provided, That proper adjustments on the basis of the actual cost of delivered work paid for in advance shall be made monthly or quarterly and as may be agreed upon by the Public Printer and the department or establishment concerned. All sums paid to the Public Printer for work that he is authorized by law to do shall be deposited to the credit, on the books of the Treasury Department, of the appropriation made for the working capital of the Government Printing Office, for the year in which the work is done, and be subject to requisition by the Public Printer.
+
+All amounts in the Budget for the fiscal year 1925 for printing and binding for any department or establishment, so far as the Bureau of the Budget may deem practicable, shall be incorporated in a single item for printing and binding for such department or establishment and be eliminated as a part of any estimate for any other purpose. And if any amounts for printing and binding are included as a part of any estimates for any other purposes, such amounts shall be set forth in detail in a note immediately following the general estimate for printing and binding: Provided, That the foregoing requirement shall not apply to work to be executed at the Bureau of Engraving and Printing.
+
+No part of any money appropriated in this Act shall be paid to any person employed in the Government Printing Office while detailed for or performing service in any other executive branch of the public service of the United States unless such detail be authorized by law.
+
+## office of superintendent of documents.
+
+Superintendent, $3,500; assistant superintendent, $2,500; clerks—two at $1,800 each, three at $1,600 each, five at $1,400 each, eight at $1,200 each, eleven at $1,000 each, ten at $900 each, twenty-four at $840 each; cataloguers—one in charge $1,800, two at $1,500 each, ten at $1,200 each, one $1,100, eight at $1,000 each; cashier, $1,600; librarian, $1,500; foreman, $1,600; assistant foreman, $1,200; labor necessary in making distribution of Government publications, $130,000; in all, $232,960.
+
+Congressional Record Index: For salaries and expenses of preparing the semimonthly and session indexes of the Congressional Record, under the direction of the Joint Committee on Printing, as follows: Chief indexer, $3,000; cataloguer, $2,500; two cataloguers, at $1,800 each; in all, $9,100.
+
+For furniture and fixtures, typewriters, carpets, labor-saving machines and accessories, time stamps, adding and numbering machines, awnings, curtains, books of reference, directories, books, miscellaneous office and desk supplies; paper; twine, glue, envelopes, postage, car fares, soap, towels, disinfectants, and ice; drayage, express, freight, telephone and telegraph service; repairs to building, elevators, and machinery; preserving sanitary condition of building, light, heat, and power; stationery and office printing, including blanks, price lists, and bibliographies, $74,000; for catalogues and indexes, not exceeding $16,000; for supplying books to depository libraries, $75,000, in all, $165,000: Provided, That no part of this sum shall be used to supply to depository libraries any documents, books, or other printed matter not requested by such libraries.
+
+In order to keep the expenditures for printing and binding for the fiscal year 1924 within or under the appropriations for such fiscal year, the heads of the various executive departments and independent establishments are authorized to discontinue the printing of annual or special reports under their respective jurisdictions: Provided, That where the printing of such reports is discontinued, the original copy thereof shall be kept on file in the offices of the heads of the respective departments or independent establishments for public inspection.
+
+No part of the funds herein appropriated shall be used for the purpose of purchasing by or through the stationery rooms articles other than stationery and office supplies essential to and necessary for the conduct of public business; nor shall any part of such funds be expended for the maintenance, storage, or care of private vehicles.
+
+
+*Approved, February 20, 1923.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- February 20, 1923. [H. R. 13920.] [Public, No. 431.]
+- Legislative appropriations.
+- Senate.
+- Senators.
+- Compensation.
+- Mileage.
+- Officers, clerks, etc.
+- Vice President’s office.
+- Secretary, clerk, and messenger.
+- Chaplain.
+- Secretary of the Senate, assistant, clerks, etc.
+- Post, p. 1527.
+- Document Room.
+- Superintendent, etc.
+- Committee employees.
+- Clerks and messengers to designated committees.
+- Preparing Senate Manual.
+- Clerical assistance to Senators.
+- Allowance to Senators not chairmen of committees.
+- Proviso. Authority as committee clerks.
+- Additional clerks.
+- Appointments by Senators whoso terms begin March 4th.
+- Navy Yearbook, 1922.
+- Office of Sergeant at Arms.
+- Sergeant at Arms and Doorkeeper, assistants, etc. Post, p. 1528. Messengers, etc.
+- Laborers, etc. Post, p. 1528.
+- Pages.
+- Police, Senate Office Building.
+- Post office.
+- Postmaster, etc.
+- Folding Room.
+- Foreman, etc.
+- Contingent expenses.
+- Stationery. Post, p. 1280.
+- Postage stamps.
+- Motor vehicles.
+- Automobile, Vice President.
+- Folding.
+- Fuel, etc.
+- Furniture.
+- Packing boxes.
+- Document warehouse.
+- Miscellaneous items.
+- Inquiries and investigations.
+- Reporting debates.
+- Senate kitchens and restaurants.
+- House of Representatives.
+- Pay of Members, Delegates, and Resident Commissioners.
+- Speaker’s office.
+- Secretary, clerks, etc.
+- Digest of the Rules.
+- Clerk of the House, clerks, etc.
+- Clerks and janitors to designated committees.
+- Clerks subject to Clerk of the House at end of Congress.
+- Proviso. Exception.
+- Janitors. Appointment, etc.
+- Under Doorkeeper at end of Congress.
+- Sergeant at Arms, deputy, cashier, etc.
+- Police, House Office Building.
+- Doorkeeper’s office.
+- Doorkeeper, special employee, etc.
+- Messengers, laborers, etc.
+- Folding Room. Superintendent, etc.
+- Pages, etc.
+- Document Room. Superintendent, etc.
+- Special and minority employees.
+- Joel Grayson.
+- Minority employees.
+- Special designated employees.
+- Appointment of successors.
+- Majority floor leader.
+- Conference minority.
+- Caucus rooms messengers.
+- Postmaster, assistant, etc.
+- Mail vehicles.
+- Official reporters.
+- Stenographers to committees.
+- “During the session” to mean 211 days.
+- Clerk hire, Members, Delegates, etc. Ante, p. 1217.
+- Folding materials, paper, etc. Vol. 28, p. 624.
+- Miscellaneous items, etc.
+- Automobile, Speaker.
+- Clerical, etc., assistance to Clerk of the House.
+- Immediately available.
+- Capitol police.
+- Pay.
+- Uniforms.
+- Additional, for protecting Capitol, etc.
+- Proviso. Appointments.
+- Division of disbursements.
+- Joint Committee on Printing.
+- Clerk, etc. Vol. 28, p. 603. Congressional Directory.
+- Legislative Drafting Service.
+- Salaries, etc. Vol. 40, p. 1141.
+- Statement of appropriations.
+- For preparing, third and fourth sessions of the Sixty-seventh Congress.
+- Vol. 25, p. 587.
+- Architect of the Capitol.
+- Architect, chief clerk, etc.
+- Elevator conductors.
+- Capitol buildings and grounds.
+- General repairs to building, etc.
+- Restoring corridor decorations, Senate wing.
+- Special repairs, Senate chamber.
+- Improving, etc., grounds.
+- Repairs to stables, etc.
+- Senate Office Building. Maintenance.
+- Renovating, etc.
+- Storeroom cages.
+- House Office Building. Maintenance.
+- Capitol power plant. Maintenance.
+- Operating supplies.
+- Purchases. Vol. 36, p. 531.
+- Reimbursement for current, etc., supplied to other buildings.
+- Library Building and grounds.
+- Operating forces. Ante, p. 715.
+- Trees, plants, etc.
+- Sunday opening.
+- Post, p. 1520.
+- Repairs.
+- Furniture, cases, etc.
+- Fire alarm stations.
+- Painting.
+- Botanic Garden.
+- Director, assistant, etc.
+- Repairs, Improvements, etc.
+- Reconstructing, etc., greenhouses.
+- Minor purchases. Vol. 36, p. 531.
+- Library of Congress.
+- Librarian, chief assistant, etc.
+- Mail and delivery.
+- Order and accession.
+- Catalogue, classification, and shell.
+- Binding.
+- Bibliography.
+- Reading rooms.
+- Periodical.
+- Documents.
+- Manuscript.
+- Maps and charts.
+- Music.
+- Prints.
+- Smithsonian deposit.
+- Congressional Reference Library.
+- Law Library.
+- Semitic, Slavic, and Oriental Literature.
+- Temporary services.
+- Carrier service.
+- Copyright Office.
+- Register, assistant, etc.
+- Legislative Reference Service.
+- Designation of work.
+- Proviso. Pay restriction.
+- Card indexes.
+- Distribution service.
+- Expenses.
+- Increase of the Library.
+- Purchase of books, etc.
+- Law books, etc.
+- Books for Supreme Court.
+- Periodicals, etc.
+- Printing and binding.
+- Copyright entries.
+- Library Building.
+- Administrative assistant, clerks, watchmen, etc. Ante, p. 715.
+- Mail, incidental supplies, etc.
+- Government Printing Office.
+- Office of Public Printer.
+- Public Printer, Deputy, etc.
+- Disbursing clerk. Proviso. Duties enlarged; bond required.
+- Bond of Public Printer reduced. Vol. 28, p. 603, amended. Clerks, etc.
+- Guards, etc.
+- Apprentices. Allowed number increased. Vol. 28, p. 608, amended.
+- Public printing and binding.
+- Working capital provided.
+- Salaries, wages, etc.
+- Foremen.
+- Holidays.
+- Leaves of absence.
+- Machinery, equipment, etc.
+- Paper, materials, etc.
+- Charged to Congress.
+- For Architect of Capitol.
+- Authority for Congressional work.
+- Payment for work ordered, by departments, etc.
+- Proviso. Adjustment of accounts.
+- Money paid for work to be credited to working capital.
+- Estimates for departments, etc., to be incorporated in single items.
+- Details to be given if part of other estimates.
+- Proviso. Engraving and Printing Bureau excepted.
+- Restriction on paying detailed employees.
+- Office of Superintendent of Documents.
+- Superintendent, assistant, etc.
+- Distribution labor.
+- Congressional Record Index. Expenses of preparing.
+- Proviso. Supplying depository libraries.
+- Reports of departments, etc. Printing of, may be discontinued.
+- Proviso. Originals to be kept for public inspection.
+- Congressional stationery rooms. Purchases prohibited by, etc.

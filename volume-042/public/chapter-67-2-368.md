@@ -1,0 +1,53 @@
+---
+volume: 42
+citation: 42 Stat. 995
+type: Chapter
+number: 368
+congress: 67
+session: 2
+scope: public
+approved: 1922-09-21
+bills: 67/hr-11580
+---
+
+# Chapter 368
+
+> An Act To provide for the transfer of the lands and buildings of the Federal leprosy investigation station at Kalawao, on the Island of Molokai, in the Territory of Hawaii, to the Territory of Hawaii, and for other purposes.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+That the Secretary of the Treasury is hereby authorized and empowered to convey by quitclaim deed to the Territory of Hawaii the lands and buildings thereon of the Federal leprosy investigation station at Kalawao, on the Island of Molokai, said lands being fully described in the proclamation of the Governor of the Territory of Hawaii, dated June 28, 1905, by which such lands were ceded to the United States of America, and also to transfer to the Territory of Hawaii the equipment of the said station except such parts thereof as may be required for the use of the Public Health Service.
+
+The said lands are more particularly described as follows:
+
+- **(a)**
+  - Description of landing site situated on the east side of Waikolu stream, Waikolu, Molokai, Territory of Hawaii, selected by Surgeon General Wyman, Public Health and Marine Hospital Service, as portion of Federal leprosarium.
+  - Beginning at an iron bolt on rocky point overlooking sea and known as Hawaiian government survey trigonometry station Leinaopapio, the true azimuth and distance to Hawaiian government survey trigonometry station Kaupikiawa being one hundred and thirty-two degrees twelve minutes thirty-nine seconds eleven thousand one hundred and sixty-four and five-tenths feet and to Hawaiian government trigonometry station Mokapu being two hundred and two degrees thirty-two minutes nine seconds four thousand two hundred and fifty-five and one-tenth feet, and the azimuth to Kalawao Protestant Church spire being one hundred and five degrees twenty-nine minutes, and to the cross on Kalawao Catholic Church being one hundred and three degrees forty-three minutes, as shown on Government survey registered map numbered twenty-three hundred and nine, and running by true azimuths:
+  - **(1)** Up center of ridge to rocky ledge in same, the direct azimuth and distance being three hundred and thirty degrees thirty minutes one thousand four hundred and eighteen feet; (2) seventy-nine degrees forty-three minutes one thousand one hundred and seventy-four feet down side of ridge to a X on large solid stone on the east bank of Waikolu stream; (3) thence along the east bank of Waikolu stream to high-water mark on beach; the direct azimuth and distance being one hundred and eighty-three degrees five minutes four hundred and forty-eight feet; (4) thence along beach along high-water mark, the direct azimuth and distance being two hundred and forty degrees five hundred and fifty-five feet; (5) then along the foot of bluff, the direct azimuth and distance being one hundred and sixty-one degrees fifty-three minutes eight hundred and thirty-four feet; (6) two hundred and eighty-nine degrees eighteen minutes two hundred and twenty-four feet up ridge to the point of beginning. Area, eighteen and nine-tenths acres.
+- **(b)**
+  - Description of spring site, situated on the east side of Waikolu Valley, Waikolu, Molokai, Territory of Hawaii, selected by Surgeon General Wyman, Public Health and Marine Hospital Service, as portion of Federal leprosarium:
+  - Beginning at X on stone in trail up the east side of Waikolu Valley, the coordinates from Hawaiian government survey trigonometry station Leinaopapio being south two thousand four hundred and seventy-eight feet and east two hundred and nineteen feet, as shown on Government survey registered map numbered twenty-three hundred and nine, and running by true azimuths:
+  - **(1)** Two hundred and fifty-four degrees thirty-three minutes three hundred and eighty-five feet up ridge; (2) three hundred and fifty-one degrees seven hundred and fifty feet along Territorial government water reserve; (3) one hundred and seventeen degrees fifty-three minutes four hundred and sixty-six feet down ridge to a X on stone in trail; (4) thence along east side of trail, the direct azimuth and distance being two hundred and fifteen degress forty minutes ninety feet; (5) one hundred and seventy-six degrees fifty-three minutes two hundred and twenty-seven feet; (6) one hundred and thirty-sixdegrees one hundred and sixty-eight feet to the point of beginning. Area, four and five-tenths acres.
+- **(c)**
+  - Description of hospital site, Kalawao, Molokai, Territory of Hawaii, selected by Surgeon General Walter Wyman, Public Health and Marine Hospital Service, as portion of Federal leprosarium:
+  - Beginning at X on large rock in stone wall on edge of bluff over-looking sea, the true azimuth and distance to Hawaiian government survey trigonometry station Kaupikiawa being one hundred and fifty-nine degrees three minutes six thousand one hundred and thirty and eight-tenths feet, and to Hawaiian government survey trigonometry station Leinaopapio being two hundred and eighty-six degrees fifteen minutes thirty seconds six thousand three hundred and thirty-two and five-tenths feet as shown on government survey registered map numbered twenty-three hundred and nine, and running by true azimuths:
+  - **(1)** Along edge of bluff overlooking sea to comer of fence on same, a little west of Waialeia Gulch, the direct azimuth and distance being three hundred and thirty-three degrees thirteen minutes one thousand nine hundred and eighty-three feet; (2) sixty-five degrees one hundred and eighty-five and five-tenths feet to comer of stone wall; (3) twenty-seven degrees two hundred and eighty-five and five-tenths feet along stone wall to X on solid rock; (4) fourteen degrees twenty-five minutes five hundred and eighty-five feet up small hill to X on large rock on edge of bluff; (5) twenty-two degrees thirty-eight minutes six hundred and sixteen feet along edge of bluff to X on large rock, the true azimuths to Kalawao Protestant Church spire being one hundred and sixty-three degrees twenty-four minutes and to cross on Catholic Church being one hundred and sixty-four degrees forty-eight minutes; (6) thirty-one degrees eighteen minutes one thousand and thirteen feet along edge of bluff and down into a small gulch, and along center of same to angle in said gulch; (7) ninety-nine degrees twenty minutes one thousand one hundred and fifty feet along center of small gulch to point in same, opposite the bottom of pali; thence following along the bottom of pali, the direct azimuths and distances being (8) one hundred and ninety-seven degrees forty minutes eight hunched and ten feet; (9) two hundred and nineteen degrees fifty-three minutes seven hundred and fifty feet; (10) one hundred and thirty-seven degrees eighteen minutes one thousand feet; (11) two hundred and sixty-two degrees fifteen minutes five hundred and sixteen feet to X on solid rock at point of pali and end of stone wall, the true azimuth and distance to Leinaopapio A being two hundred and seventy degrees forty-four minutes seven thousand and fifteen and nine-tenths feet, to Kaupikiawa A being one hundred and seventy degrees twenty-three minutes seven thousand five hundred and fifteen and three-tenths feet, and the azimuth to Kalawao Protestant Church spire being one hundred and eighty-four degrees twelve minutes and to Kalawao Catholic Church cross being one hundred and ninety degrees forty-one minutes thirty seconds; (12) thence along stone wall along Baldwin home, the direct azimuth and distance being two hundred and nineteen degrees ten minutes six hundred and sixty-nine feet; (13) one hundred and forty-six degrees four hundred and twenty-five feet along stone wall along Baldwin home; (14) two hundred and nineteen degrees one thousand and three feet along stone wall along Baldwin home; (15) three hundred and six degrees twenty minutes sixty-five feet along stone wall along Baldwin home; (16) two hundred and nineteen degrees ten minutes ninety-four and five-tenths feet along stone wall along Baldwin home to the point of beginning. Area, one hundred and fourteen acres.
+- **(d)**
+  - Description of reservation site, situated in Kalawao and Makanalua, Molokai, Territory of Hawaii, selected by Surgeon General Walter Wyman, Public Health and Marine Hospital Service, as portion of Federal leprosarium:
+  - Beginning at Hawaiian government survey trigonometry station Kaukaho, on the southwest rim of Kauhako Crater near graves, the true azimuth and distance to Hawaiian government survey trigonometry station Kalawao, being one hundred and seventyfive degrees forty-five minutes eight thousand and eighty-eight and nine-tenths feet; to Hawaiian government survey trigonometry station Leinaopapio, being two hundred and ninety-one degrees fifteen minutes nine seconds fourteen thousand four hundred and sixty-one and six-tenths feet, as shown on Government survey registered map numbered seventeen hundred and twenty-eight, and running by true azimuths:
+  - **(1)** One hundred and thirty-seven degrees twenty-one minutes one thousand six hundred and ninety-two feet; (2) two hundred and twenty-seven degrees twenty-one minutes six thousand nine hundred and forty-two feet high-water mark at seacoast; (3) thence along seacoast along high-water mark, the direct azimuth and distance being three hundred and thirty-six degrees ten minutes three thousand seven hundred and sixty-two feet; (4) forty-seven degrees twenty-one minutes three hundred and fifty feet to Hawaiian government survey trigonometry station Kaupikiawa, the true azimuth and distance to Leinaopapio A, being three hundred and twelve degrees twelve minutes seven seconds eleven thousand one hundred and sixty-four and five-tenths feet; (5) forty-seven degrees twenty-one minutes five thousand three hundred and seventy-eight feet to an iron bolt on the north side of main government road; (6) one hundred and thirty-seven degrees twenty-one minutes one thousand eight hundred and sixtynine feet to the point of beginning. Area, five hundred and two and six-tenths acres.
+
+
+*Approved, September 21, 1922.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- September 21, 1922. [H. R. 11580.] [Public, No. 330.]
+- Hawaii. Leprosy investigation station on Molokai, transferred to.
+- Desciptions.
+- Landing site.
+- Spring site.
+- Hospital site.
+- Reservation site.
