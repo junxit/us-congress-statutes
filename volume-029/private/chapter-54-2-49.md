@@ -1,0 +1,28 @@
+---
+volume: 29
+citation: 29 Stat. 769
+type: Chapter
+number: 49
+congress: 54
+session: 2
+scope: private
+approved: 1897-01-16
+---
+
+# Chapter 49
+
+> An Act Granting a pension to Nancy B. Prince, widow of Elbert Prince.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+That the Secretary of the Interior be, and he is hereby, authorized and directed to place upon the pension roll, subject to the provisions and limitations of the pension laws, the name of Nancy B. Prince, widow of Elbert Prince, late private of companies commanded by Captains Christmas and Spirey, Georgia Volunteers, Indian war of eighteen hundred and thirty-six, and that he pay her a pension of eight dollars per month from and after the passage of this Act, and to continue during her widowhood.
+
+
+*Received by the President, January 5, 1897.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- January 16, 1897.
+- Nancy B. Prince. Pension.

@@ -1,0 +1,28 @@
+---
+volume: 29
+citation: 29 Stat. 835
+type: Chapter
+number: 426
+congress: 54
+session: 2
+scope: private
+approved: 1897-03-03
+---
+
+# Chapter 426
+
+> An Act For the relief of William G. Buck.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+That the Secretary of the Interior be, and he is hereby, authorized and directed to increase the pension of William G-. Buck, late of Company E, Fifteenth Regiment Iowa Volunteers, to twenty dollars per month.
+
+
+*Received by the President, February 19, 1897.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- March 3, 1897.
+- William G. Buck. Pension increased.
