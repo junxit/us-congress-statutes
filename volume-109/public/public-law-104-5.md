@@ -1,0 +1,40 @@
+---
+volume: 109
+citation: 109 Stat. 72
+type: Public Law
+number: 5
+congress: 104
+session: 1
+scope: public
+approved: 1995-03-23
+bills: 104/s-377
+---
+
+# Public Law 104–5
+
+> An Act To amend a provision of part A of title IX of the Elementary and Secondary Education Act of 1965, relating to Indian education, to provide a technical amendment, and for other purposes.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+## § 1. TECHNICAL AMENDMENT.
+
+Section 9112(a)(1)(A) of the Elementary and Secondary Education Act of 1965 (as added by section 101 of the Improving America’s Schools Act of 1994 (Public Law 103–382)) is amended by striking “and” and inserting “or”.
+
+
+*Approved March 23, 1995.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- Mar. 23, 1995 [S. 377]
+- 20 USC 7812.
+
+## Legislative history
+
+**LEGISLATIVE HISTORY—S. 377**
+
+*CONGRESSIONAL RECORD, Vol. 141 (1995):*
+
+- Feb. 16, considered and passed Senate.
+- Mar. 14, considered and passed House.

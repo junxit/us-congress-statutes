@@ -1,0 +1,40 @@
+---
+volume: 109
+citation: 109 Stat. 802
+type: Public Law
+number: 87
+congress: 104
+session: 1
+scope: public
+approved: 1995-12-29
+bills: 104/hr-1878
+---
+
+# Public Law 104–87
+
+> An Act To extend for 4 years the period of applicability of enrollment mix requirement to certain health maintenance organizations providing services under Dayton Area Health Plan.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+## § 1. EXTENDING PERIOD OF APPLICABILITY OF ENROLLMENT MIX REQUIREMENT TO CERTAIN HEALTH MAINTENANCE ORGANIZATIONS PROVIDING SERVICES UNDER DAYTON AREA HEALTH PLAN.
+
+Section 2 of Public Law 102–276, as amended by section 13644 of the Omnibus Budget Reconciliation Act of 1993, is amended by striking “December 31, 1995” and inserting “December 31, 1999”.
+
+
+*Approved December 29, 1995.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- Dec. 29, 1995 [H.R. 1878]
+- 106 Stat. 126.
+
+## Legislative history
+
+**LEGISLATIVE HISTORY—H.R. 1878:**
+
+*CONGRESSIONAL RECORD, Vol. 141 (1995):*
+
+- Dec. 18, considered and passed House.
+- Dec. 22, considered and passed Senate.
