@@ -1,0 +1,28 @@
+---
+volume: 10
+citation: 10 Stat. 766
+type: Chapter
+number: CXXXII
+congress: 32
+session: 2
+scope: private
+approved: 1853-03-03
+---
+
+# Chapter CXXXII
+
+> An Act for the Relief of Betsey Norton.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+That the Secretary of the Interior be, and he is hereby, authorized and directed to place the name of Betsey Norton, widow of Freeman Norton, upon the list of revolutionary pensioners, and to pay her the sum of eight dollars per month, commencing on the first day of January, eighteen hundred and fifty-three.
+
+
+*Approved, March 3, 1853.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- March 3, 1853.
+- Betsey Norton to be placed on pension roll at $8 per month, from January 1, 1853.
