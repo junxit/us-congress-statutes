@@ -1,0 +1,1086 @@
+---
+volume: 67
+type: Senate Concurrent Resolution
+number: 26
+approved: 1953-07-27
+bills: 83/sconres-26
+---
+
+# Senate Concurrent Resolution 26
+
+> DEPORTATION SUSPENSIONS
+
+*Resolved by the Senate (the House of Representatives concurring),*
+
+That the Congress favors the suspension of deportation in the case of each alien hereinafter named, in which case the Attorney General has suspended deportation for more than six months:
+
+- V–906583, Addad, Encarnacion Javier.
+- A–5351162, Alava, Moises.
+- A–6195336, Alfonso, Daniel Rafael Ortiz.
+- A–7773135, Arguello De Martinez, Amelia..
+- A–7418113, Armas, Jose or Armas Jose Noguera.
+- A–7270837, Atkinson, Vance Loval alias Vance Alistaire Bowman. A–5357364, Bley, Ernst Ferdinand Max.
+- A–5980513, Brown, William Nicholas.
+- A–9825258, Carabelos, Francisco Acebedo.
+- V–996015, Castaneda, Dilia or Dilia Molena-Suarez.
+- PR–0949374, Chin, Boon Lup.
+- V–13540, Chu, Chih-Li or Ou Yang Chiyen Chu (nee Ou Yang Chiyen).
+- V–778424, Chu, Ou Yang Chiyen (nee On Yang Chiyen).
+- A–5661960, Davis, Jack Joseph Alexander.
+- A–2455219, Dionisos, Nikolaos or Dennis Stefanatos.
+- A-l935083, Duffy, Thomas Henry.
+- A–8015744, Eleftheriades, Athena.
+- A–7602216, Endsley, Susana Tolnay (nee Susana Haydn).
+- 0300–398278, Enriquez, Carmel Leone alias Charles Enriquez alias Carmel Leone.
+- A–7469670, Feola, Luigi.
+- A–6859115, Fernandez, Jose.
+- A–4864705, Gero, Ethel.
+- A–7178249, Giannoni, Alana (nee Questa).
+- A–5350150, Gobell, Margarite Maria.
+- A–4631051, Golt, Leah Black.
+- A–3291421, Hagen, Amt Hauen.
+- A–8189326, Ham, Wilhelmina Frances.
+- A–4143853, Heredia, Maria.
+- A–6849831, Hsu, Shih-Yi.
+- A–6849832, Hsu, Maria,
+- A–4734859, Jensen, Arne K.
+- 0502–6312, Jesus, Guadalupe Moreno or Varina Moreno.
+- A–5240427, Johnson, John or John G. Johnson or Ioannis Ioannou.
+- A–1472046, Kariofilis, Andrew.
+- 0300–330330, Kelly, Joslyn Samuel.
+- A–1052477, Kiehm, Isaac Sungbnik or Sung Ho or Isaac Sunbaik Kiehm or Kim Sung Ho.
+- A-30790G9, Klueh, Jacob or Jacob Clue or Jacob KI uh.
+- A–2182411, Kosmitas, Manuel Nicholas.
+- A–7476650, Koutroulis, Renn (nee Rena Theodorou Tsiricoglou).
+- 0300–395430, Kum, Wat or Wat Kam.
+- A–1124711, Kypranos, Themistocles J. or Kyprianos or Themis John or Tain Themistocles.
+- A–6207836, Lampe, Rosa Bradley Lampe (nee Goseco).
+- A–6161800, Laurence, Lloyd Archibald Barrington or Lawrence.
+- V–944016, Mallozzi, Rosario alias Ronny Mallozzi.
+- A–7821725, Margarit, Primo.
+- A–9552873, Matos. Ramon Armando.
+- A-982546S, Mauricio, Jose Amador.
+- A–3016875, Mayo, Louis or Liezer alias Antonio L. Maya.
+- A–6428748, Montana, Manuel Francisco Matalobos.
+- A–5554344, Morin, Albert Bertie.
+- A–7849300, Navarro-Ochoa, Salvador.
+- A–9634769, Nellini, Nunzio Anthony.
+- A–3290755, Ngai, Kai Kin.
+- 0300–375748,Phillips, Herbert Washington.
+- A–6526120, Fuig, Orlando.
+- A–8015534, Quintana y Maestre, Claudio Damian.
+- A–5317399, Raschke, Ralph John or Rudolph Johann Rachke.
+- 0300–363696, Reid, Gladstone Ewart.
+- A–3159934, Reid, Martin L. alias Martin Luther Reid alias Martin Williams.
+- A–8196776, Rosa-Atilano, Sara De La or Sara De La Rosa or Sarah De La Rosa.
+- A–8196771, Rosa-Atilano, Noemi De La or Noemi De La Rosa or Mahne De La Rosa or Noami A. De La Rosa.
+- A–7270954, Rose, Percival or John Percival McNamee or John P. McNamee.
+- A–8017132, Rubio-Rojas, Bernardino or Jose Almazan-Rojas.
+- A–8117683, Sanchez De Juarez, Maria Casilda.
+- A–7049705, Sanchez, Ala ria Vicenta,
+- A–9574680, Sarkan, Jasnon or Sarkan Jasnon.
+- V–657458, Sassoon, Albertine Yakub.
+- A–6062948, Stagner, Trinidad Villaniil.
+- A–4377113, Stewart, Ada nee Foster alias Ada Cunningham.
+- A–7394006, Story, Maria (nee Janzen).
+- A–8090420, Tavares, Ignacio.
+- A–1408295, Thomas, Leslie Daniel or Robert Jackson.
+- A–6843514, Tong, Chi Yin.
+- A–7263680, Tong, Man Fung alias Mau Fung Ng.
+- A–7809508, Torres de Rodriguez, Alicia.
+- A–7056033, Wajc, Oscar or Uscher Wajc.
+- A–7250478, Waldman, Fela.
+- A–7125350, Weiss, Eisig.
+- A–7125351, Weiss, Hedwig.
+- A–1289484, Wesierski, Erwin Gotthelf.
+- A–1654416, Winbert, Henry Raymond.
+- A-l091682, Yavorsky, Olga or Olga Snatchko-Yavorsky.
+- A–7962234, Yi-Armenta, Juan.
+- A–4839075, Aleman, Leonardo or Leonardo Contreras or Leonardo Armendariz.
+- A–8190243, Amador-Silva, Juan.
+- A–7858186, Asi memos, Spirins.
+- A–7828572, Avaia, Ezequiel Ambrosio Sano Perez y or Ezequiel Perez.
+- A–7849301, Perez, Margarieta (nee Margarieta Pantoja y Perez).
+- A-1190865T, Ayriss, Alfred Richard.
+- A-5670996T, Baker, David or David Bubis.
+- A–3029157, Baldaeus, Johanna Margarete (nee Gerdes).
+- A–4714620, Baronachi, George or George Baronaid or Baronacki or
+- George Barone or Baroni or Barony or George Carolina.
+- 0300–372033, Barton, Richard.
+- 0300–390961, Baxevanakes, Theodore or Theodore Vaxevanakes.
+- A–6936176, Beltran, Salvador.
+- A–6546813, Najera, Jovita.
+- A–4394441, Benetato, Evangelo Pauagi.
+- A–1619498, Blewitt, Harry William or Harry William Lewis.
+- V–1421202, Boros, Abraham.
+- A-8111564T, Boyd, Arthur Ariel or Ariel Boyd.
+- A-5662881T, Bressan t, Albert.
+- V–904212, Brown, Rita Tercias, Junior.
+- A–3760481, Burgundy, Theresa Anna or Theresa A. Burgundy.
+- A–5332660, Busse, Clara (nee Sage).
+- A–8196978, Buzzell, Hilda Susana.
+- V–930881, Candy, Brun Arthur.
+- A–4907020, Carballo-Corbeira, Francisco,
+- A–7286249, Cardona, Raquel or Raquel Cardona De Leanos.
+- A–7415714, Carey, Vincent Andrew.
+- A-5614526T, Cedillo-Castelli ja, Mucio.
+- A–8021736, Chae, Wu Young.
+- A–6843497, Chang, Catherine Margaret or Jui Hsien Chang.
+- A–9689538, Chapman, Henry Theodore or Henry Chapman.
+- A–8190886, Charleswell, Pearito Francisco.
+- A–7060229, Chi, Nai Chun,
+- A-7995684T, Cortez-Sanchez, Enrique or Henry Cortez.
+- A–6546686, Curbelo, Irene (nee Irene Fernandez y Martinez).
+- A–3535822, De Avalos, Consuelo Perez.
+- A–6989401, De Berthoty, Paul Charles or Paul Berthoty Murray.
+- A–8117436, De Cardenas, Socorro Mora-Gonzalez.
+- A–7387451,De La Chapelle, Gisele Magyar.
+- A–7387452, De La Chapelle, Alain.
+- A–7387453, De La Chapelle, Philippe.
+- A–1729227, Delan, Imre or James Delaney.
+- 0300–282896, De Mondoza, Olga Gomez Hurtado or Olga Gonzalez.
+- A-8017495T, De Neria, Maria De Jesus Lizarraga.
+- A–9500497, De Ridder, Robert.
+- A-7017694T, Dick, Lynston Alain or Lynston Allen Dick.
+- T–734650, Dieguez, Siddharta Isidro Iglesias or Isidro Iglesias.
+- A–5389244, Di Miceli, Lucia.
+- A–7208450, Di Santolo, Giuseppe or Joseph Scotto.
+- A–4780062, Elina, Au ne or Anne Salonen or Anne Elina Maniec or Nisniec or Anne Namiec.
+- 1400–19459, Esquibel-Rodriguez, Gilberto.
+- 1400–19458, Esquibel, Maria Del Refugio Zaragosa De.
+- 0300–326779, Ferrentino, Antonio.
+- A-7445276T, Foo, Wong.
+- A–2262481, Fountoulis, Andrew George or Andrew Fundulis.
+- V–1597569, Fuchs, Sara (nee Izak).
+- A–8117623, Gallardo-Ri co, Cliserio.
+- 1607–21056, Garcia-Azumulco, Luis.
+- A–2386905, Geldis, Panagiotis or Pete Geldis.
+- A–4381366, Geller, Sara.
+- A-5151810T, Gero, Elsie.
+- A–5998311, Gibson, Charles Gladstone or Charlie or Gladstone Gibson.
+- A–7792917, Gimel, Marie-Antoinette de Pradines.
+- A–8091944, Giovine, Nicola.
+- A-5868210T, Glyptis, Constantinos Peter or Costas P. Glyptis.
+- A–6728726, Gomez, Jose Maria.
+- A–4122145, Goudjamanis, Georgios Nicholaos.
+- A–4294913, Gross, Anna nee Chava Guchowitzki.
+- A–5004303, Gross, Morris or Moishe Gruttz or Morris David Gross.
+- A–5497815, Guirincich, Umberto.
+- A–8021973, Gumbs, Freeman Augustus.
+- A–5747207, Haardt-Ascarelli, Yvonne.
+- A–1883046, Harris, Frank Wilbert.
+- A–6816867, Harris, Roderick.
+- A-7995700T, Hernandez-Servin, Avelina.
+- A-7995701T, Hernandez-Servin, Goyeta.
+- V–185719, Hillmann, Max.
+- A–5666849, Hozian, Anthony.
+- A-6709342T, Hsu, William.
+- A–9516613, Hvidsten, Henry.
+- A–6386947, Jacobsohn, Peter Mortan Ralph.
+- A–7374719, James, Agatha (nee Walker) or Violet Edwards.
+- A–3907712, Jepperson, Harold J.
+- 0300–345134, Jones, Jeanne Gabrielle Manine (nee Manine Auronx).
+- 0600–9806, Jones, Linda Diane.
+- A-4719467T, Kalle, Hans.
+- A–3534539, Karstens, Alfred Ahirich Emiel Karstens or Alfred Karstens or Alfred Alarich Amil Karstens.
+- A–2958660, Kerkhoven, Peter Johannes.
+- A–6047902, Kin, Lam Suey.
+- A-3633166T, Kou tel is, Demetrios M.
+- A–5969693, Kuderian, John Zarmavon.
+- 0300–408399, Kwong, Yeung, or Ip Sui Yeung Kwong.
+- V–1045014, La Form, Mary Patricia or Mary Patricia Barrel.
+- A–8057355, Lake, Ann Louisa.
+- A–9804944, Larsson, Frithjof Bjarne.
+- A–7427954, Leavitt, Antoinette Van Barrdewijk.
+- A–5146829, LeClerc, Joseph Ernest Aime.
+- A–5271708, Ledee, Joseph V.
+- A-7983013T, Lee. Quon.
+- 0300–403287, Lipiatos, Thomas or Athanasios Lipiatos.
+- 0300–357028, Lombardo, Sergio George.
+- A-3968784T, Lopez, Guillermo.
+- PR–928811, Loukas, Paul or Pavlos Spiros.
+- A–3117555, Luchetta, Cesare Guadenzio.
+- 0300–371264, Lum, Larry Yee or Lum Ying.
+- A–7769192, Maga lee, Ralph Edward.
+- A-9799758T, Magalit, Metelo Teodosio.
+- A–6220806, Mihael Edanthia.
+- V–916949, Mirambeau, Lucien.
+- 0400/43244, Moore, Lolita or Lolita Daneo.
+- A–8117704, Moses, Joyce Violet.
+- A–6357992, Moukios, Evdokia.
+- A–7297182, Munguia-Mercado, Jose.
+- A–6425318, Murua, Luis.
+- A–6991892, Murua, Maria.
+- A–6991890, Murua, Victoria.
+- A–6991891, Murua, Junior, Luis.
+- A–6457168, Nercessian, Nishen Leon or Nishan Leon Nersessian.
+- A–8190553, Nesbitt, Calvin William.
+- A–6105255, Nieto-Angeles, Jose.
+- A–8065045, Nieto, Carmen Montoya De.
+- A–9609859, Nieuwendam, Arnold Emile or Arnold Emile Sallons.
+- 0300–362215, Nin, Fon Fock or Fung Quon.
+- A–6859156, Oei, Jacqueline.
+- A–6859155, Oei, Ing Bian.
+- A–7828467, Oliver, Ellen Charlotte Marcelle (nee Treyvoux).
+- A-7041660T, Olsen, June or June Marie Allett Kirkerod.
+- A–8190834, Orfanos, Dimitrios or James.
+- A–5977611, Oyakawa, Yoshiharu,
+- A–6153199, Oyakawa, Oto.
+- A–6153196, Oyakawa, Kenichi Augusto.
+- A–6153197, Oyakawa, Keiji Louis.
+- A–6153198, Oyakawa, Mitsuko Yolanda.
+- A–3526749, Palassolo, Vito.
+- A–7123597, Pappas, Pliilareti or Filareti J. Nee Siotkas.
+- A–5816122, Patrick, Malia.
+- A–7978869, Perez, Angelina Chagoilan.
+- A–2096451, Piceno-Mencaca, Procopio.
+- A–8191940, Piceno, Cristina Garcia De.
+- A–6373131, Pinero, Carlos Manuel or Carlos Manuel Pinero Martinez or Carlos Manuel Martinez Pinero.
+- A-4301728T, Polito, Paolo or Paul Polito.
+- A–2578820, Pomili, Pasquale.
+- A–5290375, Porto, Luis or Norberto Rodriguez.
+- A–7286271, Pozo, Louis Alvarez or Juan Louis Alvarez or Louis Alvarez or Louis All very Pozo.
+- V–1384064, Prats, Ana Josefa Martinez Garriga.
+- A–6673871, Prieto, Nicolas Enrique Godinez.
+- A 2976728, Radovnikovich, Frank or Frano Andrij in Radovnikovic or Frank Radovinikovich or Frank Radonovich.
+- A-6874492T, Ramos, Arnulfo Mario.
+- A–6344236, Rietwyk, August Hendrik.
+- A–8196266, Rivera-Garcia, Santos.
+- A–8190086, Roca, Gualberto Alvarada Y.
+- A–3111262, Rodriguez, Antonio.
+- A–2854602, Rood, Dramen Hassman or Dramen H. or Dramen Hassmen Roop or Hassmen Roop or Atmlralimen Bin Hassan.
+- A–2795865, Salice, Elena (nee Roscio).
+- A–7011270, Salice, Enrico or Henry Salice.
+- A–7022363, Salort, Anthony or Antonio Giner Lort.
+- A–7841669, Sanchez-Sus tai la, Vicente or Vicente Sanchez.
+- A–7841513, Sanchez-Rodriguez. Ernestina or Ernestina Sanchez.
+- A–7841514, Sanchez-Rodriguez, Maria Felix or Maria Felix Sanchez.
+- A-7445010T, Sanders, Fejga (Fijga) (nee Kemelgor).
+- A–2021061, Sang, Chow Kang or Sang Chow Kang.
+- V–760308, Saner, Wilhelm or William Sauer or William Otero.
+- 0300–372883, Seid, Lum or Henry Lum Seid.
+- A–3871576, Selby, Harry William or Harry Selvy.
+- A-4953854T, Seo, Uneo or Joseph Uneo Seo.
+- A–5415125, Shavulsky, Nathan.
+- A–4413030, Shea, Bridget.
+- A–2310593, Shimada, Shigeo.
+- 1409–13669, Silva-Torres, Sabino.
+- 1409–13763, Silva, Trinidad Leal De.
+- 56197/124, Simms-Lee, Henry Alan John.
+- A–4480944, Simonsen, John Gunnar or Gunnar Johan Simonsen.
+- A–8001521, Smith, Suzanne Julie Puyoulet
+- A–8217004, So, Pak Tsun.
+- A-7140326T, Soto-Ruiz, Jose.
+- A–9625374, Spanos, Sotiros or Sotiros M. Spanos.
+- A–2506260, Stein, Alma (nee Sudmal) formerly Alma Sudmal Pontag.
+- A–4876338, Stoianovich, Michael L. or Michael Lazary or Mia! Lazo or Mike Louis.
+- A-7984780T, Suarez, Horacio Antonio Villazon Suarez.
+- A–6345014, Suchos, Plouheria.
+- 0300–317261, Sze, Chao Yu.
+- A–8196090, Thomas, Christophena Albertha.
+- A–8010552, Thomas, Ellis or Elice Thomas.
+- A–3777089, Torres, Servando.
+- A–7088600, Turco, Francesco or Frank Turco.
+- A–3500895, Ullah, Turab Ali or Turah Ali.
+- A–3569664, Van Syckel, Lucille Lillian (nee Richards) alias Grisch.
+- 0300–368552, Wai, Chan or Wai Chan or Hang Pai.
+- A–8216993, Walker, Verna Taylor or Verna Taylor.
+- A–4449814, Watanabe, Hideo or Jerry Watanabe.
+- A–7197691, Weisz, Wilhelm.
+- A–8031328, Whitehead, Charles Stanley.
+- A–8217018, Willem, Raquel (nee Rawuel Mandado Y Bertot or Raquel Saran Mandado Bertot).
+- A–5378360, Williamson, Ferdinand Daniel or Fred Williams.
+- 0300–304807, Wilson, Asten or Harold Wright.
+- 0300–329044, Wilson, Noel Fitzgerald.
+- A–8190382, Yates, Caroline Albertha.
+- A–6451015, Yiakas, Dimos or Dimosthenis Yiakas.
+- A–3988781, Young, Wong or Yung,
+- A–9511298, Yuk, Lum or John Lum.
+- A–3449483, Zauner, Kaspar.
+- A–3448841, Zauner, Margareta.
+- A–4441834, Ziegler, Hulda.
+- A–4389112, Ziotou, Anna.
+- A–5818593, Ziegler, Alfred.
+- A–1180216, Ahmed, Saleh.
+- A–7828568, Alfonso-Rodriguez, Benardino Perfecto or Perfecto A. Rodriguez.
+- A–7264768, Altamore, Giuseppe.
+- A–6261667, Al vanou, Helen or Elleni (nee Boutis).
+- A–9777070, Anderson, Donald John.
+- 0300–370078, Anderson, Mike or Goldburn Gilroy Myett.
+- A-l666972, Aranda-Gonzalez, Jose.
+- A–8117291, Avalos-Jimenez, Alberto.
+- A–7897663, Ballard, Vera Agnes.
+- A–7841042, Barcelo, Francisco Diaz or Francisco Barcalo Diaz.
+- A–6025280, Basoglu, Muzafer Sherif alias Muzafer Sherif.
+- A–7287689, Benjamin, Simon.
+- A–8117673, Berrardini, Ubaldo.
+- 0300–400085, Birthweight, Clinton Vinston.
+- A–3964171, Blair, Jessie (nee Stuart).
+- A–2323018, Bleier, Kain.
+- A–8117076, Bo, Cheong.
+- A–9765789, Bratsafolis, Anthony Nicholas.
+- A–7890485, Breda, Johannes.
+- A–6923152, Breit, Ester formerly Esteva Tugetman.
+- A–2828375, But well, James Robert.
+- A–2817959, Calelides, Hercules alias Heraklis Kalalides.
+- 0300–349691, Cardoso, Elena Haydee or Elena Haydee Blanco de Cardoso.
+- A–6841554, Carrillo-Duran, Miguel.
+- A–4688113, Case al lar, Angel Vilas.
+- A–7354835, Cheng, Shau Hing or Shan Hing Chung or Shau Hing How.
+- A–9149343, Chenko, Basil Michalt.
+- A–6965555, Chiodo, Egildo or Egildo Dario Chiodo.
+- A–7748713, Choy-Renteria, Olga Maria or Olga Maria Choy.
+- 0300–274606, Ciriello, Esther Martha.
+- 0300/320862, Clark, Ascon George alias Christopher Williams.
+- A–2538682, Clark, Cora Lavinia or Cora Lavinia Sanford or Cora Lavinia Farr.
+- A–6064528, Contreras-Brambila, Jose.
+- 1300–85758, Cruz, Guadalupe Aguirre.
+- 1300–80619, Cruz, Felipa M.
+- A–4665122, Curry, Elease Maud.
+- A–5551709, Czaikowsky, Wilhelm Johann alias Will Muller.
+- A–8001076, Davoli, Luigi Giovanni Francesco.
+- 0300–352588, De Serra, Esther Filomena Loza y Perez or Esther Serra alias Maria Tapia.
+- A–7270806, Diaz-Rosa, Eleazar Manuel.
+- V–581891, Dimitratos, Helen (nee Modona).
+- A–7005827, Dishington, Norma or Norma Therese Marie Dishington.
+- A–4530884, Dolgoruki, Igor Edgar Youry Olesha alias Edgar Sanders alias Dino Valencay Sagan Sanders.
+- A–2018018, Dollah, Din Bin alias Ben Din Collah or Dan Dola.
+- A–6967050,Driver, AlooShavaksha (nee Jhavbala).
+- A–8150089, Eason, Collette Maud (nee Gillis).
+- 0300–349077, Edwards, Ralph Leopold alias Charles Douglas.
+- A-720L491, Ekloff, Helene.
+- A–4380202, Ellsworth, Michael Hull.
+- A–7941846, Eng, Irene Chi Che Wong.
+- A–7369941, Erickson, Edith Sylvia.
+- A–2837555, Farias, Eduardo Bousas.
+- 0300–378170, Fee, Ging, alias Lai Hong.
+- A–7365716, Feiger, Armin.
+- 0300–310172, Feiger, Freda.
+- A–9836794, Fernandez, Domingo Augusto.
+- A–8031130, Fernandez-Alvarez, Jose or Jose Fernandez.
+- A–1121693, Ferreira y Silva, Maximo alias Ferreira Silva alias Maximino Ferreira.
+- A–2614918, Figueiredo, Joaquim.
+- A–7298476, Finuliar, Trinidad Barlaan.
+- A–6495521, Fisher, Joyce Lilian.
+- A–7127285, Flores-Cortez, Bernardo.
+- A–7372139, De Flores, Juana Gomez.
+- 1000–20686, Flores-Gomez, Rodolfo.
+- 1000–20758, Flores-Gomez, Bernardo.
+- 0300–282607, Fong, Eng Long alias Henry Sang.
+- A–7858139, Francis, Emelie Yvonne.
+- A–7858137, Francis, Fitzroy.
+- A–3305670, Franco, Jose Mendez.
+- A–4235122, Frischer, Ada.
+- A–7070234, Galanis, George.
+- A–8196689, Garcia, Jorge Lopez y or George Lopez.
+- A–6008175, Geiger, Kurt.
+- A–5537060, Geneen, Maurice.
+- A–3175346, Giamonetis, Theodore or Theodoros Giamonitis.
+- A–5273219, Goddard, Francis Frederick alias Pat O’Malley.
+- A–1312976, Godlewska, Bertha or Bessie.
+- A–9717078, Gonzales, Pedro Pablo alias Pedro Rodriguez.
+- A–6903695, Gottheil, Zelman.
+- A–72729 73, Gottheil, Fanny.
+- A–6213634, Gregorio, Francisco.
+- A–4341002, Gross, Alexander.
+- A–8106997, Guerrero-Olvera, Pedro.
+- 1409–11237, Gutierrez-Hernandez, Ramon.
+- A–6766822, Guzman, Salvador Munoz.
+- 1511–2285, Hernandez-Garcia, Juana.
+- A–1409804, Hewitt, Lulu Mae (nee Ferguson).
+- A–2489222, Higa, Shimatsu.
+- A–1991795, Himer, Nick or Miklos Himer.
+- A–7423239, Hinds, Wilfred Lawson or Wilfred Loshington Ed-wards.
+- A–7982763, Hsu, Huai Yun.
+- A–7982764, Hsu, Fong Chinn.
+- 0300–371865, Hung, Ho Tak.
+- A–7267731, Hunt, Maisie.
+- A–3518330, Hyland, Bridget Bridie.
+- A–6870028, Jackson, Harriet Joy.
+- A–7264247, Jackson, Naomi Constantino (nee Naomi Constantino Flores).
+- A–7190746, Jacobsen, Borghild Tvede.
+- A–7984808, Jensen, Vagn Aage.
+- A–4313072, Jeu, Ng Ngit alias Mrs. Jiu Nai Jeu.
+- A-l 538226, Joe, May Ying.
+- A–3566436, Joe, Yung Chu.
+- 0300–400200, Jon, Peter or Panayotis Ioannou or Peter Jones.
+- A–3719147, Jung, Pay Yop or Loo Pun.
+- A–3784608, Kadri, Zia or Ziauddin Mustafahasan Quadri.
+- A–6873338, Kahn, Carmen Sameniego.
+- A–2819443, Karfola, Bangora.
+- A–6669590, Kefalides, Nicolaos A. or Nicolaas Kefalides.
+- A–1095943, Ken, Wong. Leu.
+- A–6401472, King, Marcelle Espinozo.
+- A–7962006, Kohler, Alfred Richard alias Frederick Gelien.
+- A–6667186, Kohne, Richard Edward.
+- A–6527744, Kohne, Gabrielle Henriette.
+- A–4285820, Koike, Mantaro.
+- A–3965580, Koike, Kumi.
+- A–9710029, Kontizas, Artemis or Artemis Kontijas.
+- A–3850128, Krasnoff, Rose.
+- A–6948452, Sharfman, Leonard.
+- 99839–399, Sharfman, Sol.
+- A–9765408, Leblond, Marcel Alain.
+- A–5966325, Ledee, Joseph Andre.
+- A–7903361, Lee, Richard Dooban.
+- A–6534038, Lefkovits, Jonas.
+- A–6527377, Lefkovits, Judith (nee Kalisch).
+- 0616–2501, Liburd, Terrence Mansfield.
+- A–4899981, Liem, Chang Mo or Chang Moo Lin or Paul Chang Lien or Paul Chang Mo Liem.
+- V–1437080, Ligato, Giuseppe Antonio or Joseph Ligato.
+- A–5989709, Little, Robert Bell.
+- A–6851214, Lopez-Martinez, Adrian.
+- A–7984–760, Louie, Harry Fong.
+- 0300–399981, Lozano, Serafin.
+- 0300/385104, Lozano, Elvira Calderon Grenas.
+- A–7821665, Lucchino, Domenico.
+- A–6827833, Luna, Catalina.
+- A–7070750, Luna, Luz.
+- A–7070749,’ Luna, Manuel.
+- A–7070751, Luna, Julio.
+- 0300–361410, Madonis, Antonis Parashou alias Antonis P. Mantonis.
+- V–940879, Manstretta, Paulina Borra.
+- A–1306605, Marshall, John Fitzherbert.
+- A–7890490, Martinez, Ramon Antonio.
+- 0300–397000, McFarlane, Dudley Vincent.
+- A–4574593, McNaughton. Mildred Grace.
+- 0300–366289, McPherson, Cyril George alias Edgar Broogs.
+- A–7488086, Medina-Magdaleno, Luis.
+- A–7483457, Mendez, Jesus or Jesus Mendez-Nava.
+- 1500–42049, Mendez, Maria Socorro.
+- A–6792313, Mendez, Serapio.
+- A–6698962, Mendez, Guadalupe Carrasco De.
+- A–8155914, Mendoza-Pedroza. Maria or Maria Vasquez-Pedrosa or Maria Fuentez-Vasquez.
+- A–7264772, Merino, Sofia (nee Sofia Amadora Nevarro-Mon).
+- A–3141598, Meyer, Constance Cornelia Josepha Maria Arts or Constance Cornelia Maria Tan Arts or Constance Arts Meyer.
+- A–7858093, Mezen, James Anthony.
+- A–7228639, Mirza, Rio Nusservan.
+- 0300–396092, Mon, Lau.
+- 0300–319594, Moo, James Loo.
+- A–3063075, Moran, Joseph Patrick.
+- A–7978999, Mossaides, Panay ioties or Paul Mossaides.
+- A–7450472, Moschitto, Anna Marie (nee Cipriano).
+- A–3696256, Mustach, Mate.
+- A–8217099, Nacarano, Gaspare Gregorio.
+- 0807–4473, Nunez-Diaz, Maria.
+- 1614–2492, Nunez-Urrutia, Jesus.
+- A–5154608, Okada, Benzo Joe.
+- V–593626, Pacheco, Jesusita Ernestina (nee Dominguez).
+- A–7978870, Park, Chu.
+- A-8O571O7, Pao, Chao Rah.
+- A–8057106, Chao, Ah Vong (nee Vong Chen).
+- 0300/390910, Pao, Sung Zau alias Zau Pao Sung or Sung Ziang Pao or John Pao.
+- A–7821835, Papazian, Haiguhi (nee Ogretmeroglu).
+- A–7483057, Pell, Irene, formerly Irene Pelstroosoff Pell.
+- A–1051661, Penn, Christian Emanuel.
+- A–3157868, Perri, Filomena Maria Lucia (nee Mirabelli).
+- A–2896787, Pfieffer, August.
+- A–7028517, Pickering, Jens Wallace.
+- A-l 097945, Pickett, Evelyn Gladys.
+- A–6850820, Pineda, Ibrahim Gaspur.
+- 0300–351012, Fitter, Walter Benjamin.
+- 0300–179387, Porter, Isaac N. alias Isaac Nathaniel Porter.
+- 0300–394294, Posada, Raul Rodriguez alias Raul Rodrigues Pasada.
+- A–8196008, Prado-Lopez, Jose alias Jose L. Prado alias Jose Lopez-Prado.
+- A–7295465, Pratt, Helen Theresa.
+- A–8106451, Proper, Leendert Gerardus.
+- A–5574215, Randall, Jack alias Johann Bernhard Rebel.
+- 0300–341660, Rano, Margret McInnes.
+- A–6438220, Reid, Grace or Graciela Reid (nee Grace Marcano) alias Anna Josefina Reid.
+- A–1360809, Rizick, Kalem Gibreen.
+- A–5686334, Robinson, Ellen Alberta alias E]la A. Robinson.
+- A–5987812, Rodriquez, Mildred Irene.
+- A–9208604, Romero, Gonzalo or Gonzalo Romero Leira.
+- A 61098811, Romero, Rodolfo Rolando.
+- 0800–386479, Romero-Goytortua, Xavier or Xavier Romero.
+- A–4497910, Rosenbluth, Leah or Lena or Laah or La ja.
+- A–2387169, Rovira, Pedro.
+- 0300–353762, Rowe, Cleveland alias Vincent Jones.
+- A–5061796, Rowell, Alice alias Alice Rowell McCann.
+- A–5890659, Rozovsky, Isaj ah or Isajar Rozauskas or Isajus Isjar or Isajan Rozauskas Rozovsky or Isajus Rosovsky-Rozauskas or Isajah Rozovski.
+- 1300–111893, Rubalcava, Pedro Serna.
+- A–7980346, Ruiz-Torres, Jesus.
+- A–7978809, Ruiz-Morales, Ynes.
+- 1500/42385, Ruiz-Morales, Andrea.
+- 1608–2695, Santillano-Cardoza, Pedro alias Pedro Armijo.
+- A–9765475, Scala, Vincenzo di.
+- V–140840, Scott, Carmen Waul alias Carmen Waul Buchanan.
+- A–7980311, Shong, Lee Ting.
+- 0300-K–151181, Simon, Lillian (nee Piltzmaker) or Cary Wang Simon.
+- A–5819337, Simone, Michael.
+- A–7243039, Sin-Tzu, Weng.
+- A–6962961, Weng, Josephine alias Josephine Evelyn Tok Ying Hsi alias Josephine Tok Ying.
+- A–7392120, Solis-Flores, Ricardo.
+- A–1743230, Solomon, Saul.
+- A–8015532, Spadone, Vito.
+- A–3413793, Spina, Alfio.
+- A–2174586, Spy rot os. Christoforos.
+- A–6774560, Smith, Donald Bentley.
+- A–3831680, Stanley, Leo.
+- A–9747129, Stokes, Horace Murray.
+- V–233736, Suarez-CabalIero, Victor Manuel.
+- A–2586553, Sum, Pon Sing or Sing Sum Pon alias Gene Pon alias Pon Sing.
+- A–7027829, Taam, Jennie.
+- A–3863317, Taam, May Chan.
+- PR–905964, Tei, Si Hung.
+- 0300–397884, Tjomstol, Steinar Salve alias Steinar Tjomstol.
+- A–4293423. Tom, Kwok Tung or Tom Kwok Tung.
+- A–7760501, Trott, Gwen Marie Allen.
+- A-l384273, Vasilakis, Michael or Mihael Vasilakis or Mike Vasilakis.
+- A–8190002, Vasquez, Rafael Soto.
+- A–9005902, Vekris, Antonios Nikitas.
+- A–7672808, Venturas, Panaghis John.
+- A–5230736, Vigil, Jose.
+- 0300–261482, Vitiello Alfonso.
+- A–9745021, Votting, Victor.
+- A–5879392, Vukusich, Stipan or Stepan Vukusich.
+- A–7879892, Wang, Ching Hsien.
+- A–7879893, Chin, Fan Ju or Ju Chin Fan Wang.
+- A–4583530, Weller, Susan Jenny or Zuzanna Swirska.
+- A–6019345, Wells, Anita or Anita Pitcherlie or Anita Remus or Anita Ames.
+- A–6847842, Wong, Wing Hee.
+- A–6967591, Wong, Tseng Sui Hsu.
+- 0300–381027, Yau, Chan Choi or Chan Wing.
+- A–7390674, Yee, Tom Gong alias Hum Gim Wong alias James Wong Tom.
+- A–9549850, Zambrano, Jesus Ramon.
+- A–7091233, Zaton, Oscar.
+- A–7450940, Totoricaguena, Juana Bengoechea.
+- A-5445391T, Kiritsis, Demetrios Spiros.
+- A–8217543, Aarsheim, Svein Ole.
+- A–5572833, Aceves-Garcia, Francisco or Frank Ramirez Aceves.
+- 0300–319326, Agramonte. Raul Colarte or Raul Colarte.
+- A–5264103, Albano, Enrico.
+- A–7821701, Alfonso, Andres Olynpia Pena y or Andres O. Pena.
+- A–7821720, Aliano, Joseph.
+- A–9519099, Almasmary, Ahmed Kassim or Ahmed Gazin or Ahmed Kassiam or Mohamed Messeri or Ahmed Kasson or Mohamed Masser.
+- A–7886446, Almeida, Raul Arencibia.
+- A–3234213, Alvo, Jennie nee Eugenia Perez or Jennie Perez.
+- A–3752311, Amada, Francisco or Frank.
+- A–6740066, Anastassiades, Athanassios.
+- A–9125797, Apostelescu, Stefan.
+- A–7463938, Arditi, Albert Abraham.
+- A–7463939, Arditi, Dona Bella.
+- A–9695165, Arias, Bernard or Ben or Beeny Orias.
+- A–6396215, Asgarzadeh, Kamal.
+- A–6530299, Asgarzadeh, Safieh (nee Safieh Damerli Seyedi).
+- A–7828607, Attias, Henri or Henry Attias.
+- A–8106471, Avelar-Macias, Jose or Jose Maria Avelar-Macias.
+- A–4770231, Azioni, Giuseppe or Giuseppe Albertini.
+- 1614–2473, Baez, Rodriguez, Leobardo.
+- A–4797125, Baird, Francis or Frank Blair or John William Blair.
+- A-l568544, Bakee, Said Bin or Syed Baker.
+- A–7531578, Bane, Joseph Vejnavowicz or Joseph Vejnevoricz or Bane or Bane vowitch or Banevovitch.
+- A–7418107, Baraechini, Ennio.
+- A–9099270, Baresic, Mijo.
+- A–1341944, Baricevich, Jack or Giacomo or Jacob,
+- A–2753795, Baruch, Morris or Barouch or George Kyringis or Kiryakis.
+- A–8155991, Bassile, Moris or Maurice.
+- A–6264000, Behie, William Lewis.
+- A–4802354, Bellotti, Allessandro Angelo.
+- A–4795562, Benfanti, Vincenzo.
+- A–3602079, Benzel, Hazel Pearl (nee Rew).
+- A–1646977, Berchten-Breiter, Hans Carl.
+- A-l644022, Berchten-Breiter, Irene Dolores (nee Lewis).
+- A–6927303, Berger, Katalin.
+- A–3420085, Bianco, Emanuele Esposito.
+- A–2179140, Bi Ui, Lino or Luiz Loyecchio or Luigi Lovecchio or Luigi Louvecchio.
+- A–6074422, Bingham, Alfred Augustus or Aeria Jackson.
+- A–5344393, Blache-Fraser, Elaine Stella.
+- A–2922815, Bless, Miguel Juan.
+- A–7127238, Boiler, Peter Joseph.
+- A–7483456, Bove, Salvatore.
+- A–5436876. Bow, Ho or Ho Bo.
+- A–3430522, Brohman, Charles,
+- A–5117437, Bulens, Rosalie Josephine.
+- A–4700152, Burns, John Arthur or John Arthur Brown.
+- A–6920730, Butler, Stanley.
+- V–529772, Cacioli, Rizieri or Richard.
+- A–6562400, Calatayud-Ramos, Primitivo or Roberto Ramos.
+- A–8057431, Camaioni, Pietro.
+- A–9209025, Carballo, Benito or Benito Carballo Entenza.
+- 1400–20999, Cardenas-Garcia, Concepcion or Concha.
+- 1400–21000, Cardenas, Salud.
+- 1614–2476, Cardenas-Solorio, Jose.
+- A–1019863, Carlson, Hilmer.
+- A–8117580, Cascone, Ulisses.
+- A–9776729, Casimiro, Antonio.
+- 0200/105002, Cassen, Aleksandra Olga (nee Stasiulyte).
+- A–6827543, Castelblanco, Dario.
+- 0300–378790, Castillo, Santos Matthew.
+- A–4825222, Catanzaro, Damiano.
+- A–7135205, Catz, Frans James.
+- A–8117647, Caudillo, Cruz Maria or de Caudillo formerly Milan (nee Garcia).
+- A–6445661, Chai, Chang Kai.
+- A–8117251, Chan, Man Wei or Chan Nan Wai or Chan Kim.
+- A–6445663, Chang, Lin Chung-Ching or Chung Ching Lin Chang or Jean Chang.
+- 0300–391522, Chang, Wan or Tom Jun Yue.
+- A–6877746, Chao, Gloria nee Gloria Ya Tsung Kung.
+- A–7137813, Chavez, Domingo.
+- A–7137814, Chavez, Eusebia Concepcion.
+- A–7604860, Chen, Chi Tsai.
+- A–6846740, Cheney, John Nelson.
+- A–8196130, Chin, Wee Kay or Sam Lee.
+- A–9678208, Chin, Mong Loong or Chan Yok.
+- A–9512589, Ching, Lee.
+- A–8106954, Chiu, Hin or Chiu Hin.
+- A–7174220, Choo, Anna Emielie Luise (nee Anna Emielie Luise Tuebben Hoffman).
+- A–8190304, Christopher, Dianna.
+- A–9663396, Cho, Chin or Cho Chin.
+- A–8235848, Choy, Hong Hing.
+- 0300–332219, Chung, Tom Fun.
+- A–2054924, Cingiryan, Vasken or Changrian.
+- A–4907014, Civelli, Vincent or Chivelly.
+- A–7991828, Claxton, Claristine Albertha.
+- A–1002404, Cliotis, Christos.
+- A–7142284, Cohen, Lulu or Lulu Salman Shamoun.
+- A–4603130, Coilop, Mary.
+- A–3412537, Combojinopoulos, Alexandre or Alex Combojinot.
+- A–7863794, Costa, Natale or Nick Costa.
+- A–6205396, Costas, Anna Chris or Anna Giagou or Mrs. Christ Costas.
+- A–7356331, Courville, Blanche Maud nee Hills formerly Pugsley.
+- A–5401497, Dan, Lee Sing.
+- 0400/46338, Danner, Geraldine.
+- A–6978280, Davis, Lillian Ann.
+- 1209–9304, Davis, Robert Roy.
+- A–1880159, De Aguilar, Celia Duron.
+- A–7821687, De Calves, Ondina San Martin.
+- A–7094839, De Delgado, Ana Ovidia Ruiz.
+- V–28458, Dedes, Sophia (nee Dedoglou).
+- A–7060580, Deli, Edmondo.
+- A–7921563, De Luevano, Catalina Cortez.
+- A–8057228, De Monte, Lorenzo.
+- A–8190775, Demon, Michael Kyriakos.
+- A–5700352, De Munoz, Guadalupe Juarez or Guadalupe Juarez.
+- 1600/101062, De Munoz, Sara Castillo.
+- A–7417236, De Oca, Pascual Eduardo Calder in Montes or Pascual Eduardo Calderin.
+- A–9029229, De Oliveira, Antonio.
+- A–3266302, De Ramirez, Andrea Castro.
+- A–7350499, De Ramirez, Estefana Rodriguez, or Maria Estefana Rodriguez De Ramirez or Ester Rodriguez De Ramirez or Estela Rodriguez De Ramirez or Ester Rodriguez-Belmares.
+- A–7351002, Ramirez-Mesa, Felipe.
+- A–4446607, Derkacz, Stanislaw or Stanley.
+- A–3391293, Derkacz, Zofja or Sophia.
+- 0300–350929, De Torres, Antonia Marrero.
+- A–8106946, De Tovar, Cristina Orozco or Caritina Orozco de Tovar (nee Cristina Orozco-Flores).
+- A-l253020, De Vergara, Paula Nunez.
+- V–450159, De Verna, Eugenia Gonzalez nee Eugenia Gonzales y Calvadilia.
+- A–6480573, De Vita, Blanca Margarita nee Castaneda.
+- A–7828771, Diaz, Juan Francisco Romeirio y.
+- A–8217650, Diaz-Hector, Candido.
+- A–5896087, Di Benardi, Anthony Vincent or Antonio Bernardo.
+- A–5154193, Di Marzo, Vincenzo or Vincent Di Marzo.
+- A–2797145, Din, Lee or Dim Lee.
+- A–5345938, Dorner, Anton John or Tony Dorner.
+- A–1559829, Doros, George.
+- A–5417595, Doros, Elizabeth Dissig.
+- A–3619522, Dos Santos, Antonio Anna.
+- A–9593234, Downs, John Ephriam.
+- A–4178838, Dwyer, Lilia Frances.
+- A–1811033, Eggers, Rose (nee McShane).
+- A–7267842, Elefteriades, Sofia.
+- A–7915539, Ellis, John Lessle.
+- A–7244882, Erlachtegerecht, Leon.
+- A–4799525, Errante, Bruno.
+- A–2382184, Fadief, Fannie K.
+- A–5390487, Feis, August.
+- A–9544613, Firipis, Miltiadis or Milton Firipis.
+- A-4476840, Fischer, Max Richard.
+- A–3811692, Foley, John Frederic.
+- A–9703827, Fong, Mar Hing or Mah Hing Fong.
+- A–4044697, Fontanot, John.
+- 0300–388781, Ford, Jonathan or John Ford.
+- A–8190850, Fraser, Constantia Augusta.
+- A–8190851, Fraser, Delphine.
+- A–7299590, Freund, Berta (nee Rosenfeld).
+- A–8217887, Fun, Wong.
+- A–7391233, Gabriel, Maurice or Maurice Gabriel Klaib or Maurice Charles Klaib.
+- A–5351967, Gaetzschmann, Otto Friederich.
+- A–8078963, Galindo-Garcia, Ruben.
+- A–3839884, Gang, Lee Hing.
+- A–6199443, Garciga, Felix Maria De La Caridad Cabrera.
+- 0400/44222, Garrison, Alexander Heaven.
+- A–2074361, Gaubert, Martha Block or Matti Block.
+- 0300–283401, Gaulle, Reginald Alexander or Gaul or Bobbie Gaul or Clyde Payne.
+- A–2503994, Geismar, Sophie (nee Sophie Lichtenstein).
+- A–7277878, George, Daisy Chaffoo or Daisy R. Chaffoo George.
+- A–6989777, Gesnador, Juan Villacis.
+- A–8190705, Get, Hor Fung.
+- A–5374063, Gianu, Periklis Savas or Pangiotis Koiiosas.
+- A–2185145, Giordano, Carmelo.
+- A–7476357, Giurco, Mario.
+- A–7978783, Goldberg, Arnold or Arnold Gould.
+- A–9661924, Golonka, Stefan.
+- A–6109367, Gomez-Urquieta, Gregorio or Gregorio U. Gomez.
+- A–7186852, Gong, William or Gong Dick.
+- A–5004314, Gontan, Jesse.
+- 0300–400826, Gonzalez, Joe S. or Jose Salvador Gonzalez or Joseph Salvador Gonzalez.
+- A–6720889, Gonzalez-Aguilar, Luis.
+- A–6720892, Gonzalez, Teresa (neeCastro).
+- V–222801, Graci, Giuseppe.
+- A–1375005, Gravel, Marie Simone (nee St. Pierre).
+- A–7356591, Gray, Alice Frances or Alice F rances Baksh.
+- A–8217656, Gregory, Clifford A.
+- A–4603579, Groene, Johannes Heinrich or John H. Groene.
+- A–7134582, Gross, Chaim Sandor.
+- A–9006087, Grzan, Sime.
+- A–7127114, Guajardo-Chavez, Juan,
+- 1409–13965, Guajardo-Rodriguez, Baldomero.
+- 1409–13966, Guajardo-Rodriguez, Isabel.
+- A–1556039, Haarburg, Catherine or Catherine Turrie Warnock.
+- A–7439316, Haidostian, Berj Havhanness.
+- A-276O255, Hallas, James John or Demetrios John Hallas or Dimitrios Hallas.
+- A–3543183, Hama rat, Met hi Recep.
+- A–5175018, Hamilton, Harry Joseph.
+- 0300–379495, Hatim, Mohammed.
+- A–3391578, Hecht, Gertrude Johanna Krons or Gertrude Johanna Krone or Charlotte Schmidt.
+- A–5509961, Helou, Carlos Samson.
+- A–6240559, Henry, Liliane or Liliane Lesperance.
+- A–8091676, Hernandez-Jimenez, Pedro or Pedro-Guillermo Hernandez.
+- A–6858941, Hernandez-Rodriguez, Oscar.
+- A–4581067, Hirte, Hermann Friederich or Herman Frederick Hirte.
+- A–9767542, Hofman, Gerrit Celis.
+- A–7934136, Hovanessian, Mary or Marieta or Martha or Sedrakian.
+- A–6848576, Huang, Wei Yip.
+- A–7249139, Huffaker, Vilma Gerda Gutta Anna or Vilma Gerda Gutta Anna Jacobsen.
+- A–3207903, Hylton, Norman Ellis.
+- 0300–1323, Ingegnieros, Salvatore.
+- A–2775861, Ives, Percy Alfred.
+- A–4442483, Jacobs, Rose or Rose Stotsky.
+- A–5869322, Jensen, Harold Emil.
+- A–2548958, Jensen, Niels Kristan.
+- A–7137160, Jimenez, Abelino or Avelino Jimenez-Ruis or Luis Minor.
+- A–8217082, Jimenez-Calveira, Jose Miguel or Jose Jimenez.
+- A–7476524, John, Klaus Gunther Fritz Helmut,
+- 0300–316152, Jones, Neil Royes.
+- A–8102964, Jordan, Joyce Corrine.
+- A–3263656, Jorgensen, Rasmus Peter.
+- A–9299964, Jrimia, John or Hon Irimia.
+- 1502/5804, Jukich, Rudy.
+- A–6522981, Kalimerakis, George Michael.
+- A–5610020, Kaminsky, Andreas or Andrew Delger.
+- A–9738918, Kampetis, Demetrios Anastasios or Kambitsis or James
+- A. Kampetis or Kambitsis or Kamptis or Demetros Kamptis.
+- A–1409032, Karlson, John or Johannes or Johan Karlson.
+- A–3334112, Kaufman, Ida or Ida Greenberg.
+- A–7178603, Kaulins, Brigita.
+- A–8217387, Kayias, Michael.
+- A–7205845, Kee, Chin Dew or Kee Dew Chin or Edward Chin.
+- A–7985972, Kelley, Stella Alice.
+- A–5536541, King, Wong.
+- A–3472848, Kirppu, Anna Wilhelmina.
+- A–6843550, Klein, Samuel or Tibor Schwarz.
+- A–7445005, Klinner, Jutta Klara.
+- A–9105645, Kornilakis, Antonios.
+- A–6874460, Kostas, Evangelia.
+- A–9658128, Kovacic, Frane or Frank.
+- A–4343241, Kristal, Celia or Cyna Krysztal or Celia Krysztal.
+- A–9134271, Kritieos, Nick or Nickolaus Kritikos.
+- A–5364272, Kuran, Ivan or John Kuran or John Gritdick.
+- A–8039416, Kwan, Ho or Kwan Ho.
+- A–4997549, Laidlaw, Dorothy Muriel Dickerson.
+- A–7770700, Lakshmansingh, Charles Gordon.
+- A–5630883, Lancos, John or John Billan or Lancon.
+- A–2454767, Landry, Gladys Leotha.
+- A–2558506, Lauh, Ts-Sung Ernest.
+- A–1250216, Layton, William Valentine Osborn.
+- A–8117228, Lee, Dep or Lee Dep or Robert Edward Lee.
+- A–8091837, Lee, Hong Took or Took Lee or Lee Cho or Frankie Lee.
+- A–9658661, Lee. Weann or Lung Wai Ng.
+- A–9518783, Lee, Wong Yuen or Yuen Wong or Wong Yuen.
+- A–3422682, Legaros, Demetrios Michael.
+- A–3147881, Lehto, John Vilhelm.
+- A–5647277, Leinwand, Shirley (nee Barron).
+- 0300–273629, Leitl, Waltraud or Waltrud Leitl Berger.
+- 0300–273629, Leitl, Siegbert or Siegbert Leitl Berger.
+- A–9669104, Leiva, Hector Munoz.
+- A–9039218, Lekkas, Vassilios or Bill Lekkas.
+- A–2870947, Leong, Ng or Bennie Wu.
+- A–3505792, Leong, Sai Yee or Leong Chow or Charlie Leong.
+- A–2539031, Letsch, John Peter.
+- A–4100420, Leung, Sue Jean Ng or Sue Jean Ng or Shee Jig.
+- A–6369904, Lehern, Matilde Saadi.
+- A–6369903. Lehern, Fortuna Florette.
+- A–6778342, Li Hing, Etela or Esther Lining or Etela Liling.
+- 0300–390027, Lin, Ling Kin or George Kin Lin.
+- A–7783797, Ling, Annabelle or Perseus Annabelle Ling.
+- A–9236183, Ling, Lai Soon.
+- A–5277343, Linke, Paul Erwin.
+- 56080/728, Lionas. Leontios.
+- 0600–9558, Loo, Fook.
+- A–3223760, Lopez, Antonio Garcia or David Espineira.
+- 0400/43033, Lorier, Andries or Andrew Lewis.
+- A–9610761, Los Santos, Jose Tomas De.
+- A–7849999, Low, Yen or Low Yen or Lou Yit or Yit Lou.
+- A–9670514, Lozado. Leodegario B.
+- A–6728288, Lazaroff, Tsvetco.
+- A–6728287, Lazaroff, Helen.
+- V–930198, Luchs, Harry Alfred.
+- A–7983478, Lum, Lee or John Lee or Howard Lee.
+- 0300–322428, Lumley, Edward Nathony.
+- A–9610959, Luna-Castedo, Jose.
+- A–4092852, Lupu, Eulalia.
+- A–5229324, Lupu, Vasile or Fred Walters.
+- A–1378291. MacFarlan, Vida Gladys Anna.
+- A–7127670, Maffei, Giovanni Francesco.
+- A–6372044, Maidenbaum, Samuel or Samuel Magdonbaum or Josef Rutbowsky.
+- A–7295988, Maki, Anna-Liisa (nee Makela).
+- A-l 656063, Makrinos, Michael Markou.
+- A–6984613, Maldonado, Maria L. (nee Maria Luisa Pereyra).
+- A–7423299, Malz, Samuel.
+- A–7532523, Mandel, Hans or Hans Jean Mandel or Johann Mandel.
+- A–4647064, Mandel, Phyllis Barlow (nee Jackson).
+- A–6684663. Mandelbaum, Moses or Moses David Mandelbaum.
+- 56130/475, Manis, Michael Chirst or Mike Mennis or Michael Manis or Michel Mennis or Mike Manis or Maki Manis.
+- A–9799932, Manzon, Mario Ramones.
+- A–4683175, Marsala, Giuseppe.
+- A–8039404, Martinez, Eugenio or Eugene.
+- V–1386283, Martinez, Josefa (nee Josefa Rafaela Cazanas Monserrat).
+- A–8117312, Martinez, Melecio.
+- 0300–400819, Martis, John Ernesto or Johan Ernesto Martis.
+- A–3839982, Mas, Damian Garcias y or Damian Garcias.
+- A–5583405, Matsumoto, Hitoshi or Chojiro Sumi or Jack Chojiro Sumi.
+- A–7962105, Maxwell, Leonard Fritz or Arnold Maxwell.
+- A–6353677, Mazon, Celebi Robert.
+- 0300–317834, McCourty, John.
+- A–1172608, McKim, Olive Kate.
+- A–4533605, McLellan, Jolin or John Ronald McLellan.
+- A–5811780, McLoughlin, Isabella (nee Isabella Cronan).
+- A–4840442, Medovay, Moisha or Morris or Maurice.
+- A–7809924, Medrono, Junior, Luis Montes.
+- A–5638060, Mellon, Wilhelmina Lydia.
+- A–6395514, Mestril Renee (nee Casanova).
+- A–7915584, Metcalf, Henriette.
+- A–1775134, Miku, John or Frank Kartush.
+- A–7279393, Ming, Barbara Luke.
+- A–8217370, Modonas, Antonios.
+- A–4395808, Mombacher, Karl Ewald.
+- A–4404968, Mon, Frank or Mon Suey or Johnny Wah.
+- A–3080499, Mondlak, Sawa Yaroslaw.
+- A–9652327, Monkarl, Hassen S. or Hassan El Sayed Menkar or Hasson Monkal.
+- A–7483020, Montanaro, Gioacchino.
+- A–7708871, Montrand, Juana Cortez.
+- A–9235829, Mook, Lam Sang or Yee Lee.
+- A–9186568, Moons, Victor.
+- 1614–2523, Morales-Avila, Gabriel.
+- A–2785847, Moretti, Dominick or Mario Moretti or Dominick Marchetti,
+- A–3780349, Moroch, Simeon,
+- A–7415906, Mortuza, Golam or Mohamed Ghulam Murtaza.
+- A–8196975, Mouquinho, Sofia (nee Sofia Jiminez Chavez).
+- 56293/75, Mueller, Carl Josef Peter.
+- A–5852754, Mui, Phaik-Sim L.
+- A–1198250, Muller, Heinrich Arthur or Henry Arthur Miller.
+- A–7632413, Mulley, Anne Jane.
+- A–5061857, Munoz, Eduardo Castaneda or Eduard Castaneda or Eduard Castaneda Munoz.
+- A–6480923, Nai man, Moshe or Moszek Najman.
+- A–8190550, Nass, Goldie.
+- A–9777365, Navarro, Raymundo or Raymundo Navarro Carrol.
+- A–6661862, Nevison, Herbert Peter.
+- A–9684288, Ng, You Lin or Yau Ng or You Ng.
+- A–8021518, Ngar, Chow See or Chow Pang or Pang Joe or Joe Pang.
+- A–6991831, Nicholson, Catherine (nee Byrne).
+- A–6339681, Nieto, Jose Galvan or Joseph Nieto Galvan or Jose Nieto Galvan.
+- A–4399792, Noutsopoulos, Spiros.
+- A–2895330, Novack, Jean or ZalataNowik or Jennie Novack.
+- A–6697615, Nuzzolese, Hendrika Jacoba (nee Van Eyck).
+- A–9736412, Olsen, Einar Gran or Einar Olsen.
+- A–9632371, Olsen, Hans.
+- A–3795185, Orabona, Giuseppe.
+- A–5415875, Or dorica, Marcelino Vidaurrazaga or Marcilino Vidaurrazaga.
+- A–4090007, Or lieh, Nikola Vincent or Nick Or lieh.
+- A–3269038, Osman, Hassan or Hasan Hajee Eoner or Omer Hassan Hagi or Agi Omer Hassen or Victor Barbere or Barbarie or Barbari or Abdi Ibrahim.
+- A–2437142, Otero, Jose Gomez or Jose Gomez Otero Leon.
+- A–3858415, Padla, Ksenia.
+- 1607–20724, Palacios-Valadez, Roberto.
+- 1600–61919, Panagopoulos, John or John Nick Pappas.
+- A–1734692, Paoli, Roberto Giovanni or Roberto G. Paoli or Roberto or Roberto Paoli or Giovanni Paoli.
+- A–5597731, Papa, Bertha.
+- A–6641457, Papazoglou, Dimitrios Emanuel or Papasoglou.
+- A–7351113, Parron, Maria. De Los Nieves or Maria P. Pena.
+- A–3242578, Passerini, Luigi.
+- A–5710647, Pataca, Abi lio or Joaquim Rodrigues.
+- A–9025769, Pavich, Frank.
+- A–7362401, Pena-Romero, Eduardo or Ruben Alcarez-Hervey.
+- A–7362398, Pena, Aurora Ortiz de or Aurora Ortiz-Perez.
+- A–8189589, Pender, Bridie Christina.
+- A–7809783, Pereda. Yolanda Mazar now Yolanda Marty.
+- A–8190202, Pereira, Luis or Luis Masa Pereira.
+- A–1422071, Perez, Jose Dominguez or Joseph Dominguez.
+- A–7137532, Perez-Hernandez, Deise.
+- A–7137799, Perez, Narcisa Estrella De La Osa y.
+- A–8031572, Pesa, Video Ante.
+- A–5812613, Pezold, Frederick Emil.
+- A–7607092, Pian, Richard or Hsneh-Jui Plan.
+- A–6845073, Pian, Ma bei or Mel-Po Lou Pian (nee Lou).
+- A–1417963, Piller, Karin or Kaarin Wirgo Piller.
+- A–3547803, Pina, Antonio Jose or Pinna or Pinno.
+- A–6943646, Pole mis, Leonidas.
+- A–6943647, Polemis, Afrodite (nee Dracos).
+- A–3746468, Poon, Tung or Poon Tung.
+- A–7389917, Profenna, Francesca or Frances Profenna or Francesca or M. Francesca Cancro.
+- A–6470510, Psiakis, Andrew Nicholas.
+- A–4136692, Pugliese, Angela (nee Stucci).
+- 0300–4360526, Quan, Lee Kee.
+- 0300–22633, Quoey, Lui or Lui Quoey or Liu Kwai or Liu Kai or Liu Kway or Lu Kai.
+- A–6690175, Rabinowitz, Dina (nee Zaidman).
+- A–3489648, Raisanen, Aino Alfrida (nee V aukonen).
+- A–7978824, Ramos, Manuel.
+- A–5429295, Ramos-Perez, Francisco.
+- A–6794977, Rana, Sudhir Narasinha.
+- A–6978239, Rankines, Elkanah Jacob,
+- A–4710554. Rea, Raffaele or Ralph Rea.
+- V–49852, Refele, Hans Rainer.
+- 0600–9062, Reid, Desmond James.
+- A–4544532, Reid, John Joseph or Timothy Lynch.
+- A–7247079, Reyes, Ramon Joaquin.
+- A–6787035, Rincon-Chavoya, George or Jorge Chavoya-Rincon.
+- A–5242833. Ripley, William Charles.
+- A–7427811, Rivieccio, Michele.
+- A–6468159, Roberts, Constance Faith Alimo.
+- A–5754409, Robertson, Henry Alexander.
+- A–8031537, Robinson, Vernal.
+- A–7415654, Rodriguez, Teresa (nee Perez Digon).
+- A–4569064, Rodriguez-Rodriguez, Martin.
+- A–4494274, Rodriquez, Elsa.
+- 0300–306921, Roggio, Santo.
+- 0300–366595, Roper Ivan Leopold or Leeman Search well.
+- A–5444219, Roque, Jose Goncalves.
+- A–7450649, Roros, Kostas.
+- 0300–384515, Rosini, Vice.
+- A–6374484, Rotenberg, Izak or Jack.
+- A–7886727, Roumeliotis, Nicholas.
+- A–5659856, Rowlands, Timothy Bowen.
+- 0300–329560, Rumsey, May Eleanor.
+- A–7365678, Ruse, Gloria Roberts.
+- A–3488023, Ryan, Margaret Bertha (nee Hartlieb).
+- A–8015066, Safyurtlu, Mahmut Iskender.
+- A–7197328, Safyurtlu, Gulnar (nee Assadulah or Ecadullah).
+- A–5067777, Sarkkinen, Jenny Kari a.
+- 0400/31312, Sauro, Federico or Federico Sauro Costagliola.
+- A–7197579, Sawchuk, Anna.
+- A–5357504, Sehidlowski, Alice Tamm or Ursula Tamm Schidlowski.
+- A–5800237, Schurmann, Milda (nee Eglit).
+- A–4188409, Schwarz, Carl or Karol Szwarz or Karl Schartz.
+- A–6190318, Scott, Lydia Nicholas.
+- A–7036039, Serna, Elvira Tarin or Elvira Tarin.
+- A–2376219, Shabov, Joseph or Mohamed Ben Ali Shabov.
+- A–4348253, Sherson, Beulah Dolly or Buelah Dolly Levine or Bulah Dolly Steinberg.
+- A–6897682, Shults, Maria Magdalena.
+- A–3907008, Simmons, William Leopold.
+- A–5964236, Smith, Herta Jacobi.
+- 1600–81336, Smith, Otto or Otto Oertwig or Otto Er twig.
+- A–1852710, Smolinski, Bernice.
+- A-4041242T, Soon, Mark or Mark Lee or Mark Kee Watt.
+- A–4495580, Sossoff, Basile.
+- A–1987981, Spring, Adolph or Adolf Spring or Joe Spring.
+- A–6701887, Stafford, Andree Cochelin.
+- A–7848443, Stagner, Frank Harcourt.
+- A–7848444, Stagner, Lawrence or Lawrence Robert Stagner.
+- A–5708336, Stammer, Willy.
+- A–7439086, Stamos, Anna.
+- A–5117686, Stamos, Catherine Belle (nee Bremner).
+- A–2209189, Stellatos, Ioannis.
+- A–6921109, Stephenson, Margaret Gertrude or Marguerite Gertrude Stephens.
+- A–6427747, Stern, Silviu Alexander.
+- A–6819614, Stewart, Harold Irving.
+- A–8150947, Stilidiotis, Evangelos Theodoros or Angelo Still.
+- A–7200143, Stover, Maxine Mae.
+- A–3013601, Stowe, Sam.
+- 0300–367947, Strauss, Anita.
+- A–5313730, Strobbia, Comenick Jerome or Domenico Girolano Strobbia.
+- A–9831170, Sulich, Giuseppe or Joseph Sulich.
+- A–7197301, Sulskis, Gertrud Hildegard (nee Leutheuser).
+- A–9643958, Sum, Lai or Sun.
+- 0300–396883, Sun, Chang or Wong Fook.
+- 0300–350251, Symonette, Melvin Paul or Lewill Winter.
+- A–5987060, Szekely, Anthony.
+- A–6268911, Szekely, Julia Balla.
+- A–8196040, Tai, Lee Yung or Lee Yung or Lee Tai.
+- A–9558587, Tang, Ah Chang.
+- A–5635994, Taylor, Cyril or Frank Earle Williams.
+- A–4385475, Thaller, Fay (nee Feige Lerner).
+- A–0901311, Thomas, Beatriz or Beatrice (nee Camargo).
+- 0300–343058, Thompson, Eric Houston.
+- A–6000014, Thompson, Mary or Mary Bowe.
+- A-4J012782, Thompson, Kenneth Leon.
+- A–4451777, Tim, Chan Fook or Fook Tim Chan.
+- 0300–367904, Timis, John or John Tennas.
+- A–5208663, Tjostolfsen, Nils T.
+- 55942/81, Tomczak, Mieczslaw.
+- A–4351818, Topel, Jacob Isaac or Jacob Isaac Toppel or Jacob Toppel.
+- 0803–7941, Torres, Enedina Alvarez.
+- 0803–2304, Torres, Geronimo.
+- A–6053045, Torres-Carpio, Rogerio Alejandro or Rogerio Alejandro.
+- A–1826148, Tor fora, Louis.
+- A–6794304. Tron, Gustavo Giovanni.
+- A–9131621, Tsalapinas, Evangelos.
+- 0300–319834, Tsalapinas, Theodoros.
+- PR–905787, Tso, Eugene or Hsi Chang Tso.
+- A–4273825, Tube], John.
+- A–9701949, Tung, Anders Pedersen.
+- A–7418478, Tuya, Maria Luz Martinez.
+- A–7122599, Tyrnaeur, Lily.
+- A–6953320, Tyrnauer, Abraham.
+- 0300–394567, Usher, Albert Winston or Michael Blake or Winston Churchill Usher.
+- A–6404710, Utianski, or Elia Yapko or Elia Utkanski or Alec Utianski.
+- A–6404709, Utianski, Mina or Mina Utkanski or Mina Miller.
+- A–3958915, Valinas, Charalambos M. or Harry Valinas or Harry Michael Valinas or Harai ambos Michalis.
+- A–6671782, Vara-Brito, Alfonso.
+- A–6068390, Vargas, Candido Perez.
+- A–2104687, Vargas, Maria.
+- A–3019971, Vasard, Richard Martin or Richard Martin Hamme.
+- A–7240133, Vasquez-Gonzales, Candido.
+- A–5248496, Vastakis, Spiridon Eleftherios or Spiros Eleftherios Vastakis or Spiros Vastakis.
+- A–7469880, Ventimiglia, Giovanni.
+- A–6650151, Vicuma-Salazar, Gregorio.
+- A–8155988, Vidiea, Theresa.
+- A–3967357, Visco, Philomene Marie or Stasse or Cys.
+- 0300–400829, Vitoratos, Stefanos or Stephen Vitoratos.
+- A–2975221, Vorraso, Giuseppa Scannell i.
+- A–7197669, Voz, Monique or Monique Constance Emma Antoinette Voz.
+- A–9650936, Wai, Young Fook.
+- A–7887700, Walzel, Klaus Dieter.
+- A–1202259, Wang, Chao Chen.
+- A-9559989T, Wassberg, Thorsten Reinhold.
+- A–1738461, Watt, Eileen (nee Currant).
+- A–8217490, Westby, Evan Lewis.
+- A–7828998, Wetzel, Renate.
+- A–9666428, Wha, Ling Shao or Shao Wha Ling.
+- A–5883735, Williams, Charlotte Rebecca or Lottie Williams.
+- 0300–342896, Wing, Eng or Wing Suey Eng.
+- A–8091895, Wing, Ho Chee or Robert Ho or Wing Ho.
+- A–9510255, Wing, Jung or Ah Wah or John Wing.
+- A–9635004, Wong. Hing or Tony Hing Wong or Wong Hing.
+- A–7130365, Wong, Leong or Yep.
+- A–8057698, Wong, Norman Seek Moon.
+- A–4019434, Wood, Louie or Silverio Ladesma.
+- A–7184189, Yadgaroff, Isaac Ishak.
+- A–8091896, Yeung, Qai Bock.
+- A–3188372, You, Chong Mik or Don Chong.
+- A -8010508, Young, David or Young Fook.
+- A–8039117, Young, Yee.
+- 0200–102062, Yuen, Chin or George Chin.
+- A–6794191, Zablocki, Joana (nee Abraham).
+- A–5386018, Zadorozny, William or Basil Zadorozny.
+- 1103–13434, Zamarripa-Castilla, Indalecio.
+- 1103–13435, Zamarripa, Ascencion (Chona) Barrera de.
+- A–4889407, Zavou, Costas Christodotdous or Costas C. Zavou or Castaes Zavou.
+- A–3487902, Zeller, Kurt Robert.
+- A–2881677, Zichichi, Natale.
+- A–4966223, Zonoff, Andrew Neketo.
+- A–4195390, Zuber, Harry Isaac.
+- A–6032990, Farman fa rma, Ali Dad.
+- A–9782946, Fook, Haw aka Victor Haw or Victor Haw Fook.
+- A–7722282, Storper, Gertrude K.
+- A–4646325, Wang, Niah-Tzu alias Wang Nian.
+- A–7632265, Wang, Mabel U. alias U. Taiyang.
+- A–5223151, Pai, Ei Whan alias Edward Whan Pai.
+- A–5669956, Yen, John Teng-Chien or Teng-Chien Yen or John T. C. Yen.
+- 0300–312179, Kulukundis, Eugenie (nee Diacakis).
+
+
+*Agreed to July 27, 1953.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- July 27, 1953 [S. Con. Res. 26]

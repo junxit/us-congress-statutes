@@ -1,0 +1,263 @@
+---
+volume: 67
+type: House Concurrent Resolution
+number: 110
+approved: 1953-07-31
+bills: 83/hconres-110
+---
+
+# House Concurrent Resolution 110
+
+> GRANTING OF PERMANENT RESIDENCE TO CERTAIN ALIENS
+
+*Resolved by the House of Representatives (the Senate concurring),*
+
+That the Congress favors the granting of the status of permanent residence in the case of each alien hereinafter named, in which case the Attorney General has determined that such alien is qualified under the provisions of section 4 of the Displaced Persons Act of 1948, as amended (62 Stat. 1011; 64 Stat. 219; 50 App. U. S. C. 1953):
+
+- A–6662121, Affen, Awigdor.
+- A–6652021, Affen, Estera (nee Stowatycka).
+- A–6652022, Affen, David.
+- A–6923739, Ahn, Susanna Mei Sheng.
+- A–7071208, Barenbaum, Sara.
+- A–7375587, Barsan, Vasile.
+- A–6886922, Bejlis, Chaim Juda.
+- A–7873139, Berger, William.
+- A–6802133, Billys, Rachelle Rottenberg.
+- A–7210113, Bomze, Nuehim.
+- A–7097848, Brtill, Wolf.
+- A–6698770, Bryzman, Sara.
+- A–7210182, Buranosky, Zora Krizan.
+- A–8039694, Chang, James.
+- A–6284272, Chang, Roland Wan-Chan.
+- A–8039760, Chean, Lui Cheng.
+- A–7288834, Chen, Casey or Kung Chin Chen.
+- A–7177873, Chen, Ching-Chi.
+- A–8057487, Chen, Thelma.
+- A–6358531, Cheng, Theodore.
+- A–6627382, Chiang, Hung-Chi, or Kiang (now Wallace Hung Chi).
+- A–6627377, Chiang, Chu-Fang (now Sally), or Kiang.
+- A–6627381, Chiang, Welthy Hsien-Ya, or Kiang.
+- A–6403594, Chih, Tao Chung (nee Wei).
+- A–4363539, Cho, Ling-Chin, or Sister Margaret Cho.
+- A–4363536, Kiang, Tsui-Yun, or Sister Helen Kiang.
+- A–6851453, Chu, Sheng To.
+- A–7135786, Chun, Wong.
+- A–6975434, Chung, Ling Jai-Pao.
+- A–6095459, Chung, Pin Liang Mah.
+- A–6095462, Chung, Jung Yu Chien.
+- A–6095460, Chung, Mamie Yu-Yen.
+- A–6095455, Chung, Josephine Yu-Hsiu.
+- A–6095461, Chung, Charlotte Yu Jem.
+- A–7118724, Cohen, Sally Moshi.
+- A–7125302, Czukor, Jolan (Yolanda) (nee Spitzer).
+- A–7125303, Czukor, Sandor (Alexander).
+- A–7060506, Dage, William.
+- A–7190618, Dancziger, Hugo.
+- A–7915034, Dancziger, Reisel.
+- A–6949997, Dresdner, Lew.
+- A–6934098, Ellenbogen, Zoltan.
+- A–7415153, Fabian, Helena.
+- A–8150011, Fisch, Erwin.
+- A–8150012, Fisch, Marianna.
+- A–6983821, Fischer, Daniel George.
+- A–7136632, Fizman, Josef or Fiszman.
+- A–7134259, Frankl, Samuel.
+- A–6887566, Friedman, Paula Peral (nee Paula Pearl Rosenberg).
+- A–7297265, Friedman, Sandor.
+- A–7879328, Friedman, Hajnal.
+- A–7879330, Friedman, Imre.
+- A–7879329, Friedman, Judith.
+- A–6903720, Ganz, Josef.
+- A–6868673, Ganz, Regina.
+- A–7222523, Haidowski, Jan.
+- A–6780721, Halpert, Deaths or Denis.
+- A–7073886, Harb, Mufid Wasif or Mofeed Wasif Harb.
+- A–6903674, Hartman, Sandor.
+- A–7193752, Heidrich, Arnost.
+- A–7138195, Heidrich, Anna.
+- A–7138194, Heidrich, Arnost (minor).
+- A–6599143, Herskovits, Sonyi or Sam Herskovits.
+- A–6911058, Hoffman, Aranka.
+- A–6687019, Hrebik, Antonin.
+- A–7184215, Hrebik, Anna.
+- A–7118712, Hsieh, Han Chun.
+- A–6848079, Huang, Mary Feng-Ling.
+- A–6735277, Hwang, Edith Shu-Ai.
+- A–6708716, Hwang, Joseph Cen or Tzu Shang Hwang.
+- A–7172901, Hies, Joseph.
+- A–6697288, Jen, Houng Pao.
+- A–6772189, Jubran, George Abdallah, or George Abdallah Jubran Sarsour.
+- A–6363021, Juzint, Meyer, or Majer Yuzint.
+- A–7144082, Kalish, Ruth (nee Ruchia Perkal).
+- A–7125418, Kantoras, Leiba.
+- A–7125410, Kantoras, Mirjam (nee Davidoff).
+- A–6760755, Katz, Zoltan.
+- A–977388, Kejdrowski, Jozef.
+- A–6967272, King, James Tai-Tsun, or King Tai-Tsun.
+- A–6916663, King, Shin-Chien, or Sidney C. King.
+- A–6922677, Klein, Pinkas, or Paul Klein.
+- A–6868671, Klemperer, Eva Zuzana (nee Keleti).
+- A–6599647, Kovats, Gyorgy Nagyajtai, or George K. Tay.
+- A–9635007, Laarents, Toomas.
+- A–6967339, Lee, Anna, or Ping-Li Lee.
+- A–7738505, Lee, Chin Yang.
+- A–9799719, Lepikson, Alexander.
+- A–6959700, Li, Hsiu Chen, or Betty Li.
+- A–6381292, Li, Yi-Sheng.
+- A–6940530, Lin, Chan.
+- A–6451320, Lin, Hui Ching Yen.
+- A–7385346, Liu, Ruby.
+- A–7283111, Liu, Sien Wei, or Liu Sien Wei.
+- A–6552720, Loh, Pei-Fang.
+- A–6848044, Lui, Ming Hang, or Ming Hang Lin.
+- A–6775574, Mach, Emil.
+- A–6887559, Meisels, Bernat.
+- A–6811811, Miciak, Bronislaw or Branislaw or Brainslow or Bronslaw or Miciak Bronislaw.
+- A–6952323, Mincer, Jacob.
+- A–7197561, Mincer, Peisach, or Paul Mincer.
+- A–7190623, Moskovitz, Joseph.
+- A–6691441, Moy, Howard R, or Koon Toa Moy or Roger Hoo Moy.
+- A–6992561, Nudelman, Mark or Moishe.
+- A–6922077, Pauker, Guy Jean. .
+- A–7457250, Pauker, Mirona (nee Cochinescu).
+- A–8082050, Peng, Benjamin Kun.
+- A–7118628, Prutz, Gertrude Dagmar Zdenka.
+- 0300–300162, Petri, Francis or Francis Arnold Alajos Pukl.
+- A–7078183, Piasek, Aranka (nee Gedaljovits),
+- A–6997896, Pill, Maria (nee Kulikowska).
+- A–6621746, Ponomareff, Serge Alexandre.
+- A–6887574, Potashnik, Raci Tessier.
+- A–7184191, Prochazka, Adolf.
+- A–7197628, Prochazka, Helena.
+- A–6613822, Pyka, Zygmunt Maria.
+- A–6800187, Rachman, Mayer.
+- A–6805571, Rachman. Anna.
+- A–7095970, Rubint, Ferenc.
+- A–7095972, Rubint, Gabriella Vajdik.
+- A–7421668, Ruksc, Henry or Henryk Ruksz.
+- A–7186354, Safer, Josef.
+- A–6819584, Samra, Haiim Abdul Nabi Jacob or Haiim A. Jacob.
+- A–6314405, Seidler, Klara Von Csorba.
+- A–6314403, Seidler, Stefan Sandor or Stefan Seidler Sanders.
+- A–6917984, Seiss, Aron.
+- A–6746541, Shaya, Ezra Sasson.
+- A–6616705, Singer, Gustawa, or Janet Singer.
+- A–9777103, Sinivee, Arthur.
+- A–6230830, Sofer, Ibrahim Gurji Sai man, or George Abraham Sofer.
+- A–7860462, Steen, Lubove Kotova.
+- A-722495O, Elgin, Ludmila.
+- A–6922670, Steinberg, Kalman.
+- A–6803920, Stoyanoff, Dimiter Pavloff.
+- A–6803921, Stoyanoff, Kiril Pavloff.
+- A–6574367, Su, Louise Yao-Hwa or Louise Tang.
+- A–9825172, Suttora, Matteo Natale Stefano.
+- 0300–301009, Tcheng, En Lien.
+- A–7483055, Torgovitsky, Issai.
+- A–7197746, Torgovitsky, Polina.
+- A–7197747, Torgovitsky, Kita.
+- A–7197748, Torgovitsky, Garv.
+- 0300–315465, Tsao, Tsen Cha.
+- 0300–315466, Tsao, Winifred.
+- A–7190607, Tseu, Heng Sing.
+- A–6958979, Tseu, Charlotte H. Liu.
+- A–6877785, Wang, Li (George).
+- A–6694321, Weinstein, Ernest.
+- A–6694324, Weinstein, Eva.
+- A–1466910, Weng, Hsing Ching.
+- A–9825092, Woszczak, Jozef Apoloinusz.
+- A–6851485, Wu, Shin Ye.
+- A–6899285, Yang, William Wen-Min.
+- A–6964626, Yu, Juliana Shan-Chuang.
+- A–9767540, Zawada, Maksymilian.
+- A–6819104, Zeller, Solomon.
+- A–4671679, Fou, Marv Tsai Dien, or Sister Mary Fou.
+- A–6467056, Metsalo, Valentin.
+- A–6903692, Bluth, Lenke Einhorn,
+- A–6852888, Feldbrand, Manci.
+- A–6887709, Meisels, Naftali.
+- A–6903748, Kaftanski, Seymour alias Szepsel Kaftanski.
+- A–6938007, Schwartz, Hillel Aron.
+- A–7290210, Sztrachman, Aleksander.
+- A–6886824, Weiss, Josef.
+- A–6159671, Joies, Joel Leib.
+- A–6949995, Neufeld, Josef.
+- A–6849828, Tai, Gertrude Loe or Hsiao Tso Loe.
+- A–6210613, Litynski, Zygmunt Leopold or Zygmunt Litynski.
+- A–7383205, Iliescu, Dumitru.
+- A–6405961, Lin, Chi-Sun.
+- A–6916662, Lee, Sen Lin.
+- A–6887911, Szafir, Jerzy Adam.
+- A–6887066, Kao, Chung Chin.
+- A–6213486, Niedzwiecki, Millian Zdzislaw, or James Z. Millian.
+- A–7184219, Koevara, Stephen.
+- A–7283382, Koevara, Margaret.
+- A–7351111, Sutt, Mihkel. ‘
+- A–6897923, Rykrova-Souckova, Milada, alias Milada Souckova.
+- A–6848574, Ho, Betty Lorenza Yu-Lin.
+- A–6624885, Tsai, Gerald, Jr.
+- A–6428121, Tsai, Loretta Yung.
+- A–6703319, Fong, Swi-Chyi alias Lloyd Swi-Chyi Fong.
+- A–6934995, Berger, Saje.
+- A–7209994, Cholewicka, Krystyna Janina.
+- A -9825129, Juszczak, Stefan.
+- A–6887560, Knoll, Solomon.
+- A–6897932, Kracik, Jarmila.
+- A–7126185, Lee, Henry Tuh-Shing.
+- A–6854472, Mestrovic, Petar.
+- A–7127950, Pales, Vitali, alias Victor Pales.
+- A–7115676, Rosenberg, Johan Drum er.
+- A~7115677, Rosenberg, Israel Drumer.
+- A–6804018, Simpser, Rose Rubenstein.
+- A–7282661, Woo, Esther Sun.
+- A–7595322, Yiun, Chian Hsih or Mrs. Aileen Pei.
+- A 6819100, Paneth, Eva Yecheved (nee Grunzweig).
+- A 6904775, Caitung, Seweryn.
+- A–6904773, Caitung, Masza.
+- A–6904774, Cajtung. Ryszard.
+- A–7123471, Szabo, Gustav Oliver.
+- A–6537568, Wei, Tsun Dah also known as Stacy Way.
+- A–7051379, Hu, Yun Wen also known as Eleanor Hu Way.
+- A–7197515, Horvath, Tibor.
+- A–7197516, Horvath, Agnes (nee Bocskor).
+- A–7056881, Akos, Lester also known as Laszlo Reiner.
+- A–7056882, Akos, Lilia (nee Lilia Groszman).
+- A–7372167, Akos, Thomas also known as Tamas Akos.
+- A–7138064. Reiner, Franciska (nee Franciska Strasser).
+- A–6501662, Berkowic, Mikulas.
+- A–7053562, Denes, Emery (Imre).
+- A–7053561, Denes, Hedwig Alice.
+- A–7415208, Denes, Istvan (Steven).
+- A–7415209, Denes, John.
+- A–7415207, Denes, Marietta Catherine.
+- A–7351567, Devay, Bela.
+- A–7351568, Devay, Jeno.
+- A–7351569, Devay, Laura.
+- A–7351565. Devay, Livia.
+- A–7351566, Devay, Marianne.
+- A–7056844, Fisnar, Igor.
+- A–7134270, Goldberg, Jankiel.
+- A–7525881, Ho, Fifille Yee Fang Sun.
+- A–0923852, Ho, Nelson Huai Tsu.
+- A–7267739, Mina, Abed Hanna.
+- A–6903760, Morrissey, Suzanne Rath.
+- A–6588565, Raby, Tawfik Meir,
+- A–6851589, Tong, Robert Yuin-Peng.
+- A–6739348, Wang, Bobby.
+- A–6739355, Wang, Jeanett Kwang Chien.
+- A–6739347, Wang, Paul.
+- A–6739349, Wang, Peter.
+- A–6450107, Wang, Te Chi C.
+- A–7873138, Wu, Jun Fei or Jane Wu.
+- A–7873131, Wu, Rowena Lee.
+- A–7873130, Wu, Yi-Min.
+- A–6847822, Yang, Meng-Chung alias James Meng-Chung Yang.
+- A–7069212, Zehrer, Helen.
+
+
+*Passed July 31, 1953.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- July 31, 1953 [H. Con. Res. 110]

@@ -1,0 +1,30 @@
+---
+volume: 67
+citation: 67 Stat. a44
+type: Private Law
+number: 124
+congress: 83
+session: 1
+scope: private
+approved: 1953-07-31
+bills: 83/s-143
+---
+
+# Private Law 124
+
+> AN ACT For the relief of Hanoi Marie Matuschke.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+That, in the administration of the Immigration and Nationality Act, the alien, Hanoi Marie Matuschke, fiancée of Corporal Arthur Charlie Rapske, a citizen of the United States, shall be eligible for a visa as a nonimmigrant temporary visitor for a period of three months: Provided, That the administrative authorities find that the said Hanoi Marie Matuschke is coming to the United States with a bona fide intention of being married to the said Corporal Arthur Charlie Rapske, and that she is found otherwise admissible under the immigration laws. In the event the marriage between the above-named parties does not occur within three months after the entry of the said Hanni Marie Matuschke, she shall be required to depart from the United States, and upon failure to do so shall be deported in accordance with the provisions of sections 242 and 243 of the Immigration and Nationality Act. In the event that the marriage between the above persons shall occur within three months after the entry of the said Hanni Marie Matuschke, the Attorney General is authorized and directed to record the lawful admission for permanent residence of the said Hanni Marie Matuschke as of the date of the payment by her of the required visa fee.
+
+
+*Approved July 31, 1953.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- July 31, 1953 [S. 143]
+- 66 Stat. 163. 8 USC 1101 note.
+- 8 USC 1252, 1253.
