@@ -1,0 +1,31 @@
+---
+volume: 47
+citation: 47 Stat. 1727
+type: Chapter
+number: 105
+congress: 72
+session: 2
+scope: private
+approved: 1933-02-18
+bills: 72/s-4166
+---
+
+# Chapter 105
+
+> AN ACT For the relief of James M. Griffin, disbursing agent, United States Coast and Geodetic Survey, and for other purposes.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+That the General Accounting Office is hereby authorized and directed to credit the accounts of James M. Griffin, disbursing agent, United States Coast and Geodetic Survey, in the amount of $360.27, which sum represents the aggregate of payments made during the fiscal year 1930 by said disbursing officer on account of travel performed by civilian officers and employees of the Coast and Geodetic Survey and which sum has been disallowed by the Comptroller General as follows: On voucher numbered 96675, to Deck Officer John C. Ellerbe, junior, $7.65; on voucher numbered 96713, to Deck Officer J. S. Morton, $7.35; on voucher numbered 96771, to Mate F. E. Okeson, $14.37; on voucher numbered 96818, to Deck Officer I. R. Rubottom, $4.10; on voucher numbered 96412, to Deck Officer J. C. Tison, $4.20; on voucher numbered 96626, to Deck Officer J. C. Tribble, $7.45; on voucher numbered 96649, to Deck Officer K. S. Ulm, $14.40; on voucher numbered 95340, to Deck Officer K. S. Ulm, $4.65; on voucher numbered 96241, to Deck Officer H. C. Walker, $6.55; on voucher numbered 97132, to Deck Officer E. B. Brown, $4.65; on voucher numbered 97150, to Chief Engineer H. Ely, $42.35; on voucher numbered 97151, to Chief Engineer H. Ely, $12.30; on voucher numbered 98186, to Deck Officer E. L. Jones, $2.64; on voucher numbered 97492 to Deck Officer R. A. Marshall, $3.25; on voucher numbered 97019, to Deck Officer J. S. Morton, $3.94; on voucher numbered 97642, to Associate Geodetic Engineer W. Mussetter, $9.75; on voucher numbered 97175, to Deck Officer F. Natella, $11.55; on voucher numbered 98184, to Deck Officer C. R. Reed, $2; on voucher numbered 97020, to Deck Officer M. G. Ricketts, $3; on voucher numbered 98183 to Deck Officer W. C. Russell, $2.10; on voucher numbered 98313, subvoucher numbered 250, to C. Sylar, hand, $33.54; on voucher numbered 96989 to Deck Officer J. C. Tribble, $5.35; on voucher numbered 99316, subvoucher numbered 16, to Deck Officer M. A. Hecht, $10.42; on voucher numbered 99684 to Assistant Marine Engineer W. R. McLaughlin, $4; on voucher numbered 98585 to Junior Engineer E. R. Martin, $3.70; on voucher numbered 99157 to Deck Officer J. S. Morton, $14.21; on voucher numbered 99933 to Associate Geodetic Engineer W. Mussetter, $8.25; on voucher numbered 98776, sub voucher numbered 240, to Seaman W. R. Norton, $10.20; on voucher numbered 99414 to Mate F. E. Okeson, $9.86; on voucher numbered 99261 to Deck Officer F. Natella, $16.16; on voucher numbered 101243, to Surgeon F. J. Soule, $50.75; on voucher numbered 101138, to Junior Engineer E. R. Martin, $7; and on voucher numbered 101084, to Seaman J. M. Narrow, $18.58: Provided, That the civilian officers and employees named herein shall not be required to make any refunds to the Government on account of payments made to carriers for travel furnished by the Government on transportation requests in connection with the vouchers listed herein as follows: Deck Officer John C. Ellerbe, junior, transportation requests numbered C–71170, 71211, 71219, 71220, in the total amount of $138.82; Mate F. E. Okeson, transportation requests numbered C–71233, 71234, in the total amount of $49.42; Deck Officer I. R. Rubottom, transportation requests numbered C–71017, 71018, 71055, 71057, 71058, 71059, 71060, in the total amount of $175.93; Deck Officer J. C. Tison, transportation request numbered C–71214 in the amount of $11.85; Deck Officer K. S. Ulm, transportation requests numbered C–71212, 71213, 71216, 71217, in the total amount of $168.11; Deck Officer K. S. Ulm, transportation request numbered C–70768 in the amount of $6.05; Deck Officer H. C. Walker, transportation request numbered C–71215 in the amount of $6.05; Deck Officer E. B. Brown, transportation requests numbered C–70720, 71226, in the total amount of $11.89; Chief Engineer H. Ely, transportation requests numbered C–70638, 70639, 70686, in the total amount of $509.49; Deck Officer R. A. Marshall, transportation request numbered C–71133 in the amount of $6.05; Deck Officer J. S. Morton, transportation requests numbered C–70990, 71199, 71226, 71231, in the total amount of $52.01; Associate Geodetic Engineer W. Mussetter, transportation requests numbered C–70724, 70725, 70726, in the total amount of $41.43; Deck Officer F. Natella, transportation requests numbered C–71230, 71271, in the total amount of $56.73; Deck Officer C. R. Reed, transportation request numbered C–71369 in the amount of $6.05; Deck Officer M. G. Ricketts, transportation request numbered C–70929, in the amount of $6.05; Deck Officer W. C. Russell, transportation request numbered C–71369 in the amount of $6.05; Deck Officer J. C. Tribble, transportation requests numbered C–70927, 70928, in the total amount of $15.75; Deck Officer M. A. Hecht, transportation request numbered C–71275 in the amount of $28.41; Assistant Marine Engineer W. R. McLaughlin, transportation requests numbered C–70865, 70866, in the total amount of $43.49; Junior Engineer E. R. Martin, transportation requests numbered C–79828, 79829, in the total amount of $37.04; Deck Officer J. S. Morton, transportation requests numbered C–71332, 71333, in the total amount of $100.84; Associate Geodetic Engineer W. Mussetter, transportation requests numbered C–71421, 71422, in the total amount of $41.63; Mate F. E. Okeson, transportation requests numbered C–71431, 71432, in the total amount of $17.67; Deck Officer F. Natella, transportation requests numbered C–71434, 71435, 71436, in the total amount of $57.21; and Surgeon F. J. Soule, transportation requests numbered C–71022, 71023, in the total amount of $41.64.
+
+
+*Approved, February 18, 1933.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- February 18, 1933. [S. 4166.] [Private, No. 214.]
+- James M. Griffin. Credit in accounts of.
+- Credits in accounts of—Continued.
+- Proviso. Refunds.
