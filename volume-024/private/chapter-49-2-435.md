@@ -1,0 +1,1064 @@
+---
+volume: 24
+citation: 24 Stat. 937
+type: Chapter
+number: 435
+congress: 49
+session: 2
+scope: private
+approved: 1887-03-03
+---
+
+# Chapter 435
+
+> An Act for the allowance of certain claims reported by the accounting officers of the United States Treasury Department.
+
+*Be it enacted by the Senate and Rouse of Representatives of the United States of America in Congress assembled,*
+
+That the Secretary of the Treasury be, and he is hereby, authorized and required to pay, upon the requisition of the Secretary of War, without further and it, allowance, or restatement of the claims by the accounting officers, out of any other money in the Treasury not otherwise appropriated, to the several persons in this act named, or to their legal representatives in case of their death since the allowance of their claims by the accounting officers, the several sums mentioned herein, the same being in full for, and the receipt of the same to be taken and accepted in each case as a full and final discharge of, the several claims examined and allowed by the proper accounting officers under the provisions of the act of July fourth, eighteen hundred and sixty-four, since January fourteenth, eighteen hundred and eighty-six, namely:
+
+- TENNESSEE.
+- To J. M. Winstead, administrator of Zachariab Allen, deceased, of Williamson County, two hundred and ninety-five dollars.
+- To Edward L. Adams, of Rutherford County, three hundred and thirty dollars.
+- To Wiley Adams, executor of Mary Adams, deceased, of Blount County, one hundred and five dollars.
+- To R. D. Andrews, of Williamson County, one hundred and twenty-five. dollars.
+- To James A. Andrews, of Sumner County, one hundred and twenty-five dollars.
+- To James D. Andrew, administrator of Brice M. G. Allsup, deceased, of Lincoln County, sixty dollars and ten cents.
+- To G. W. Ashby, of Lincoln County, one hundred and twenty-five dollars.
+- To Elizabeth A. Allen, administratrix of Andrew 8. Allen, deceased, of Williamson County, two hundred and twenty dollars.
+- To J. 8. Williams, administrator of Hays (or Hayes) Arnold, deceased. of White County, two hundred and sixty-five dollars.
+- To E. M. Shelton, administrator of Jarrat (or Jarritt) Averitt (or Avritt), deceased, of Montgomery County, one hundred and twenty-five, dollars.
+- To G. V. Allen, administrator of Valentine Allen, deceased, of Williamson County, four hundred and twenty-five dollars.
+- To Edward Adkins, of Montgomery County, forty dollars.
+- To M, L. Angel, of Macon County, one hundred and twenty-five dollars.
+- To John M. Henry, executor of Moses Byram, deceased, of Robert-son County, one hundred and eighty-three dollars and sixty-six cents.
+- To Leander Benton, administrator of Green Benton, deceased, of Robertson County, one hundred and thirty' dollars.
+- To Drucilla. L. C. Burns, of Sevier County, one hundred and thirty-two dollars and fifty-eight cents.
+- To Joab Banks, of Franklin County, ninety dollars.
+- To A. C. Cobbel, administrator of Joseph L. Baker, deceased, of Franklin County, one hundred and thirty dollars.
+- To Perry Cate, administrator of William Bales, deceased, of Knox County, eighty-seven dollars and fifty cents.
+- To Mollie Bramlett, widow of Joseph Bramlett (colored), deceased, of Giles County, forty dollars.
+- To Charles W. H. Biles, of Giles County, thirty-nine dollars and six cents.
+- To William M. Bryan, of Wilson County, one hundred and fifty dollars.
+- To Benjamin B. Batts, administrator of John T. Batts, deceased, of Robertson County, two hundred and nineteen dollars and forty-three cents.
+- To John Burns, of Carroll County, forty-three dollars.
+- To B. B. Binkley, administrator of B. F. Binkley, deceased, of Cheatham County, one hundred and fifty dollars.
+- To Robert W. Boyd, of Stewart County, one hundred and twenty-five dollars.
+- To John W. Baker, of Robertson County, four hundred and fifteen dollars.
+- To Martha A. Bryan, of Davidson County, nine dollars.
+- To John H. Bates, of Obion County, one hundred and fifty-seven dollars and fifty cents.
+- To Mrs. Selina Buchanan, administratrix of William D. Buchanan, deceased, of Williamson County, one hundred and twenty-five dollars.
+- To Jamas A. Bright, administrator of John N. Bright, deceased, of Green County, one hundred and twenty-five dollars.
+- To John B. Murrey, administrator of Richard Berry, deceased, and Moses E. Cator, executor of Basil Berry, deceased, of Williamson County, five hundred and twenty-seven dollars and ninety cents.
+- To M. A. Blair, administrator of Robert Blair, deceased, of Davidson County, one hundred and four dollars and fifty cents.
+- To Henry L. Byron, of Franklin County, one hundred and thirty dollars.
+- To John L. Jacobs, executor of John J, Beasley, deceased, of Williamson County, one hundred and thirty-five dollars.
+- To John G. Brazelton, of Franklin County, five hundred and ninety-three dollars and fifty cents.
+- To Samuel M. Burdett (or Birdett) of Bledsoe County, twelve dollars.
+- To James Bryant, of McNairy County, seventy-five, dollars.
+- To W. S. Buchanan, administrator of Paris D. Bell, deceased, of Lincoln County, three hundred and fifty-five dollars.
+- To W. A. Browning, administrator of B. W. Browning, deceased, of Dickson County, one hundred dollars.
+- To John II. Barnes, of Stewart County, one hundred dollars.
+- To William T. Smith, administrator of William Burden, deceased, of White County, one hundred and forty-five dollars.
+- To Simeon G. Byrd, of Sumner County, sixty dollars.
+- William H. Stephens, administrator of William Y. Brown, deceased, of Davidson County, one hundred and fifteen dollars.
+- To Caroline Bowen, of Dickson County, one hundred and twenty-five dollars.
+- To John Brown, administrator of Jesse (or Jessie) S. Brown, deceased, of Rhea County, one hundred dollars.
+- To A. H. Sharp, administrator of Mrs. J. K. (or E. O.) Buchanan, deceased, of Davidson County, two hundred and forty-three dollars and seventy-five cents.
+- To E. A. Best, administrator of E. L. Best, deceased, of Franklin County, thirty-four dollars and twenty-five cents.
+- To Jasper S. Acuff, administrator of James Billingsly (or Billingsley), deceased, of Bledsoe County, eighty dollars.
+- To G. W. Bains, administrator of A. L. Bains, deceased, of Smith County, seven hundred and eighty-one dollars and fifty cents.
+- To James L. Turner, administrator of George W. Beavers, deceased, of Bedford County, one hundred and fifty dollars.
+- To C. F. Brooks, administrator of Thomas N. Brooks, deceased, of Greene County, one hundred and ten dollars.
+- To J. S. Bryant, administrator of William R. Bryant, deceased, of Weakley Comity, one hundred and fifty dollars.
+- To Mary P. Bradford, of Shelby County, five hundred dollars.
+- To Anderson A. Baker, of Knox County, thirty dollars.
+- To Mrs. Aaron V. Brown, of Davidson County, four hundred dollars.
+- To J. W. Burney, of Gibson County, one hundred and twenty dollars.
+- To Mrs. E. C. Blane, administratrix of David H. Bentley, deceased, of Gibson County, one hundred and forty dollars.
+- To J.C. Bernard, special administrator of John Bernard, deceased, of Sumner County, one thousand three hundred and five dollars.
+- To Sterling B. Boring, of Rutherford County, one hundred and five dollars and twenty cents.
+- To William Bettis, special administrator of S. T. Bettis, deceased, of James County, sixty-seven dollars and fifty cents.
+- To M. O. Box, administrator of Elizabeth Box, deceased, of Humphreys County, two hundred and fifty dollars.
+- To Nancy and Wyatt II. Bastin, administrators of Thomas Bastin, deceased, of Hickman County, one hundred and thirty-five dollars.
+- To J. P. McKnight, administrator of William Brady, deceased, of Dyer County, one hundred and forty dollars.
+- To Dr. John Cowden, administrator of James M. Brents, deceased, of Lincoln County, four hundred dollars.
+- To Joel and John Boatright, of Giles County, three hundred dollars.
+- To Mary A. Bowden, of Giles County, two hundred and seventy-five dollars.
+- To Nicholas D. Malone, administrator of Aris Brown, deceased, of Davidson County, two thousand seven hundred and eighteen dollars.
+- To William Barnes, of Davidson County, one hundred and twenty-five dollars.
+- To William Bloodworth, of Sumner County, one hundred and fifteen dollars.
+- To William J. Blackwell, of Bedford County, one hundred dollars.
+- To John H. Bright, administrator of Jesse Bright, deceased, of Blount County, one hundred and twenty-five dollars.
+- To A. B. Billingsly, of Bledsoe County, one hundred and forty-eight dollars and seventy cents.
+- To William N. Boothe, of Henry County, one hundred and forty-four dollars.
+- To William Boles, of Knox County, forty-five dollars and fifteen cents.
+- To Alexander Baynham and J. W. Frahern, executors of W. J. G. Baynbam, deceased, of Montgomery County, one hundred dollars.
+- To James Campbell, of Stewart County, one hundred dollars.
+- To Absalom Holman, administrator of Gerald Carver, deceased, of Overton County, one hundred and twenty-five dollars.
+- To W. W. Chambers, administrator of Henry B. Chambers, deceased, of Smith County, one hundred and twenty-five dollars.
+- To John M. Hall, administrator of Meekins Carr, deceased, of Dickson County, one hundred and sixty-five dollars.
+- To H. R. Atkinson administrator of Alfred P. Crosswell, deceased, of Stewart County, one hundred and thirty dollars.
+- To Asa P. Copeland, of Lincoln County, one hundred and thirty dollars.
+- To William P. Charles, of Coffee County, one hundred and twenty-five dollars.
+- To W. W. Chambers, of Smith County, one hundred and twenty-five dollars.
+- To Mary J. Crutcher, administratrix of Joel Crutcher, deceased, of Putnam County, one hundred and fifty dollars.
+- To Elisha Chastain, of Wilson County, one thousand eight hundred and eighty-five dollars.
+- To John A. Cry, of Blount County, eighty-six dollars and thirty-three cents.
+- To William F. Carter, of Williamson County, five hundred and fifty-eight dollars and sixty cents.
+- To Elizabeth L. Carr, widow of Elijah Carr, deceased, of Putnam County, ten dollars and seventy-one cents.
+- To John Tucker, administrator of Ira Carr, deceased, of Putnam County, one hundred and thirty-five dollars.
+- To Hugh G. Carter, of Sevier County, one hundred and ten dollars.
+- To John W. Cain, of Hawkins County, forty dollars.
+- To Herbert Cassey, of Hardin County, seventeen dollars.
+- To Joseph E. Cron, of Sumner County, one hundred and forty-five dollars.
+- To Solomon Chiles, of Knox County, two hundred and thirty-four dollars and fifty cents.
+- To Elizabeth F. Chitwood, widow of John Chitwood, deceased, of Franklin County, nineteen dollars and twenty-five cents.
+- To William N. Cowden, administrator of Morgan Clayton, deceased, of Marshall County, one hundred and fifty dollars.
+- To Amelia A. Cowan, administratrix of John R. Cowan, deceased, of Davidson County, one hundred and ten dollars.
+- To Frances E. Carter, administratrix of Charles G. Carter, deceased, of Wilson County, one hundred and seventy-eight dollars.
+- To Jeremiah J. Chamberlain, of Knox County, one hundred and twenty-five dollars.
+- To G. W. and John W. Carmichael, executors of Thomas Carmichael, deceased, of Williamson County, ninety-seven dollars and fifty cents.
+- To Mary C. Childress, administratrix of James H. Childress, deceased, of Madison County, three hundred and ten dollars.
+- To J. E. Cooper, administrator of John P. Chapman, deceased, of Marshall County, five hundred and fifty-five dollars.
+- To A. F. Whitman, administrator of Samuel Casey, deceased, of Davidson County, three hundred dollars.
+- To Charles R. Holmes, administrator of Jarret Cock, deceased, of Marshall County, five hundred dollars.
+- To P. O. Coldwell, administrator of A. B. Coldwell, deceased, of Dick-son County, four hundred and fifty dollars.
+- To Sarah Clark, administratrix of James Clark, deceased, of Lincoln County, one hundred and fifty dollars.
+- To N. H. Carmack, of Davidson County, twenty-five, dollars.
+- To D. J. Church, of Handlton County, one hundred and forty dollars.
+- To Thomas H. Coldwell, of Bedford County, seventy-two dollars.
+- To James H. Charlton, of Davidson County, four hundred dollars.
+- To Nancy C. Clark, of Bedford County, one hundred dollars.
+- To James J, Cannon, of Bedford County, one hundred and thirty dollars.
+- To Joseph B. Cobb, of Blount County, one hundred dollars.
+- To J. M. McCloud, executor of George W. Carnes, deceased, of Knox County, twenty-four dollars.
+- To M. L. Killebrew, administrator of Thomas Cross, deceased, of Montgomery County, one hundred and eighty-nine dollars.
+- To Joseph Creighton, administrator of Caleb Capps, deceased, of Davidson County, three hundred and ninety dollars.
+- To Sarah and W. J. Campbel), administra tors of George W. Campbell, deceased, of Davidson County, one hundred and thirty-eight dollars and forty cents.
+- To William P. Campbell, administrator of Joseph Campbell, deceased, of Stewart County, one. hundred and thirty-five dollars.
+- To William Cobaugh (or Clabaugb), of Sevier County, one hundred and fifteen dollars.
+- To N. J. Calhoon, administrator of James P. Calboon, deceased, of Bedford County, one hundred and ninety dollars and forty cents.
+- To W. D. Coltart, administrator of John Coltart, deceased, of Davidson County, thirty dollars.
+- To Nancy J. Cummings, widow of Newton Cummings, deceased, of Bedford County, six dollars and forty-three cents.
+- To Hester Collins, executrix of William Collins, deceased, of Bedford County, one hundred and ten dollars.
+- To Nancy (or Nancy J.) Crunk, formerly Nancy J. Webb, of Bedford County, sixty dollars.
+- To John O. Cage, of Wilson County, one thousand and seventy-five dollars.
+- To J. G. Willis, administrator of J. T. Crockett, deceased, of Coffee County, fifty-two dollars and fifty cents.
+- To John Cooney, of Davidson County, three hundred dollars.
+- To George W. Conner, administrator of John M. Conner, deceased, of Knox County, twenty dollars.
+- To Jonas Clark, of Bledsoe County, one hundred and seventy eight dollars.
+- To John E. Creswell, administrator of R. M. Creswell, deceased, of Sevier County, one hundred and fifty dollars.
+- To J. N. Partlow, administrator of W. R. Dobson, deceased, of Wilson County, one hundred and fifty dollars.
+- To J. W. Alexander, administrator of Samuel C. Debow, deceased, of Obion County, four hundred and fifty-nine dollars and forty-seven cents.
+- To F. M. Dooley, administrator of M. T. Dooley, deceased, of Maury County, one, hundred and twenty-five dollars.
+- To Joseph Dunn, of Cheatham County, one hundred and seventy dollars.
+- To William N. Dozier, of Cheatham County, one hundred and forty-five dollars.
+- To Edward Dixon, of Hardeman County, forty dollars.
+- To John Daffron, of Handlton County, fifty-six dollars and twenty-five cents.
+- To Thomas H. Duncan, administrator of Hiram W, Duncan, deceased, of Hickman County, one hundred and fifty dollars.
+- To James T. Dunaway, of McNairy County, one hundred and seventy-five dollars and sixty cents.
+- To George C. Dotson, of Dickson County, twenty-two dollars and twenty-five cents.
+- To A. B. Akin, administrator of Thomas M. Dunn, deceased, of Cheatham County, nine dollars and ninety-three cents.
+- To Samuel H. Dunn, of Cheatham County, eighty dollars.
+- To John W. Dotson, of Dickson County, one hundred and fifty dollars.
+- To Foster Dobbins, of Sumner County, one hundred and eight dollars.
+- To Calvin S. Dillon, surviving executor of William H. Dillon, deceased, of Wilson County, one hundred and twenty dollars.
+- To Joseph C. Eggleston, administrator of Thomas H. Davis, deceased, of Williamson County, three hundred and eighty dollars.
+- To Richard E. Douglass, of Sumner County, fifty-seven dollars.
+- To John C. Maddux, executor of William Denney, deceased, of James County, four hundred and fifteen dollars and twenty cents.
+- To A. J. Davis, administrator of Francis E. Davis, deceased, of Montgomery County, two hundred and fifty dollars.
+- To E. F. Dickson, administrator of Reuben Dickson, deceased, of Franklin County, sixty-three dollars and twelve cents.
+- To Charles Duncan, of Anderson County, one hundred dollars.
+- To William Denny, of Marion County, thirteen dollars and thirty-seven cents.
+- To Robert C. Mullen, administrator of Augusta Davis, deceased, of Davidson County, one hundred and seventy-two dollars.
+- To Charles R. Holmes, administrator of Enoch N. Dickson, deceased, of Rutherford County, seven hundred and fifteen dollars.
+- To William H. Draper, of Sumner County, two hundred dollars.
+- To Wootson D. Davis, of Maury County, one thousand three hundred and eighty dollars and thirty cents.
+- To Ann R. Dobbins, executrix of John J. Dobbins, deceased, of Maury County, five hundred and sixty dollars.
+- To Frank Degnan, of Marion County, three hundred and thirty dollars.
+- To John Tyson, administrator of John D. Desmukes (or Dismukes), deceased, of Davidson County, one hundred and twenty-five dollars.
+- To James M. McAfee, administrator of James L. Denham, deceased, of Lincoln County, two hundred and eighty dollars.
+- To A. W. Edwards, administrator of Samuel E. Edwards, deceased, of Washington County, one hundred and fifteen dollars.
+- To Margaret Edmondson, administratrix of Charles H Edmondson, deceased, of Lincoln County, four thousand seven hundred and ninety-nine. dollars.
+- To F. W. Emerson, of Coffee County, thirty dollars.
+- To N. R. Marr, administrator of Sarah Ellis, deceased, of Williamson County, one hundred dollars.
+- To William Eastwood, of Cannon County, fifty dollars.
+- To W. C. Morgan, administrator of James A. Edwards, deceased, of Franklin County, five hundred and seventy-five dollars.
+- To Tenie Dead, administratrix of Anthony Elliott, deceased, of Sumner County, one hundred dollars.
+- To Henry C. Elmore (or Elnore), of Bentou County, one hundred dollars.
+- To R. E. Ellis, administrator of R. C. Ellis, deceased, of Sumner County, two hundred and sixty-one dollars and twenty-five cents.
+- To Shadrick B. Epperson, of Grainger County, fifty-three dollars and thirty-three cents.
+- To Ann M. Elkins, of Bedford County, one hundred and twenty dollars.
+- To E. A. Best,administrator of Willis S. Embry, deceased, of Franklin County, seventy-five dollars.
+- To James A. Elam, of Rutherford County, thirteen dollars and thirty-three cents.
+- To Thomas Earheart, doctor of medicine, of Davidson County, one hundred dollars.
+- To Nancy A. Franklin, administratrix of Robert D. Franklin, deceased. of Jefferson County, twenty-one dollars.
+- To Mrs. Mary Fakes, of Wilson County, two hundred and fifty dollars.
+- To Enoch Farthing, of Robertson County, one hundred and fifty dollars.
+- To Alexander W. McKay, administrator of Isaac M. Foster, deceased, of Maury County, ninety-five dollars and fifty cents.
+- To 11/W. Sheffield, administrator of Susan (or Susannah) Fowler, deceased, of Lincoln County, three hundred and fifty dollars.
+- To Michael B. Fisher, of Bedford County, one hundred and twenty-five dollars.
+- To Martha F. Fields, widow of W. B. Fields, deceased, of Franklin County, eighteen dollars and seventy-five cents.
+- To S. M. Falkenberry, administrator of Henry H. Falkenberry, deceased, of Williamson County, one hundred and twenty-five dollars.
+- To Richardson P. Farmer, of Weakley County, one hundred and twenty-five dollars.
+- To L. W. Fletcher, administrator of James Fletcher, deceased, of Robertson County, one hundred and fifty dollars.
+- To Michael French, of Knox County, twenty-two dollars and fifty cents.
+- To Josiah Farmer, administrator of Jonathan Farmer, deceased, of Robertson County, forty dollars and thirty-seven cents.
+- To Alfred D. Fugitt. of Bedford County, one hundred and twenty-five dollars.
+- To S. Q. Fuqua, administrator of Samuel Fuqua, deceased, of Robertson County, one hundred and thirty-five dollars.
+- To Celia Ann Feltz, of Davidson County, one hundred and thirty-two dollars and forty cents.
+- To Coleman Franklin, administrator of Mahala Franklin, deceased, of Franklin County, two hundred and eighty dollars.
+- To Benjamin C. Fulcher, of Sullivan County, two hundred and seventy dollars.
+- To Sarah D. Fite and H. C. Fite, administrators of Thomas W. Fite, deceased, of De Kalb County, one hundred and twenty-five dollars.
+- To Z. II. Grubbs, executor of William II. Grubbs, deceased, of Lincoln County, one hundred and thirty-five dollars.
+- To Thomas 8. Pittard, administrator of F. P. J. Gracy, deceased, of . Giles County, seven hundred and fifteen dollars.
+- To Edward Good, of Franklin County, thirty-five dollars.
+- To Isaac Gore, of Overton County, one hundred and twenty-five dollars.
+- To O. T. Green, administrator of Avery Green, deceased, of White County, one hundred and twenty-five dollars.
+- To Sarah Gatlin, of Humphreys County, sixty-five dollars.
+- To John B. Gray, administrator of Henry P. Gray, deceased, of Williamson County, two hundred and seventy-seven dollars.
+- To A. W. Grace, administrator of 'William M. Grace, deceased, of Greene County, fifty-nine dollars.
+- To J. W. M. Gooch, executor of J. W, Gooch, deceased, of Robertson County, twenty-four dollars.
+- To Simpson Gunn, of Coffee County, sixteen dollars.
+- To James R. Gassaway, of Cannon County, one hundred and ten dollars.
+- To John T. Green, of Franklin County, one hundred and twenty-five dollars.
+- To Emeline Glover (formerly Patterson), of Grainger County, ninety-two dollars.
+- To Mary H. Green, administratrix of Samuel W. Green, deceased, of Tipton County, three hundred and eighty-five dollars.
+- To Sallie Green, administratrix of Isaiah (or Isach Green), deceased, of Franklin County, one hundred and twenty-five dollars.
+- To James J. Grimes, of Williamson County, seventy-five dollars.
+- To Mrs. Ellender Goza, administratrix of Joshua Goza, deceased, of Gibson County, one hundred and forty dollars.
+- To James W. Goodwin, administrator of Arthur A. Goodwin, deceased, of Lincoln County, three hundred and ninety dollars.
+- To Robert P. Gannaway, of Montgomery County, seven hundred and twenty-two dollars and thirty-three cents.
+- To William M. Green, of Davidson County, three hundred dollars.
+- To R. J. Gillaspie, administrator of Nathan Gillaspie, deceased, of Franklin County, fifty-six dollars and twenty-five cents.
+- To Moses Gamble, of Monroe County, sixty dollars.
+- To 8. H. Grimes, of Maury County, one hundred dollars.
+- To Mrs. Mary Gray, of Stewart County, one hundred and twenty-five dollars.
+- To W. B. Guthrie, of Wilson County, two hundred and seventy dollars.
+- To Geoi'ge J. Moffet, administrator of William F. Hodge, deceased, of Hardin County, two hundred and sixty dollars.
+- To John Hatcher, of McMinn County, one hundred and twelve dollars and fifty cents.
+- To W. F. Hall, administrator of Henry B. Hall, deceased, of Obion County, one hundred dollars.
+- To Zebedee Howe, of Benton County, one. hundred and ten dollars.
+- To Helen H. Hollister, administratrix of Henry H. Hollister, deceased,
+- of Stewart County, three hundred and six dollars and twenty-five cents.
+- To Elizabeth Hudson, administratrix of E. H. Hudson, deceased, of Wilson County, one hundred and twenty-five dollars.
+- To H. Z. T. Hankley, administrator of Abner Harvey, deceased, of Hardeman County, two hundred and thirty dollars and fifty cents.
+- To M. C. Orman, administrator of John A. Holmes, deceased, of Robertson County, one hundred and thirty dollars.
+- To F. J. Hendley, administrator of William D. Hendley, deceased, of Williamson County, two hundred and sixty-six dollars and seventy-five cents.
+- To D. A. Hampton, of Williamson County, twenty-four dollars and thirty cents.
+- To Thomas J. Harris, of Robertson County, one hundred and fifty, dollars.
+- To James Harrison, of Lincoln County, one hundred and twenty-five dollars.
+- To Gad E.-Harris, of Robertson County, one hundred and fifty dollars.
+- To Joseph W, Haynes, of Robertson County, one hundred and twenty dollars.
+- To W. P. Harelson, administrator of Burges Harelson, deceased, of Obion County, twelve dollars.
+- To Thomas J. Hunt, of Shelby County, one hundred and twenty-five dollars.
+- To P. E. Holland, administrator of Willie Holland, deceased, of Robertson County, six hundred and seventy dollars.
+- To Francis E. Hill, administrator of Francis A. Hill, deceased, of Maury County, five hundred and ninety-five dollars.
+- To John Handlton, of Lincoln County, one thousand three hundred and fl f'ty dollars.
+- To W. E. Metzger, administrator of Henry M. Hayes, deceased, of Davidson County, three hundred and sixty-four dollars and fifty cents.
+- To James C. Hawkins, of Wilson County, one hundred and twenty-five dollars.
+- To Worick Hodge (to correct omission in report of January, eighteen hundred and seventy-eight), of Maury County, two hundred and forty dollars.
+- To John (or John G.) Hoover, of Fentress County, seventy-five dollars.
+- To II. R. Hinkle, administrator of J. H. Hinton, deceased, of Wayne County, three hundred dollars.
+- To Jacob Hatmaker, administrator of Joseph Hatmaker, deceased, of Campbell County, forty dollars.
+- To T. U. Harris, administrator of C. E. Harris, deceased, of Humphreys County, one hundred and thirty-five dollars.
+- To Alexander Hooten (colored), administrator of Frederick Hooten (colored), deceased, of Davidson County, one hundred and fifty dollars.
+- To William R. Hooten, of Davidson County, twenty-nine dollars and twenty-five cents.
+- To Mrs. L. L. Hague, administratrix of William L. Hague, deceased, of Lincoln County, five hundred and five dollars.
+- To Benjamin F. Holden, executor of Mitchell Holden, deceased, of Franklin County, three hundred and twenty-one dollars and seventy cents.
+- To Christina Heidsieck, widow of Herman Heidsieck, deceased, of Shelby County, ninety dollars.
+- To Esther A. Hopkins, of Franklin County, thirty-six dollars and seventy-five cents.
+- To John R. Hardin, of Lincoln County, three hundred and sixty-five dollars.
+- To E. K. Handlton, administrator of Harvy Handlton, deceased, of Marion County, one hundred and seventy-seven dollars.
+- To J. W. Smith, administrator of Nathan Hester, senior, deceased, of Montgomery County, one hundred and twenty-five dollars.
+- To David Handlton, of Williamson County, one hundred and thirty-two dollars and seventy cents.
+- To M. H. Hill,administrator of Marvel Hill, deceased,of Knox County, one hundred and sixty-three dollars and fifty cents.
+- To Lucas P. Hawkins, of Williamson County, one hundred and fifteen dollars.
+- To Green W. Hunt, of Cheatham County, one hundred and twenty-five dollars.
+- To Stephen Hill, of Knox County, one hundred dollars.
+- To Wayman L. Gracy, administrator of Dudley Hudgens, deceased, of White County, two hundred and forty dollars.
+- To Wesley C. Holman, administrator of John C. Holman, sr., deceased, of Robertson County, three hundred dollars.
+- To C. A. Burr, administrator of John Holland, deceased, of Robertson County, one hundred and twenty-five dollars.
+- To Sumner C. Handlton, of Wilson County, one hundred and twenty-five dollars.
+- To Priscilla Harvey, widow of Jason W. Harvey, deceased, of Handlton County, forty-four dollars.
+- To Amelia Holmes, widow of Joseph Holmes, deceased, of Carroll County, eleven dollars and seventy cents.
+- To B. C. House, executor of William House, deceased, of Sumner County, one hundred and twenty dollars.
+- To John M. Henry, administrator of Nancy Henry, deceased, of Sumner County, one hundred and fifty dollars.
+- To Leander Hays, of De Kalb County, two hundred and forty dollars.
+- To S. S. Hindman, administrator of Jesse M. Hindman, deceased, of Giles County, eighteen dollars.
+- To J. K. P. Hall, of Davidson County, one hundred and thirty-five dollars.
+- To John Huffman, of London County, sixty dollars.
+- To A. R. Henderson, administratrix of W. J. Henderson, deceased, of Giles County, one hundred and fifty-six dollars.
+- To James Ivey, of Montgomery County, one hundred and twenty dollars.
+- To Sarah A. Irvine (formerly Sedberry), of Maury County, three hundred and seventy five dollars.
+- To V. L. Collier, jr., administrator of Sarah E. Jones, deceased, of Sumner County, forty-two dollars and fifty cents.
+- To Calvin Johnston, of Clay County, one hundred and twenty-five dollars.
+- To Charles R. Holmes, administrator of Robert Jones, deceased, of Rutherford County, six hundred and fifty-four dollars.
+- To R, L. Johnston,administrator of James Johnston, deceased, of Williamson County, three hundred and eighty-two dollars and thirty cents.
+- To Eliza J, Jones, widow of Alfred L. Jones, deceased, of Davidson County, sixty dollars.
+- To Anderson Johnson, of Williamson County, one hundred dollars.
+- To Andrew Johnston, of Williamson County, three hundred and seventy-nine dollars and forty cents.
+- To Joseph Ransom and John Woods, administrators of Devereaux Jarratt, deceased, of Rutherford County, one hundred and fifty-six dollars.
+- To W. M. Johnson, of Hickman County, two hundred and sixty dollars.
+- To F. A. Jones, cf Robertson County, twenty-five dollars.
+- To Joseph T. Johnson, of Marshall County, nine hundred dollars and fifty cents.
+- To William H. Jordan, of Williamson County, six hundred dollars
+- To Marion Jackson, of Dickson County, one hundred and forty-five dollars.
+- To Talbert Jones, of Cannon County, one hundred and twenty-five dollars.
+- To John Jones, of Stewart County, one hundred and twenty-five dollars.
+- To William Joye, of Knox County, thirteen dollars and fifty cents.
+- To Mary A. Howell, administratrix of Jane John, deceased, of Knox County, one hundred and twenty-seven dollars, and fifty-four cents.
+- To II. B. Morgan, administrator of Mary A. Jacobs, deceased, of. Landerdale County, one hundred and twenty-five dollars.
+- To Mary Jackson, widow of John J. Jackson, deceased, of Davidson County, twenty dollars, and eighty-seven cents.
+- To John E. Tulloss, executor of Henry Jackson, deceased, of Williamson County, three hundred and sixty dollars.
+- To R. T. Johnson, administrator of J. L. Johnson, deceased, of Davidson County, three hundred and fifteen dollars and fifty cents.
+- To Anna S. Howerton, administratrix of J. L. James, deceased, of Stewart County, two hundred and fifty dollars.
+- To A. C. Johnson, of Clay County, one hundred and twenty dollars.
+- To Asa Jones, of McNairy County, fourteen dollars and twenty-five cents.
+- To Lincoln S. Jones, of Hawkins County, one hundred and twenty-five dollars.
+- To Levi Jackson, of Putnam County, one hundred and twenty-five dollars.
+- To John Johnson, of Bledsoe County, one hundred dollars.
+- To G. W. Jackson, administrator of William Jackson, deceased, of Sumner County, fifty dollars.
+- To Rial Jennings, of Wilson County, seventy-five dollars.
+- To Andrew Johnson (or Johnston), of Williamson County, three hundred and seventy dollars.
+- To T. L. Jackson, of Franklin County, two dollars and fifty cents.
+- To D. J. McComb, administrator of Rebecca Jones deceased, of Giles County, four hundred and thirty-five dollars.
+- To F. M. White, executor of John Kerr, deceased, of Shelby County, one hundred and forty-five dollars.
+- To J. T. Barnhill, administrator of Henry King, deceased, of McNairy County, thirty-two dollars.
+- To J. T. King, administrator of Jethro King, deceased, of Dyer County, one hundred and twenty dollars.
+- To James M. King, of Giles County, one hundred and five dollars.
+- To John J. Kubly, administrator of Henry Kubly, deceased, of Davidson County, seventy-eight dollars.
+- To Samuel R. Killebrew, of Stewart County, three hundred and seventy-five dollars.
+- To J. B. Keith, administrator of John L. Keith, deceased, of Franklin County, forty-nine dollars.
+- To Charles Kilgore, of Greene County, thirty-three dollars and fifty cents.
+- To William B. Kannon, of Maury County, two hundred and sixty dollars.
+- To the loyal heirs at law of Jane E. Kincaid, deceased, of Fayette County: John W. Kincaid, two hundred and seven dollarsand eighty-three cents; Andrew A. Kincaid, two hundred and seven dollars and eighty-three cents; Thomas J. Kincaid, two hundred and seven dollars and eighty-three cents; Mary E. Tinkler (nee Kincaid), two hundred and seven dollars and eighty-four cents; the legal guardian of Minnie, infant daughter of Margaret A. McGee (nee Kincaid), two hundred and seven dollars and eighty-four cents; in all, one thousand and thirty-nine dollars and seventeen cents.
+- To W. H. McGee, administrator of George T. Kelley, deceased, of Gibson County, two bundled and twenty dollars.
+- To Daniel R. Leech, of Dickson County, one hundred and fifty dollars.
+- To John Lee, of Handlton County, one hundred and fifteen dollars and twenty cents.
+- To G. W. Larkin, special administrator of William Larkin, deceased, of. Franklin County, six hundred and sixty five dollars and seventy-two cents.
+- To J. T. Lipscomb, administrator of William C. Lipscomb, deceased, of Franklin County, six hundred and eighty-seven dollars.
+- To A. L. Leinart, of Union County, two dollars.
+- To Mary Logan, widow of N. D. Logan, deceased, of Obion County, thirty-six dollars and twenty-five cents.
+- To Pamelia Langford, of Clay County, two thousand seven hundred and twenty-one dollars.
+- To Wesley Lock (colored), of Sumner County, sixty dollars.
+- To Bridget Long, widow of John Long, deceased, of Knox County, nine dollars.
+- To Jasper Lillard, of Polk County, one hundred dollars.
+- To Preston Layman, of Sevier County, one hundred and twenty-five dollars.
+- To John W. Luttrell, of Knox County, twelve dollars and eighty- eight cents.
+- To David Logan, of Knox County, fifteen dollars.
+- To Robert H. Laird, of Giles County, two thousand six hundred and five dollars and fifteen cents.
+- To Rufus Longmire, of Union County, thirty-four dollars.
+- To Lilburn P. Luttrell, administrator of John H. Luttrell, deceased, of Knox County, forty-two dollars and twenty-five cents.
+- To Stephen Long, administrator of Nicholas H. Long, deceased, of Rhea County, seventy-five dollars and fifty cents.
+- To J. B. Lynch, administrator of G. W. Lynch, deceased, of Hawkins County, one hundred and twenty dollars.
+- To Henry (or Henry D.) Lane, of Marshall County, two hundred and sixty dollars.
+- To J. S. Lindsay, of Campbell County, one hundred dollars.
+- To. J. W. Hill, administrator of Beverly Lively, deceased, of Jefferson County, forty-two dollars and fifty cents.
+- To J. C. Lee, of Knox County, one hundred and thirty-one dollars.
+- To C. A. Leinart, of Anderson County, twelve dollars.
+- To James M. Luna, of Bedford County, one hundred and thirty-five dollars.
+- To Thomas Long, of Knox County, three dollars and twenty cents.
+- To William J. Lassiter, of Davidson County, one hundred and fifty dollars.
+- To James L. Moore, administrator of Macom M. Moore, deceased, of Stewart County, one hundred and twenty-five dollars.
+- To M. T. Byrn, administrator of Martha G. McCutchan, deceased, of Williamson County, two hundred and fifty dollars.
+- To Ezekiel T. Maynard, of Obion County, one hundred and twenty dollars.
+- To James H. Morton, administrator of Gabriel L. Morton, deceased, of Marshall County, one hundred and thirty dollars.
+- To Julia F. Marchbanks, of Putnam County, one thousand and sixty-seven dollars.
+- To Thomas F. Mitchell, of Humphreys County, one hundred and twenty-five dollars.
+- To William W. Ellis, administrator of Isabella Mathis, deceased, of Stewart County, one hundred and forty dollars; to William W. Ellis, administrator of James Mathis, deceased, of Stewart County, three hundred and thirty dollars, in all, four hundred and seventy dollars.
+- To James C. Magee, administrator of John Magee, deceased, of McNairy County, one hundred and five dollars.
+- To John H.Savage, administrator of John Martin, deceased, of De Kalb County, three hundred and ninety-five dollars.
+- To John Tucker, administrator of Jesse McGuffee, deceased, of Putnam County, one hundred and thirty dollars.
+- To Thomas McNeilly, of Humphreys County, thirty-two dollars.
+- To James Miller, of Rutherford County, sixty-seven dollars and fifty cents.
+- To W. N. McCool, of Davidson County, one hundred and twenty-five dollars.
+- To John M. Crowe, administrator of Duncan McRae (or McRea), deceased, of Maury County, six hundred and twenty-five dollars.
+- To Carroll Moore, of Hawkins County, five dollars and thirty-three cents.
+- To James A. Doughty, administrator of James A. Murphy, deceased, of Knox County, sixty-two dollars and fifty cents.
+- To William T. Morris, administrator of Elias P. Morris, deceased, of Robertson County, two hundred and thirty four dollars.
+- To H. 8. Reynolds, administrator of Mary Moore, deceased, of Williamson County, fifty-six dollars.
+- To William Major, of Wilson County, one hundred and twenty-five dollars.
+- To Thomas F. Moseley, of Franklin County, twenty-one dollars.
+- To Simeon Morris, of Carroll County, one hundred dollars.
+- To Mrs. E. C. McMuny, administratrix of J. M, McMurry, deceased, of Davidson County, six hundred and sixty-seven dollars and fifty cents.
+- To S. 8. Hughes and W. J. Floyd, administrators of George W. May-berry, deceased, of Williamson County, five hundred and twenty-four dollars.
+- To W. W. Gill, executor, and Virginia Moore Wilhoit, executrix of William Moore, deceased, of Coffee County, fifty-two dollars and thirty-seven cents.
+- To F. L. Jacobs, administrator of Jacob Matthews (or Mathews), deceased, of Rutherford County, sixty dollars.
+- To Robert A. Turner, administrator of Matthew MeCelland, deceased, of Knox County, thirty-six dollars.
+- To H. W, McMurry, administrator of Martin McMurry, deceased, of Obion County, two hundred and seventy dollars.
+- To Daniel McMillan, of Stewart County, one hundred and twenty-five dollars.
+- To W. F. and R. M. Mason, administrators of John E. Mason, deceased, of Cannon County, two hundred and forty dollars.
+- To Thomas McKee, of Wilson County, one hundred and ninety dollars.
+- To Archibald McCaleb, of Rhea County, five hundred dollars.
+- To W, L, Jones, administrator of John W. Martin, deceased, of Franklin County, sixteen dollars and sixty-two cents.
+- To Alexander J. McCollum, of Lincoln County, one hundred and five dollars.
+- To James McMillan, of Knox County, six dollars and nineteen cents.
+- To John Gum, administrator of K. L. Martin (or Marlin), deceased, of Rutherford County, eight dollars.
+- To Miles H. McCown, of Lincoln County, one hundred and fifty dollars.
+- To Hiram Morris, of Cannon County, thirty-six dollars.
+- To David M. McElwrath, of Bedford County, one hundred and twenty-five dollars.
+- To Lewis White, administrator of Sallie Miller, of Wilson County, sixty dollars.
+- To W. J. Miller, of Lincoln County, seventy-five dollars.
+- To A. E. Moore, of Lincoln County, one hundred and ten dollars.
+- To Lutetia E. Monroe, of Shelby County, four hundred and twenty dollars.
+- To William McPherson, of Davidson County, seventy dollars.
+- To the late members of the firm of Miller and Company, of Knox County, namely : Ferdinand Miller, six dollars and twenty-five cents; John Dogan, six dollars and twenty-five cents; Margaret Pegg, widow of P, H Pegg, deceased, six dollars and twenty-five cents; in all, eighteen dollars and seventy-five cents.
+- To John C. Maddux,special administrator of Adam Maddux, of Handlton County, one hundred and thirty-five dollars.
+- To James T. Dunaway, administrator of John A. McAlpin, deceased, of McNairy County, four hundred and forty-seven dollars and five cents.
+- To Elizabeth D. McMillan, administratrix of John A. McMillan, deceased, of Knox County, four hundred and sixty-eight dollars and twenty-four cents.
+- To H. M. D. Vaughn, administrator of Lucinda Melvin, deceased, of Davidson County, forty-five dollars.
+- To M. B. Warren, administrator of Jared Mead, deceased, of Blount County, one hundred and twenty-five dollars.
+- To Polly (or Mary) A. Moore, of Putnam County, one hundred dollars.
+- To Lynza P. Myrick, of Lincoln County, one hundred and twenty-five dollars.
+- To Mahala C. Monroe and Marion Munroe, loyal heirs at law of David W. Munroe, deceased, of Fayette County, one hundred dollars.
+- To Maria H. Matlock, widow of Simpson Matlock, deceased, of Davidson County, twenty one dollars.
+- To Mary (or Mary A.) May, of Knox County, twelve dollars.
+- To Elizabeth P. McNairy administratrix of the estate of W. H. McNairy, deceased, of Davidson County, four hundred and ninety-three dollars.
+- To John W. Mankin, of Coffee County, two hundred and fifty dollars.
+- To Gabriel Matlock, of Davidson County, forty-four dollars.
+- To W. C. Willey, administrator of Matt, (or Matthew) Morris, deceased, of Humphreys County, one hundred and thirty dollars.
+- To W. FL Bunch, administrator of John W. McKissack, deceased, of Maury County, one hundred and fifty dollars.
+- To Mary Morgan, widow of Martin Morgan, deceased, of Rhea County, twenty-four dollars.
+- To Nancy Mize, widow of Jonathan Mize, deceased, of Sevier County, one hundred dollars.
+- To Mrs. H. O. McElwee, administratrix of Samuel S. McElwee, deceased, of Madison County, one hundred and twenty dollars.
+- To George Nicholson, of Roane County, thirty-one dollars and eighty cents.
+- To Stephen H. Rogers, administrator of William B. Neil, deceased, of Sullivan County, three hundred dollars.
+- To Elizabeth D. North (formerly Elizabeth D. Barton), of Smith County, one hundred and twenty-five dollars.
+- To Joshua Neely, of Davidson County, one hundred and twenty-five dollars.
+- To William Y. Nix, of Lincoln County, one hundred dollars.
+- To Elias H. Neely, of Lincoln County, one hundred and thirty dollars.
+- To T. J. Norcnm (or Markham), of Shelby County, one hundred and forty dollars.
+- To William Nuckles, of Franklin County, one hundred and twenty-five dollars.
+- To Benjamin F. Nerren, of Lincoln County, two hundred and sixty dollars.
+- To Benjamin Grigsby, administrator of Cordy (or Corda) Nicholson, deceased, of Williamson County, one thousand nine hundred and fifty dollars.
+- To Elizabeth Walker, Nancy A. Cassady, and John Nuckols, heirs at
+- law of Spotwood Nuckols, deceased, of Grainger County, two dollars and forty cents.
+- To John B. Neal, of Summer County, two hundred and fifty dollars.
+- To Richard Oldham, of Davidson County, one hundred and thirty-five dollars.
+- To Thomas J. Oldham, administrator of George W. Oldham, deceased, of Smith County, one hundred and fifty dollars.
+- To Mary O’Leary, administratrix of Daniel O’Leary, deceased, of Williamson County, seventy-five dollars.
+- To William B. Oliver, of Sumner County, fifty dollars.
+- To Mrs. B. S. Orgain, administratrix of B. S. Orgain, deceased, of Davidson County, two hundred and thirty dollars.
+- To John Y. Hutchison, administrator of John F. Owen, deceased, ot Robertson County, one hundred and twenty-five dollars.
+- To Archibald Olive, of McNairy County, forty-five dollars and seventy-five cents.
+- To J. E. Prosser, of Marshall County, five hundred and twenty dollars.
+- To John R. Nelson, administrator of Joseph Payne, deceased, of Knox County, twenty dollars.
+- To William Parker, of Stewart County, one hundred and twenty-five dollars.
+- Tb Robert Polk, of Hardeman County, one hundred and ninety-five dollars.
+- To Boliver (or Bolivar) Payne, of Robertson Count;', eleven dollars and seventy cents.
+- To James L. Powell, of Davidson County, one hundred and seventy dollars.
+- To Mrs. Conney (or ConnyParton), administratrix of R. J. Parton, deceased, of Marion County, one hundred and fifty-three dollars; to Mrs. Conney (or ConnyParton), administratrix of William Parton, deceased, of Marion County, fifty-one dollars; in all, two hundred and four dollars.
+- To Thomas S. Gallaway, administrator of Bernard M. Patterson, deceased, of Fayette County, one thousand four hundred and eighty dollars.
+- To Perry G. Prosser, of Lincoln County, one hundred and forty-five dollars.
+- To Samuel P. Plummer, administrator of Robert Page, senior, deceased, of Davidson County, one hundred and thirty-six dollars and forty cents.
+- To Francis M. Phillips, administrator of Charles (or Charles C.) Phillips, deceased, of Stewart County, ninety dollars.
+- To Thomas J. Deaton, administrator of William Pittman, deceased, of Shelby County, two hundred and seventy-seven dollars and fifty cents.
+- To Sarah P. Panter, administratrix of Mary Panter, deceased, of Bledsoe County, one hundred and thirty-two dollars and fifty cents.
+- To R. L. C. White, administrator of Elizabeth Pollard, deceased, of WilSon County, one hundred and seven dollars and fifty cents.
+- To Mrs. Margaret A. Rains, administratrix of H. G. Rains, deceased, of McNairy County, one hundred and sixteen dollars and fifty cents.
+- To George W. Rogers, of Handlton County, one hundred and eighteen dollars.
+- To John Ray, of McNairy County, twenty-four dollars and fifty cents.
+- To W. B. Russell, of Montgomery County, three hundred dollars.
+- To Mary Ray, of McNairy County, severity dollars.
+- To Martha Reeder (formerly Clift), of Knox County, twenty-two dollars and fifty cents.
+- To W. C. Fleming, administrator of E. H. Reams, deceased, of Williamson County, one hundred and twenty-five dollars.
+- To Nathaniel Russell, of Robertson County, one hundred and thirty-five dollars.
+- To Jane Rakes (formerly J. Walden), of Wilson County, one hundred and twenty dollars.
+- To Cecelia A. C. Birkinbiue (formerly Richard), administratrix of E. D. Richard, deceased, of Davidson County, nineteen dollars and fifty cents.
+- To D. C. Sherrell, administrator of Henry P. Rowe, deceased, of Lincoln County, one hundred and thirty-five dollars.
+- To Harris Ivan, of Rhea County, fifty-six dollars.
+- To Robert Russell, of Knox County, forty-five dollars.
+- To Daniel Riggle, of Marion Comity, two hundred and twenty-one dollars and sixty-seven cents.
+- To A. Buchanan, administrator of Frederick Robertson, deceased, of Davidson County, two hundred and fifty dollars.
+- To Dinah Rolls, widow of Franklin Rolls, deceased, of Stewart County, fifteen dollars.
+- To Daniel O’Connell, administrator of Isaac Renfro, deceased, of Shelby County, one hundred and fifty dollars.
+- To William B. Rush, of Cumberland County, one hundred and thirteen dollars.
+- To Whitmel Ransom, of Rutherford County, one thousand two hundred and two dollars.
+- To Elisha S. Sims, of Rutherford County, twenty-one dollars and fifty cents.
+- To H. D. Smith, administrator of David B. Smith, deceased, of Lincoln County, one hundred and five dollars.
+- To Craven M. Shanks, of Putnam County, one hundred and forty dollars.
+- To Mrs. Lucy A. Stevens, administratrix of Benjamin Stevens, deceased, of Williamson Comity, one hundred and sixty-nine dollars.
+- To H. J. Hildebrand, administrator of' Jacob Smith, deceased, of Robertson Comity, four hundred and twenty dollars.
+- To R. T. Scott, administrator of William H. Scott, deceased, of Cheatham County, one hundred and thirty-five dollars
+- To Martha E. Stine, of Sullivan County, one hundred and fifteen dollars.
+- To W, P. Sullivan, executor of B. T. Sullivan, deceased, of Wilson County, four hundred and sixty dollars.
+- To D. L. Simril. administrator of Rachel Simril, deceased, of White County, one hundred and twenty five dollars.
+- To Theodore A. Smith, of Hardeman County, one hundred and twenty-five dollars.
+- To P. C. Smithson, administrator of William R. Stone, deceased, of Marshall County, three hundred and twenty-five dollars.
+- To Martha E. Smith, widow of Capel B. Smith, deceased, of Lawrence County, thirty dollars.
+- To James R. Sawyer, of Williamson County, one hundred and thirty-five dollars.
+- To Alexander B. Soyars, of Robertson County, one hundred and fifteen dollars.
+- To James Shockley, administrator of William Shockley, deceased, of Grainger Comity, five dollars.
+- To James M. Sharp, senior, of Sevier County, eight hundred and twenty-eight dollars and fifty cents.
+- To John T. Bingham, administrator of William Skelly, deceased, of Williamson County, one hundred and twenty-five dollars.
+- To J. E. Shorter, administrator of John W, Shorter, deceased, of Henderson County, one hundred and fifteen dollars.
+- To C. W. Smith, administrator of J. M. Smith, deceased, of Wilson County, two hundred and fifty dollars.
+- To Samuel A. Seagraves, administrator of S. T. Seagraves, deceased, of Wilson County, four hundred and thirty-five dollars.
+- To E. D. Stephenson, of Davidson County, one hundred and fifty-three dollars and sixty cents.
+- Ta Henry Skipereth, of Blount County, fifty-five dollars.
+- To John’s. Satterfield, administrator of B. B. Satterfield, deceased, of Hickman County, four hundred dollars.
+- To T. H. and A. W. Stewart, executors of Henry Stewart, deceased, of Davidson County, one hundred and twenty dollars.
+- To Martha Smith, of Knox County, twenty-three dollars.
+- To W. E. Simmons, administrator of James L. Simmons, deceased, of Williamson County, one hundred and twenty-five dollars.
+- To L. N. M. Cook, administrator of Isaac N. Stewart, deceased, of Wilson County, two hundred and fifty dollars.
+- To .1. F. Huddleston, administrator of M. F. Simmons, deceased, of Davidson County, one hundred and thirty dollars.
+- To G. E. Smith, of Humphreys County, four hundred and thirty-five dollars.
+- To Devreaux Saucer, of Shelby County, forty-five dollars.
+- To George M. Stark, administrator of Presley W. Stark, deceased, of Robertson County, one hundred and twenty-five dollars.
+- To Price M. Snoddy, administrator of Nancy Snoddy, deceased, of Lincoln County, one hundred and fifty dollars.
+- To Samantha M. Snead, executrix of Robert Snead, deceased, of Knox County, one hundred and seventy-six dollars and eighty cents.
+- To William Smith, of Knox County, seventeen dollars and twenty-five cents.
+- To David M. Smith, of Lincoln County, one hundred and forty dollars.
+- To Finis Smith, of Smith County, four hundred and ninety dollars.
+- To Aaron Swafford, administrator of James Swafford, deceased, of Bledsoe County, forty-five dollars.
+- To John Stringer, of Robertson County, twenty-three dollars.
+- To Adeline M. Skaggs, widow of Eli Skaggs, deceased, of Knox County, forty dollars and fifty cents.
+- To Mary A. E. Spain, administratrix of George W. Spain, deceased, of Davidson County, two hundred and forty dollars.
+- To W. H. Smalley, of Benton County, one hundred and fifty dollars.
+- To Egin H. Spencer, of Maury County, seventy dollars.
+- To Jacob Shouse, of Hickman County, one hundred and ninety-eight dollars.
+- To John J. Phillips, administrator of William R. Thweatt, deceased, of Stewart County, four hundred and seventy-five dollars
+- To D. G. Brown, administrator of Benjamin Tanner, deceased, of Cumberland County, two hundred and ninety-three dollars and seventy-five cents.
+- To William Thacker, of Handlton County, eighty dollars.
+- To Beckwith J. Tiller, of Lincoln Comity, one hundred dollars.
+- To John A. Taylor, administrator of Elizabeth Taylor, deceased, of Lincoln County, two hundred and fifteen dollars.
+- To Bartley Taylor, of Dickson County, one hundred and twenty-five dollars.
+- To John Terry, of Putnam County, five hundred dollars.
+- To Harriet Tarpley, administratrix of Jerome B. Tarpley, deceased, of Giles County, one hundred and fifty dollars.
+- To Sarah Talley (formerly Sarah Martin), of Lincoln County, one hundred and forty five dollars.
+- To Preston H. Tucker, of Sumner County, one hundred and twenty-five dollars.
+- To Lucinda Tidwell, of Dixon County, one hundred and twenty-five dollars.
+- To Nathaniel Thurman, of Williamson County, one hundred and twenty dollars.
+- To W. J. Atkins, administrator of Oliver P. Thompson, deceased, of Stewart County, one hundred and fifteen dollars.
+- To C. S. Ivie, administrator of Newcomb Thompson, deceased, of Bed-ford County, one hundred and thirty-five dollars.
+- To James M. Thompson, of Davidson Count, eight dollars and sixty-four cents.
+- To Benjamin Trotter, of Humphreys County, one hundred and fifty dollars.
+- To W. W.Thompson, administrator of Wilson N.Tliompsou. deceased, of Davidson County, sixty-seven dollars and fifty cents.
+- To Lorenzo W. Thompson, of London County,one hundred and ninety-nine dollars and twenty-seven cents.
+- To B. C. Thomas, of Warren County, one hundred and four dollars and sixty-nine cents.
+- To R. J. Stringfellow, administrator of Mastin Ussery, deceased, of Cheatham County, one hundred and forty-nine dollars.
+- To Mrs. Nancy Umsted, executrix of John Umsted, deceased, of Gibson County, one hundred and eighty-nine dollars and ninety-eight cents.
+- To D. J. Vaden, of Humphreys County, one hundred and twenty-five dollars.
+- To F. J. Ewing, administrator of Isaac G. Voorbies, deceased, of Maury County, eighty-four dollars and thirty-three cents.
+- To C. C. Verser (or Vesser), executor of Daniel Verser (or Vesser), deceased, of Madison County, four hundred and seventy-five dollars.
+- To Henry H. McGee, administrator of M. M. Vickers, deceased, of Stewart County, two hundred and sixty-five dollars and sixty cents.
+- To Eliza Wammack (or Wormack), of Wilson County, one hundred and twenty-five dollars.
+- To Margaret R. Webster, of Maury County, six hundred and ninety-five dollars.
+- To John M. Walters, executor of John S. Walters, deceased, of Knox County, seventy-two dollars and forty-four cents.
+- To James K. Griffin, administrator of Sina (or Sinai) Walker, deceased, of Knox County, fifty dollars.
+- To Mrs. E. O. Wilkes, of Giles County, twenty-seven dollars and fifty cents.
+- To Nancy C. Winston, surviving executrix of Noel C. Winston, deceased. of Smith County, five hundred and ninety-five dollars and ten cents.
+- To James Woods, senior, of Stewart County, twenty-six dollars and thirty-three cents; to James Woods, junior, of Stewart County, six dollars and fifty-eight cents; to Jane Bell, of Stewart County, eight dollars and seventy-seven cents; in all, forty-one dollars and sixty-eight cents.
+- To W. A. Wilson, administrator of Josiah Wilson, deceased, of William-son County, seven hundred and ten dollars.
+- To Mrs. N. F. Wade, administratrix of Richard W. Wade, deceased, of Rutherford County, nine hundred and ninety-six dollars and forty-four cents.
+- To Daniel C. Webb, of Overton County, one hundred and fifty-seven dollars and seventy-one cents.
+- To James M. Willmore, of Jackson County, one hundred and forty dollars.
+- To C. W. Williams, of Williamson County, forty-five dollars.
+- To E. J. Kennedy, administrator of Lot Warren, deceased, of Franklin County, two hundred dollars.
+- To R. C. Anderson, administrator of C. N. Woodall, deceased, of Robertson County, eighteen dollars and seventy-five cents.
+- To James F. Waggoner, administrator of Thomas J. Waggoner, de-
+- ceased, of Davidson County, two hundred and seventy dollars and fifty cents.
+- To Reuben Worthington, of Bledsoe County, six dollars.
+- To Price M. Snoddy, administrator of Crawford P. White, deceased, of Lincoln County, one hundred and twenty-five dollars.
+- To Edward Walter, administrator of Bernard (or Bernhard) Walter, deceased, of Stewart County, sixty dollars.
+- To W. n. Wyrick, administrator of Samuel Wyrick (or Worraek), deceased, of Rhea County, thirty dollars.
+- To Samuel C. Webb, of Gibson County, one hundred and twenty-five dollars.
+- To Sarah L. Williams, administratrix of John W. Williams, deceased, of Meigs County, one hundred and twenty dollars.
+- To Elizabeth J. Wine, widow of Daniel S. Wine, deceased, of Blount County, twenty dollars.
+- To A. II. Williams, of Cheatham County, two hundred and forty dollars.
+- To E. S. Wortham, of Bedford County, one hundred and forty-nine dollars.
+- To W. II. Walker, of Bledsoe County, fifty-six dollars and sixty-six cents.
+- To R. G. Womack, administrator of Henry P. Womack, deceased, of Lincoln County, two hundred dollars.
+- To James M. D, Wilson, administrator of Thomas Wilson, deceased, of Lincoln County, one hundred and twenty-five dollars.
+- To Samuel and W. P. Watson,executors of Samuel Watson,deceased, of Davidson County, one hundred dollars.
+- To J. P. Cawtbon, administrator of Lemuel Wright, deceased, of Wilson County, one hundred and twenty-five dollars.
+- To Joseph N. Walker, administrator of James Walker, deceased, of Blount County, eighty-five dollars.
+- To Sampson Wyatt, of Cumberland County, one hundred and twenty-five dollars.
+- To Mary E. Weakley, executrix of B. F. Weakley, deceased, of Davidson County, one hundred and twenty-five dollars.
+- To Mary A. Wade, administratrix of Willis W. Wade, deceased, of Davidson County, one hundred and forty-eight dollars.
+- To Alice B. Smith, executrix of Mary Williams, deceased, of Robert-son County, four hundred and sixty-nine dollars and twenty-five cents.
+- To Joseph R. Williams, of Monroe County, thirty dollars.
+- To W. M. Hindman, administrator of William Wright, deceased, of Maury County, two hundred and sixteen dollars and sixty-six cents.
+- To James M. WiHmore (or Wilmon), administrator of Wade H. Willmore, deceased, of Jackson County, one hundred and twenty-five dollars.
+- To J. C. Wagoner, of Sumner County, one hundred and twenty dollars.
+- To Robert Young, of Carroll County, four hundred and seventy-five dollars.
+- To W. n. Villiner, administrator of Nancy Yates, deceased, of Robertson County, one hundred and thirty-five dollars.
+- To Sallic A. Marlow, administratrix of William B. Young, deceased, of Davidson County, one hundred and twenty dollars.
+- To D. W. Young, administrator of Austin C. Youug, deceased, of White County, two hundred and eighteen dollars.
+- KENTUCKY.
+- To Felix G. and Samuel J. Ashbrook, executors of Thomas V. Ashbrook, deceased, of Harrison County, two hundred and eleven dollars and sixty cents.
+- To T. H. Atkins, of Adair County, forty dollars.
+- To Allan V. McKay, administrator of John Ash, senior, deceased, of Nelson County, three hundred and tweuty dollars and fifty cents;
+- Emily J. Ash, executrix of John Ash junior, deceased, of Nelson County, two hundred and seventy-seven dollars and fifty cents; in all, five hundred and ninety-eight dollars.
+- To Susan Anderson, administratrix of Alexander Anderson, deceased, of Garrard County, one hundred and sixty-four dollars and sixty-four cents.
+- To John Q. Barton, of Whitley County, eighteen dollars and twelve cents.
+- To Aurelius R. Butler, of Metcalfe County, forty-eight dollars.
+- To H. M. Buckley, administrator of Lucinda Buckley, deceased, of Henry County, five hundred and ninety-two dollars and forty cents.
+- To John Beam, administrator of Allen Bradshaw, deceased, of Barren County, one hundred and eighty-five dollars.
+- To Thomas Bunnel, of Hart County, eighty-five dollars.
+- To Hardin D. Bennett, of Ohio County, one hundred and fifty dollars.
+- To Elizabeth Beams, widow of Samuel Beams, deceased, of Whitley County, nine dollars.
+- To Henry D. Baek, administrator of Isaac Back, deceased, of Breathitt County, twenty-seven dollars.
+- To J. W. Baker, of Jackson County, two hundred and eighty-five dollars.
+- To J. W. Dillon, administrator of Arthur Borders, deceased, of Lawrence County, one thousand and eighty dollars.
+- To John Brockman, administrator of Shelton Brockman, deceased, of Jackson County, one hundred and ten dollars.
+- To David Collinsworth, of Magoffin County, one hundred and fifteen dollars.
+- To Joseph A, Chapman, of Simpson County, nine dollars.
+- To George R. and L. F. Clements, executors of George Clements, deceased, of Washington County, eighteen dollars.
+- To Louisa Cogswell, administratrix of Henry Cogswell, deceased, of Rowan County, one hundred and eighty dollars.
+- To Conrad Castor (or Kastor), of La Rue County, one hundred and thirty dollars.
+- To Francis Cunningham, of Mercer County, seventy-two dollars.
+- To J. R. and Robert B. Chaney, executors of Washington Chaney, deceased, of Allen County, one hundred and forty dollars.
+- To Margaret L. Clark, administratrix of James Clark, deceased, of Boyle County, one hundred and forty seven dollars and fifty cents.
+- To James Canaday, of Webster County, one hundred and twenty-five dollars and fifty cents.
+- To Knacy L. Tanner, surviving partner of E. Coffee and Tanner, of Casey County, twenty dollars.
+- To Sarah Campbell, of Madison County, two hundred and ten dollars.
+- To J. T. Lundsford, administrator of Nancy Davis, deceased, of Hopkins County, one hundred and twenty-five dollars.
+- To Nathan S. Dishman, of Barren County, one hundred and fifty dollars..
+- To Matilda Dooms, of Livingston County, one hundred and twenty-five dollars.
+- To J. S. Robey, administrator of James Dinning, deceased, of Simpson County, fifty-five dollars and eighty cents.
+- To Samuel Draue, executor of Francis A. Drake, deceased, of Jefferson County, twenty-five dollars.
+- To Benjamin J. Doan, of Harrison County, one hundred and fifty dollars.
+- To Hardin Purdom, administrator of Thomas Elder, deceased, of Boyle County, one hundred and twenty-eight dollars.
+- To William W. Evans, of Carter County, eighty dollars.
+- To James Fields, administrator of Daniel S. Fields, deceased, of Harlan County, sixty dollars.
+- To W. S. Farris, administrator of Isaac H. Farris, deceased, of Barren County, eighty dollars.
+- To Henry D. Allen, administrator of Lewis Fiessinger, deceased, of Union County, one hundred and twenty-five dollars.
+- To E. C. Guest, of Butler County, one hundred and thirty dollars.
+- To William M. Gill, of Metcalfe County, eight dollars.
+- To James W. Griffin, administrator of Eliza (or Eliza A.) Griffin, deceased, of Garrard County, thirty-three dollars and fifty cents.
+- To R. N. Adams, administrator of Benjamin F. Grady, deceased, of Todd County, one hundred and forty dollars.
+- To James E. Gibbons, of Clinton County, ten dollars.
+- To Elijah S. Howard, of Harlan County, seventy-five dollars.
+- To F. J. Hutchens, of Cumberland County, forty-three dollars and fifty-seven cents.
+- To Andrew Hampton, of Harrison County, one hundred and fifty dollars.
+- To James Hall, senior, administrator of Francis Hall, senior, deceased, of Harlan County, sixty dollars.
+- To Moses Highnight, of Knox County, forty-one dollars and twenty-five cents.
+- To Agnes Herat (or Herrel), widow of Noah Heral (or Herrel), deceased, of Butler County, eleven dollars and twenty-five cents.
+- To William A., James F., and Charles Johns, executors of Charles Johns, deceased, of Union County, two hundred and seventy-five dollars.
+- To Zachartah Jones, of Hardin County, one hundred and twenty-five dollars.
+- To Richard Johnson (colored), of Kenton County, one hundred and five dollars.
+- To James L. Patterson, administrator of Abraham Keller, deceased, of Harrison County, one hundred and fifty dollars.
+- To E. Hurst, executor of John Kellems, deceased, of Bell County, one hundred and twenty-six dollars.
+- To Robert M. Kelly, administrator of Cordelia Kelly, deceased, of Jefferson County, eighty five dollars and eighty cents.
+- To W. H. Kimberlin, administrator of Elizabeth Kimberlin, deceased,, of Washington County, two hundred and forty-two dollars and seventy-five cents.
+- To J. M. King, administrator of Daniel King, deceased, of Logan County, three hundred and seventy-five dollars.
+- To Alfred Kemper, of Gallatin County, one hundred and fifty dollars.
+- To Eliza J. Kurtz, widow of George Kurtz, deceased, of Spencer County, forty dollars.
+- To F. M. Lawrence, of Grant County, one hundred and fifty dollars.
+- To Lucinda Leach, of Lawrence County, one hundred dollars.
+- To James Ledford, of Harlan County, thirty-five dollars.
+- To Stephen Ledford, of Harlan County, ninety dollars.
+- To Charles T. Atkinson, administrator of Mary Livers, deceased, of Nelson County, one hundred and forty dollars.
+- To James M. Moberly, of Mercer County, one hundred and fifteen dollars.
+- To John W. Morgan, of Hardin County, one hundred and twenty dollars.
+- To B. C. Mayfield, administrator of Sallie (or Sally) Mayfield, deceased, of Hart County, one hundred and seventy-one dollars.
+- To John S. Masden, of Jefferson County, three hundred dollars.
+- To Henry Marsee, of Bell County, thirty-six dollars.
+- To Mrs. Kate McAlister, widow of James McAlister, deceased, of Lincoln County, thirty-two dollars.
+- To William Mix, of Jefferson County, three hundred and eighteen, dollars and seventy-two cents.
+- To A. M. Morrison and J, A. Morrison, administrators of J. R. Morrison, deceased, of Oldham County, two hundred and forty dollars.
+- To John Wood, administrator of Martha S. McAtee, deceased, of Christian County, one hundred and fifty dollars.
+- To William J. Mayo, of Floyd County, one hundred and thirty-five dollars.
+- To Joel B. Moore, of Logan County, one hundred and fifty dollars.
+- To Matthew and Stephen Mullins, administrators of Richard Mullins, senior, deceased, of Pendleton County, one hundred and fifty-eight dollars.
+- To T. H. Murray, administrator of W. O. Newman, deceased, of Metcalfe County. one hundred and eighty-five dollars and three cents.
+- To Henry Niehl, of Mercer County, one hundred and forty-two dollars and fifty cents.
+- To Joseph A. Newton, of Shelby County, one hundred dollars.
+- To Davis Orear, administrator of John D. Orear, deceased, of Montgomery County, fifty four dollars.
+- To C. J. Owen, administrator of Thomas J. Owen, deceased, of Logan County, one hundred and thirty dollars.
+- To John W. Owen, of Pulaski County, one hundred and twenty-five dollars.
+- To Henry S. Percival, of Kenton County, three hundred and fifteen dollars.
+- To G. W, Parrish, of Barren County, twenty-five dollars.
+- To Uriah Porter, of Allen County, thirty-two dollars.
+- To W. W. Pierson, administrator of Will 8. Pierson, deceased, of Union County, one hundred and fifty dollars.
+- To Samuel T. Purdy, administrator of Robert Purdy, deceased, of Pendleton County, one hundred and fifty dollars.
+- To John L. Powell, of Boyle County, four hundred and ninety five dollars.
+- To Jerry Poor, of Grant County, one hundred and forty dollars.
+- To John R. and W. F. Redding, of Barren County, seventy-seven dollars and ninety-five cents.
+- To Elisha Robertson, of Clay County, forty dollars.
+- To Alfred Brooks, administrator of James Red (or Redd), deceased, of Harrison County, one hundred and fifty dollars.
+- To John J. Rousseau, executor of J. A. Rousseau, deceased, of Wayne County, three, hundred dollars.
+- To R. R. Henderson, administrator of John A. Reid, deceased, of Shelby County, seventy dollars and fifty cents.
+- To Joseph H. Hoof, of McCracken County, one hundred dollars.
+- To Henry Starr, of McCracken County, seventy-five, dollars.
+- To Joseph Steel, of Whitley County, seventy-two dollars and forty-seven cents.
+- To Joseph Scott, of Trigg County, one hundred and fifty dollars.
+- To William A. Seay, of Graves County, one hundred dollars.
+- To Leonard Stump, of Harrison County, one hundred and fifty dollars.
+- To John T. Sweeny, executor of Joseph A. Sweeny, deceased, of Jefferson County, fifty-eight dollars.
+- To Nancy Sublett, administratrix of James A. Sublett, junior, deceased, of Taylor County, three hundred and seven dollars and eighty cents.
+- To Joseph F. Smith, of Christian County, one hundred and fifty dollars.
+- To J. W, Story, L. J. Story, S. H. Story, and M. J. Andrews, executors of S. S. Story, deceased, of Graves County, two hundred and twelve dollars and ninety-five cents.
+- To John Troutwine, of Fulton County, fifty-two dollars.
+- To W. J. Lewis and Moses Terry, administrators of John S. Terry, deceased, of Grayson County, one hundred and twenty five dollars.
+- To David A. C. Tharp (or Thorp), of Grayson County, twenty-three dollars and fifty-four cents.
+- To George T. Ryan, administrator of H. L. Thurmond, deceased, of Simpson County, six hundred dollars.
+- To Linsey Taylor, of Wolfe County, one hundred dollars.
+- To Julius C. Turner, of Pendleton County, one hundred and forty dollars.
+- To Henry L. Tye, of Laurel County, one hundred and sixteen dollars and seventy cents.
+- To Mary Tennel, of Anderson County, one hundred and fifteen dollars.
+- To William Teater, of Madison County, one hundred and twenty-five dollars.
+- To Samuel S. Terry, of Green County, one hundred and fifteen dollars.
+- To Joseph H. Thompson, administrator of Emily Thompson, deceased, of Jefferson County, one hundred and ninety-two dollars.
+- To Nancy Jane Underhill, (formerly Nancy Jane Searcy), of Anderson County, one hundred and fifteen dollars.
+- To William L. Williams, of Lincoln County, seventy-five dollars.
+- To John Wiatt, administrator of Sidney Wiatt, deceased, of Union County, one. hundred and forty dollars.
+- To Robert Williams, of Owen County, one hundred and fifty dollars.
+- To W. B. Walker, of Owen County, one hundred and fifty dollars.
+- To Robert Williams, administrator of Richard Williams, deceased, of Owen county, one hundred and twenty-five dollars.
+- To John Wood (or Word), of Knox County, thirty dollars.
+- To Robert J. Warnock, of Greenup County, seventy-five dollars.
+- To Samuel P. Warnock, of Greenup County, seventy-five dollars.
+- To John and William D. Wilson, executors of Ebenezer Wilson, deceased, of Estill County, sixty-four dollars and fifty cents.
+- To Thomas H. Williams, of Allen County, one hundred and twenty-five dollars.
+- To J. W. Jones, administrator of John Wilson, deceased, of Barren County, one hundred and twenty dollars.
+- To Thaddens 8. Wright, senior, of Christian County, four hundred and fifty dollars.
+- To John S. Day, administrator of Miles (or Myles) S. Wiglesworth, deceased, of Harrison County, one hundred and fifty dollars.
+- To Nelson (or Nelson H.) Weller, of Bullitt County, one hundred and twenty dollars.
+- To Mary Zehnder, executrix of Andrew (or Andreas) Zehnder (or Sanders), deceased, of Jefferson County, one hundred and five dollars and ninety-five cents.
+- OHIO.
+- To J. S. Ambler, executor of John B. Ambler, deceased, of Guernsey County, forty dollars.
+- To William II. Aplin, of Hocking County, one hundred dollars.
+- To Abraham Battin, of Carroll County, one hundred and twenty-five dollars.
+- To Nancy Brown, of Guernsey County, seven dollars and seventy-two cents.
+- To Joshua Burkhead, of Guernsey County, seventy five dollars.
+- To Philip S. Bartlett, of Harrison County, one hundred dollars.
+- To 0. D. Bailey and William Cherington, of Gallia County, one hundred and twenty dollars.
+- To Mary Baker, wife of Peter Baker (sentenced for life), of Pike County, one hundred and five dollars.
+- To Robert Morrison, administrator of Alexander Caskey, deceased, of Adams County, fifty dollars.
+- To James Carothers (or Carrothers), of Harrison County, one hundred and twenty-five dollars.
+- To Samuel Copeland, administrator of Margaret Copeland, deceased, of Adams County, sixty seven dollars and twenty cents.
+- To Francis Cline, of Clermont County, one hundred and twenty-five dollars.
+- To James L. Crute, administrator of James Crate, deceased, of Pike County, one hundred and one dollars and ten cents.
+- To J. W. McClung, administrator of Robert Coleman, deceased, of Adams County, one hundred dollars.
+- To William D. Cassidy, administrator of John Dager, deceased, of Carroll County, fifty dollars.
+- To Joseph Davis, junior, of Clermont County, one hundred and thirty dollars.
+- To James Davis, of Brown County, sixty-five dollars.
+- To B. C. Dunham, of Pike County, seventy-five dollars.
+- To Meredith Evans, of Meigs County, sixteen dollars.
+- To John P. Flenniken, of Jefferson County, two hundred dollars.
+- To Fenton Bagley, administrator of James A. Fisher, deceased, of Muskingum County, one hundred and thirty dollars.
+- To John W. and Alexander M. Gregg, administrators of John Gregg, deceased, of Pike County, twelve dollars.
+- To Charles W. James, administrator of Eli Gray, deceased, of Vinton County, one hundred and fifty dollars.
+- To James Kirkpatrick, administrator of Thomas A. Gordon, deceased, of Harrison County, sixty-six dollars.
+- To A. M. Gatch, administrator of Thomas R. Gatch, deceased, of Clermont County, one hundred and sixty dollars.
+- To James Harvey, of Harrison County, eighty-five dollars.
+- To Rachel A. Harriman (or Herriman), administratrix of James Harriman, deceased, of Harrison County, one hundred and twenty-seven dollars and sixty-eight cents.
+- To Elizabeth Hite, widow of Noah Hite, deceased, of Brown County, thirty dollars.
+- To George W. Hutchison, of Guernsey County, thirty-five dollars.
+- To William U. Hover, of Allen County, fifty seven dollars and seventy-five cents.
+- To Henry Huntley, of Gallia County, eighty-five dollars.
+- To William L. Henning, of Clermont County, thirty-five, dollars.
+- To George Jackson, of Gallia County, eighty dollars.
+- To James Knight, of Pike County, one hundred dollars.
+- To Samuel L. Koons, of Morgan County, two hundred dollars.
+- To James N. Kirk, of Jefferson County, one hundred and thirty-five dollars.
+- To Samuel Koons, of Morgan County, four hundred and ten dollars.
+- To Samuel P. Kilpatrick, of Adams County, four dollars and twenty- eight cents.
+- To Eliza Love, widow of James Love, deceased, of Meigs County, forty-two dollars.
+- To James M. Lyle, of Clermont County, one hundred and thirty-five dollars.
+- To Doctor John Morgan, of Harrison County, onehundred and twenty-five dollars.
+- To Jacob Moore, of Harrison County, one hundred and thirty-five dollars.
+- To William D. McCotter, of Guernsey County, one hundred and fifteen dollars.
+- To Johnson Moore, of Harrison County, thirteen dollars and fifty cents.
+- To Jonathan Martin, of Harrison County, one hundred and thirty-five dollars.
+- To Eliab Matheuey, of Morgan County, one hundred dollars.
+- To Abraham Newton, of Gallia County, eighty-five dollars.
+- To Nathaniel Newman, of Scioto County, one hundred dollars.
+- To Edward Pumphrey, of Columbiana County, twenty-four dollars.
+- To Jacob Rice, of Meigs County, twenty dollars.
+- To Uriah Smith, of Columbiana County, ninety dollars.
+- To Thomas J. Shockey, of Highland County, seventy dollars.
+- To Hudson Stewart, of Jefferson County, twenty-six dollars and four cents.
+- To David Stansbury, of Meigs County, twenty dollars.
+- To Samuel Spencer, of Hocking County, one hundred and thirty-five dollars.
+- To Samuel J. Smith, of Jackson County, fifteen dollars.
+- To James H. Smitson, of Adams County, one hundred dollars.
+- To Joseph Townsend, surviving administrator of David Townsend, deceased, of Harrison County, forty dollars.
+- To Mary A. Tall, administratrix of Nancy Tall, deceased, of Meigs County, one hundred and twenty dollars.
+- To William Tudor, of Clermont County, fifty-seven dollars and four-teen cents.
+- To David Vickers, of Guernsey Comity, one hundred and ten dollars.
+- To William H. Watson,executor of John Watson, deceased, of Gallia County, one hundred and seventeen dollars and thirty-three cents.
+- To Mary A. White, of Meigs County, two hundred and eighty-six dollars.
+- To S. D. Wilson and William H. Wilson, administrators of Thomas Wilson, deceased, of Pike County, one hundred and twenty-five dollars.
+- MISSOURI.
+- To Maggie R. Alexander, administratrix of F. H. Alexander, deceased, of Jackson County, seven hundred and fifty dollars.
+- To Evan Brewer, administrator of Olive Brewer, deceased, of Barry County, two hundred and twenty-five dollars.
+- To .Mrs. Elizabeth .Barmer, widow of John Barmer, deceased, of Cass County, fifty dollars.
+- To Samuel A. Berry, of Barry County, thirty dollars.
+- To Hannah Booth, executrix of Robert C. Booth, deceased, of Dallas County, seventy-five dollars.
+- To Leonard Bradbury, of Cass County, three hundred dollars.
+- To J, II. Kyle, administrator of Eulela Brooks, deceased, of Cass County, one hundred and eighty-eight dollars and ninety-nine cents.
+- To Theodore F. Burnett, of Monroe County, one hundred dollars.
+- To T. N. Buckels, of Jackson County, ninety-seven dollars and fifty cents.
+- To William Black, of Phelps County, one hundred and fifty dollars.
+- To James Bryan, of Vernon County, sixteen dollars.
+- To George F, Bowers, administrator of John J. S. Bowers, deceased, and to William H. Bowers and George F. Bowers, of Jasper and Lawrence Counties, twenty dollars and sixty-three cents.
+- To M. C. Combs, of Barry County, one hundred dollars.
+- To John F. Cates, of Barry County, one hundred and eighty dollars.
+- To Albert M. Campbell, administrator of Nicholas Campbell, deceased, of Benton County, eighty-eight dollars and forty cents.
+- To Mary A. Crist, of Cass County, one hundred and twenty dollars and twenty-five cents.
+- To David Craig, of Morgan County, thirty dollars.
+- To Mrs. Sally (or Sallie) Cheatham, formerly Collins, administratrix of William W. Collins, deceased, of Henry County, ninety dollars.
+- To Mary E. Chilton, of Cooper County, one hundred and thirty-seven dollars.
+- To Mrs. Bettie Rogers, heir at law of John J. Chilton, deceased, of Cooper County, one hundred and sixty-five dollars.
+- To Edward D. Anthony, administrator of Peter Coker, deceased, of Madison County, two hundred and fifty dollars.
+- To Orville Castle, of Andrew County, twenty-seven dollars.
+- To Thomas Caves, of Green County, sixty-four dollars.
+- To James H. W. Cunningham, of Polk County, one hundred dollars.
+- To W. R. Campbell, of Ralls County, fifty dollars.
+- To James A. J. Downs, of Pettis County, seventy-five dollars.
+- To Edmond T. Douglas, of Jackson County, one hundred and fifteen dollars.
+- To Nancy A. Donica, widow of Henry Donica, deceased, of Barry County, one hundred dollars.
+- To R. H. Douthit, administrator of Henry B. Douthit, deceased, of Newton County, two hundred and thirty dollars.
+- To Barak De Haven, of Cooper County, twenty-five dollars.
+- To Harriet Dixon, administratrix of Ebenezer Dixon, deceased, of Jackson County, one hundred and fifty dollars.
+- To B. B. Cave, administrator of Charles S. Easley, deceased, of Cass County, three hundred and thirty dollars.
+- To Wilson C. Earney, of Crawford County, thirty seven dollars and fifty cents.
+- To Alfred T. Finley, of Webster County, one hundred and fifty-five dollars.
+- To Diedrick Frerking, of La Fayette County, three hundred and ninety-two dollars and twenty cents.
+- To James Freeman, of Heury County, one hundred dollars.
+- To Robert Marshall, administrator of Jeremiah N. Fly, deceased, of Green County, three hundred and twenty dollars.
+- To J. 11. Kyle, administrator of James M.Gunn, deceased, of Cass County, two hundred dollars.
+- To Constantia Gibson, of Cass County, one hundred dollars.
+- To William H. Gibbons, of Jackson County, nine hundred and sixty dollars.
+- To Ellen Graves, of Cooper County, twenty dollars.
+- To William Hutcherson, of Newton County, seventy-two dollars.
+- To Edward Harp, of La Fayette County, six dollars and forty-three cents.
+- To Bernard Holschlag, of Gasconade County, sixty dollars.
+- To Joseph W. Hendricks, of Lawrence County, one hundred and sixty-eight dollars and seventy-five cents.
+- To William C. Head, of Jackson County, one hundred and fifteen dollars.
+- To Nancy Howard, widow of Phillip J. Howard, deceased, of Douglas County, six dollars and twelve cents.
+- To Margaret A. Hall, widow of William Hall, deceased, of Barry County, one hundred dollars.
+- To the estate of David Hogan, deceased, of Cooper County, five hundred and forty dollars.
+- To William James, of Morgan County, sixty dollars.
+- To Nannie J. Ketchum, of Saint Louis, one thousand one hundred dollars.
+- To Highly R. King, administrator of John King, deceased, of Webster County, one hundred dollars.
+- To John Knoche, of Jackson County, five hundred and fourteen dollars.
+- To Elizabeth Kessel, widow of Charles Kessel, deceased, of Chariton County, one hundred dollars.
+- To Thomas J. Anderson, administrator of Samuel Kinsey, deceased, of Jackson County, three hundred and seventy dollars and sixty-six cents.
+- To William Loyd, of Montgomery County, one hundred and forty-nine dollars.
+- To Charles M. Lee, of Barry County, ninety-six dollars.
+- To Jacob I. Levi, of Jackson County, one hundred dollars.
+- To Frederick Long, of Cass County, sixty dollars.
+- To Sanders Luttrell, of Stone County, sixty dollars.
+- To William Lemarr, of Bates County, one hundred and twenty-five dollars.
+- To Wilson T. Mers, of Cass County, one hundred dollars
+- To David McGinnis, of Morgan County, sixteen dollars.
+- To William II. Myers, of Cass County, one hundred and sixty-eight dollars and forty-five cents.
+- To John McClosky, of Jackson County, one hundred and twelve dollars.
+- To William W. Moore, of Jackson County, lour hundred and seventy dollars.
+- To James McNeil, of Bates County, four hundred and ninety-five dollars.
+- To Paschal Moles, of Barry County, one hundred and eighty-five dollars.
+- To Andrew Mers, of Cass County, two hundred and twenty dollars.
+- To Permelia S. Morris, widow of John Morris, deceased, of Taney County, fifty dollars.
+- To Harvey Myers, of Cass County, thirty-six dollars.
+- To F. M. McDaniel, of Jasper County, twenty dollars.
+- To Spencer M. Morgan, administrator of Jacob B. Morgan, deceased, of Pettis County, one hundred dollars.
+- To Leander Mayfield and J. D. Lindsey, executors of Elisha Mayfield, deceased, of Bates County, one hundred and seventy-five dollars.
+- To J. M. Marsh, administrator of Madison S. Marsh, deceased, of Chariton County, one hundred and ten dollars.
+- To Mary Osburn, widow of John Osburn, deceased, of Christian County, ten dollars.
+- To Joseph Owens, of Laclede County, sixteen dollars and sixty-six cents.
+- To Aquila Parker, of Cass County, one hundred and twenty dollars.
+- To Isaac Perkins, of Barry County, sixty dollars.
+- To Greenberry Parker, of Cass County, four hundred and sixty-five dollars and twenty cents.
+- To David R. Page, of Christian County, two hundred and twenty dollars.
+- To Sanford Phillips, of La Fayette County, one hundred and twenty dollars.
+- To Hettie A. Peak, of Cass County, one hundred and eight dollars.
+- To Ira Pogue, of Newton County, seventy dollars.
+- To John B. Ruby, of Christian County, ninety-five dollars.
+- To Jasper Read (or Reed), of Jackson County, seven hundred and twelve dollars and fifty cents.
+- To Minor T. Smith, administrator of Richard Richards, deceased, and Elijah T. Richards, of Jackson County, two hundred and twenty dollars.
+- To J. F. Rogers, of Cooper County, one hundred and forty-three dollars.
+- To Benjamin Robinson, of Jackson County, eighty-three dollars.
+- To Elisha B. Rickman, of Lawrence Cohnty, thirty-nine dollars.
+- To Sebern Samples, of Newton County, eighty dollars.
+- To William Simpson, of Saint Francois County, two dollars and sixty-seven cents.
+- To Green M. Shelton, of Jackson County, two hundred and seventy-seven dollars.
+- To John Stoll, of La Fayette County, two hundred dollars.
+- To Mary A. Story, widow of John Story, deceased, of McDonald County, forty dollars.
+- To Seth B. Smith, of Moniteau County, eighty dollars.
+- To William H. Rodewald, administrator of Carl Smitz, deceased, of Jackson County, one hundred and ninety-two dollars.
+- To Lydia Smith, widow of Abijah Smith, deceased, of Cole County, forty-two dollars.
+- To John D. Stevens, of Morgan County, fifteen dollars.
+- To Columbus Stroud, of Lawrence County, ten dollars.
+- To Thomas B. Sanders, of Jasper County, eighty-nine dollars.
+- To the estate of Charles Stover, deceased, of Jackson County, sixty dollars.
+- To G. G. Tilman, of Pettis County, one hundred and forty dollars.
+- To Josiah P. Thornton, executor of William Thornton, deceased, of Texas County, one hundred and thirty dollars and thirty two cents.
+- To Casper Henry Uphouse, of La Fayette County, fifty-one dollars.
+- To John S. Underwood, of Cass County, one hundred and twenty-five dollars.
+- To Jacob (or J. B.) Vanleeuwen, of Jackson County, two hundred and fifty dollars.
+- To Cynthia Welch, widow of David Welch, deceased, of Webster County, one hundred and one dollars and fifty cents.
+- To O. A. Williams, of Livingston County, one hundred and fifty-four dollars and sixty-eight cents.
+- To M. S. Williams, of Lawrence County, thirteen dollars and fifty cents.
+- To Benjamin Whitener, of Madison County, eighteen dollars and seventy-five cents.
+- To James H. Willis, of Buchanan County, ninety-five dollars.
+- To Madison Williamson, of Monroe County, one hundred and ninety-five dollars.
+- To Thomas Welch, of Dent County, two hundred dollars.
+- To Thomas F. Yost, administrator of George J. Yost, deceased, of Cass County, two hundred and thirty-five dollars.
+- WEST VIRGINIA.
+- To Jesse Bright, of Greenbrier County, one hundred and twenty-five dollars.
+- To Elizabeth A. Collier, executrix of Daniel Collier, deceased, of Berkeley County, sixty four dollars.
+- To Jomi W. Vandiver, administrator of Catharine Cadwallader, deceased, of Hampshire County, two hundred dollars.
+- To Squire B. Currence, administrator of Eleanor Cufreuce, deceased, of Randolph County, two hundred and eighty-eight dollars.
+- To Charles B. Callison, of Greenbrier County, one hundred and five dollars.
+- To Thomas G. Clay, of Greenbrier County, twenty-seven dollars.
+- To Doctor F. M. Davis, of Berkeley County, one hundred and thirty-five dollars.
+- To John E. Heatwole, administrator of John Doman, deceased, of Hampshire County, one hundred and twenty-five dollars.
+- To Richard L. Deal, administrator of James M, Deal, deceased, of Fayette County, four hundred and three dollars.
+- To John J. Hilleary, of Jefferson County, thirty-three dollars and seventy-five cents.
+- To Jacob W. Heavner, executor of E. Heavner, deceased, of Upshur County, forty-seven dollars.
+- To John C. Harmon, of Putnam County, one hundred and forty-seven dollars and fifty cents.
+- To Allan D. Huddleston, of Fayette County, nine dollars and sixty cents.
+- To John B. Hannan, of Pocahontas County, one hundred and forty-one dollars.
+- To James II. Jennings, of Berkeley County, thirty four dollars.
+- To Martin Judy, administrator of Mary A. Judy, deceased, of Hardy County, sixty dollars.
+- To Henry Judy, executor of Amos Judy, deceased, of Pendleton County, one hundred and fifty-two dollars.
+- To John E. Kirby, of Cabell County, forty dollars.
+- To James Kenney, of Fayette County, one hundred dollars.
+- To S. O. Cunningham, administrator of Jacob F. Light, deceased, of Berkeley County, three hundred dollars.
+- To William J. Moler, executor of William Miller, deceased, of Jefferson County, seventy-five dollars.
+- To J. W. Meanor, Mary A. Hutzler, Martha J. Pine, and Sarah C. Lowry, heirs at-law of Johu Meanor, deceased, of Berkeley County, six dollars anti ninety cents.
+- To Robert McVey, executor of Samuel P. McVey, deceased, of Green-brier County, five hundred and sixty dollars.
+- To Thomas McComas (or M’Comas), of Cabell County, sixty-five . dollars.
+- To Elizabeth Michael, administratrix of George Michael, deceased, of Morgan County, eighty dollars.
+- To William Purgit, of Hampshire County, sixty-five dollars.
+- To Paulina E. Patterson, of Greenbriar County, one hundred and forty dollars.
+- To James II. Rece, of Cabell County, one hundred and seventy-five dollars.
+- To John G. Shirley, of Jefferson County, six hundred and thirty-one dollars and fifty cents.
+- To William R. Sharp, of Greenbriar County, one hundred and ten dollars.
+- To Solomon Shobe, of Grant County, nine hundred and fifty-three dollars and sixty cents.
+- To Peter M. Thrush, of Hampshire County, seventeen dollars and fifty cents.
+- To W. A. Thomas, of Kanawha County, seven dollars and fifty cents.
+- To Charles Wilson, of Fayette County, forty-four dollars and fifty cents.
+- To Zachariah L. Wilson, of Hampshire County, three hundred and fifteen dollars.
+- To William W. Young, administrator of Hugh K. Young, deceased, of Harrison County, ninety-five dollars.
+- MARYLAND.
+- To George Brewer, of Montgomery County, four hundred and seventy-two dollars and fifty cents.
+- To Meredith and Eliza A. Caliman, children of Thomas Caliman (colored), deceased, of Washington County, sixteen dollars and eighty cents.
+- To Philemon M. Smith, junior, administrator of William H. Camp-bell, deceased, of Montgomery County, forty-eight dollars and fifty-five cents.
+- To A. Hunter Boyd, administrator of J. B. H. Campbell, deceased, of Alleghany County, two hundred and forty-four dollars and fifty cents.
+- To John P. Dodge, of Montgomery County, thirty-nine dollars.
+- To Emily F. Duvall, widow of Charles A. Duvall, deceased, of Montgomery County, fourteen dollars.
+- To John A. J. Dixon, of Baltimore County, nine dollars.
+- To Raleigh Domer, of Washington County, sixty-two dollars.
+- To Sydenham B. Dietz, of Montgomery County, four hundred and seventy-one dollars.
+- To Mary Ewing Repplier and Bernard McCredy Ewing, heirs-at-law of Emeline M. Ewing, deceased, of Frederick County, ten dollars.
+- To Daniel H. Eyerly, of Washington County, in his own right, four hundred and twelve dollars and fifty cents, and as surviving administrator of Henry Eyerly, deceased, five hundred and fifty-seven dollars and thirty-four cents; in all, nine hundred and sixty-nine dollars and eighty-four cents.
+- To Henry Fisher, of Frederick County, twenty-four dollars and eighty-one cents.
+- To William R. Fulks, of Montgomery County, one hundred and twenty-two dollars.
+- To Richard Heater, executor of John Heater, deceased, of Frederick County, one thousand eight hundred and fifty-one dollars.
+- To John Hixon, of Washington County, five dollars.
+- To Amanda Higgins, widow of Eric Higgins, deceased, of Montgomery County, thirty-three dollars.
+- To William Houpt, of Washington County, two hundred and thirty-six dollars and seventy-four cents.
+- To William A. Hemp, of Frederick County, sixteen dollars and fifty-six cents.
+- To James S. Ha*knmersla, of Washington County, three hundred and three dollars.
+- To Peter Hilterbrick, of Carroll County, fifty-four dollars.
+- To Watkins James,of Washington County, fourteen dollars and sixty-two cents.
+- To John A. Jones, of Montgomery County, ninety dollars.
+- To Timothy L. Keen, of Baltimore County, forty-five dollars and fifty cents.
+- To J. A. Miller, of Frederick County, sixteen dollars.
+- To Jacob Mumma, of Washington County, two hundred and eighty-four dollars.
+- To Mary E. Murphy, widow of Charles H. Murphy, deceased, of Montgomery County, fifteen dollars.
+- To George Mehrling, of Frederick County, fifty-one dollars.
+- To C. J. Maddox, of Montgomery County, three hundred and ninety-five dollars.
+- To Vivian H. Neale, administrator of Henry A. Neale, deceased, of Charles County, nine hundred and thirty-seven dollars and fifty cents.
+- To Richard C. Norman, of Charles County, one hundred and one dollars and twenty-five cents.
+- To John G. Phillips, of Frederick County, twenty dollars.
+- To Richard H. Perry, of Montgomery County, seven hundred and seventeen dollars and fifty cents.
+- To Henson Ricketts, of Montgomery County, four hundred and forty-two dollars and fifty cents.
+- To William Roulette, of Washington County, four dollars.
+- To Isaiah Binger, of Baltimore County, three dollars and seventy-five cents.
+- To Elias E. Rohrer, of Washington County, five dollars and forty cents.
+- To Henry Rowland, of Washington County, fifty dollars.
+- To Solomon Snyder, of Washington County, sixteen dollars.
+- To John J. Stup, of Frederick County, forty dollars.
+- To Peter Shafer, of Frederick County, six dollars and forty-eight cents.
+- To Jonathan Spielman, of Washington County, sixty-four dollars and eighty-seven cents.
+- To Washington C. Snively, trustee of Jacob Staubs, of Washington County, twenty-two dollars.
+- To Thomas Sheppard, of Anne Arundel County, one hundred and sixty dollars.
+- To Thomas M. Shadrick, of Saint Mary’s County, one hundred and fifteen dollars.
+- To Charles Stevens, of Frederick County, one hundred and sixty-two dollars.
+- To Rebecca Smith, widow of Robert Smith, deceased, of Washington County, twenty-four dollars.
+- To Otho J. Shifler, of Washington County, two hundred and sixty-six dollars.
+- To Henry Tolson, of Prince George’s County, six hundred dollars.
+- To Francis Tolson, administrator of Mary H. Tolson, deceased, of Prince George’s County, one hundred and seventy-four dollars and fifty cents.
+- To Margaret C. Myer and Laura W. Warfield, executrixes of David O. Thomas, deceased, of Frederick County, two hundred and ninety-four dollars.
+- To Charles H. Wills, of Charles County, ninety-five dollars.-
+- To Christian Weaver, of Washington County, forty-five dollars.
+- To O. S. Wilson, of Montgomery County, forty-five dollars and forty cents.
+- To Ulysses Waters, of Frederick County, twenty-one dollars.
+- To Sophia Whitter, of Washington County, fifty-two dollars and eighty cents.
+- To Ann M. C. Waltz, Martin Waitz, and Daniel Waltz, administrators of John Waltz, deceased, of Washington County, forty-five dollars.
+- INDIANA.
+- To Jeremiah G. Bennett,of Jefferson County, one hundred and twenty-five dollars.
+- To Edward M. Chambers, administrator of Charles F. Buxton, deceased, of Jefferson County, one hundred and twenty-five dollars.
+- To James Brewer, of Washington County, one hundred and twenty-five dollars.
+- To William Duckworth, administrator of Wilson W. Chance, deceased, of Jackson County, seventy-five dollars.
+- To George W. Cline, of Scott County, one hundred and twenty-five dollars.
+- To William H. English, sole heir-at-law of Elisha G. English, deceased, of Scott County, two hundred dollars.
+- To George Gugel, of Dearborn County, one hundred and thirty dollars.
+- To John B. Green, of Washington County, one hundred dollars.
+- To George W. Henthorn, guardian of James W. Henthorn (insane), of Ripley County, one hundred and twenty-five dollars.
+- To Greenberry Martin, of Washington County, fifty dollars.
+- To Jacob H. Bussell, administrator of Henry Mackley, deceased, of Harrison County, one hundred and twenty dollars.
+- To Ann Nicholas, administratrix of Philip H. Nicholas, deceased, of Ripley County, one hundred and eighty dollars.
+- To Francis M. Ratts, of Washington County, seventy-five dollars.
+- To James H. Pryor, administrator of William Thompson, senior, deceased, of Ripley County, ninety dollars.
+- To James Weir, of Washington County, one hundred dollars.
+- PENNSYLVANIA.
+- To Robert Brown, of Lycoming County, one hundred and thirty dollars.
+- To Rowland Austin, administrator of James M. Clark, deceased, of Fulton County, sixty-five dollars.
+- To John Irvine, surviving executor of Robert Irvine senior, deceased, of Cumberland County, fifteen dollars and eighty cents.
+- To George M. Patterson, of Adams County, fifty-two dollars.
+- To John E. Tawney, executor of Abrabnm Tawney, deceased, of Adams County, eighty-seven dollars and fifty cents.
+- To L. H. Twaddell, of Philadelphia County, one hundred and five dollars, and fifty cents.
+- To the estate of G. Young, deceased, of York County, one hundred and thirty-five dollars.
+- ILLINOIS.
+- To William W. Collins, of Warren County, one hundred and thirty-five dollars.
+- DISTRICT OF COLUMBIA.
+- To Elizabeth Peter, widow of Thomas Peter, deceased, of Washing-ton County, fifty-two dollars and twenty cents.
+- To Thomas J. Quinter, of Washington County, twenty-four dollars and ninety-four cents.
+- To David Shoemaker, of Washington County, forty-five dollars and thirty-seven cents.
+
+## § 2.
+
+That the provisions in the act of Congress approved May seventeenth, eighteen hundred and eighty-six, appropriating the sum of three hundred and fifty-three and five cents to George K. Shearman (or Sherman), of Harrison County, Indiana, be, and is hereby, amended to appropriate the sum of three hundred and fifty-three dollars and five cents.
+
+
+*Approved, March 3, 1887.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- Mar. 3, 1887 .
+- Claims allowed by accounting officers to persons in— Vol. 13, p. 381.
+- Tennessee.
+- Tennessee—Continued. FORTY-NINTH CONGRESS. Sess. II. Ch. 435. 1887. 939
+- Tennessee —Continued. 940 FORTY-NINTH CONGRESS. Sess. II. Ch. 435. 1887.
+- Tennessee—Continued.
+- Tenn eases—Continned.
+- Ten neasee—Continued.
+- Tennessee—Continned.
+- Kentucky.
+- Kentucky—Continued.
+- Ohio.
+- Ohio—Continued.
+- Missouri.
+- Missouri—Continued.
+- West Virginia.
+- West Virginia—Continued.
+- Maryland.
+- Maryland—Continued.
+- Mary land—Continued.
+- Indiana.
+- Pennsylvania.
+- Pcnnsylvania—Continued.
+- Illinois.
+- District of Colombia.
+- George K. Shearman, Private laws, 1st sess., 49th Cong., p. 127.
