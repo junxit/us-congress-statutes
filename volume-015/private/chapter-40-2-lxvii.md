@@ -1,0 +1,28 @@
+---
+volume: 15
+citation: 15 Stat. 361
+type: Chapter
+number: LXVII
+congress: 40
+session: 2
+scope: private
+approved: 1868-06-19
+---
+
+# Chapter LXVII
+
+> An Act granting a Pension to Michael Kelly.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+That the Secretary of the Interior is hereby authorized and directed to place the name of Michael Kelly, late a private in the first Vermont battery volunteers, on the pension roll, at the rate of fifteen dollars per month, to commence from and after the passage of this act, and to continue during his natural life.
+
+
+*Approved, June 19, 1868.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- June 19, 1868.
+- Pension to Michael Kelly.

@@ -1,0 +1,407 @@
+---
+volume: 15
+citation: 15 Stat. 301
+type: Chapter
+number: CXXII
+congress: 40
+session: 3
+scope: public
+approved: 1869-03-03
+---
+
+# Chapter CXXII
+
+> An Act making Appropriations for sundry Civil Expenses of the Government for the Year ending June thirtieth, eighteen hundred and seventy, and for other Purposes.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+That the following sums be, and the same are hereby, appropriated, for the objects hereinafter expressed, for the fiscal year ending the thirtieth June, eighteen hundred and seventy, viz:
+
+- *Loans and Treasury Notes.—* For necessary expenses in carrying into effect the several acts of Congress authorizing loans and the issue of treasury notes, one million two hundred and fifty thousand dollars.
+- *Miscellaneous.—* For compensation of the acting chargé d’affaires ad interim at Venezuela, at the rate of four thousand five hundred dollars per annum from the first day of June last until such time as a minister shall be appointed and shall take charge of the legation, such sum as may be necessary.
+  - For carrying out the provisions of the act of the thirtieth of August, eighteen hundred and fifty-two, for the better protection of the lives of passengers on vessels propelled in whole or in part by steam, and of the acts amendatory thereof, the following sums, to wit: For the salaries of the supervising and local inspectors, seventy-six thousand eight hundred dollars; for the travelling expenses of the supervising inspectors, ten thousand dollars; for the travelling expenses of the local inspectors, fifteen thousand dollars: Provided, That whenever the public interest requires it, any local inspector may be allowed for travel in any one year a sum not exceeding seven hundred dollars. For the salary and travelling expenses of a special agent of the department, three thousand six hundred dollars; for the expenses of the meeting of the board of supervising inspectors, including travel and necessary incidental expenses, printing of manual and report, four thousand dollars; for stationery, for furniture of offices and repair thereof, for repair and transportation of instruments, and for fuel and lights, fifteen thousand dollars.
+  - For expenses in detecting and bringing to trial and punishment persons engaged in counterfeiting treasury notes, bonds, and other securities of the United States, as well as the coins of the United States, and other frauds upon the government, one hundred thousand dollars.
+  - To meet expenses to be incurred in the prosecution and collection of claims due the United States, fifteen thousand dollars, to be disbursed under the direction of the Secretary of the Treasury.
+  - For facilitating communication between the Atlantic and Pacific States by electrical telegraph, forty thousand dollars.
+  - For supplying deficiency in the fund for the relief of sick and disabled seamen, one hundred thousand dollars.
+  - For the construction of four steam revenue-cutters, viz: one for Alaska; one for Columbia river, Oregon; one for Mobile, Alabama; and one for Charleston, South Carolina, three hundred thousand dollars: Provided, That said cutters shall not cost more than the sum hereby appropriated.
+  - To defray the expense of a preliminary survey of the site for the proposed navy yard at League Island, five thousand dollars.
+  - For the completion of a bridge over the Dakota river, and to locate and survey the road from said bridge to the Vermillion bridge, one thousand dollars.
+  - In connection with the late bureau of freedmen and refugees:
+  - For Washington asylum and hospital, Washington, District of Columbia, twenty-five thousand dollars; for Richmond asylum and hospital, Richmond, Virginia, fifteen thousand dollars; Vicksburg asylum and hospital, Vicksburg, Mississippi, ten thousand dollars, for the present fiscal year: Provided, That on and after the close of the present fiscal year the said asylums and hospitals shall be discontinued.
+  - For collection and payment of bounty, prize-money, and other legitimate claims of colored soldiers and sailors for the fiscal year ending June thirtieth, eighteen hundred and seventy, and for salaries of agents and clerks, one hundred and forty-five thousand dollars;
+  - For rent of offices, fuel and light, twenty-five thousand dollars;
+  - For office furniture, three thousand dollars;
+  - For stationery and printing, twenty thousand dollars;
+  - For mileage and transportation of officers and agents, eighteen thousand dollars;
+  - For telegraphing and postage, three thousand dollars; being, in all, two hundred and fourteen thousand dollars.
+- *Survey of the Coast.—*
+  - For the survey of the Atlantic and Gulf coasts of the United States, including compensation of civilians engaged in the work, and excluding pay and emoluments of officers of the army and navy, and petty officers and men of the navy employed in the work, two hundred and seventy-five thousand dollars.
+  - For continuing the survey of the Pacific coast of the United States, including compensation of civilians engaged in the work, one hundred and seventy-five thousand dollars.
+  - For publishing the observations made in the progress of the coast survey of the United States, including compensation of civilians employed in the work, two thousand dollars, the publication to be made at the government printing office.
+  - For pay and rations of engineers for steamers used in the hydrography of the coast survey, no longer supplied by the Navy Department, per act of June twelfth, eighteen hundred and fifty-eight, five thousand dollars.
+  - For repairs and maintenance of the complement of vessels used in the coast survey, thirty thousand dollars.
+- *Northern and Northwestern Lakes.—*
+  - For the survey of northern and northwestern lakes, one hundred thousand dollars: Provided, That any surplus charts of the northwestern lakes may be sold to navigators upon such terms as the Secretary of War may prescribe.
+  - To procure a survey and report and for repairing wharf at the site for the navy yard on the river Thames, near New London, Connecticut, deeded to the United States for naval purposes, ten thousand dollars; but no further amount shall be contracted to be paid for this purpose.
+- *Lighthouse Establishment.—*
+  - For the Atlantic, Gulf, Lake, and Pacific coasts, viz:
+  - For supplying the lighthouses and beacon-lights with oil, wicks, glass chimneys, chamois skins, whiting, spirits of wine, polishing powder, cleaning towels, brushes, and other necessary expenses of the same, and repairing and keeping in repair the lighting apparatus, two hundred and fifty one thousand seven hundred and seventeen dollars.
+  - For the necessary repairs and incidental expenses, improving and refitting lighthouses and buildings connected therewith, two hundred and twenty-five thousand dollars.
+  - For salaries of five hundred and eighty-nine keepers of lighthouses and lighted beacons, and their assistants, four hundred and fifty-six thousand dollars.
+  - For seamen’s wages, repairs, supplies, and incidental expenses of twenty-four light-vessels, two hundred and thirty-two thousand two hundred and ninety dollars.
+  - For expenses of raising, cleaning, painting, repairing, removing, [remooring,] and supplying losses of beacons and buoys, and for chains and sinkers for the same, two hundred and fifty thousand dollars.
+  - For repairs and incidental expenses of refitting and improving fog-signals and buildings connected therewith, thirty thousand dollars.
+  - For expenses of visiting and inspecting lights and other aids to navigation, two thousand dollars.
+  - For a lighthouse on Half-way Rock, Casco Bay, Maine, fifty thousand dollars.
+  - For rebuilding Plum Island light-station, in addition to former appropriations, eleven thousand dollars.
+  - For repairs and renovations at Throg’s Neck, highlands at Neversink, Sandy Hook, Conover beacon, and Fort Tompkins light-station at New Jersey, thirteen thousand four hundred dollars.
+  - For stake-lights in the Hudson river, two thousand dollars.
+  - For stake-lights in Whitehall narrows, Lake Champlain, New York, five thousand dollars.
+  - For rebuilding Stratford River beacon, Connecticut, eight thousand dollars.
+  - For building a wharf and shed for landing and storage of buoys at Black Rock light-station, Connecticut, eight thousand dollars.
+  - For repairing and coping the brick wall on the north side of, and filling in and grading grounds at the Staten Island lighthouse depot, twelve thousand five hundred dollars.
+  - For rebuilding a first-class lighthouse at Cape Hatteras, North Carolina, in addition to former appropriations, forty thousand dollars.
+  - For replacing the ten-day beacons formerly marking the Florida reefs, fifty thousand dollars.
+  - For rebuilding Cat Island light-station, fifteen thousand dollars.
+  - For repairs and renovations at Proctorville beacon and Pas a l’Outre light-station, five thousand five hundred dollars.
+  - For a lighthouse at Point aux Herbes, Louisiana, to take the place of Bon Fonca light-station, destroyed by the rebels, and now re-established, eight thousand dollars.
+  - For a new lighthouse at Timbalier, to replace the one destroyed by a hurricane on the twenty-ninth and thirtieth March, eighteen hundred and sixty-seven, fifty thousand dollars.
+  - For a new lighthouse at Shell Keys, to replace the one destroyed in the hurricane of the fifth and sixth of October, eighteen hundred and sixty-seven, sixty thousand dollars.
+  - For rebuilding a light-station at the “Swash,” Texas, six thousand dollars.
+  - For a steam tender for lighthouse and buoy service in the Gulf of Mexico, fifty thousand dollars.
+  - For rebuilding Grand River light-station, Lake Erie, thirty thousand dollars.
+  - For a lighthouse and pier of protection at Cleveland, Ohio, forty-five thousand dollars.
+  - For repairs and improvements at Genesee light-station, Lake Ontario, thirteen thousand dollars.
+  - For repairs and renovations at Grassy Island and Monroe light-stations, three thousand three hundred dollars.
+  - For range lights to mark the channel into Presque Isle harbor, Lake Huron, seven thousand five hundred dollars.
+  - For the construction of a lighthouse on Spectacle reef, Lake Huron, one hundred thousand dollars.
+  - For repairs and renovations at South Manitou and Point Betsey light-stations, Lake Michigan, four thousand dollars.
+  - For rebuilding the keeper’s dwelling at Muskegon light-station, Lake Michigan, in addition to former appropriations, six thousand dollars.
+  - For repairs and renovations at St. Joseph’s, Michigan City, Raspberry Island, Minnesota Point, and other light-stations, five thousand six hundred dollars.
+  - For repairs and renovations at Bayley’s Harbor light-station, subject to provisions of act of Congress, March two, eighteen hundred and sixty-seven, in addition to former appropriations, fifteen thousand dollars.
+  - For rebuilding Portage River lighthouse, Lake Superior, twelve thousand dollars.
+  - For rebuilding Eagle River lighthouse, Lake Superior, fourteen thousand dollars.
+  - For enabling the lighthouse board to experiment with new illuminating apparatus and fog-signals, in addition to former appropriations, four thousand dollars.
+  - For two first-class light-ships, for relief vessels for outside stations, one hundred thousand dollars.
+  - For compensation of two superintendents of the life-saving stations upon the coast of Long Island and New Jersey, three thousand dollars.
+  - For compensation of fifty-four keepers of stations, at two hundred dollars each, ten thousand eight hundred dollars.
+  - For contingencies of life-saving stations on the coast of the United States, ten thousand dollars: Provided, That the Secretary of the Treasury shall have power, after a week’s notice to the public, to sell and convey any real estate no longer used for lighthouse purposes, the avails of such sale to be paid into the national treasury.
+  - For life-boat station on Narragansett Beach, Rhode Island, to be expended under the direction of the Secretary of the Treasury, five thousand dollars.
+- *Revenue-Cutter Service.—*
+  - For pay of officers and pilots, four hundred and eight thousand six hundred dollars.
+  - For rations for officers and pilots, twenty-eight thousand four hundred and seventy-nine dollars.
+  - For pay of petty of officers and crew, three hundred and eighty thousand eight hundred and fifty dollars.
+  - For rations of petty officers and crew, one hundred and thirty-three thousand five hundred and sixty-one dollars.
+  - For fuel, one hundred thousand dollars.
+  - For repairs and outfits, one hundred and twenty-five thousand dollars.
+  - For supplies of ship chandlery, fifty thousand eight hundred dollars.
+  - For travelling expenses, five thousand dollars.
+- *Construction Branch of the Treasury Department.—*
+  - For completing main stairway west wing, eight thousand five hundred dollars: Provided, That all moneys appropriated for the extension of the treasury building shall be disbursed only by one of the regular disbursing clerks of the Treasury Department, who shall receive no extra compensation for such service.
+  - For fencing and approaches to south front, twenty thousand dollars.
+  - For annual repairs, ten thousand dollars.
+  - For repairs and preservation of public buildings, one hundred thousand dollars.
+  - For furniture and repairs of same for public buildings, fifty thousand dollars.
+  - For fire-proof vaults for depositories, twenty-five thousand dollars.
+  - For fuel and miscellaneous items for custom-houses and other public buildings belonging to the United States, under the supervision of the Secretary of the Treasury, forty thousand dollars.
+  - For the preservation and protection of the public buildings already commenced and for the completion of which no appropriation is made, twenty-five thousand dollars.
+  - For removal of hydraulic weights and construction of the northwest stairway in the treasury building, ten thousand dollars.
+  - For laying the foundation and commencing the building for the post-office and sub-treasury in Boston, Massachusetts, two hundred thousand dollars.
+  - For laying the foundation and commencing the building for the post-office in New York, two hundred thousand dollars: Provided, That the Secretary of the Treasury and the Postmaster-General are hereby authorized, with the assent of the State of New York, to exchange a part or the whole of the point at the southerly extremity of the park, now the property of the United States, with the city of New York, for an equal or greater amount of land further up said park with public places on the northerly and southerly sides of the land so required: Provided, That no money shall be paid and no liability incurred for such exchange.
+  - For custom-house in Bangor, Maine, twenty-five thousand dollars.
+  - For custom-house in Cairo, Illinois, thirty thousand dollars.
+  - For post-office and court-house at Columbia, South Carolina, seventy-five thousand dollars: Provided, That the site for the same shall be given to the United States.
+  - For custom-house in Portland, Maine, sixty thousand dollars.
+  - For custom-house in St. Paul, Minnesota, fifty thousand dollars.
+  - For custom-house at Portland, Oregon, fifty thousand dollars.
+  - For court-house and post-office, Madison, Wisconsin, fifty thousand dollars.
+  - For the completion of a custom-house, court-house, and post-office building at Knoxville, East Tennessee, in addition to former appropriations, five thousand dollars.
+  - For purchase of building known as “the Club House,” at Charleston, South Carolina, and the fitting up thereof for the use of the United States courts, forty-six thousand dollars, or so much thereof as may be required, and the Secretary of the Interior is hereby authorized to make such pur-chase and fit up said building for the said purpose: Provided, That the same can be done at an expense not larger than the said forty-six thousand dollars.
+  - For court-house and post-office in Portland, Maine, twenty-five thousand dollars.
+  - For appraisers’ stores, Philadelphia, twenty-five thousand dollars.
+  - For branch mint, San Francisco, one hundred and fifty thousand dollars.
+  - For court-house, Springfield, Illinois, twenty-five thousand dollars: Provided, That the Secretary of the Treasury may, at his discretion, designate any officer of the United States who has given bonds for the faithful performance of his duties, as disbursing agent for the payment of all moneys that are or may be appropriated for the construction of public buildings authorized by law in their respective districts.
+
+## interior department.
+
+- *Rent of Office for Surveyors-General.—*
+  - For rent of surveyor-general’s office in the Territory of Dakota, fuel, books, stationery, and other incidental expenses, two thousand dollars.
+  - For office rent of the surveyor-general of Kansas, fuel, books, stationery, and other incidental expenses, two thousand dollars.
+  - For rent of office for the surveyor-general of Colorado Territory, fuel, books, stationery, and other incidental expenses, two thousand dollars.
+  - For rent of surveyor-general’s office for the Territory of New Mexico, fuel, books, stationery, and other incidental expenses, one thousand two hundred dollars.
+  - For rent of surveyor-general’s office of California and Arizonia, [Arizona.] fuel, books, stationery, and other incidental expenses, four thousand dollars.
+  - For rent of surveyor-general’s office in Oregon, fuel, books, stationery, and other incidental expenses, including pay of messenger, two thousand dollars.
+  - For office rent for the surveyor-general of Washington Territory, fuel, books, stationery, and other incidental expenses, two thousand dollars.
+  - For rent of office of the surveyor-general of Idaho, fuel, books, stationery, and other incidental expenses, two thousand five hundred dollars.
+  - For rent of office for the surveyor-general of Nevada, fuel, books, stationery, and other incidental expenses, two thousand dollars.
+  - For office rent of the surveyor-general of Iowa and Nebraska, fuel, books, stationery, and other incidental expenses, two thousand dollars.
+  - For rent of office of surveyor-general of Montana, fuel, books, stationery, and other incidental expenses, two thousand dollars.
+  - For rent of office of the surveyor-general of the Territory of Utah, fuel, books, stationery, and other incidental expenses, two thousand dollars.
+  - For a continuance of the geological survey of the Territories of the United States, by Professor Hayden, under the direction of the Secretary of the Interior, ten thousand dollars.
+  - For continuing the collection of statistics of mines and mining, by Professor R. W. Raymond, ten thousand dollars, to be expended under the direction of the Secretary of the Treasury. The sum of twenty-five hundred dollars appropriated for said purpose by the act of July twenty, eighteen hundred and sixty-eight, shall be transferred by the commissioner of the general land office to the Treasury Department to be expended as provided in said act.
+- *Public Works under the Supervision of the Architect of the Capitol Extension.—*
+  - For finishing and repairing the work of the United States Capitol extension, seventy-five thousand dollars.
+  - For finishing and repairing the work on the new dome of the Capitol, five thousand dollars.
+  - For the annual repairs of the old portion of the Capitol, such as painting, glazing, keeping roof in order, also water-pipes, pavements, and approaches to the building, ten thousand dollars.
+  - For finishing the work on the north front of the patent-office building, and for improving G Street from Seventh to Ninth Street, eight thousand five hundred dollars: Provided, That the corporation of Washington city cause the north half of G Street between Seventh and Ninth streets to be paved at the same time, the cost thereof to be assessed against the private property fronting thereupon in the manner usual in cases of such improvements.
+  - To finish the improvements on the western front of the post-office building, on Eighth Street, between E and F streets, for paving, grading, curbing, and sidewalks, five thousand six hundred and fifty dollars: Provided, That the corporation of Washington city cause the western half of said Eighth Street between E and F streets to be paved at the same time, the cost thereof to be assessed against the private property fronting thereupon in the manner usual in cases of such improvements.
+  - For the purchase of a site at Omaha, Nebraska, and for the erection upon the same of a building for a post-office, the federal courts, and federal offices, twenty-five thousand dollars.
+- *Smithsonian Institution.—* For the preservation of the collections of the exploring and surveying expeditions of the government, four thousand dollars.
+- *Metropolitan Police.—* For salaries and other necessary expenses of the metropolitan police for the District of Columbia, two hundred and eleven thousand and fifty dollars: Provided, That a further sum amounting to one hundred and five thousand five hundred and twenty-five dollars shall be paid to the said metropolitan police force by the cities of Washington and Georgetown, and the county of Washington (beyond the limits of said cities), in the District of Columbia, in the proportion corresponding to the number of patrolmen allotted severally to said precincts; and the corporate authorities of said cities, and the levy court of said county, are hereby authorized and required to levy a special tax, not exceeding one third of one per centum, to be appropriated and expended for said purpose only, for the service of the fiscal year ending June thirtieth, eighteen hundred and seventy.
+- *Expenses of the Collection of Revenue from Sales of Public Lands.—*
+  - For salaries and commissions of registers of land offices, and receivers of public moneys at sixty-six land offices, two hundred and eighty-seven thousand eight hundred dollars.
+  - For incidental expenses of the land offices, twenty thousand dollars.
+- *Surveying the Public Lands.—*
+  - For surveying the public lands in Minnesota, at rates not exceeding ten dollar’s per lineal mile for standard lines, seven dollars for township, and six dollars for section lines, twenty thousand dollars; and such construction shall be given to the joint resolution number thirty, approved twenty-fifth April, eighteen hundred and sixty-two, as shall not abridge the grant under the act of June third, eighteen hundred and fifty-six, for a railroad from Fon du Lac northerly to the State line, and the Chicago and Northwestern Railroad Company may select their lands along the full extent of the original route of said road as filed under the said act.
+  - For surveying the public lands in Dakota Territory, at rates not exceeding ten dollars per mile for standard lines, seven dollars [for] township and six dollars for section lines, fifteen thousand dollars.
+  - For surveying the public lands in Montana Territory, at rates not exceeding fifteen dollars per lineal mile for standard lines, twelve dollars for township and ten dollars for section lines, twenty-five thousand dollars.
+  - For surveying the public lands in Nebraska, at rates not exceeding ten dollars per lineal mile for standard lines, seven dollars for township and six dollars for section lines, forty thousand dollars.
+  - For surveying the public lands in Kansas, at rates not exceeding ten dollars per lineal mile for standard lines, six dollars for township and five dollars for section lines, forty thousand dollars.
+  - For surveying the public lands in Colorado, at rates not exceeding fifteen dollars per lineal mile for standard lines, twelve dollars for township and ten dollars for section lines, thirty thousand dollars.
+  - For surveying the public lands in Idaho, at rates not exceeding fifteen dollars per mile for standard lines, twelve dollars for township and ten [dollars] for section lines, twenty-five thousand dollars.
+  - For surveying the public lands in Nevada, at rates not exceeding fifteen dollars per lineal mile for standard lines, twelve dollars for township and ten dollars for section lines, forty thousand dollars.
+  - For surveying the public lands in New Mexico, at rates not exceeding fifteen dollars per lineal mile for standard lines, twelve dollars for township and ten dollars for section lines, five thousand dollars.
+  - For surveying the public lands in Arizona, at rates not exceeding fifteen dollars per lineal mile for standard lines, twelve dollars for township and ten dollars for section lines, five thousand dollars.
+  - For surveying the public lands in California, at rates not exceeding fifteen dollars per lineal mile for standard lines, twelve dollars for township and ten dollars for section lines, fifty thousand dollars.
+  - For surveying the public lands in Oregon, at rates not exceeding fifteen dollars per lineal mile for standard lines, twelve dollars for township and ten dollars for section lines, forty thousand dollars: Provided, That the commissioner of the general land office, in his discretion, may authorize public lands in said State densely covered with forests or thick undergrowth to be surveyed at augmented rates not exceeding eighteen dollars per mile for standard parallels, fifteen dollars for township and twelve dollars for section lines.
+  - For surveying the public lands in Washington Territory, at rates not exceeding fifteen dollars per lineal mile for standard lines, twelve dollars for township and ten dollars for section lines, fifteen thousand dollars.
+  - For surveying the public lands in Utah Territory, at rates not exceeding fifteen dollars per mile for standard lines, twelve dollars for township and ten dollars for section lines, twenty-five thousand dollars.
+  - For surveying the public lands in the Territory of Wyoming, at rates not exceeding fifteen dollars per mile for standard lines, twelve dollars for township and ten dollars for section lines, twenty-five thousand dollars.
+  - For surveying that part of the eastern boundary of Colorado Territory which lies between the thirty-seventh and fortieth parallels of north latitude, estimated two hundred and ten miles, at rates not exceeding twenty-five dollars per mile, two thousand five hundred and twenty dollars.
+  - For surveying the northern boundary of Nevada, estimated three hundred and ten miles, at rates not exceeding twenty-five dollars per mile, seven thousand seven hundred and fifty dollars.
+  - To complete the survey of the western boundary of Nebraska, thirty-two hundred dollars.
+- *Public Buildings and Grounds.—*
+  - For repairs and improvements of public buildings and grounds heretofore under the direction of the commissioner of public buildings, to wit:
+  - For casual repairs of the navy yard and upper bridges, three thousand dollars.
+  - For repairs and taking care of the bridge at or near the Little Falls of the Potomac river, two thousand dollars.
+  - For repairs of the Long bridge across the Potomac river, five thousand dollars.
+  - For fuel for the President’s house, five thousand dollars.
+  - For improvement and care of reservation number two, and Lafayette square, two thousand dollars.
+  - For care and improvement of grounds south of the President’s house, five thousand dollars.
+  - For extra labor in removing snow and ice from the pavements and public walks, five hundred dollars.
+  - For manure for the public grounds and reservations, and cartage of the same, two thousand dollars.
+  - For further improvement and care of reservations on New York, Pennsylvania, Massachusetts, Connecticut, Vermont, and Maryland avenues, three thousand dollars.
+  - For painting iron fences around the public squares and reservations, three thousand dollars.
+  - For annual repairs of the President’s house, ten thousand dollars.
+  - For flower-pots, glasses, twine, one thousand dollars.
+  - For fuel for the centre building of the Capitol, one thousand five hundred dollars.
+  - For hire of carts on the public grounds, two thousand dollars.
+  - For purchase and repair of tools used on the public grounds, one thousand five hundred dollars.
+  - For continuing the work of grading and filling the Capitol grounds, fifteen thousand dollars.
+  - For purchase of trees and tree-boxes, to replace, when necessary, such as have been planted by the United States, to whitewash tree-boxes and fences, and to repair pavements in front of the public grounds, two thousand dollars.
+  - For the repairs of buildings in the botanical garden and the erection of suitable iron stands for plants in new conservatory, four thousand dollars, to be expended by the architect of the Capitol, under the direction of the joint committee on the library.
+  - For pay of lamp-lighters, gas-fitting, plumbing, lamp posts, lanterns, glass, paints, matches, materials, and repairs of all sorts, five thousand dollars.
+  - For purchase of stationery, books, maps, plans, office furniture, and contingents of the office, one thousand dollars.
+  - To aid in supporting the “National association for the relief of destitute colored women and children” of this District, five thousand dollars, to be expended under the direction of the executive committee of its board of managers.
+  - For completing the iron fencing of the President’s grounds on the south and along the avenue now being opened between Fifteenth and Seventeenth streets, including gates, twenty-seven thousand dollars.
+  - For refurnishing the President’s house, twenty-five thousand dollars.
+  - For the purchase of a portrait of the late President Abraham Lincoln, to be placed in the executive mansion, three thousand dollars, or so much thereof as may be necessary: Provided, That said portrait shall be selected by the incoming President of the United States.
+  - For improvement, care, protection, and repair of seats and fountains in the Capitol grounds, one thousand dollars.
+  - For repairs and superintendence of the Washington aqueduct, twenty-five thousand dollars.
+- *Miscellaneous.—*
+  - For national cemeteries, six hundred thousand dollar’s.
+  - For care, improvement, and repair of the congressional burying-ground, to be expended under the direction of the wardens and vestry of Christ church, Washington city, three thousand dollars.
+  - To enable the Secretary of the Interior to provide for the education and maintenance of such deaf and dumb of the District of Columbia as cannot command the means to receive an education, fifteen thousand dollars.
+  - For the support, clothing, medical and moral treatment of the insane of the army and navy, revenue-cutter and volunteer service, who may have become insane since their entry into the service of the United States, and of the indigent insane of the District of Columbia in the government hospital for the insane, including five hundred dollars for books, stationery, and incidental expenses, ninety thousand five hundred dollars.
+  - For the purchase, by the Secretary of the Interior, for the agricultural and economical purposes of the institution, one hundred and fifty acres of land, more or less, with the buildings thereon, lying directly east of the present grounds of the hospital, twenty-three thousand dollars.
+  - For the national soldiers and sailors’ orphan home of the city of Washington, District of Columbia, ten thousand dollars, to be disbursed under the direction of the Secretary of the Interior.
+  - For reimbursing the State of Iowa for expenses incurred and payments made during the rebellion, as examined, audited, and found due the State, by General Robert C. Buchanan, commissioner under the act of Congress, approved July twenty-fifth, eighteen hundred and sixty-six, two hundred and twenty-nine thousand eight hundred and forty-eight dollars and twenty-three cents: Provided, That the proper accounting officers of the treasury shall review the said claim upon its merits, and allow only so much, not exceeding said sum, as shall be just.
+  - For the care, support, and medical treatment of sixty transient paupers, medical and surgical patients, in some proper medical or charitable institution in the city of Washington, under a contract to be formed with such institution, six thousand dollars, or so much thereof as may be necessary: Provided, That said contract shall be made by the surgeon general of the army, who shall report to the December session of every Congress, stating with whom the said contract is made and the amount and nature thereof.
+  - For the contingent fund of the House of Representatives, to pay to John A. Wimpey and James II. Christie, of Georgia, John D. Young, of Kentucky, and James H. Birch, of Missouri, claimants for seats in the House, each the sum of one thousand five hundred dollars, for their expenses severally, in their contests for such, seats; and the clerk of the House is hereby authorized to pay the said amounts respectively to the persons named.
+  - To enable the Secretary of the Interior to provide for the proper maintenance and tuition of the beneficiaries of the United States in the Columbia institution for the deaf and dumb, for the year ending June thirtieth, eighteen hundred and sixty-nine, seventeen thousand five hundred dollars.
+  - For the maintenance and tuition of the same, for the year ending June thirtieth, eighteen hundred and seventy, thirty thousand dollars.
+  - For expenses of the commission to run and mark the boundary line between the United States and the British possessions bounding on Washington Territory, thirteen thousand six hundred dollars.
+- *Columbia Hospital for Women, and Lying-in Asylum.—*
+  - For the support of the asylum, over and above the probable amount received for pay-patients, ten thousand dollars.
+  - For deficiency in the appropriation for the relief of the Navajoe Indians, now at or near Fort Sumner, to be expended under the direction of the Secretary of the Interior, eighty thousand eight hundred and thirteen dollars and fifty-eight cents.
+
+## § 2.
+
+And be it further enacted, That the clerk of the House be directed to pay out of the contingent fund the sum of four hundred dollars to W. S. Morse, and the sum of one hundred dollars to Charles S. Shambaugh, which shall be in full of all claims by them on account of services rendered to the committee on military affairs in collecting, during the recess of the thirty-ninth Congress, the papers and evidence respecting artificial limbs furnished to soldiers.
+
+## § 3.
+
+And be it further enacted, That the sum of seven thousand dollars be, and the same is hereby, appropriated, out of any money in the treasury, not otherwise appropriated, for the relief of the Mount Vernon ladies’ association of the Union, to be applied to the repair and preservation of the property at Mount Vernon, under the direction of the military officer in charge of the public buildings and grounds.
+
+
+*Approved, March 3, 1869.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- March 3, 1869. Vol. xvi. p. 51.
+- Civil expenses appropriation.
+- Expenses of loans and treasury notes.
+- Miscellaneous.
+- Supervising and local inspectors of steamboats. 1852, ch. 106. Vol. x. p. 61.
+- Allowance to local inspectors for travel.
+- Special agent.
+- Annual meeting of supervising inspectors. Furniture, repair, &c. of instruments.
+- Detection of counterfeiting and frauds.
+- Collection of claims due the United States.
+- Telegraph between Atlantic and Pacific States.
+- Sick and disabled seamen.
+- Construction of four steam revenue-cutters.
+- Proviso.
+- Survey of site for navy yard at League Island.
+- Bridge over Dakota river and survey of road.
+- Late bureau of freedmen and refugees.
+- Asylums and hospitals;
+- to be closed after present fiscal year.
+- Bounty, prize-money, &c. of colored soldiers and sailors.
+- Office rent, furniture, stationery, mileage, &c. telegraphing, and postage.
+- Pay of acting charge d’affaires at Venezuela.
+- Coast survey.
+- Atlantic and Gulf coasts.
+- Pacific coast.
+- Publishing observations.
+- Engineers for steamers used in the coast survey. 1858, ch. 154.
+- Vol. xi. p. 320. Vessels.
+- Northern and northwestern lakes. Surplus charts may be sold.
+- Survey, &c. at site for navy yard on the river Thames. Limit to amount.
+- Lighthouse establishment.
+- Atlantic, Gulf, Lake, and Pacific coasts.
+- Repairs and incidental expenses.
+- Keepers of lighthouses, beacons, and light vessels.
+- Seamen’s wages, &c.
+- Beacons and buoys.
+- Fog-signals.
+- Inspection of lights.
+- Lighthouse on Half-way Rock.
+- Plum Island light.
+- Throg’s Neck, &c.
+- Stake-lights in Hudson river and Whitehall narrows.
+- Stratford River beacon.
+- Wharf, &c. at Black Rock light-station.
+- Staten island lighthouse depot.
+- Lighthouse at Cape Hatteras.
+- Ten-day beacons on Florida reefs.
+- Cat Island light-station.
+- Proctorville and Pas a l’Outre.
+- Lighthouse at Point aux Herbes;
+- at Timbalier;
+- at Shell Keys.
+- Light-station at the “Swash,” Texas.
+- Steam tender for service in the Gulf.
+- Grand River.
+- Lighthouse at Cleveland.
+- Genesee.
+- Grassy Island and Monroe.
+- Presque Isle.
+- Spectacle reef.
+- South Manitou and Point Betsey.
+- Muskegon.
+- St. Joseph’s, Michigan City, &c.
+- Bayley’s Harbor. 1867, ch. 167. Vol. xiv. p. 459.
+- Portage River.
+- Eagle River.
+- Experiments with new illuminating apparatus and fog signals.
+- Light-ships.
+- Life-saving stations on Long Island and New Jersey.
+- Keepers of stations.
+- Contingencies.
+- Secretary of Treasury, after notice, may sell, &c. real estate not needed for lighthouse purposes, &c. Narragansett Beach.
+- Revenue-cutter service.
+- Construction branch of Treasury Department.
+- Main stairway. Appropriations for extension of treasury Building, how disbursed.
+- Repairs, &c. of public buildings.
+- Furniture, &c.
+- Fire-proof vaults.
+- Protection of public buildings already commenced, &c.
+- Post-office and sub-treasury in Boston.
+- Post-office in New York.
+- Exchange of property in New York authorized.
+- Custom-house in Bangor; Vol. xvi. p. 52.
+- Cairo.
+- Post-office, &c. at Columbia, S. C.
+- Custom-house in Portland;
+- St. Paul;
+- Portland, Oregon.
+- Court-house and post-office at Madison;
+- Knoxville;
+- Charleston, S. C.
+- Court-house, &c. in Portland, Maine.
+- Appraisers’ stores, Philadelphia.
+- Branch mint, San Francisco.
+- Court-house, Springfield, Ill. Vol. xvi. p. 11. Who may be designated as disbursing agents for public buildings.
+- Interior department.
+- Offices for surveyor-generral and expenses in Dakota;
+- in Kansas;
+- in Colorado;
+- in New Mexico;
+- in California and Arizona;
+- in Oregon;
+- in Washington Territory;
+- in Idaho;
+- in Nevada;
+- in Iowa and Nebraska;
+- in Montana;
+- in Utah.
+- Geological survey of the territories.
+- Statistics of mines and mining.
+- Transfer of former appropriation. 1868, ch. 177. Ante, p. 115.
+- Public works supervised by architect of Capitol extension.
+- Capitol extension.
+- Dome of Capitol.
+- Repairs of Capitol.
+- Patent-office building.
+- City of Washington to pave north half of G Street between, &c. and assess cost, &c.
+- Post-office building.
+- Paving of part of Eighth Street.
+- Site, &c. for post-office, court-house, &c. in Omaha.
+- Smithsonian Institution.
+- Metropolitan police.
+- Washington and Georgetown to contribute.
+- Special tax to be levied.
+- Expenses of collection of revenue from sales of public lands.
+- Surveying public lands in Minnesota. Vol. xvi. p. 12. Vol. xii. p. 618. Grant of bind for a railroad from Fon du Lac not abridged. 1856, ch. 48, § 1. Vol. xi. p 20. Chicago and Northwestern R. R. Co. may select lands, &c.
+- Surveying public lands in Dakota;
+- in Montana,
+- in Nebraska.
+- Surveying public lands in Kansas;
+- in Arizona;
+- in California;
+- in Oregon.
+- Augmented rates for surveys of lands covered with forests or thick under-growth.
+- Surveys in Washington Territory;
+- in Utah;
+- in Wyoming;
+- of eastern boundary of Colorado Territory;
+- northern boundary of Nevada;
+- western boundary of Nebraska.
+- Repairs, &c. of public buildings and grounds.
+- Navy yard and bridges.
+- President’s house and grounds, public squares, reservations, &c.
+- Fuel.
+- Carts and tools.
+- Grading, &c. Capitol grounds. Vol. xvi. p. 12.
+- Trees, treeboxes, &c.
+- Botanical garden and new conservatory. Vol. xvi. p. 52.
+- Lamp-lighters, &c.
+- Stationery, books, &c.
+- Destitute colored women and children.
+- President’s house and grounds.
+- Vol. xvi. p. 47.
+- Portrait of Abraham Lincoln; to be selected by whom.
+- Capitol grounds.
+- Washington aqueduct.
+- National cemeteries.
+- Congressional burying-ground.
+- Deaf and dumb in the District of Columbia.
+- Insane of the army and navy and of the District of Columbia.
+- Purchase of land for the government hospital for the insane.
+- National soldiers and sailors’ orphan home.
+- Reimbursement to Iowa.
+- 1866, ch. 248. Vol. xiv. p. 247.
+- Claim to be reviewed by treasury officers, &c.
+- Sixty transient paupers.
+- Surgeon-general to make contract and report.
+- Payment to claimants for seats in the House of Representatives for their expenses.
+- Institution for the deaf and dumb.
+- Boundary line between the United States and British possessions.
+- Columbia hospital for women, and lying-in asylum.
+- Navajoe Indians.
+- Payments to W. S. Morse and Charles S. Shambaugh.
+- Mount Vernon Ladies’ Association of the Union for repair, &c. of the property at Mount Vernon.
