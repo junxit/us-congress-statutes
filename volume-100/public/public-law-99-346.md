@@ -1,0 +1,151 @@
+---
+volume: 100
+citation: 100 Stat. 674
+type: Public Law
+number: 346
+congress: 99
+session: 2
+scope: public
+approved: 1986-06-30
+bills: 99/s-1106
+---
+
+# Public Law 99–346
+
+> An Act To provide for the use and distribution of funds appropriated in satisfaction of judgments awarded to the Saginaw Chippewa Tribe of Michigan in dockets numbered 57, 59, and 13E of the Indian Claims Commission and docket numbered 13F of the United States Claims Court, and for other purposes.
+
+*Be it enacted by the Senate and House of Representatives of the Saginaw United States of America in Congress assembled,*
+
+## § 1. short title; definitions
+
+- **(a)** This Act may be cited as the “Saginaw Chippewa Indian Tribe of Michigan Distribution of Judgment Funds Act”.
+- **(b)** For purposes of this Act—
+  - **(1)** The term “tribe” means the Saginaw Chippewa Indian Tribe of Michigan.
+  - **(2)** The term “Tribal Council” means the Saginaw Chippewa Tribal Council.
+  - **(3)** The term “Secretary” means the Secretary of the Interior.
+
+## § 2. abrogation of prior plan
+
+Notwithstanding Public Law 93–134 (25 U.S.C. 1401 et seq.) or any plan prepared or regulation promulgated by the Secretary pursuant to such law— and any interest or investment income accrued on the amount of such funds on or before the date of any transfer made pursuant to section 5 or 8 (less any attorneys’ fees and court costs), shall be distributed and used in accordance with the provisions of this Act.
+
+- **(1)** the funds appropriated in satisfaction of judgments awarded the tribe in dockets numbered 59 and 13E of the Indian Claims Commission, and
+- **(2)** the balance of any undistributed funds appropriated in satisfaction of the judgments awarded the tribe in docket numbered 57 of the Indian Claims Commission and docket numbered 13F of the United States Claims Court,
+
+## § 3. investment fund
+
+- **(a)**
+  - **(1)** The tribe, through the Tribal Council, shall establish a trust fund for the benefit of the tribe which shall be known as the “Investment Fund”. The principal of the Investment Fund shall consist of—
+    - **(A)** the funds transferred by the Secretary to the Tribal Council pursuant to section 5(a),
+    - **(B)** the amounts required to be included in principal under subsection (c) or section 8(c),
+    - **(C)** such portion of the funds paid to the Tribal Council under section 8(a) as the Tribal Council may elect to add to the principal, and
+    - **(D)** such other amounts of the income of the Investment Fund which the Tribal Council may elect to retain and add to the principal.
+  - **(2)** The Tribal Council shall be the trustee of the Investment Fund and shall administer the Investment Fund in accordance with the provisions of this Act.
+- **(b)**
+  - **(1)** The principal of the Investment Fund shall be used exclusively for investments or expenditures which the Tribal Council determines—
+    - **(A)** are reasonably related to—
+      - **(i)** economic development beneficial to the tribe, (or)
+      - **(ii)** the development of tribal resources, or
+    - **(B)** are otherwise financially beneficial to the tribe.
+  - **(2)** Under no circumstances shall any part of the principal of the Investment Fund be distributed in the form of per capita payments to the members of the tribe or used or expended for purposes other than investment or economic development projects and programs.
+  - **(3)** None of the income of the Investment Fund may be distributed or expended before the date that is 18 months after the date on which the amendments to the constitution of the tribe referred to in section 4(a) are adopted and ratified by the qualified voting members of the tribe (within the meaning of such constitution).
+- **(c)** At least 10 percent of the income earned on the Investment Fund during each of the first 10 fiscal years of the Investment Fund beginning after such Investment Fund is established shall be retained in the Investment Fund and become part of the principal of the Investment Fund.
+- **(d)**
+  - **(1)** The Investment Fund shall be maintained as a separate book account.
+  - **(2)** The books and records of the Investment Fund shall be audited at least once during each fiscal year of the Investment Fund (or before the end of the 3-month period beginning on the last day of such fiscal year) by an independent certified public accounting firm which shall prepare a report on the results of such audit. Such report shall be treated as a public document of the tribe and a copy of the report shall be available for inspection by an enrolled member of the tribe.
+- **(e)**
+  - **(1)** From the funds described in section 2 and transferred to the Tribal Council pursuant to section 5(a), the sum of $1,000,000 shall be set aside within 90 days of receipt of such funds by the Tribal Council for the express purposes of establishing a separate Elderly Assistance Investment Fund.
+  - **(2)** Income generated by the Elderly Assistance Investment Fund shall be distributed on a per capita basis to each enrolled Tribal member who is 50 years of age or older on the date that is 18 months after the date on which the amendments to the constitution of the tribe referred to in section 4(a) are adopted and ratified by the qualified voting members of the tribe.
+  - **(3)** Tribal members entitled to participate in the distribution of such income shall submit verifiable documentation as to their age to the Tribal Council no later than the date that is 3 months after the date established pursuant to paragraph (2) of this subsection. The Tribal Council shall prepare and certify a list of all Tribal members entitled to participate in the distribution of income from the Elderly Assistance Investment Fund within 30 days following the above date.
+  - **(4)** Distribution of the income from the Elderly Assistance Investment Fund shall be made pursuant to the following terms and conditions:
+    - **(A)** No Tribal member certified to participate shall receive more than the aggregate sum of $3,000 from the income generated by the Elderly Assistance Investment Fund.
+    - **(B)** Payments shall be made to each Tribal member certified to participate on an equal pro-rata basis from the available income generated by the Elderly Assistance Investment Fund.
+    - **(C)** The initial per capita distribution shall be made no sooner than the date that is 30 days after the date that the Tribal Council certifies the list of eligible Tribal members pursuant to paragraph (3) nor no later than 120 days following such date.
+    - **(E)** If succeeding per capita distributions are necessary to bring the aggregate payment to each Tribal member certified to participate to the sum of $3,000, such distribution shall be made on or before the anniversary date of the initial per capita distribution.
+    - **(F)** If any Tribal member certified to participate should die before receiving the initial or any succeeding per capita distribution, the payment which would have been paid to that individual shall be returned to the Elderly Assistance Investment Fund for distribution in accordance with this subsection.
+  - **(5)** When all Tribal members certified to participate in the per capita distribution have been paid the aggregate sum of $3,000, the principal sum of $1,000,000 together with any remaining interest of the Elderly Assistance Investment Fund shall revert back and become part of the Investment Fund established pursuant to subsection (a)(1): Provided, That, nothing in this subsection shall be construed to prevent the Tribal Council from establishing an Elderly Assistance Investment Fund or Program providing for per capita distributions or other programs for elderly Tribal members from the income of the Investment Fund and subject to such terms, conditions and eligibility criteria as the Tribal Council may provide.
+  - **(6)**
+    - **(A)** The Elderly Assistance Investment Fund shall be governed and subject to the same conditions as provided for in subsections (b) and (d) but not the provisions of subsection (c) of this section.
+    - **(B)** Any Elderly Assistance Investment Fund or Program which may be subsequently established by the Tribal Council shall be subject to the terms of this Act except that subsection (e) of this section shall not be applicable to such Fund or Program.
+
+## § 4. tribal constitution
+
+- **(a)** Notwithstanding any other provision of law, the Tribal Council may call a tribal election and, pursuant to such election, the tribe may adopt (without the approval of the Secretary) any amendments to the constitution of the tribe which were approved by the Tribal Council on April 15, 1985, in resolution L and O-03–85.
+- **(b)** Any amendments to the constitution of the tribe other than the amendments referred to in subsection (a) may only be adopted in accordance with the provisions of such constitution and applicable Federal law and may not be adopted before the date that is 18 months after the date on which the amendments referred to in subsection (a) are adopted and ratified by the qualified voting members of the tribe.
+- **(c)** The adoption of any amendment referred to in subsection (a) to the constitution of the tribe shall take effect when such amendment is ratified by the qualified voting members of the tribe (within the meaning of such constitution).
+- **(d)** The tribe shall submit to the Secretary a copy of any amendment to the constitution of the tribe referred to in subsection (a) within 10 days after the date on which such amendment is ratified by the qualified voting members of the tribe (within the meaning of such constitution).
+
+## § 5. transfer of funds by the secretary
+
+- **(a)** The Secretary shall transfer the funds described in section 2 (which have not previously been transferred to the Tribal Council under section 8(a) to the Tribal Council by no later than the date that is 60 days after the date on which the Secretary receives written notice of the adoption by the Tribal Council (in accordance with the constitution and bylaws of the tribe) of a resolution requesting the Secretary to make the transfer under this subsection if the amendments to the constitution of the tribe referred to in section 4(a) are adopted and ratified by the qualified voting members of the tribe (within the meaning of such constitution).
+- **(b)**
+  - **(1)** Notwithstanding any other provision of law, the approval of the Secretary for any payment or distribution from the principal or income of the Investment Fund, after the transfer of funds pursuant to subsection (a), shall not be required and the Secretary shall have no trust responsibility for the investment, supervision, administration, or expenditure of the principal or income of the Investment Fund.
+  - **(2)** The Secretary may take such action as the Secretary may determine to be necessary and appropriate to enforce the requirements of this Act. After notice and hearing, the Secretary may take such action as the Secretary may determine to be necessary and appropriate to assume administration of the Investment Fund if it is determined that the Tribal Council has materially failed to administer the Investment Fund in accordance with the requirements of this Act. The Secretary shall provide whatever assistance may be necessary to the Tribal Council to correct any such deficiencies prior to any proposed Secretarial assumption of the administration of the Investment Fund and immediately thereafter, if necessary. The Secretary’s assumption of the administration of the Investment Fund shall not exceed a period of 6 months.
+
+## § 6. treatment of amounts paid or distributed from the investment fund
+
+- **(a)** No amount of any payment or distribution— to any payee or distributee who is an enrolled member of the tribe shall be included in the gross income of the payee or distributee for purposes of any Federal, State, or local income tax.
+  - **(1)** from the principal or income of the Investment Fund, or
+  - **(2)** of any funds transferred to the Tribal Council under section 8(a)
+- **(b)** Any payments or distributions described in subsection (a), and the availability of any amount for such payments or distributions, shall not be considered as income or resources or otherwise used as the basis for denying or reducing—
+  - **(1)** any financial assistance or other benefit under the Social Security Act—
+    - **(A)** to which any enrolled member of the tribe, or the household of any such member, is otherwise entitled, or
+    - **(B)** for which such member or household is otherwise eligible, or
+  - **(2)** any other— to which such member or household is otherwise entitled or for which such member or household is otherwise eligible.
+    - **(A)** Federal financial assistance,
+    - **(B)** Federal benefit, or
+    - **(C)** benefit under any program funded in whole or in part by the Federal Government,
+
+## § 7. waivers of sovereign immunity
+
+Notwithstanding any other provision of law, the tribe may execute limited waivers of the sovereign immunity of the tribe and consent to the civil jurisdiction of the courts of the State of Michigan with regard to the use as security for indebtedness of— if such waivers of sovereign immunity do not exceed individually or collectively the total amount or value of such security and such waivers specifically identify and limit the parties who have been granted the authority to bring an action against the tribe pursuant to such waiver.
+
+- **(1)** any amount of income of the Investment Fund which is not retained and added to the principal of the Investment Fund pursuant to subsection (a)(1)(D) or (c) of section 3,
+- **(2)** a portion of the principal of the Investment Fund equal to the total amount, if any, of the funds transferred to the Tribal Council under section 8(a) that are added to the principal of the Investment Fund,
+- **(3)** any funds transferred to the Tribal Council under section 8(a) that are not added to the principal of the Investment Fund and any interest or investment income accrued on such funds, or
+- **(4)** any asset acquired by use of the income described in paragraph (1), or of the funds described in paragraph (3), which is not held in trust by the Secretary for the benefit of the tribe,
+
+## § 8. optional use of docket 57 funds
+
+- **(a)** The Secretary shall transfer to the Tribal Council all or any portion of the undistributed funds appropriated in satisfaction of the judgment awarded the tribe in docket 57 of the Indian Claims Commission (including all interest and investment income accrued on such funds) which the tribe requests the Secretary to transfer under this subsection. Such transfer shall be made by no later than the date that is 60 days after the date on which the Secretary receives written notice of the adoption of a resolution by the Tribal Council (in accordance with the Constitution and bylaws of the tribe) requesting a transfer of funds under this subsection.
+- **(b)** Any funds transferred to the Tribal Council under subsection (a) shall be subject to the same accounting and auditing requirements applicable to the Investment Fund under section 3(d).
+- **(c)** At least 10 percent of the interest or investment income, if any, that accrues during each year of the 10-year period beginning on the date any transfer is made under subsection (a) on any funds held by, or on behalf of, the tribe which were transferred to the Tribal Council under subsection (a) shall be transferred to the Investment Fund and become part of the principal of the Investment Fund.
+
+## § 9. nondiscrimination
+
+- **(a)** Any distribution or expenditure or the income of the Investment Fund, and any program or activity funded, in whole or in part, by the principal or income of the Investment Fund, shall not discriminate against—
+  - **(1)** individuals who become members of the tribe after the date on which the amendments to the constitution of the tribe referred to in section 4(a) are adopted and ratified by the qualified voting members of the tribe (within the meaning of such constitution), or
+  - **(2)** members of the tribe who do not reside on the reservation of the tribe.
+- **(b)** Any— shall not be construed to be discriminatory for purposes of subsection (a) merely because the benefits of such improvement, program, or activity are more readily available to members of the tribe who reside on the reservation of the tribe.
+  - **(1)** expenditure for any improvement on the reservation of the tribe that can be enjoyed by all members of the tribe, or
+  - **(2)** program or activity conducted only on the reservation of the tribe in which any member of the tribe can participate,
+
+
+*Approved June 30, 1986.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- June 30, 1986 [S. 1106]
+- Saginaw Chippewa Indian Tribe of Michigan Distribution of Judgment Funds Act. Claims. Securities.
+- Records. Reports.
+- Public information.
+- Aged persons.
+- Taxes.
+- 42 USC 1305.
+
+## Legislative history
+
+**LEGISLATIVE HISTORY—S. 1106:**
+
+*HOUSE REPORT No. 99–502 (Comm. on Interior and Insular Affairs).*
+
+
+*SENATE REPORT No. 99–119 (Select Comm. on Indian Affairs).*
+
+
+*CONGRESSIONAL RECORD:*
+
+- Vol. 131 (1985): July 31, considered and passed Senate.
+- Vol. 132 (1986): June 10, considered and passed House, amended.
+- June 16, Senate concurred in House amendment.
