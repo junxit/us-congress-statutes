@@ -1,0 +1,246 @@
+---
+volume: 64
+type: Senate Concurrent Resolution
+number: 51
+approved: 1950-03-22
+bills: 81/sconres-51
+---
+
+# Senate Concurrent Resolution 51
+
+> DEPORTATION SUSPENSIONS
+
+*Resolved by the Senate (the House of Representatives concurring),*
+
+That the Congress favors the suspension of deportation in the case of each alien hereinafter named, in which case the Attorney General has suspended deportation for more than six months.
+
+- Aperanthitis, Panagiotis Ioannis, or Peter John Apera or Peter J. Apera.
+- ArlenMichael, or Dikran Kouyoumjian.
+- Arlen, Atalanta (nee Mercati).
+- Arlen, Michael John.
+- Arlen, Venetia Valerie.
+- Arouani, Abdalla.
+- Arroya, Esteban, or Esteban Arcia or Stevan Aroya or Esuehan Arroyos or Esteban Arroyo Marbolejo.
+- AlvarezCanga, Maria Azucena.
+- Aboujdid, Nicole (alias Nicole Cerisier).
+- Amaral, Junior, Antonio Pacheco.
+- Bacolot, Pablo Lopez.
+- Baic, Anna (alias Ana Mikasic and Ana Podrebarac).
+- Bain, Stafford, or Stafford William Bain.
+- Baker, Ana Maria (formerly Ana Maria De Ruiz nee Aleanan V Valdes).
+- Baldivieso, Jose Guzman.
+- Beard, Beverly Ann.
+- Bellacicco, Ortenza (nee Santoemma or Maria Teresa
+- Benjamin, David Alexander Palmer.
+- Beresford, Charles William Marcus De La Poer Horsely.
+- Berge, Kaare.
+- Berweger, Karl.
+- Besterman, Alexander, or Alexander Best.
+- Black, Robert Cecil.
+- Blair, David Phipps, or David Blair Keller.
+- Bogas, Katerina or Katherine (nee Manetas).
+- Bondesani, Giovanni, or John Bomdeseme (also known as John Bondesani).
+- Bowerman, John Leslie (alias John Lester alias Leslie Bowerman).
+- Bratsch, Leanne Brigitte.
+- Bratsch, Barbara Renate.
+- Bresilley, Ralph Marcel.
+- Browne, John William.
+- Caiby, Lillian Cassilda (nee Vanterpool).
+- Calloway, Dinah Alonso.
+- Campos, Amada, or Amada Victoria Campos.
+- Christodoulou, Panagiotis Efthimiou.
+- Christodoulou, Demetrios.
+- Clarke, Jenine Frances, or Jeanne Clarke.
+- Clarkson, Alick.
+- Comrie, Albert Thomas.
+- Coterillo, Gerardo, or Gerardo Coterillo y Semo.
+- Culhane, Clara, or Clara Hall.
+- Cundekovic, Imbro, or Jim Cundekovic.
+- Chwalibog, Stanislawa Marie Kowal (nee Kowal).
+- Da Cruz, Manuel Joao.
+- Damacus, John (alias Ioan Dainacus alias Domacus).
+- D’Amico, Antonino, or Anthony D’Amico.
+- Davis, Eftyhia.
+- Davis, Grace I., or Grace Iris Noel or Grace Iris Hines. De Blanco, Maria Covadonga Villa Diego, or Maria de
+- la Concepcion Diaz y Gonzalez or Maria Covadonga Villa Diego.
+- De Estrada, Maria Gonzaliz.
+- Estrada, Apolinar, or Apolinar EstradaAragones.
+- De Garcia, Francisca Alvarado, or Francisca Alvarado Martinez: Mrs. Pancho Garcia.
+- De Lara, Andres, or Andres Lara De Luevano or Andres Lara Dr Nuevano.
+- De La Torre Gonzalez, Domingo.
+- De Lieva, Onesima Flores (aliases Onesima Flores; Onesima Flores de Leyva; Onesima Flores Leyva).
+- Demina, Giuseppe Luigi, or Giuseppe L. Demina; Joseph L. Demma or Joe L. Demma or Giuseppe Fu Luigi Demma.
+- De Montez, Guadalupe Garcia, or Guadalupe Garcia de At de Mantes or Guadalupe Garcia.
+- De Muniz, Isabel Mendoza.
+- Domingues, Evaristo.
+- Eith, Alice.
+- Emberton, Peter James, or Peter James Murphy.
+- Eng, Robert Ming, or Bock Ming Eng.
+- Ervin, John Kerr.
+- Eteng, Hameed.
+- Exadaktylos, Nicholas.
+- Fabianich, Louise (nee Alojzija Stepihar).
+- Fabianich, Karin Dolores.
+- Falco, Vincent, or Vincenzo Falco.
+- Fong, May Chan or Chan Shee (Yuet Ngo), Chan Yuet Ngo, or Feng Yuet Ngo.
+- Frederick, FleurAnge Rita.
+- Froe, Marie Hughes Leonide Lanoix, or Marie Hughes Leonide Lanoix.
+- GarciaRobledo, Alfredo, or Alfred Robledo and Alfred Zante.
+- Genauer, Reuben.
+- George, Kenneth Esdaille.
+- Gitales, Nathaniel, or Nathan Gale.
+- Gombos, Helen McKinnon, or Helen U. McKinnon, or Hellin Unelna Mykkanen.
+- GomezVillegas, Antonio.
+- Gomez, Maria Elena.
+- Gonzales, Praxedes, Gonzales, Dora Rosalia.
+- Gonzalez-Estrada, Luis.
+- Gonzalez-Vasquez, Jose Francisco, or Francisco Gonzalez Vasmioz.
+- Gormley, Alexander Aloysious, or Alexander Aloysious
+- Gouldwin, Ralph Marl or Goldenberg, or John TraversGregorutti, Carl, or Carl Gregoruttic, or Carl Gregor, Guerrero, Oscar.
+- Guido, Concetta Mary (nee Savina or Concerta Mary Johnson).
+- Hadeed, Joseph Farah.
+- Halfhide, Frank or Francois Willem BechtoldHanson, Alexander Edward.
+- Hatzigiorge, Dimitrios loanos.
+- Hatzlhoffer, Elizabeth Katherine (nee Szedula).
+- Heile, Robert.
+- Heise, Rosalia Concepcion.
+- Henriot, Gisele Aline Germaine.
+- Lan, Wong Wai (alias Wai Lan Huang or MrsHuang).
+- Huang, Fung Kuan (alias Fung Kuan Huan).
+- Hung, Kwan King.
+- Jaboneta, Ernesto Garson, Junior.
+- Janik, Piotr or Peter.
+- JassoCastaneda, Miguel, or Arturo Eulogio Jasso.
+- Kairinen, Eila Orvokki Kairinen, Virpi Helena.
+- Kallitsis, John Efsta thesis, or Steve Kallys. Karousos, John Nicholas or Menas.
+- Karrow, Elizabeth Margaret (alias Hartman nee Clark alias Rossie Margaret Karrow).
+- Kawas, George (alias George Balat).
+- Kazinsky, Edward Louis.
+- Kazinsky, Betty Louise.
+- Kazinsky, George Bernard.
+- Kontogianis, Irene or Kontagianis (nee Zacharias). Kost a, Frank, or Franc Kosta.
+- Lachesky, Diana Maria, or Diana Maria Ruffini. Lampos, Simos Adamandios, or Sam Lampos. Landman, Anne (nee Annie Rosenberg or Annie Ross). Le Moullec, Francois.
+- Leu, Kee Sang, or Leu Woh Hing or Ho Hing or Keu Lieu Woh Hing.
+- Leung, Yin Young.
+- Leung, Suey Jin Chin, or Suey Jin Chin or Chin Shee. Lim, Chow Har Lee, or Lee Cliow Har or Lim Lee Shee. Lin, Hsi Tung.
+- Lin Ying (nee Liu Wing).
+- Loistl, Karin.
+- Lukasick, Barbara, or Barbara Birsic or Agatha
+- Ma, Schwen Wei, or Joseph (Schwen Wei) Ma.
+- Ma, Tien Djen Nyi, or Bessie Nyi Ma.
+- Macias, Alfonso Rodriguez.
+- Maloney, Clara Bridget ( nee Miller).
+- Manetas, Leonidas Demitrios, or Louis James Manetas.
+- Marson, Gino Carlo Andrea, or Gino Carlo Marson.
+- Martin, Eileen Mary (nee McDonnell).
+- Martinez, Cornelio, or Cornelio Martinez Salas.
+- Maschas, Anastasios John.
+- May, John Joseph, or John Joseph Cieckiewicz.
+- Medina-Solis, Isaac, or Isaac Solis Medina.
+- Medina, Fernanda Briano De, or Fernanda BrianoMeichle, Ernest.
+- Mendes, Joao Rodriguez, or Joao RMendes or John
+- Messina, Francisco Paolo, or Frank Paolo Messina.
+- Meza, Loreto Rodriguez, or Loreto RMeza.
+- Miller, Mary Katherine, or Mary Katherine Sloan or
+- Marv Kuherine Gritzfeld.
+- Min, Sun Nien.
+- Mirtsopulos, Christos Yovany, or Christo Mitsopulos;
+- Miztsopulos or Mishopoulos; John Chris; Christos Yovany; or Joyan Sui roil.
+- Mobley, Helena Valentina, or Helena Valentina Gonsalves
+- Monsivaiz, Manuel.
+- Monsivaiz, Aureliano.
+- Montoya, Jesus Untoria, or Jesus Montoya.
+- MoraRuiz, Fortunato.
+- Morgan, Inez Helene (nee Dismont).
+- Muchin, Janina, or Jean Muchin (nee Tratenaite or Jean Brolen, formerly Leach, or Jennie Leach).
+- McCoy, Nora Ellen, or Nora Ellen McCoy (nee Sherne).
+- Nelting, Barbara Romana (nee Barbara Romana
+- Nilsson, Arthur Christopher.
+- Normington, James Eastwood.
+- Nyman, Johannes Severin.
+- Oakland, Nils Mikal.
+- Oaks, Archer Lee.
+- Ortiz-Rodriguez, Enriqueta.
+- OrtizRodriguezDora.
+- Osmond, Morley William.
+- Padilla-Avila, Alberto, or Alberto Padilla.
+- Pakidoff, Olga Igorevna, or Olga Igor Pak.
+- Papadimitrios, Michael Joseph.
+- Pereira, Francisco Antonio.
+- Perolini, Paul, or Paolo Perolini.
+- Perolini, Josephine, or Josephine Pepino.
+- Phillips, John Brian, or John Brian Phillips Nast.
+- Polansky, Anna (nee Sudia).
+- Ponce, Manuel, or Manuel Hernandez Ponce, Merced Hernandez Ponce.
+- Psaros, Markos.
+- Purewal, Bhagat Singh, or Bhagat Singh.
+- Rabsatt, Andrice Ford.
+- Rauch, Kurt Theodore (alias Curt Smoke).
+- Reimann, A ugust.
+- Rettura, Vincenzo, or Jim Rettura.
+- Rocca, Gennaro.
+- Rochkind, Esther (nee Esther Goldfarb).
+- Rodriguez, Cesario, or Cesario Rodriguez Cazares.
+- Rodriguez, Florencio, or Florencio MRodriguezRoleira, Luis Antonio Gancalvez.
+- Sabina, Manuel Pereira, or Manueal Pereira or Faustino
+- Sadow, Bertha (nee Mark or Polly Sadow).
+- Sandon, Rodolofo Riccardo, or Rodolfo Riccardo Sanph Richard Sandon.
+- Savrames, Harry, or Haralombos Savramis.
+- Seesodia, Jehan Warliker, or Jehan Warliker or Jehan
+- Setford, Peter Michael Harold.
+- Shafarzek, Raymond or Raimund.
+- Shafarzek, Isabella (nee Neymayer).
+- ShlauYen Guang.
+- Skogg, Helga Berntine (nee Karlson, formerly Morek).
+- Sliwinshi, Christine Dolores (alias Krystyna Dolores
+- Sokoloff, Philip, or Fei tel Sokolofsky.
+- Spinelli, Peter, or Pietro Spinelli.
+- Stakorec, Dragutin, or Mike or Frank or Mike Frank
+- Stamford, William Gilbert, or Frank Stamford.
+- Stead, Mildred Phoebe.
+- Stefanides, Stefanos (alias Steve Stefanides).
+- Stephenson, Margaret Lillian Elva (nee Saint Amand).
+- Stuart, Allan Joseph.
+- Susnjar, Stoyan Nick, or Stojon Susnjar or Stojen Nikola Nikola or Susmar or Steve Susnjar or Nick Susnjar.
+- Tants, Wilhelm Heinrich, or William H. Tants.
+- Tauras, Juozas, or Joseph Tauras.
+- Thomas, William Edwin.
+- Thrapp, Casta Carles (nee Casta Carles).
+- Titones, Michael loannes, or Mike or Mike John Titones or Michael Tetonis.
+- Tombyll, Ross John.
+- Turco, Giuseppe, or John Joseph Turco or Joseph Turco.
+- Turner, Lurline Joyce.
+- Tuttle, Douglas James.
+- Tzanavaras, Georgios Eleftheriou, or George Tzavaris.
+- Urena, Manuel, or Manuel UrenoFlores.
+- Usnap, Charles Helmuth, or Kabol Helmuth or Helmuth r Charles HUsnap.
+- Vadala, Antonino, or Anthony Vadala.
+- Van Eyeke, Marie Surdiacourt (nee Marie Surdiacourt).
+- Van Wolde, Herman C., or Hermannus (Harmannus).
+- Varangis, Antonios, or Toni Varangis.
+- Vavala, Mariangela Glelia Nevi.
+- Vavala, Maria Concerta (nee Anzoise).
+- Vavilis, Michael George.
+- VillasenorNavarro, Daniel.
+- Watt, In Chan.
+- Watt, Moi Kwai Yuk Chan.
+- Wilson, Helen Louise (alias Helen L. Andrews alias Helen Louise Andrews alias Helen Louise Thompson).
+- Williams, Emily Evangeline (nee Todd).
+- Woodhall, Richard Henry, or Richard or Henry WoodWoods, Eileen.
+- Yates, Thomas, Junior.
+- Yen, Chin Shik, or Thomas Yen Chin.
+- Yudice, Julio Hector.
+- Yudice, Carlota Angelica (nee Espinola).
+- Zacharakopoulos, John George.
+- Zole, Emilio, or Emilio Zole Di Cesare.
+- Zoulis, Vasilios, or William or Bill Zoulis.
+- Zunic, Frank, or Frane Zunic.
+
+
+*Agreed to March 22, 1950.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- March 22, 1950 [S. Con. Res. 51]

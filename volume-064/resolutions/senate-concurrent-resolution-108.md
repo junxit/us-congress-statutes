@@ -1,0 +1,377 @@
+---
+volume: 64
+type: Senate Concurrent Resolution
+number: 108
+approved: 1950-12-22
+bills: 81/sconres-108
+---
+
+# Senate Concurrent Resolution 108
+
+> DEPORTATION SUSPENSIONS
+
+*Resolved by the Senate (the House of Representatives concurring),*
+
+That the Congress favors the suspension of deportation in the case of each alien hereinafter named, in which case the Attorney General has suspended deportation for more than six months:
+
+- Abraham, Veronika or Veronica Abraham.
+- Abreu y Alvarez, Ricardo, or Richard Abreu.
+- Abstender, Liza (nee Liza Markowicz).
+- Ali, Asod, or Alli Asod Ullah or Asodeoolla Ashruffoolla.
+- Alinosi, Lottie Bernice (nee Dean).
+- Alma, Helen (nee Stedman Kinter or Alma SKinter or Alma Stedman Kinter).
+- Altamura, Pasquale.
+- Alter, Salomon Sloima.
+- AlvarezJustina Martin.
+- Amat, Kasmoin, or Kasmoin Bin Amat.
+- Arce, Socorro Labrado Ylanan, or Socorro Labrado Rodrigues (maiden name), formerly Socorro Labrado Ylanan alias Mrs. joe Manila.
+- Arcellana, Juan Aquino.
+- Arnold, Gustavus or Gus Arnold.
+- Arron, Barbara, or Sydney Barbara Arron or Barbara Lewis.
+- Ashton, Sarah Ellen, or Sarah Ellen Lewis (nee Muskem.)
+- Asrilant, Willy, or Wolka Asrilant or Zev Wolf.
+- Auriammo, Elsie.
+- Avvantaggio, Frank, or Frank Conti.
+- Bagues, Salvador, or Ruben Marrufo or Salvador Bgnes Villanueva.
+- Bahler, Karl F., or Karl Friedrich Bahler or Karl Buhler.
+- BasaloSosa, Carmen Teresa.
+- Bautista, Adalia Marquez de.
+- Benintende, Francesco, or Frank Benintende?
+- Berken, Regina Jean Matyas.
+- Bijjani, George Yousuf.
+- Birznier, Lina Margareta.
+- Blount, Richard Keith.
+- Blumberg, Barney Masei, or Boroch Blumberg.
+- Boeschling, Henry Frederick Wilhelm.
+- Bohn, Odette (nee De Rich or Rich).
+- Bonacasa, Liborio, or Benny Bonacasa or Bonacasa Liborio.
+- Bongini, Christino, or Christino Bongini.
+- Boutilier, Verner Trinimon, or Fred Gavin.
+- Bovoletis, Peter Considine.
+- Brega, Ernesto.
+- Brown, Basilette Argendeli (nee Argendeli).
+- Brown, Percy Flint.
+- Brown, Vernal Albert.
+- Bruck, Lila, or Hedwig Drdlik or Hedwig Bruck.
+- Bulleri, Dora Luigiana.
+- Burack, Sain.
+- Cardoza, Joao Ferreira, or John FCardoza.
+- Carlson, Berna Birgit Allrum.
+- Carroll, Louis Lawrence, or Louis Carroll.
+- Carty, Peter Silven.
+- Casais, Domingo, or Domingo Cassis y Costa.
+- Chaltas, Aristea Constantinou Katraouzou, or Aristea Constantino Katraouzou.
+- Chan, William Hee, or Gik Hee Chan.
+- Chan, Linda Siu King, or Chum Shao King.
+- Charleson, F rank Langelier.
+- Chiang, Chien Yin, or Chien Chick Yin.
+- Yink, Chiang Chu Sheng (nee Chu Sheng Ying).
+- Chikhmatoff, Olga Chirinsky, or Olga Shirinsky Shikhmadoff (nee Korff).
+- Clewis, Raimer Herman, or Raimer Herman Clewis formerly Raimer Herman Saladin or Rainer Herman Saladin).
+- Cohen, Albert Kibrit, or Alberto Cohen Kibrit or Albert Cohen.
+- Constantios, Philipos Nikolas, or Philip Constantios.
+- Costa, Amedeo Giovanni, or Amedeo G. Costa.
+- Damhus, Ejnar Jensen, or Edward or Eddy Damhus.
+- Dapas, Pietro, or Peter Dapas.
+- De Acosta, Petronila Machuca.
+- De Barrios, America Cabrera.
+- Barrios Y Cabrera, Jesus.
+- De Escobedo, Consuelo Gomez-Alonzo, or Rafaela Lopez.
+- De Grimwood, Laura Antonia Padilla.
+- Delikat, Lottie Margaret.
+- Dennis, Edward Victor, or Edward Victor Brown.
+- Diamantis, Stavros Spyridon.
+- Di Carlo, Calogero, or Calogero Lelio Di Carlo.
+- Doorly, Joseph or Joseph Dorley.
+- Doling, Uwe Franz.
+- Dumkolis, Trifo Alexander, or Trifo Alexander Dumkoloh or Trifo Alex Dumkeles.
+- Eastman, Elsa Oria (formerly Elsa Oria Garchitorena, nee Elsa Erinko Oria).
+- Elefant, Clara, or Elder, nee Lakatos.
+- Enomoto, Mihaeri or Jack.
+- Entralgo, Luis Estella.
+- Esop, Edward.
+- Esposito, Lucien Nicolas.
+- Essoglou, Panteleimon Elie.
+- Estaque, Jeanne (nee Seitelsohn).
+- Faustino, Iluminador Flores.
+- Femino, Marina Domenica Grace (formerly Hislop).
+- Fieldhouse, Roger Hyde.
+- Figueiras, Jose Gallardo, or Jose Gallardo.
+- Flanagan, Johanna Adriana.
+- Fogel, Morris, or Moische Fogel.
+- Forcke, Nadine Elwin.
+- Forcke, Eddie Wallace.
+- Fournaris, Constantinos Georgios, or Constantinos Fourneris or Gus Fournaris or Kostas Fournaris.
+- Franklin, Gudrun, or Gudrun Bruinsma.
+- Friedman, Fanny or Kalmar.
+- Fu, Huang, or Wong Fook or Wong Fook Nygoon or Wong Fook Yuen or Wong Chun Go.
+- Galati, Salvatore.
+- Galati, Maria Antico.
+- Gampe, Roland Pierre Lucien, or Roland PGampe.
+- Garden, Janet Miller, or Jean Whatling.
+- Gernaey, Marie Madeline (nee Kemmer, or Marie Madeline Jablonski).
+- Godley, Percival Francis, or Francis Percival Godley.
+- Godley, Doris (nee Eldred).
+- Goldstein, Rubin, or Riven Goldstein.
+- Goldstein, Sol.
+- Grille, Paul Jacques.
+- GronekHelena, or Helen Gronek.
+- Grun, Elza, or Elise Weisz, or Elszi or Eliz or Elsa.
+- Gubel, Josef.
+- Guerrero, Bozena Tomankova (nee Bozena Tomankova).
+- Gum, Mim, or Min Gum.
+- Guthrie, James.
+- Gutierrez, Dolores, or Dolores Arroyo.
+- Gutierrez, Guadalupe (alias Guadalupe Arroyo).
+- Hagymasi, Terez, or Terez Massey.
+- Hallas, Dionisios or Georgadidgh.
+- Hand, Monique Yvone (nee Placide).
+- Handeli, Vitali, and Victor Handeli.
+- Hardy, Cornelia Agatha.
+- Haritopoulos, Elias Theodore (alias Elias Charitopoulos alias Lomis Haritopoulos).
+- Hartmann, Barbara (nee Hess).
+- Hastings, John.
+- Hayes, James Victor.
+- Heinz, Joseph Karl.
+- Hendrickson, Agda Jakobina, formerly Ruutikainen (nee Merimosu).
+- Holen, Jenny Klara (nee Walderhaug).
+- Hou, Ai Ying, or Mah Ah Ying or Wang Ai Ying.
+- Howe, Maclean Kenneth Daniel (alias Hau Kam Tat or Dazu).
+- Hristostomidis, Hristostomis Yani, or Chris John Chrisostomidis.
+- Hronis, Sophie.
+- Hsiang-Ping, or Ping Hsian Hsiang or Catherine Hsiang or Bian Hsian Hsiang or Hsiang Bin Hsien.
+- Huffan, Edwin Eric.
+- Hum, Lee Shee, or Hum Lee Shee.
+- Huvos, Laszlo, or Leslie Huvos.
+- lacovetta, Osvaldo, or Osvaldo locovetta or Osvaldo Iacovetta.
+- Ibrahim, Mehmet, or Ibrahim Mehmet or Mehmed Abrahim.
+- Iversen, Bjorg Wennberg.
+- Jacks, Edna Eulalia (nee Barkas, or Edna E. Jacks).
+- James, Poulia or Poulia Cotsifa, maiden name, or Poulia Kotsifa.
+- Jaresch, Emma Johanna.
+- Jarosz, Ingel ise Solveig (nee Jensen).
+- Kakowoulis, Nicolis, or Nickolis Kakovoulis.
+- Kastanos, Antonios Simos.
+- Kew, Ko, or Kew Ko.
+- Khouri, Mounira (nee Mounira Abonzeid or MmeVve Nagibo
+- Kiang, Stuart, or ChaoHai Kiang.
+- Kilian, Jozef.
+- Kim, June Jha.
+- Kin, Kong Yuet, or Cecile Kong or Tong Yuet Kiu.
+- Klesznicki, Wilhelm August, or Wilhelm Kleznicki or William August Klesznicki or William August Lkeznicki.
+- Knaus, Maximilian, or Max Knaus.
+- Knudsen, Soren Anton, or Steve Knudsen.
+- Kurth, Paul Gustav.
+- Kyriakidks Makrina, or Makrina S. Kyriakides or Makrina Socrates Kyriakides (nee Makrina Kouzoudjacojhlu).
+- Lai, Leung.
+- Larsen, Christian Peter, or Christian Peter Werdelbon.
+- LarsenDagny Kirstine Johanna Sorensen.
+- Larsen, Betty Dagny.
+- Lee, Hung Yuke.
+- Lekich, John, or John Sam Lekich.
+- Lemak, Oscar.
+- Lemak, Zoltan.
+- Leon, Francisco Ysmael Martinez, or Francisco Martinez.
+- Lewis, Rosane Maria, or Rosana Maria Mannucci, Rosanna Mannuci.
+- Lima, Jose Paiva, or Jose De Paiva Lima.
+- Lincourt, Linda Margaret, or Linda Margaret Suitter.
+- Linkous, Gladys Corless (nee Corless).
+- Loeschnigg, Janet, or Misuet Loechnigg, or Misuet Loechnigg.
+- Loginoff, Natalie N.
+- Lowe, Evelyn Joan (nee Sommerfeld or Summerfield, formerly Rutherford).
+- Luckiewicz, Joseph Kazimierz.
+- Luehmann, Alwin Albert Hermann.
+- Luis, Domingo.
+- MacphersonDonald Joseph.
+- Madore, Rose Marie (nee Cote or Rose Marie Labrie).
+- Mahlmann, Dirk Robert, or Dirk Robert Vogel or Dirk Robert Hogan.
+- MajchrzakMary.
+- Manalis, John Ioannis.
+- Marchetti Pietro Guido, or Pietro Marchetti or Pete Marchetti or Francisco Genetti.
+- Mark, See Cheung.
+- Markiori, Emilio, or Emilio Marchiori or Emilio Marki.
+- Markoures, Irene Panageotou, or Irini Athanasios Panageotou.
+- Marlmann, Rainer Wolfgang, or Rainer Wolfgang Hogan.
+- Marmorstein, Alexander, or Alex MStone.
+- Marwick, Nancy Joy.
+- Masuko, Sadao.
+- Matchkaloff, Alexander Serge, or Alexander S. Maehavariant or Alexander Sedrakovitch Machkaloff or Alexander S. Machavarian or Alexander Angelo.
+- Matthiesen, Heinrich, or Heinrich Walter Matthiesen.
+- .McCombs, Gordon Leslie.
+- Mckay, Sariphas.
+- Mehr, Lena Melissa, or Lena Melissa Bates (nee Goodwin).
+- Menagatos, Soterios Demitriou (alias Sam Poulos).
+- Mendoza, Jose Leofranco Perez.
+- Metzger, Henryk.
+- Metikow, Walter Trendel, or Walter Trendel.
+- Millies, Argyro, or Argyro Millon (nee Argyro Goodwin).
+- Mitchell, Irene (nee Tsingheraki).
+- Mohamed, Niaz.
+- Montesantos, Eleftherios, or Terry Montesantos.
+- Moret, Giovanni Battista, or John Moret.
+- Morrall, Edgar Michael, or William Henry Thomas.
+- Moss, Joseph.
+- Moss, Saran.
+- Mui, Kan Chi, or Lung Sheung Mui.
+- MunizGardea, Sotero, or Sotero G. Muniz or Sotero Soto.
+- De Muniz, Catalina Gomez.
+- Mustapa, Margit Hildegard, or Margit Hildegard Jarvinen.
+- Nacinovich, Frank.
+- Nevarez, Herriberto, or Heriberto Nevarez Valencia.
+- Ngon, Jew Yee Sue.
+- Nicholoff, Karl Christ, or Karl Nicholoff or Kyrilios Bozanis Nicoloff.
+- Nicolas, Herman Henry or Nicholas.
+- Nicoletopoulos, Leonidas Diomidis.
+- Norby, Arnt.
+- Ohnstein, Martin, or Charles Hagendorf.
+- Olesen, Marius Imanuel.
+- Orro, Ano Rosa, or Nina RLopez or Maria Teresa Cartava.
+- Orsini, Filippo.
+- Ortiz, Jose, or Joseph Ortiz or Jose Ortiz Camus.
+- Ortiz, Robert.
+- Paliaga, Peter.
+- Palmes, Stanley Gerald.
+- Paolini, Giuseppini, formerly Giuseppina Milesi (nee Bargellini).
+- Papadopoulos, Yoannis, or Ioannis Papadopoulos.
+- Paplitzky, Ingeborg Ingrid.
+- Pascual, Marta Villa ri n.
+- Pataki, Viola Klara (nee Lanyi).
+- Paulsen, Greta Juul.
+- Paulsen, Einar Juul.
+- Penal va, Marcel Aime.
+- Perugini, Pasquale Aniello, or Pasquale Perugini.
+- Pfeiffer, Richard Ewald.
+- Pilos, Thalia Kal ka nd isor Thalia Kalkandis or Thalis Stavros Pilos or Thalia Stavros Kalkandis.
+- Pina, Enrique (alias Henry Pina).
+- Piscope, Domenico.
+- Pla, Yolande, or Yolande Prato.
+- Poharnck, Zoltan Imre.
+- Polzin, Rudolf.
+- Poppos, Demetrios, or Demilrios Poppos.
+- Powell, Alwyn Leslie.
+- Prol, Antonio Alvarez.
+- Proskouriakoff, Irene Daniel.
+- Purdy, Cassie May.
+- Puzzolo, Giuseppe.
+- Rabias, Constantinos Nicolaos.
+- Radulich, Blasulor Blasul Radulic.
+- Redfern, Ruth Myrtle.
+- RedwoodMargaret (nee Margaret Marshall).
+- Rein, Monika.
+- Reis, Rosa Oliveira (nee Rosa Candida Oliveira).
+- Rigas, Eleftherios.
+- Rim, Lilly Mary (MrsHerbert Rim) (nee Lilly Mary Ruppert or Lilly Mary Ruppert De Rin by a former marriage Mrs. Hans Neumann).
+- Roberts, Grace Ruth Kearny.
+- Roininen, Laina Maria, or Laina Maria Roine.
+- Rosadio, Jose.
+- Rosenblum, Lajb, or Leo Rosenblum.
+- Rosenlund, Rolf.
+- Roston, Albert Joseph, or Abraham Josef Rothstein.
+- Roth, Elizabeth Evelyn Achica, or Elizabeth Evelyn Achira.
+- Rubinstein, Israel.
+- Rukojc, Jadwiga, or Jean Rukojc or Jadwiga Rukoic.
+- Sa, Manuel Afonso.
+- Sackville, Patricia Ann.
+- Sackville, Roma Collard.
+- Salczer, Herman, or Herman Salcer.
+- Sam, Choy (Chinese name), or Johnny Sam Choy (American name).
+- Sanchez, Domingo Valluhiz.
+- Sanio, Mamerto Torres, or Mamerto Torres.
+- Sarno, Rosauro Torres, or Tosauro Torres.
+- Sawaya, Louis Neemer.
+- Sclavogiannis, Emmanuel.
+- Schenk, Knut.
+- Schertzer, Michael.
+- Schliemann, Wilhelm Johannes.
+- Scillama, Antonia (nee Restive).
+- Scocco, Giacomo.
+- Scott, Louise (nee Harris).
+- Seymour, Alex.
+- Shee, Jew, or Jew Ngui Haai.
+- Shong, Wong, or Shong Wong.
+- Sima, Albin Franz.
+- Sirigos, Antonios Nicolaos, or Antonios Sirigos or Anthony Sirigos.
+- Skorpak, William.
+- Slowes, Mendel.
+- Smith, Constance Agnes (nee Brady).
+- Smith, Vina (nee Mitchell).
+- Smoke, Josef, or Josef Smuk.
+- Soler, Maria Barber, or Mother Bienvenida De San Jose.
+- Sonck, Edouard.
+- Souze, Joao Azevedo, or John Azevedo Souza.
+- Spigno, Enrico Giuseppe.
+- Stapleton, Thomas Michael.
+- Stefanovich, Mitre, or Mitro or Stefanoff alias Jim
+- Stevens, Mitro Stefan Nadanovic, Mitre Stefan or Stefanou, Stoyanis Egos.
+- Stein, Paul, or Pelta Sztejn.
+- Sztejn, Rywka, or Rita Stein.
+- Stern, Irving, or Isac, Isak, and Isaac Stern.
+- Stoor, John Hjalmar.
+- Stout, Catharina Maria (nee Berendsen).
+- Stow, Peggy Spencer, or Peggy Spencer (maiden name).
+- Straus, Ernst Gabor.
+- SuanChi, Lee, or Suan Chi Lee or Stephen Charles Lee.
+- Suarez, Francisco Betanco, or Frank P. Suarez or Frank
+- Petanco or (Petanko) or Frankly Bestanco or Manuel Martinis or Francisco Suarez Betanco or Francisco Betancor Santana Suarez.
+- Suchman, Andrew, or Arpad Suchman or Suchmann.
+- Sultanis, Aphrodite.
+- Szekely, Istvan Attila.
+- Sziber, John, or Joan.
+- Sztankay, Zoltan Ferencz.
+- Sztankay, Ada Hackl (nee Adelheid Josephine Marie Hackl).
+- Tasco, Vincenzo.
+- Teitelbaum, Hana, Mrsor MrsHana Teitelbaum (nee Halberstam).
+- Theocharis, George Emanual.
+- Thomas, Pnangiotos Sotiriou, or Pete Thomas.
+- Thorne, Julia Veronica, formerly Julia Veronica Loft
+- Thornton, Patrick, or Patrick Joseph Thornton.
+- Torres-Hernandez, Nicanor, or Nicanor Torres-Torres.
+- Trepper, Moritz, or Morris Trepper or Noishe Trepper.
+- Tselentis, Jerasiinas (alias Jerry Lent).
+- Tsistinas, Andreas Christos.
+- Tzetzos, Evangelos, or Angelo Tzetzos.
+- Uscatu, Everdichia.
+- Utter, Alice Ruth (nee Simmons).
+- Valensi, Cleopatra, or Cleopatra Manoussaki.
+- Van De Velde, Martha Maria, or Martha Van De Velde alias Martha Maria Van Haver).
+- Van Der Veen, Olga, or Olga Van Der Neen Wisner.
+- Van Tilburg, Cornelius Arnoldes, or John Beckos.
+- Velge, William.
+- Verticchio, Giuseppe.
+- Von Bomsdorff, Felix.
+- Vonderohe, William Lilie, or William Lillie.
+- Wadeikis, Veronica Irene.
+- Wan, Fong.
+- Wang, Francis ChwenTao.
+- Warr, Rosa (nee Rosa or Rose Mahfooz).
+- Wassner, Danuta, or Danuta Ziff.
+- Wawrzkiewicz, Rura Serrano (nee Pura Serrano).
+- Weinberg, Morris (Moishe).
+- WeinbergTillie (nee Steinschneider or Taube, Toba
+- or Tobe Weinberg).
+- Weiss, Lieselotte.
+- Wells, Adelheid Anna, or Adelheid Anna Schuecke (Schacke) (nee Klinner (Kinner)).
+- Wing, Fung Sik, or Fung Yee Wing.
+- Woo, JiHung.
+- Woo, YunChwang, or Woo Chung.
+- Woo, Eching Shen, or MrsYCWoo.
+- Yankelewitz, Leib or Leon.
+- Yau, Au (Owyou).
+- Yeung, Fung Kim.
+- Young, Kenneth Abram.
+- Yum, Ma.
+- Yung, Yip Kung (alias Benjamin Yip).
+- Zacks, Milly, or Millie Sachs, formerly Milka Zuk.
+- Santamarina y Alvarez, Fernando Garcia, or Fernando Garcia Santamarina.
+- Fry, Madeleine Thurza (nee Logan).
+- Mitani, Masatane.
+- Salgo, Miklos, or Nicholas Saigo or Nicolas M. Salgo
+
+
+*Agreed to December 22, 1950.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- December 22, 1950 [S. Con. Res. 108]

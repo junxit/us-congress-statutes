@@ -1,0 +1,26 @@
+---
+volume: 64
+type: House Concurrent Resolution
+number: 152
+approved: 1950-01-25
+bills: 81/hconres-152
+---
+
+# House Concurrent Resolution 152
+
+> FEDERAL FAIR EMPLOYMENT PRACTICE ACT
+
+*Resolved by the House of Representatives (the Senate concurring),*
+
+That, in accordance with paragraph 3 of section 2 of the Printing Act approved March 1, 1907, the Committee on Education and Labor, House of Representatives, be, and is hereby, authorized and empowered to have printed for its use one thousand additional copies of the hearings held before a special subcommittee of said committee relative to the Federal Fair Employment Practice Act.
+
+
+*Passed January 25, 1950.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- January 25, 1950 [H. Con. Res. 152]
+- Printing of additional copies of hearings.
+- 34 Stat. 1012. 44 U. S. C. § 154.
