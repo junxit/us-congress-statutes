@@ -1,0 +1,645 @@
+---
+volume: 68
+type: House Concurrent Resolution
+number: 227
+bills: 83/hconres-227
+---
+
+# House Concurrent Resolution 227
+
+> GRANTING OF PERMANENT RESIDENCE TO CERTAIN ALIENS
+
+*Resolved by the House of Representatives (the Senate concurring),*
+
+That the Congress favors the granting of the status of permanent residence in the case of each alien hereinafter named, in which case the Attorney General has determined that such alien is qualified under the provisions of section 4 of the Displaced Persons Act of 1948, as amended (62 Stat. 1011; 64 Stat. 219; 50 App. U. S. C. 1953):
+
+- A–6971795, Aas, Agu.
+- A–7134553, Akos, Robert Armin or Robert Armin Reiner.
+- A–9757020, Alle, Manfred Lembit or Lembit Alle or Lembit Manfred Alle.
+- A–7863021, Auksztulewicz, Romuald or Roman Auksztulewicz.
+- A–7095526, Bataskov, Peeter.
+- A–7863023, Bergmams, Andrejs Augusts.
+- A–6840916, Berkowitz, Laszio.
+- A–9825339, Bitenieks, Janis or John Bitenieks.
+- A–8021318, Boziskovich, Marko or Marko Bozico.
+- A–7138070, Brody, Janos.
+- A–9776815, Brussich, Joseph or Giuseppe Brussich.
+- A–8117642, Carlich, Antonio.
+- A–7056456, Cassis, Wedad George.
+- A–7243859, Cesnieks, Eberhards Oskars Roberts.
+- A–7821733, Chai, Chung Kuo or Zah Chung Kui.
+- A–7915770, Chan, Ah or Li Wai Hee.
+- A–6511102, Chan, Chun-Kow.
+- A–7898812T, Chang, Ben.
+- A–6949314, Chang, Ju Wen.
+- A–6843436, Chang, Lucy Peng-Fei Fu.
+- A–6848616, Chan, Siu Won.
+- A–9707426, Chan, Yin or Chan Yin.
+- A–6093853, Chang, Hsing.
+- A–7201328T, Chang, Hwei Ming.
+- A–6511101T, Chang, Meng Te.
+- A–7087584T, Chang, Yu Teh.
+- A–6620868, Chang, Zunda or Frank Zunda Chang.
+- A–9569928, Chao, Chai Ah.
+- A–6687306, Chen, Chen Pao or Mrs. Huang Po Fei or Mrs. Po Fei Huang.
+- A–6620594, Chen, Chia-I. nee Wong.
+- A–6738512, Chen, Hamilton Chih.
+- A–6575178, Chen, Doctor Hsi Sheng Yue.
+- A–6143083, Chen, Ming Ying or Irving Chen.
+- A–6848694, Chen, (Patsy) Pei-Hsi.
+- A–7491814, Chen, Tsin-Chung.
+- T–1510232, Chen, Wei-Kiung or Chen Wei-Kiung or Wilkin Chen.
+- A–7276447, Cheng, Chin.
+- A–9684355, Cheng, Kin.
+- A–6848481, Cheng, Kuang Lu.
+- A–6702176, Cheng, Lorraine Hui Lan.
+- A–9746426, Cheung, Fong.
+- A–9214182, Chew, Tom Man.
+- A–6967639, Chien, Rowena Ling-Chung.
+- A–9678212T, Chin Chu Hong or Hong Chi.
+- A–9541779, Ching, Lum Wai.
+- A–6848598, Chiu, Pan Yung or Nancy Yung-chiu Pan or Nancy Pan.
+- A–6973677, Cho, Bow Sun.
+- A–3304675, Cho, Lam.
+- 0300–392274, Cho, To.
+- A–9799530T, Chong, Ho Sing.
+- A–9517500, Chong, Kee Cheung.
+- A–9653779, Chong, Lu or Lu Chong Hing.
+- A–8082039, Choon, Goh Tye.
+- A–6444644, Chou, Wen-Chung.
+- A–6847893, Chow, Jane Cheng (nee Chen).
+- A–6847894, Chow, Tsung Ni.
+- A–9694008, Choy, Tsang.
+- A–3549968, Chu, Cheng Hsiang.
+- A–9693024, Chu, Chuan Ngo.
+- A–8057480, Chu, Hsia Ah.
+- A–6693248, Chu, Pao Chen or William Pao-Chen Chu.
+- 0400–46425, Chu, William Jin.
+- A–6848457, Chuan, Marian Keng-Ping.
+- A–6355133, Chuen, Lam Pak.
+- A–8039675, Chuen, Lee Yee.
+- V–305066, Chun, Wang Ya.
+- A–6851385, Chung, Chi or Alice Taosze Hsia.
+- A–9709069, Chung, Lai or Chung Lai.
+- A–7278805, Chun-Lai, Chen or Chun-Lai Chen.
+- A–6917979, Deutsch, Zoltan.
+- A–7849884, Dikners, Tekla.
+- A–8039677, Ding, Kong Kwai or Ding Kwai Kong.
+- A–6768098, Dirnfeld, Eugen.
+- A–9569921, Do, Ah Pao.
+- A–7863230, Dzintarnieks, Emilijaz.
+- A–7863229, Dzintarnieks, Jekabs.
+- A–7863231, Dzintarnieks, Raimonds.
+- A–7249063, Dzintarnieks, Visvaldis.
+- A–7095519, Eevola, Evald Raimonde.
+- A–7095520, Eevola, Therese or Therese Lantov (nee Pulk).
+- A–7057871, Einhorn, Margit (nee Neugeboren).
+- 0300–424344, Eoyang, Ellen Ying-ju Tsao, or Ying-ju Tsao Eoyang or Ellen Y. T. Eoyang.
+- A–6971764, Evel, Roman.
+- A–7863233T, Evert, Aleksandra.
+- A–7863235T, Evert, Henn.
+- A–7863232T, Evert, Hugo.
+- A–7863234T, Evert, Mare.
+- A–9529477, Ezergailis, Alfred.
+- A–6933832, Fan, Mary Hung-Teh.
+- A–6851547, Fang, Ai Ding.
+- A–0944283, Fang, Tien Chen or Tien—Chen Fang or Tommy Fang.
+- A–8039107, Fat, Yuen, or Fat Yuen alias Tommy Yuen.
+- A–9663408, Fatt, Chung Leung.
+- A–6687305, Fei, Huang Po or Po Fei Huang.
+- 0300–414145, Fong, Chan or Chen Teng Kuan.
+- 0300–424472, Fong, Han Quen.
+- A–6851584, Fong, Wong Chung alias Don Fong Wong.
+- A–8082078, Foo, Woo An.
+- A–9748477, Fooh, Cheng Ah or Chan Ah Fooh or Cheng Ah Foh.
+- A–8082004, Fook, Bo.
+- A–2569292, Franicevic, Roko William or Franechevich.
+- A–7209174, Frank, Amalia.
+- A–6798986, Freimanis, Adams.
+- A–6798987, Freimanis, Lidija (Lydia).
+- A–6798985, Freimanis, Liza.
+- A–6798989, Freimanis, Marta (Martha).
+- A–6798988, Freimanis, Rute (Ruth).
+- A–6819115, Friedman, Niklos.
+- A–7052327, Fruchter, Piri.
+- A–7985731, Fu, You Yung.
+- A–6848215, Gahtan, Roben Menashi.
+- A–6938808, Gailitis, Adolfs Reinhard.
+- A–6938812, Gailitis, Edith.
+- A–6938811, Gailitis, Ilga.
+- A–6938809, Gailitis, Lucy Auguste.
+- A–6938810, Gailitis, Rolands.
+- 0300–403220, Gee, Ching Vun or Vun Gee Ching.
+- 0300–413821, Glavina, Antonio.
+- A–6794978, Gluck, Sara Guttman.
+- A–6574035, Gni, Sister Valentina or Cecilia Tsing-Siu Gni.
+- T–1495482, Gobbo, Giacomo.
+- A–9765676, Gottschalk, Henryk.
+- A–7046269, Grunblatt-Frauwirth, Irene Nmi Sturcz.
+- A–7046270, Grunblatt-Frauwirth, Martin Nmi.
+- A–7046268, Grunblatt-Frauwirth, Michael Nmi.
+- A–7890877, Gum, Cheung For or For Cheung or Kam Cheung or
+- Cheung Gum or Cheung Kam or For Gum Cheung.
+- A–6943510, Guth, Robert Oskar Berthold.
+- A–6780720, Halpert, Frederic.
+- A–7415226, Hangin, Er-De-Ni or Eric Hangin alias Erdemuula Hangin.
+- A–7415224, Hangin, Gombojab or John Hangin alias Gombojab.
+- A–7415225, Hangin, Sarangerel or Linda Hangin alias Yu Tee Tai or Mrs. Qjo (nee Tai Yu Tse).
+- A–6704666, Haus, Alina Baczyk.
+- A–9799256, Hee, Chan or Hee Chan.
+- A–6971756, Heht, Felix Arthur.
+- A–6971811, Heht, Velitsia.
+- 030–417869, Hei, Wan Kuk or Wan Hei.
+- A–6938819, Hervarth, Fritz.
+- A–6938820, Hervarth, Lena.
+- A–6938821, Hervarth, Tabita.
+- A–9518350, Hing, Chan Lam.
+- 0300–421802, Ho, Kan Hee or Kam Hee or Ho Kan
+- A–6619132, Ho. Philip Wen-Hen.
+- 0300–299611, Ho, Shou-Chien.
+- A–6904296, Hochsztein, Aron.
+- 0300–405918, Hong, Heng or Chao Heng Kang or Chao Heng Hong.
+- A–8065728, Hong, Ting Yu alias Ding Hong.
+- A–6041638, Hong, Wong Cheuk or Cheuk Hong Wong.
+- A–7439851, Hoo, Chueng.
+- 0300–417575, Hsi, Tong Ing or Hsi Ting or Mrs. Te-Mou Hsi,
+- A–6849867, Hsia, Tao Sze.
+- A–8057470, Hsiao, Ching-gung Grace or Ching-gung Hsiao.
+- A–7476506, Hsiao, Ching-nien Caroline.
+- A–8057469, Hsiao, Ching-ping Richard or Ching-ping Hsiao.
+- A–8057471, Hsiao, Ching-tung Margaret or Ching-tung Hsiao.
+- A–8057466, Hsiao, Theodore Ching-teh or Ching-teh Hsiao.
+- A–8057468, Hsiao, William Ching-lung Hsiao or Ching-lung Hsiao.
+- 1700–1205, Hsu, Finny Hsi-Fan (Tsui Sik Fan).
+- A–8082036, Hsu, Kai Yu.
+- A–7290251, Hsu, Marie (nee Marie Liu).
+- 1700–1206, Hsu, Nina Yang (Tsui).
+- A–6033447, Hsu, Shou-Ying or Steven Hsu.
+- A–6967602, Hsu, Shu Hsu or Henry Hsu.
+- A–6620859, Hu, Chong-Shei.
+- A–7802012, Huang, David Hong-Jen.
+- A–6697263, Huang, Mei-Sien Chu or Kwan.
+- 0700–18194, Huang, Thomas Chao-hung.
+- T–2184364, Hui, Chong.
+- A–7111764, Hui-Ming, Wang or Hui-Ming Wang.
+- A–6702148, Hwa, Ching-Hsin or Gladys Ching-Hsin Hwa Ju.
+- V–417711, Hwo, Chen Sun.
+- 0501–19586, Ionnitu, Rodica Maria (nee Hatieganu).
+- A–7387853, Ivany, Claire (nee Mero).
+- A–6558218, Ivany, Joseph Izsak or Joseph Izsak.
+- A–9503638, Jaworski. Wladyslaw.
+- V–379580, Jiranek, Maria Vera.
+- A–6975423, Jiranek, Marie Frantiska.
+- A–8039696, Ju, Chou Ah.
+- A–8001247, Jwee, Foo Kok or Jwee Kok Foo.
+- A–8001234, Ka, Chung.
+- A–7210040, Kahan, Ilona.
+- A–7210039, Kahan, Tibor.
+- 0300–400328, Kai, Chan.
+- A–7898217, Kaldma, Edward.
+- A–7243856, Kalupnieks, Janis.
+- A–8196432, Kan, Kwong or Kan Kwong or Shui Wong.
+- A–6866959, Kandalaft, Robert Nasri or Robert Kandalaft.
+- A–7424864, Kao, Dr. Ching-Tai or Ching Tai Kao or Kao Ching-Tai.
+- A–6541820, Kao, Chong-Rwen.
+- A–6702195, Kao, Kung-Ying Tang (nee Kung-Ying Tang or Kay Tang Kao).
+- A–7118728, Kao, Miranda Yu-Siu.
+- A–6448796, Kao, Richard Chien-Wen.
+- A–6722390, Karjawally, Khalil Mohammed.
+- A–6971807, Kauniste, Leopold Fritz.
+- A–6971785, Kauniste, Saime.
+- 168/229, Kee, Jim.
+- A–6971808, Keerd, Elmar.
+- 0300–409444, Kei, Luk.
+- A–6754427, Kelemen, Denis George.
+- A–8021330, Kenul, John or Giovanni Chenul.
+- A–6938804, Kervis, Mikelis.
+- A–6798992, Keskula, Aino.
+- A–6798991, Keskula, Felix.
+- A–8091379, Kew, Loo.
+- A–7390945, Kiang, Joe Wing.
+- A–7095537, Kiremia, Heino.
+- A–7863223, Kirkis, Elza.
+- A–7863222, Kirkis, Ernests.
+- A–7863224, Kirkis, Guntis.
+- 0300–398665, Klaniaz, Antonio.
+- A–7849674, Kleinbergs, Edite.
+- A–7849672, Kleinbergs, Karlis Zanis.
+- A–9654142, Klimbek, Aleksander.
+- A–7052412, Knvesz, Peter Theodore.
+- 0300–398098, Koam, Chee.
+- A–7358540, Kolowrat, Ernest.
+- A–7358544, Kolowrat, Eve.
+- A–7358543, Kolowrat, Francis Thomas.
+- A–7358545, Kolowrat, Henry.
+- A–7358539, Kolowrat, Henry Albert.
+- A–7358541, Kolowrat, Marie.
+- A–7358542, Kolowrat, Marie Therese.
+- A–9556561, Kon, Ton Ze.
+- A–8082808, Kong, Lay-Yiu Philip or Lay-Yiu Kong.
+- 0500–43802, Kong, Nien Michael or Mickey Kong or Nien Kong or Kong Nien or Kang Nien.
+- A–8106262, Kong, Yin-Hsueh Tze-Mei Virginia Lieu (nee Lieu) or Virginia L. Kong or Virginia Y. H. Lieu now Kong or Yin-Hsueh Virginia Kong (nee Lieu).
+- A–6953291, Korn, Josef.
+- A–6953290, Korn, Magda (nee Lebovits).
+- A–7898836, Krcmar, Vladimir.
+- A–7863219, Krievirs, Antons.
+- A–7863220, Krievirs, Vilma.
+- A–6938803, Krinkels, Zanis Eduards.
+- A–6967276, Ku, Tun-Jou.
+- 0300–161024, Kuei, Chow Tun.
+- 0300–413063, Kuen, Wong or Huang Chuan.
+- A–6949480, Kuigre, August.
+- A–6505215, Kum, Chau Pik.
+- A–8057310, Kuo, Ming Ho.
+- A–9235711, Kwan, Ho or Ho Ding Kwan.
+- A–6695826, Kwan, Robert Sih-Fei.
+- A–7057009, Kwan-Hua, Lee.
+- A–9561096, Kwei, Mon Lung.
+- A–6971755, Laager, Zinaida or Zinaida Haakmann or Zinaida Klaas.
+- A–9765901, Lai, Chu Ma or Mah Lai Choo.
+- A–7283191, Landmanis, Valdis.
+- V–890330, Lee An-Sih Eo-Yang.
+- A–6405955, Lee, Chen Ying or George Lee.
+- T–2760127, Lee, Julia Mai Mai.
+- A–7133231, Lee, Julia Tsai or Julia Chih-Wen Tsai.
+- 0300–398957, Lee, Pao alias Sai Lee.
+- T–2760126, Lee, Peter.
+- A–7418221, Lee, Robert Yah-Pei.
+- A–8091359. Lee, Tak or Tak Li or Li Pan or Lee Te.
+- V–320732, Lee, Tuh Yueh.
+- V–320740, Lee, Zoen Nyok.
+- A–9528839, Leong, Lam.
+- A–8190420, Leong, Qui or Kwai or Kwai Leung.
+- A–7178550, Lepp, Ilmar Arved.
+- A–6934988, Lewin, Moses Leib.
+- T–2760813, Li, Pei-Lan.
+- 0300–421130, Liang, Mary or Lun Liang.
+- 0300–421798, Liang, Su-Lun Fong or Su Lun Fong.
+- A–6772579, Licis, Peteris.
+- A–7383470, Lillemagi. Herbert.
+- A–6877751. Lin, Gracie.
+- A–8082678, Lin, Julia K. Y.
+- A–8106261, Lin, Samuel.
+- A–5373857, Lin, Timothy.
+- A–6958569, Ling, Heng-Li.
+- 0300–418802, Liou, Fung-Hsiao Foon or Susan Liou.
+- 0300–418800, Liou, I-Yu or Mary Ann Liou.
+- 0300–418799, Liou, Kipaul.
+- 0300–404211, Liu, Chor Sang.
+- A–6395545, Liu, Tze-Yi or Margaret Tze Yi Liu-Chu.
+- A–6699883, Liu, Yin-Soon Margaret or Margaret Liu.
+- 0300–270016, Ljubicich, Antonio.
+- A–5949141, Log, Sing Ding or Log Ding Sing.
+- T–1495150, Loh, Pan Ah.
+- A–9688994, Loi, Lei Ah or Sing Lei.
+- A–7594560, Loo, Ethel Wong.
+- A–7594563, Loo, Fred King.
+- A–7594561, Loo, Wade Wei.
+- A–7594562, Loo, Wendy Yi.
+- A–7594559, Loo, Zeu-Lien.
+- 0300–423624, Look, William or Look Quok Lam.
+- 0500–46018, Louie, Josephine Yen.
+- A–4937201, Louie, Yam Hin.
+- A–6924609, Lovinger, Gyula.
+- V–417762, Lu, Mei-Ling or Luh or Andrew Mei-Ling Lu.
+- A–6851538, Luan, Chi or David Chi Luan.
+- T–1892907, Lui, Tin Choy or Lui Tin Choy or Lui Fook.
+- A–7290248, Ma, Dorothy Yueh-Ching.
+- A–7828499, Ma, Lillian Li-Nan (nee Ho).
+- A–6798993, Maidea, Arvi or Arvi Koop or Kopf.
+- A–6798884, Maidra, Luise or Loviisa (nee Mark).
+- A–7416006, Mak, Kei Cheung or Mak Kei Cheng or Peter K. C. Mak.
+- A–9927925, Mamaliga, Efpine.
+- A–9769545, Man, Lam or Man Lam.
+- A–6739354, Mao, Jimmy Cho-ting.
+- A–6949427, Maripuu, August.
+- A–7089746, Marjanovic, Ivana.
+- A–6887547, Markovic, Mor.
+- 0300–231458. Markovic, Nelly.
+- A–6342092, Marymont, Julian.
+- A–7073965, Matiesen, Linda.
+- A–6698871, Matrai, Eugene Jeno.
+- A–6978196, Matrai, Ludmila Efimovna.
+- A–7841820, Mayer, Isabella Moses.
+- 0300–284892. Miecznikowski, Benon.
+- A–8091382, Mikulus, Peter.
+- A–8057492, Ming, Lee Heh or Lee Ah Ming.
+- A–8091355, Mok, Kwai, or Mok Kwai.
+- A–9765533, Molder, Evald.
+- A–9765534, Molder, Helga Dolinda Truuver.
+- A–9655450, Moon, Cheng.
+- A–7362937, Moy, Ho Shirt or Mrs. Poon Quon or Shiu Shirt Moy.
+- 0300–406067, Mui, Koon or Yuk Kun Pun.
+- A–7087043, Musallam, Nellie N. (Jabara).
+- A–6857658, Nasmeh, Salim Habra Suleiman.
+- A–7886183, Natuszak, Stefan.
+- A–6749995, Nemcova, Bozena Marie.
+- A–7584083, New, Peter Kong-Ming.
+- A–7049944. Nikezic, Dragutin.
+- A–6949426, Nomm, Heino Amamdus.
+- A–6931517, Novakovich, Milan Milan.
+- A–7178992, Nyaradi, Eva Roskovany.
+- A–7178991, Nyaradi, Nicholas.
+- A–6610336, Obadia, Heskel Haron.
+- A–7421666, Olszewski, Jan Pawel or Jan Pawel Jerzv Olszewski.
+- A–7243867, Osis, Andrejs.
+- A–7243868, Osis, Lisa.
+- A–7052329, Oszerowicz, Abraham.
+- A–7890135, Oszerowicz, Pola.
+- A–6163728, Ouyang, George Chi alias Chi Ouyang or Ouyang Chi.
+- A–8065361, Own, Chiong Mo-Yin.
+- A–8065364, Own, Tek Ling.
+- A–6828972, Pan, Shang-Cheng.
+- A–6828921, Pan, Shih-Meng.
+- A–6828973, Pan, Yur Shyr.
+- A–7483349, Pao, Ping-Nie or Pao Ping-Nie.
+- V–606128, Pappadopulo, Helena Lucia.
+- A–7358574, Papuc, Pavel Radu.
+- A–7249075, Peet, Karl.
+- A–7249073, Peet, Laine.
+- A–7118681, Pei, Chu Kwang.
+- A–7118789, P’eng, Colette or P’eng Ssu So or Sister Mary Paula.
+- A–2853201, Peng, Lo Jung.
+- A–6589941, Peng, Man Shih alias Man-Shih Penn or Anshie S. Penn.
+- A–7064128, P’eng, Therese or P’eng Ssu Chin or Sister Agnes Pauline.
+- A–9626713, Ping, Koo Lee.
+- 0300–405810, Po, Cheung or Po Cheung.
+- 0300–403714, Po, Lok or Po Lok.
+- A–6855817, Pontus, Reinhart.
+- A–6772269, Potocka, Julie.
+- A–8065367, Poy, Low or Pang Tong.
+- A–6935917, Prager, Dennis E.
+- A–7138040, Pulaska, Jadwiga.
+- A–7975175, Pun, Tsang or Pun Tsang.
+- A–7095538, Puntsel, Arnold.
+- A–6817853, Pyka, Stanislaw Benedykt.
+- 0300–416650, Que, Chong.
+- A–6887551, Rapaport, Leib Leon.
+- A–7073854, Rechen, Arthur.
+- A–7138248, Redel, David or Dawid.
+- A–6958739, Riposanu, Pamfil Aron.
+- A–7272870, Sadkowsky, Lumila (nee Rodvan).
+- A–6738513, Sah, Emil Chih Kan.
+- A–6738508, Sah, Ethel Tsi Hwa Hsia.
+- A–6738991, Sah, Jenghis Chih Lin.
+- A–6738514, Sah, Joan Chih Shen.
+- A–6738515, Sah, Luise Amy Chih Hung.
+- A–6738990, Sah, Peter Chih Peng.
+- A–6400708, Sah, Doctor Peter Pen Tieh.
+- A–7483841, Sam, Yuen Too.
+- A–7863208, Samsonovs, Dzidra.
+- A–7863207, Samsonovs, Nikolajs.
+- A–6931514, Schischa, Beno Benjamin.
+- A–7178371, Schmuul, August.
+- A–8082093, Schobe, Eugenio.
+- 0300–403716, Scopaz, Luigi.
+- A–8065354, Shain, Ling Ping.
+- A–6666460, Shasha, Franky Yamen.
+- A–6766669, Shee, Mrs. Liang Huang (nee Pansy Wong).
+- A–6848191, Sheena, Kamal Ibrahim Salim.
+- A–6234471, Shiber, Faud Basil.
+- A–9700178, Shong, Lew Yeag or Ah Lew.
+- T–405667, Show, Jesse.
+- A–7243862, Sicovs, Alide.
+- A–7243866, Sicovs, Andrejs.
+- A–7243865, Sicovs, Arijs Harija.
+- A–7243863, Sicovs, Benita.
+- A–7243864, Sicovs, Lilija.
+- A–6971793, Sigus, Alfred.
+- A–6971806, Sigus, Linda (nee Johnson).
+- A–6953061, Simcha, Jehuda.
+- A–6903761, Simon, Samuel.
+- A–8039702, Sing, An Van or Ah Yong Ting.
+- A–8021282, Sing, Kai Hung.
+- A–7985397, Sintich, Anthony.
+- A–7858248, Skalbe, Irena.
+- A–7858247, Skalbe, Janis Rudolfs.
+- A–7858250, Skalbe, Viktors.
+- A–7890719, Skansi, Anton.
+- A–6371247, Skarzynski, Tadeusz.
+- A–9660328, Skorski, Stanislaw.
+- A–7249068, Snikeris, Jekabs.
+- A–7249069, Snikeris, Milda.
+- A–7249070, Snikeris, Vilnis.
+- 0300–405988, So, Fung.
+- A–7350815, Sonnenschein, Ernesztina (nee Friedman).
+- A–7138065, Sonnenchein, Geza.
+- A–9673017, Soodla, Alfred Voldemar.
+- A–7967084, Sou, Liu Chia.
+- A–6919987, Stanescu, Catherina.
+- A–6919979, Stanescu, Ion.
+- A–8307998, Stanich, Domenick or Domenico Stagni.
+- A–6922673, Steinberg, David.
+- A–7073644, Stoianovici, Alexandru.
+- A–6938800, Strautins, Arnold.
+- A–3415486, Strgacic, Santo.
+- A–6923182, Su, Chun-Hsiu.
+- A–7802687, Sun, Chen Tung or Chen Tong Sun.
+- A–8057491, Sung, Li Ping or Sung Li Ping.
+- A–2068076, Szentikiralyi, Joseph.
+- A–7210201, Taborsky, Ema.
+- A–7210200, Taborsky, Ivan.
+- A–7210202, Taborsky, Ivanka Sarka.
+- A–8217851, Tai, Choy.
+- A–8001237, Tai, Loo Poo.
+- A–6843446, Tai, Petrina Fuku.
+- A–9776644, Taiym, Kamal.
+- 0300–408010, Tak, Lam.
+- A–4616331, Tam, King Hing.
+- A–9559951, Tan Jeu Yew or Tan Jew Jeu or Tan Yu Yew.
+- A–6694144, Tang, Cheng-Chung.
+- A–6967646, Tang, Florence Fu-Sung.
+- A–6624913, Tang, Liang Yu.
+- A–6847840, Tang, Shao-Yu.
+- A–6624758, Tang, Sheng-Hao alias Peter Sheng-Hao Tang.
+- A–6923162, Tauber, Lazar David.
+- A–6848524, Ti-Kang, Lu or Ti-Kang Lu or Jonathan Lu.
+- A–8190530, Tim, Chong or Chong Yip or Tjong Tien. 0300–391837, Tin, Leung.
+- A–6840806T, Tom, Mrs. George K. Y. or Gladys Li-Hua Cheng.
+- A–7184424, Tondu, Elizabeth.
+- A–7184425, Tondu, Jaan.
+- A–7184423, Tondu, Jane.
+- A–7849805, Tondu, Tiiu.
+- A–9529475, Tong, Ah Mui.
+- A–7809748, Tong, Kam Cheuk.
+- A–9686517, Tong, Kwan.
+- A–6958996, Tong, Te-Kong.
+- A–6938005, Traube, Aranka K.
+- A–9503016, Trzaska, Edmund.
+- A–6848145, Tsai, Marian Yu.
+- A–9798547, Tsai, Sing King.
+- A–4118212, Tsang, Chih.
+- A–6648708, Tsang, Chow Szeyee.
+- A–8106187, Tsang, Wing.
+- A–8106188, Tsang, York.
+- A–7828137, Tseu, Joseph Ernest or Hao Liang Tseu.
+- A–8065350, Tsu, May Yao.
+- A–7768051, Tsu, Robert.
+- A–7358947, Tsui, Rowena Tsung-Ying Li alias Tsung-Ling Li.
+- A–7967068. Tsui, Samuel Yuan alias Shu-Yuan Tsui.
+- A–6848030,Tu, Sin Yan.
+- A–6401872, Tukaczynski, Marek.
+- A–7243281, Tung, Chun-Wan Chang alias Tung Chan-Wan Chang or Chang Tung Mrs. Tung Chi-Ling (nee Chan), Chang, Chung-Wan, Chi Ling Tung.
+- A–7243282, Tung, Ta-Hsung alias Tung Ta-Hsung.
+- A–6985799, Tyau, Victor Yu-Kung.
+- A–7445915, Van, Ching Chun.
+- A–9831105, Velci, Giuseppe or Joseph.
+- A–7863000, Vitols, Aleksanders.
+- A–7095527, Vooder, Hermi Marie.
+- A–7095528, Vooder, Rudolf.
+- A–8091550, Vosilla, Stefano.
+- A–7052321, Wachs, Rachelle.
+- A–6971774, Walter, Ottokar Herman.
+- A–9142428, Wan, Chung.
+- V–886550, Wang, Chiao-Chi alias George C. C. Wang.
+- A–6967363, Wang, David Wei-Tsi.
+- A–6851360, Wang, Hsien Cho.
+- A–6702184, Wang, Ju Chuan.
+- A–8091334, Wang, Pauline Margaret Chi Ken.
+- A–7284201, Wang, Wen-Lan Lou.
+- A–9687311, Watt, Foo See.
+- A–7445469, Wechsler, Harry.
+- A–7134257, Widerman, David.
+- A–6231159, Wlodkowski, Stanley Anthony or Stanislaw Wlod-kowski.
+- A–8057465, Wo, Chow Ah alias Chow Ah Ho.
+- A–9769870, Wo, Ng.
+- A–6868683, Wolf, Sara nee Fuchs.
+- A–6469959, Won, Ko Fay.
+- A–7560742, Wong, Allen Lih-Peh.
+- A–7476630, Wong, Edith Tseng.
+- A–7476631, Wong, Eugene.
+- A–6635437, Wong, Florence, Siu Ying Au.
+- A–7383234, Wong, Jennings L. or Jen Ling Wong.
+- 0300–421801, Wong, Kwan.
+- A–8117329, Wong, Leung.
+- A–7476629, Wong, May Mei-Fang Yang.
+- A–7957541, Wong, Samuel Nien-Tsu.
+- A–6959786, Woortmann, Johannes.
+- A–6949787, Woortmann, Wilhelmine.
+- A–1365231, Wu, David Dao Chang.
+- A–6769214, Wu, Eileen.
+- A–6769215, Wu, Jadine.
+- A–6847747, Wu, Ke Lun.
+- A–6984819, Xaveria, Sister Mary or Hsiang-Hwa Lin.
+- A–8091389, Yan, Chow.
+- A–8039697, Yan, Chow Fou or Chow Fou Yuan.
+- A–6703489, Yang. Hsiao-Ching alias Christen Hsiao Ching Yang.
+- A–6742032, Yang, Raymond Yuan-Ling or Yang Yuan Ling.
+- A–6472549, Yang, Renee Nee-Dao Lea.
+- A–6934958, Yang, Shou Shih.
+- A–6211090, Yao, Chang-Shu.
+- A–6851433, Yao-Ming, Shaw or Irene Yao-Ming Shaw.
+- A–9192937, Yat, Chan.
+- A–9578780, Yat. Leong.
+- A–9708092, Yau, Chan.
+- A–6848481, Yee. Henry alias You Hai Yu.
+- A–9653962, Yick, Fong.
+- A–6163773, Yieh, Tzu-Ti.
+- A–9541792, Yin, Chan Chu or Chan Chu Y.
+- A–6848636, Ying. Tai Man or John Han-Ying Tai.
+- A–6G96205, Ying, Yi Alice Hui-te or Yi Ying Sung or Sung Yi.
+- 0300–417990, Yip, Gin Ning or Yin Kwan Hsueh.
+- A–7457728, Yip, Wing aka Tong Kuai Sien or Ruby Yip.
+- A–8082022, Yong, Chan Tu or Chan Yong.
+- A–8021401, Yong, Tsang or Tsang Young.
+- T–282343, York, John Quin.
+- A–8021332, You, Ching Shing.
+- A–9503915, You, Lam.
+- 0300–404061. You, Mong Qui or Man Yu Sing.
+- A–6026510, Yu, Ai-Ting Tobey or Ai-Ting Yu.
+- A–7183251, Yu, Mabel Nai-Jang.
+- 0500–44362, Yu, Michael Yung-An or Michael Yu or Yung An-Yu.
+- A–6849460, Yu, Norma Nai-Nung.
+- 0300–423645, Yu, Sai Sai.
+- A–9770977T, Yuen, Kwan Sun.
+- 0300–408006, Yung. Ah Wha.
+- 0300–417870, Yung, Chow or Chao.
+- A–6275828, Yung, Ing Tang.
+- A–7243870, Zarins, Haralds Karlis.
+- A–6835861, Zbinovsky, Vladimir.
+- A–6449399, Zia, Ruth Wen-Mei or Wen-Mai Zia or Zia Wen-Mai.
+- A–8021398, Zic, Anton A. or Antun Zic.
+- A–7863010, Zuks, Julija.
+- A–7395254, Zung, Cecilia Sieu-Ling.
+- A–7863221, Zvirbulis, Ilvia.
+- A–6694130, Abramovitch, Jan Issaevich.
+- A–7390705, Alexandrovitch, Peter.
+- A–6881736, Bay, Antohon Feng or Fong-Yun Pai.
+- 0300–150985. Bochory, Ion Jacques.
+- A–7821133, Cheng, David Hong or Hong Cheng.
+- A–8031803, Chong, Wong.
+- A–7982227, Choon. Wong EE.
+- A–7125134, Czeisler, William.
+- A–8031610, Dow, Sun or Soon Dow.
+- A–7243871, Dzerve, Alfreds.
+- A–7243873, Dzerve, Elita.
+- A–7243872, Dzerve, Zenta Lilija.
+- A–7210072, Efron, Anna Stepanova Surkova.
+- A–7197656, Efron, George Abraham.
+- A–9669056, Fen, Yuen Tse.
+- A–8082076, Foh, Wong Yung.
+- A–6851300, Fong, James Tse-Ming or Tse Ming Fong.
+- A–8082673, Fong, Lam or Fong Lam or Lam Song or Lim Shing.
+- A–8039705, Hing, Chan Wai.
+- A–9561894, Hing, Tung Yue alias Wong Foo or Wong Fee.
+- A–7910378, Hsu, Kui Pei or Maria Chen.
+- A–7910379, Hsu, Jeffrey.
+- A–7991869, Hu, Chang Ching Sheng.
+- A–6083994, Hu, Kuo Chen.
+- A–7991870, Hu, Wei-Wei or Vivian Hu.
+- A–9778162, Hung, Dar Suey or Ah Mon.
+- 0300–206624, Kenul, Joseph or Giuseppe Chenul.
+- A–8065753, King, Yee.
+- 0300–420166, Kiong, Chan Ping or Chan Ping.
+- A–7863014, Kobelis, Waclaw Jan.
+- A–3270926, Kuusik, Arnold.
+- T–2184365, Lai, Kuo Ming.
+- A–9699854, Lai, Leung.
+- A–7483842, Lai, Yuen.
+- A–9799430, Lee, Hon or Lee Hon or Lee Chuen.
+- PR–901160, Li, David Ta-Wei or David Li.
+- 0500–44830, Lieu, Dakuin, Keetao.
+- 0500–44834, Lieu, Hou-Yi or Bing Hou-Yi Lieu.
+- 0500–44831, Lieu, Tze-Ying or Tse-Yin or Priscilla Tze-Ying Lieu.
+- 0500–44833, Lieu, Yungtsing Pei Yung (nee King) or Helen K.
+- Lieu (nee King) or Helen Peiyung Lieu (nee King).
+- A–9615008. Liimann. Johannes or Liivand or Liiwand.
+- 0300–410498, Ling, Yuen Sick.
+- 0300–403873, Lo, Chang Ah.
+- A–7123589, Lou, (Richard) Li-Hsi.
+- 0300–420205, Lu, Ning Sing or Ning Shen Lu.
+- 0300–421799, Lung, Chan or Chen Shao Lim or Chan Sui Lung.
+- A–9700254, Mao, Yung Ja.
+- A–8010434, Mark, Wing.
+- A–8082026, Ming, Chin Wai or Chin Yick Ling.
+- A–9533416, Mok, Yuan.
+- A–8082051, Nazars, Janis.
+- A–9825042, Nogal, Andrzej.
+- 0300–391375, Pang, Mak Shiu or Mak Pang.
+- A–9948277, Picinich, Filippo Nicolo.
+- A–7362936, Quon, Poon.
+- A–9764707, Spectoroff, Maurice Jack.
+- A–7184000, Stern, Erwin.
+- A–8021281, Sung, Ma Kun.
+- A–8281827, Titoff, Constantin.
+- A–7197627, Titoff, Nathaly.
+- A–7197626. Titoff, Raisa.
+- A–7197625, Titoff, Victor.
+- A–6848170, Trybuch, Isidor.
+- A–6694303, Tung, Pen Chien.
+- A–7802078, Tung, Ya-Lan Hu.
+- A–6702152, Wong, Davina Kam Young (Davina Teh-Hsing Huang).
+- A–8057965, Wong, Pui.
+- A–9831385, Yee, Tom.
+- A–6682832, Abraham, Joseph Heskel.
+- A–7187216, Rosenberger, Menasche.
+- A–7182351, Fulop, Bertha.
+
+
+*Passed August 16, 1954.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- August 16, 1954 [H. Con. Res. 227]

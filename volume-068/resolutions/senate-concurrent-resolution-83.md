@@ -1,0 +1,666 @@
+---
+volume: 68
+type: Senate Concurrent Resolution
+number: 83
+bills: 83/sconres-83
+---
+
+# Senate Concurrent Resolution 83
+
+> DEPORTATION SUSPENSIONS
+
+*Resolved by the Senate (the House of Representatives concurring),*
+
+That the Congress favors the suspension of deportation in the case of each alien hereinafter named, in which case the Attorney General has suspended deportation for more than six months:
+
+- A–7049480, Acuna-Ruiz, Jesus.
+- A–7194255, Adams, Melsaidis Vanita.
+- A–7049736, Aguirre, Amparo Perez De.
+- A–7092581, Aguirre, Antonio Martinez.
+- A–6732156, Aguirre-Reyes, Guadalupe.
+- A–7367925, Alfaro-Hernandez, Alfredo.
+- A–7145096, Allen, Whitley Benjamin.
+- A–7083963, Alvarado, J uan.
+- A–7092831, Alvarado, Gertrudis De.
+- A–7056302, Alvarado, Nemesio.
+- A–6924791, Alvarado, Maria De La Luz.
+- A–7044190, Alvarez, Acencion.
+- A–7044191, Alvarez, Anastacio.
+- A–7070395, Alvarez-Garcia, Roberto.
+- A–7354297, Alvarez. Rodriguez, Alberto.
+- A–5949118, Amaro-Moreno, Refugio.
+- A–7117577, Amaro, Basilisa Corpus De.
+- A–7222526, AmozurrutiAlugo, Salvador.
+- A–7222539, Almaraz, Juana.
+- A–7463661, Anda, Celia Luna De.
+- A–7383364, Anda-Munoz, Jose Trinidad De.
+- A–7463664, Andrade-Vargas, Socorro.
+- A–7469341, Angel-Zarate, Ramon.
+- A–7240160, Angulo, Ercilia Galindo De.
+- A–7222737, Angulo-Medina, Pedro.
+- A–7379676, Aponte, Rosario Estevez Frias de.
+- A–7903287, Aranda, Maria Vasquez De.
+- A–7903288, Aranda-Vasquez, Romelia.
+- A–7903289, Aranda-Vasquez, Rogelio.
+- A–7903290, Aranda-Vasquez, Reynaldo.
+- A–7203308, Arias-Morales, Isaac.
+- A–748.3202, Arizmendi-Rodriguez, Camilo.
+- A–7050091, Armendariz, Antonio B.
+- A–7358658, Armendariz-Rodriquez, Alberto.
+- A–7890506, Aspeitia-Salmeron, Lies.
+- A–7070731, Avitia, Francisco.
+- A–6079368, Ayala, Marcos Garcia.
+- A–7203384, Balderrama-Tapia, Faustino Humberto.
+- A–7203385, BalderramAlopez, Virginia.
+- A–7050479, Banuelos, Javier.
+- A–7050478, Banuelos, Vicente.
+- A–7070872, Baragas-Pulido, Salvador.
+- A–7985416, Barclay, Hazel Grace.
+- A–7886491, Barnes, Izolia Ophelia.
+- A–7178631, Barragan, Maria Rodriguez De.
+- A–6844549, Bejarano, Luis Robles.
+- A–7957133, Beltran, Maria De La Luz Aguero De.
+- A–6855837, Beltran, Samuel.
+- A–7117989, Benitez, Raul Vasquez.
+- A–7945420, Berkley, Eva Euphemia.
+- A–5966283, Berkley, Richard James.
+- A–7830642, Bernal-Mata, David.
+- A–7890505, Blyden, Emanuel.
+- A–6101335, Borrayo-Rodriguez, Manuel.
+- A–6004182, Branche, Mavis Irene.
+- A–7189471, Brown, Uriah.
+- A–7375921, Bueno, Juan.
+- A–7375923, Bueno, Juan, Junior.
+- A–7375922, Bueno, Guadalupe.
+- A–6143848, Caballero, Sara Torres-Ruiz de.
+- A–7130758, Cadena, Pablo.
+- A–8057399, Cajuste, Carmen.
+- A–9605699, Callwood, Samuel Israel.
+- A–8017504, Campa-Orozco, Francisco.
+- A–7137134, Campbell, Odilia Marcela Orane.
+- A–5882748, CandonozAleza, David.
+- A–6719053, Canton, Milled Idonia.
+- A–7189167, Cantu, Clara Garcia De.
+- A–7189253, Cantu-Hinojosa, Francisco.
+- A–7962138, Cardoso, Petra Caridad.
+- A–7387463, Cardoza-Perez, Rafael.
+- A–7058994, Carey, Delroy Samuel.
+- A–6874893, Carrasco, Americo.
+- A–6978022, Carrillo, Manuel B.
+- A–6965018, Campa, Mario Carrillo De.
+- A–7483469, Cartaya-Martinez, Aleida Leopoldina.
+- A–7224976, Carter, Dorothy Maud Johnson.
+- A–7188904, Casillas, Alberto.
+- A–6811076, Casillas, Enedina Santana De.
+- A–6929905, Casillas-Alcala, Ramon.
+- A–6802760, Casillas-Ochoa, Roberto.
+- A–6988887, Castellanos-Martinez, Pedro.
+- A–7070740, Castillo, Jose.
+- A–7874314, Castillo-Castillo, Aurelio.
+- A–7982039, Castillo-Reyes, Simon.
+- A–6948174, Castillo, Zenona Martinez de.
+- A–7112576, Castro, Emma.
+- A–7886492, Castro, Rafael Aguilar.
+- A–7127206, Castro-Esquivel, Salvador.
+- A–7264781T, Cepeda, Margarita Aguirre.
+- A–6622157, Cera-Ramirez, Jose.
+- A–7251641, Cerda, Tereso.
+- A–7476867, Cervera, Gertrudis Beltran.
+- A–7249825, Cervera-Villafana, Francisco.
+- A–7365937, Chambers, Alfred Anthy.
+- A–6373500, Chaparro, Roberto.
+- A–7049688, Chaparro, Roberto.
+- A–7049687, Chaparro, Lillia.
+- A–7049686, Chaparro, Hector.
+- A–3297406, Chavarria, Genaro.
+- A–7298510, Chavez, Sigifredo.
+- A–7873872, Chavez-Calderon, Jose.
+- A–6755436, Chavez-Marquez, Luis.
+- A–7050946, Chavez, Roberto.
+- A–7389923, Chavez-Ortiz, Jose.
+- A–6509457, Chen, Hubert.
+- A–5740575, Chinnery, Alton Edwardo.
+- A–5963583, Chinnery, Isabelita.
+- A–7983211, Chisholm. Ruth Allen.
+- A–6046841, Clarke, Cassandra.
+- A–7439859, Contreras, Felipa Dominguez De.
+- A–6851182, Contreras-Pais, Jesus.
+- A–6774270, Cordoba, Maria Ines.
+- A–5998725, Corral-Lopez, Lorenzo.
+- A–7241651, Cortez-Ruiz, Gonzalo.
+- A–7372071, Cosio, Maria Torres De.
+- A–7240606, Covarrubias-Salgado, Jose.
+- A–6592052, Cracium, Carmen Rosa.
+- A–6857769, Crisostomo-Martinez, Francisco.
+- A–7083971, Cruz, Jose Francisco.
+- A–7457369, Cruz, Juan De La.
+- A–7457371, Cruz, Soledad De La.
+- A–745737O, Cruz, Berta De La.
+- A–7457372, Cruz, Joaquin De La.
+- A–6919362, Cruz, Refugia Fernandez de la.
+- A–7280289, Cruz-Garcia, Anastacio.
+- A–6948097, Cruz-Padilla, Ignacio Santa.
+- A–7457924, Cunningham, Keith Ashley.
+- A–7178687, Davis, Clarence George.
+- A–6270412, Dawkins, Kernel Gladstone.
+- A–7251801, De Anda, Antonio Lara.
+- A–7050448, Delaphena, Godfrey Howard.
+- A–6423475, Delgado, Maria Josefa (nee Castro).
+- A–5943038, Dessuit, Gladys Idalia.
+- A–6024058, Diaz, Concepcion Gonzalez De.
+- A–6378888, Diaz, Lazaro Rene.
+- A–6074448, Diaz-Cano, Gonzalo.
+- A–6334018, Diaz-Diaz, Jose.
+- A–7222036, Diaz-Renna, Manuel.
+- A–7886453, Diaz-Santos, Juan.
+- A–6920814, Diaz-Veledias. Felipe.
+- A–7049679, Dominguez, Consuelo.
+- A–7137812, Dominguez, Delia.
+- A–7137811, Dominguez, Pascual.
+- A–7137810, Dominguez, Manuel.
+- A–7137809, Dominguez, Teresa.
+- A–7130202, Dominguez, Raul.
+- A–7985523, Dominguez, Rosa Emilia Gutierrez y.
+- A–5974895, Donovan, Keturah, Delcina.
+- A–6363361, Dosamantes-Perez, Jesus.
+- A–6978207, Duncan, Cleveland.
+- A–7390793, Duran, Angela Reyes de.
+- A–6078640, Duran-Tapia, Romulo.
+- A–7274247, Elizaldi, Josefina Solis De.
+- A–7445524, Escobar, Rosa Olivia Calzonzin.
+- A–7962471, Espinoza, Otilia Victoria Garcia De.
+- A–7476174, Esquivel, Marciano.
+- A–6556350, Esteves, Hermelinda Herrera de.
+- A–7092825, Estrada, Felipe.
+- A–6960361, Estrada, Santos.
+- A–7022965, Fahie, Gwendolyn Imie.
+- A–6761553, Fahie, Zephaniah.
+- A–7050950, Falcon, Isidoro.
+- A–7962043, Farrell-Murga, Argos.
+- A–7483479, Fernandez, Gildardo.
+- A–7297200, Fernandez, Ignacio.
+- A–7297202, Fernandez, Jose Ignacio.
+- A–7297201, Fernandez, Rosa Emma.
+- A–8015897, Ferro, Alan Richard Kelso de Montigny Y.
+- A–8015898, Ferro, Ronald James Kelso de Montigny Y.
+- A–7178590, Flores, Arturo Ochoa.
+- A–8001048, Flores, Esther Perez-Kellar De.
+- A–7130952, Flores, Francisco.
+- A–7130545, Flores, Marcelina Martinez de.
+- A–7092826, Flores, Jesus.
+- A–7295794, Flores-Montion, Jose Jesus.
+- A–7137772, Flores, Rafael.
+- A–7137773, Flores, Soledad Rodarto De.
+- A–6822853, Fortune, Lillian Winifred.
+- A–7910734, Foster, Gladstone Theodore.
+- A–7356563, Foy, Richard Howard.
+- A–7927392, Fraire-Nunez, Nicolas.
+- A–5901042, Francis, Iris Feldara.
+- A–7809250, Franco-Bucio, Francisco.
+- A–6935601, Frausto, Xavier.
+- A–7273902, Frausto-Montoya, Xavier.
+- A–7273901, Frausto-Montoya, Irene.
+- A–5963738, Fredericks, Era Lucille.
+- A–3124503, Freeman, Blanche Aima.
+- A–4747415, Freeman, Joseph Ivan.
+- A–6120852, Frias-Escoto, Narciso.
+- A–7415753, Fuentes-Ortega, Feliz.
+- A–7189220, Furett, Adina Augusta.
+- A–6985576, Gallegos-Gamez, Valentin.
+- A–7379784, Galvan, Celedino.
+- A–8021473, Galvan, Jesus Sandoval.
+- A–7417024, Galvan-Rodriguez, Daniel.
+- A–6512380, Galvez, Ochoa, Santos.
+- A–6858742, Gantong, Carmen Cuenca de.
+- A–7140277, Garcia, Belia Chavez De.
+- A–6877286, Garcia, Bruno.
+- A–7375420, Garcia, Favio or Trinidad Sanchez.
+- A–7439150, Garcia, Felipa Mareno De.
+- A–7841526, Garcia, Fortino.
+- A–6725019, Garcia, Jose Felipe Munoz.
+- A–6081916, Garcia, Julio.
+- A–7367917, Garcia, Manuel.
+- A–7145256, Garcia, Maria De Jesus Alvarez De.
+- A–7145257, Garcia, Aurelia.
+- A–8001576, Garcia, Maria Hernandez (nee Loza).
+- A–7137155, Garcia, Rosalio.
+- A–6877612, Garcia-Barron, Concepcion.
+- A–6877613, Garcia-Barron, Leodegaria.
+- A–6877611, Garcia-Barron, Otilia.
+- A–6791116, Garcia-Duran, Cirenio.
+- A–7264196, GarciAGonzalez, Guillermo.
+- A–6053843, Garcia-Mendoza, Martiniano.
+- A–6838493, Garcia-Negrete, Alberto.
+- A–6044332, Garcia-Ochoa, Federico.
+- A–6375102, Garcia-Ortiz, Jose.
+- A–7284794, Garcia-Ramirez, Jesus.
+- A–6132965, Garcia-Razo, Pablo.
+- A–7145046, Garcia-Robles, Maximino.
+- A–7171741, Gentry, Maria De La Luz Zabalza De.
+- A–7079833, Gil Marcos.
+- A–7264220, GodinAGarcia, Benjamin.
+- A–7137733, Gonzalez-Valdez, Ramon.
+- A–7145043, Gonzales-Aguilar, Gilberto.
+- A–6489508, Gonzalez-Alejo, Nicolas.
+- A–7200693, Gonzalez-Gonzalez, Rito.
+- A–7222076, Gonzalez-Fernandez, Benigno.
+- A–7358647, Gonzalez, Francisco.
+- A–7358665, Gonzalez, Guadalupe Perez.
+- A–7222702, Gonzalez-Mena, Felipe.
+- A–7394417, Gonzalez-Saldivar, Guadalupe.
+- A–3674206, Granados, Antonio.
+- A–6924780, Granados, Olga.
+- A–6924781, Granados, Ricardo.
+- A–7070745, Granillo, Jose.
+- A–7070703, Granillo, Adela Valenzuela de.
+- A–7140299, Granum, Frances Constantia.
+- A–6377810, Gray, Winifred Eloise.
+- A–7841609, Greaux, Joseph Sebastien.
+- A–6093592, Greaux, Victor Pierre.
+- A–7189837, Guadian, Lorenzo.
+- A–7189840, Guadian, Olga.
+- A–7189839, Guadian, Antonio.
+- A–7189838, Guadian, Manuel.
+- A–6288570, Guajardo-Flores, Ruben.
+- A–7298511, Guerra-Arenas, Salvador.
+- A–6989089, Guerrero, Esteban.
+- A–7188291, Guerrola, Cruz.
+- A–7188292, Gurrola, Margarita.
+- A–6733866, Guevara-Natividad, Genaro.
+- A–7203040, Gugman, Felipe.
+- A–6989470, Gutierrez, Francisco.
+- A–7112955, Guzman-Aguirre, Antonio.
+- A–7358645, Garcia, Marina Guzman De.
+- A–7070294, Hache, Adela Julia Haddad.
+- A–6920655, Harris, Daniel Charles.
+- A–2113545, Harris, Sydney Lambert.
+- A–6221472, Hawley, Aristile Wellington.
+- A–7139124, Haynes, Joseph Nathaniel.
+- A–6512351, Heredia-Perez, Jose Baltazar.
+- A–7140418, Hermosillo-Dabaloz, Jesus.
+- A–5959492, Hermon, Diana Rebecca.
+- A–7483228, Hermosillo, Julia Lopez.
+- A–7390997, Hernandez, Carmen Gomez.
+- A–7903101, Hernandez, Eugenio, Junior.
+- A–7050955, Hernandez, Francisco Socorro.
+- A–6972463, Hernandez, Manuel Flores.
+- A–7145053, Hernandez, Nicolas.
+- A–7145713, Hernandez, Domitila Trejo De.
+- A–7145015, Hernandez-Argomaniz, Vicente.
+- A–6314181, Hernandez-Gutierrez, Ajigel.
+- A–7483462, Hernandez-Illas, Pablo Anselmo.
+- A–6770300, Hernandez-Perez, Pedro.
+- A–7117566, Herrera, Carlos.
+- A–7117567, Herrera, Carlos.
+- A–7117568, Herrera, Jose Luis.
+- A–7117569, Herrera, Manuel.
+- A–7841575, Herrera, Natividad.
+- A–7828651, Herrera, Maria Eustolia Torres De.
+- A–7386241, Hibbert, Alfred Alexander.
+- A–7439655, Hines, Richard Samuel.
+- A–5917249, Hodge, Maria Ophelia.
+- A–7910567, Hodge, Pathrenella.
+- A–5980534, Hodge, Valdrena James.
+- A–7264096, Hughes, George Benjamin.
+- A–7983405, Ibarra-Ortega, Antonio.
+- A–7044362, Irigoyen-Leon, Ramon.
+- A–7802439, Irvin, Moses Hezekieah.
+- A–6113357, Jasso, Jose Barbosa.
+- A–6242791, Javier, Rosenda Lopez de.
+- A–4377208, Jennings, Ebenezer Alvin.
+- A–5132781, Jennings. Hilda Idalia.
+- A–7991790, Jones, Charles Joseph.
+- A–7991789, Jones, Mary Estella.
+- A–7962009, Jones, Sidney Oliver.
+- A–5953872, Josepn, Clementina.
+- A–5901607, Joseph, Severena.
+- A–6188585, Knibbs, Allan Henry.
+- A–7269644, Krelenstein, Maria Lourdes Aguilar.
+- A–7991495, Lacarda, Marta Antonia Agdamag y.
+- A–7372156, Lara, Santos.
+- A–7372157, Lara, Maria Concepcion.
+- A–7873883, Lazos-Morales, Isauro.
+- A–7415554. Leos-Lomeli, Mario.
+- A–7112933, Levien, Gilmore.
+- A–6572095, Lluberes, Conrado Antonio Alfau.
+- A–7439901, Loera, Pedro Zuniga.
+- A–7439900, ZunigAGonzalez, Pedro.
+- A–7873884, Loera, Rodolfo.
+- A–7083002, Long, Maisie Alphancene Bernard.
+- A–6870227T, Longoria, Jose.
+- A–6921015, Lopez, Celia Vargas De.
+- A–6420663, Lopez, Jorge Abraira.
+- A–7247920, Lopez, Josefina Mendoza Martinez De.
+- A–6423543, Lopez. Juan Francisco.
+- A–8065557, Lopez, Maria Del Refugio.
+- A–7802184, Lopez, Ramon.
+- A–7978958T, Lopez-Barragan, Juventino Baltazar.
+- A–7379785T, Lopez-Castro, Felipe.
+- A–7375744, Lopez-Figueroa, Abelardo.
+- A–6989596, Lorenzo, Miguel Emilio Martin.
+- A–7247943, Losano, Lorenzo Murillo.
+- A–7983076, Losano, Serbando.
+- A–7351265, LozAGutierez, Manuel.
+- A–7140116, Lozano, Alejandro.
+- A–7140115, Lozano, Isidra.
+- A–7945128, Lucero-Moreno, Primitivo.
+- A–7927520. Lucero-Liana, Alejandra.
+- A–7927519, Lucero-Llanas, Gloria Irma.
+- A–7927518, Lucero-Llanas, Leopoldo.
+- A–7927521, Lucero-Llanas, Julieta.
+- A–7203610, Lujan, Clotilde.
+- A–7995641, Luna-Carmona, Jose.
+- A–7379599, Lynch, Charles Thomas.
+- A–5948752, Lynch, Marie Annie.
+- A–7115391, Lytton. Ivy May.
+- A–7178302, Macias-Cordero, Clemente.
+- A–7203037, Flores, Paula.
+- A–7267711, Madrid, Andres.
+- A–7267096. Madrid, Isabel.
+- A–5934468, Madrid, Blas.
+- A–7070678, Madrid, Pilar Parra.
+- A–7070682. Madrid. Andrea Parra.
+- A–7070681, Madrid, Gerardo.
+- A–7070680, Madrid, Manuel.
+- A–7476214T, Madrigal-Madrigal, Silvestre.
+- A–7130567, Magallanes, Jesus Jose.
+- A–7083548, Mama, Ana Maria Ramirez de.
+- A–7203580, Maldonado, Samuel Valdez.
+- A–6817437, Marcelli, Millicent Louise.
+- A–6970242, Marmolejo, Amalia Mazon de.
+- A–6970241, Marmolejo-Hernandez, Pedro.
+- A–7145585, Marquez, Cruz.
+- A–7145600, Marquez, Emma Berta.
+- A–7140732, Marquez, Francisco.
+- A–7145602, Marquez, Marciala Ester.
+- A–7145601, Marquez, Maria Telesfora.
+- A–7145603, Marquez, Ricardo.
+- A–7297180, Marquez-Gallegos, Manuel.
+- A–7297179, Marquez, Maria Elena.
+- A–6165329, Marrero, Augustina.
+- A–7375897T, Martinez, Albertina Goint De.
+- A–7910281, Martinez, Antonio.
+- A–7178573, Martinez, Benito.
+- A–7054562, Martinez, Carlos Miguel.
+- A–7054561, Martinez, Guillermo Winston.
+- A–7050463, Martinez, Jesus.
+- A–6422181, Martinez, Marcos.
+- A–7054560, Martinez, Otilia Aurora.
+- A–6490672, Martinez, Reyna Estela Ramona Marina.
+- A–7387471, Martinez-Lozano. Guadalupe.
+- A–3779201, Matthias, Marjorita.
+- A–7445788T, McKenzie, Aubrey Alexander.
+- A–7130563, Medina, Felicitas.
+- A–4566750, Medina, Jose Luz.
+- A–7358671, Medrano, Crispin.
+- A–7287909, Medrano, Tomas.
+- A–7387933, Silva, Evangelina.
+- A–6090236, Melendez, Cayetano.
+- A–6976418, Mendez, Adelina Leonor Moreno Y Garcia De.
+- A–7050338, Moreno, Sonia Teresa Mendez.
+- A–7050339, Moreno, Magali Regina Mendez.
+- A–6882302, Mendez-Hernandez, Jose.
+- A–6882269, Mendoza, Micaela Pontenciano de.
+- A–6213719, Mendoza, Ramon.
+- A–7290945, Perez, Adela.
+- A–7802642, Mendoza-Mondragon, Ubaldo.
+- A–7809526, Mendoza-Sanchez, Jesus.
+- A–7809525, Mendoza, Maria Elva.
+- A–5971666, Millin, Leonora Christine.
+- A–7841722T, Milliner, Leslie Alquin.
+- A–7389301, Milton, Norman Edgton.
+- A–7383365, MirandAlopez, Arturo.
+- A–6948481, Miranda-Salazar, Salvador.
+- A–7372146, Molina-Hernandez, Genovevo.
+- A–7457789, Montenegro-Rodriguez, Fernando.
+- A–6724300, Montero-Castaneda, Manuel.
+- A–7385583, Montes-Molina, Jose.
+- A–7388754, Montoya-Melesio, Valentin.
+- A–6732047, Montoya-Ortega, Rafael.
+- A–6291190, Monzano-Salazar, Estela Eugenia.
+- A–6291189, Monzano-Salazar, Margarita Clara.
+- A–6291191, Monzano-Salazar, Rosa Maria.
+- A–7070047, Morales, Eduviges.
+- A–7189047, Morales, Marcial.
+- A–7189048, Morales, Abundio.
+- A–7189049, Morales, Maria Pascuala.
+- A–7145583, Moreno, Alejandro.
+- A–7145718, Tiscareno, Isabel.
+- A–6855855, Moreno, Jose.
+- A–6089522, Moreno, Maria Guadalupe Desales de.
+- A–7144641, Moss, Vivian George.
+- A–7122049, Munoz, Guadalupe.
+- A–6169103, Muriel, Jose.
+- A–7371589, Myers, Clifton Vivian.
+- A–6921234, Najera, Francisca.
+- A–6921235, Najera, Candelaria.
+- A–6921236, Najera, Evangelina.
+- A–6921237, Najera, Armando.
+- A–6921238, Najera, Raul.
+- A–6921239, Najera, Roberto Gutierrez.
+- A–6775845, Nava, Carlos L.
+- A–7127244, Nava, Jose Luis.
+- A–7910523, Nieves, Cristobal.
+- A–7910522, Nieves, Guadalupe Renteria De.
+- A–5911583, Niles, Elita Virnah.
+- A–5935855, Ochoa, Fidel.
+- A–7188547, Olvae, Fernando.
+- A–6033300, Olivares, Jose Salome Chapa.
+- A–7145620, Olivas, Leopoldo.
+- A–6208817, Olivas-Alvarez, Catarino.
+- A–7423135, Olivas, Paula Rodriguez De.
+- A–7392115, Olivas-Lozoya, David.
+- A–7392114, Olivas, Guadalupe Morales de.
+- A–7137553, Olvera, Pablo.
+- A–6958176, Orozco, Rosa Barroso De.
+- A–7266111, Ortega. Rafael.
+- A–7197850, Ortega-Quintana, Francisco.
+- A–7189000, Ortiz, Cecilio.
+- A–6476130T, Ortiz, Pedro.
+- A–6972306, Oseguera-Arevalo, Aurora.
+- A–6972305, Oseguera-Arevalo, Roman.
+- A–6971649, Oseguera-Barajas, Honorio.
+- A–6165544. Pacheco, Maria GarciAlopez De.
+- A–6065635, Parrott. Ellouise.
+- A–5966301, Parrott, Louis Albreric.
+- A–7188729, Patino, Maria Louisa Velasquez De.
+- A–6679818, Pelaez, Manuel Armando.
+- A–7224071, Pena-Rodriguez, Eloy.
+- A–6961717, Perez, Librado.
+- A–7264086, Perez, Margarita.
+- A–7264087, Perez, Antonia.
+- A–6235770, Perez-Barron, Fidel.
+- A–7140806, Perez-Garcia, Leon.
+- A–7140807, Perez, Marcelino.
+- A–7140808, Perez, Leonor.
+- A–5958162, Perez-Gomez, Ignacio.
+- A–6058862, Petersen, Ruth Glover.
+- A–7886874, Philip, Minerva Olivia.
+- A–7137530, Pinder, Washington Howard.
+- A–7222455, Pino-Fernandez, Fermin.
+- A–7287920, Pinon, David.
+- A–6869930j Pizano, Salvador Prado.
+- A–7297156, Portillo, Austreberto.
+- A–7297162, Flores, Rafaela.
+- A–7188264, Potter, Francina.
+- A–6124500, Preciado-Soto, Alberto.
+- A–6877596, Prieto, Lorenzo.
+- A–6916219, Puckerin, Ervin Fitzherbert.
+- A–7137172, Puentes, Matias.
+- A–7137167, Puentes, Gabina Ramirez de.
+- A–5995994, Quinones, Angel.
+- A–7358677, Quinones, Guadalupe Cadena De.
+- A–6562093, Quinones, Filimon Navarrete.
+- A–6394586, Quintana, Angela Lorenza.
+- A–6924327, Quiroz-Martinez, Angel.
+- A–4377209, Rabastt, Olva Ludvig.
+- A–7290943, Ramirez, Gregorio.
+- A–7287918, Ramirez, Manuel.
+- A–7264812, Ramirez, Maria Gutierrez De.
+- A–7921528, Ramirez-Aquirre, Jose Roberto.
+- A–7112651T, Ramirez-Contreras, Roberto.
+- A–7264811, Ramirez-Ortiz, Jose Aurelio Maximino.
+- A–6836307, Ramos, Salvador Garcia.
+- A–7188738, Reyes, Manuel.
+- A–5977287, Reyes, Maria Concepcion.
+- A–7178067, Reyes-Portilla, Felipe.
+- A–6848214T, Rice, Ina Maud.
+- A–5783566, Richardson, Edward Alexander.
+- A–6965422, Rios-Ortiz, Jesus.
+- A–7189495, Rios, Carmen Campean De.
+- A–6038539, Rivas-Borroyo, Arturo.
+- A–7178306, Rivera, Ciriaco.
+- A–7178304, Sanchez, Angela.
+- A–7802451, Robinson, George Saybert.
+- A–7863962, Robles-Diaz, Jose.
+- A–7044287, Roca, Tomas.
+- A–5958068T, Rocha-Burciaga, Francisco.
+- A–6978147T, Rocha, Juan Francisco.
+- A–6352535, Rodriguez, Pedro.
+- A–7372014, Rodriguez, Ramon.
+- A–7863359, Rodriguez, Manuela.
+- A–7863360, Rodriguez, Fermina.
+- A–7863357, Rodriguez, Mariana.
+- A–7140123, Rodriguez, Sebastian.
+- A–7420834, Rodriguez-Garcia, Francisca.
+- A–7457906, Rodriguez-Gaspar, Manuella.
+- A–7841677, Rodriguez-Gonzalez, Trinidad.
+- A–6106212, Rodriguez-Lares, Manuel.
+- A–8065802, Rodriguez-Lopez, Francisco Javier.
+- A–7491011, Rodriguez-Natividad, Gilberto.
+- A–6839869, Rodriguez-Salazar, Maria.
+- A–7350030, Rodriguez, Jesus.
+- A–6077403, Rojas, Dolores Navarro De.
+- A–7367084, Rojas-Gutierrez, Francisco.
+- A–6260321, Rojas-Mendoza, Gonzalo.
+- A–6888204. Roman, Maria De Jesus.
+- A–7083950, Roman-Arias, Guadalupe.
+- A–7476758T, Romero, Olivia Arreola De.
+- A–7910926, Romero-Anzaldo, Arturo.
+- A–7417222, Romero-Belmonte, Ana Maria.
+- A–7417224, Romero-Behnonte, Manuel Antonio.
+- A–7417223, Romero-Belmonte, Maria Luisa.
+- A–7394262, Romero-Jimenez, Antonio.
+- A–7463972, Romero-Jimenez, Gilberto.
+- A–7394579, Romo-Ruiz, Anselnio.
+- A–7591593, Ros, Alberto.
+- A–7059614, Rosales, Manuel.
+- A–7070677, Rosales, Juan Manuel.
+- A–7980285, Rosales-Davila, Jose.
+- A–6878354, Rose, George Leahong.
+- A–7297154, Rubio, Jose Antonio.
+- A–7863949, Rueda-Calderon, Rafael.
+- A–7391995, Ruiz-Avalos, Rafael.
+- A–7903426, Ruiz-Ruiz, Alfonso.
+- A–7057051T, Russell, Howard George.
+- A–7849993, Rymer, Audrey Kate.
+- A–7858181. Rymer, Norbert.
+- A–6844306T, Sa] azar, Juan Maldonado.
+- A–7388952, Salazar-Diaz, Pedro.
+- A–7070690, Salcido, Ascencion.
+- A–7070689, Salcido, Magdalena.
+- A–7070688, Salcido, Hector.
+- A–7070687, Salcido, Guadalupe.
+- A–74G3000T, Sanchez, Alfredo Tapia.
+- A–6050230, Sanchez-Sandoval, Eustacio.
+- A–7982041, Sandoval, Juana Castellanos De.
+- A–7203089, Sandoval, Maria Rufina de Jesus Rico de.
+- A–7991575, Sandoval-Alapisco, Raustino.
+- A–7921571, Santana, Jose Trinidad.
+- A–7178311, Sarinana, Ireneo.
+- A–6976524, Sarriz-Orozco, Manuel.
+- A–6786973, Scatliffe, Leonaldo.
+- A–7367040, Segoviano-Rocha, Gonzalo.
+- A–7983420, Serrano-Torres, Juan.
+- A–7983418, Serrano-Torres, Luz.
+- A–7983419, Serrano-Torres, Margarita.
+- A–6816110, SilvAGonzalez, Guadalupe.
+- A–9623189, Smith, John.
+- A–7978841, Solis, Maria Petra Garcia de.
+- A–7927785, Sosa, Alma Cecilia Pena De.
+- A–6749266, Sosa-Medina, Juan.
+- A–7222989, Sotelo, Margarita Pompa De.
+- A–6428750, Stafford, Amy Dorothy.
+- A–7902274T, Subia, Mana De Los Angeles Vargas De.
+- A–7264385, Tapia-Millan, Victor Samuel.
+- A–7145717, Tarin, Enrique.
+- A–6840186, Taylor, Joseph Snape.
+- A–6970260, Tejeiro-Ramos, Evelio.
+- A–7251944, Tena-Munoz, Jesus.
+- A–6151707, Thomae-Bautista, Arturo.
+- A–3479228, Titley, Viola.
+- A–7915505, Todman, Ettie Thelyn.
+- A–7910928, Toro, Pablo Ramirez-del.
+- A–7044378, Torres, Eduardo.
+- A–7049589, Torres, Benjamin Castro De.
+- A–7050975, Torres, Juan.
+- A–7178378, Torres-Arrellano, Luis.
+- A–7081458, Trejo-Delgado, Raul.
+- A–7387477, Trejo-Hernandez, Epigmenio.
+- A–7137176, Trevizo, Natividad.
+- A–7056869, Ugaide-Sanchez, Miguel.
+- A–7982226, Uriguen, Luis.
+- A–6995960, Urteaga, Oscar.
+- A–7145334, Valdes, Andres.
+- A–7145743, Valdez, Lamberto.
+- A–6954117, Valencia-Murataya, Jose.
+- A–6344033, Valenzuela, Jesus.
+- A–7178891, Valenzuela, Ynes.
+- A–7178890, Valenzuela, Nicolasa Graciela.
+- A–7178889, Valenzuela, Maria De Jesus.
+- A–7178888, Valenzuela, Guadalupe.
+- A–7137254, Valiodolid-Campos, Ramon.
+- A–7240143, Vargas-Guzman, Epifanio.
+- A–7267605, Vargas-Pena, Jose.
+- A–7140836, Vasquez, Lucio Rodriguez.
+- A–5912952, Vasquez, Meliton.
+- A–8057760, Vasquez-Guzman, Jose.
+- A–7145210, Vasquez-Vasquez, Trinidad.
+- A–7375456, Velarde, Antonia Coronado De.
+- A–6936170, Velasquez, Enrique.
+- A–7049205, Enriquez, Consuelo.
+- A–6949203, Velasquez, Pascua).
+- A–7264090, Veloz, Alejandro.
+- A–7083807, Venegas, Tomas.
+- A–7203652, Ventureno, Austreberto Quezada.
+- A–7203941, Queazda, Berta Rodriguez de.
+- A–7863082, Vera-Sierra, Vicente.
+- A–6683032, Villa, Simon.
+- A–7081463, Villalobos, Jose.
+- A–6989990, Villanueva-Aguayo, Jose.
+- A–7197920, Villarreal-Astorga, Albino.
+- A–7178303, Villegas, Esteban.
+- A–7982031, Vital-Perez, Benjamin.
+- A–5968234, Webster, Samuel Arthur.
+- A–7132835, Wiggan, William Alexander.
+- A–7915588, Williams, Hubert George.
+- A–7647826, Williams, Joseph Samuel.
+- A–5929790, Williams, Matnilda Augustine.
+- A–7469934, Willoughby, Leonard Anthony.
+- Al 164563, Wilson, William James.
+- A–7222288, Yanez-Garcia, Victor.
+- A–6146645, Yang, Cynthia Norma Poon.
+- A–7222325, Ybarra, Maria Reyes De.
+- A–7439001, Zapata, Heriberto Mireles.
+- A–7983498, Zubeldia, Federico Hill.
+- A–7450257, Albin, Winsome King.
+- A–7450751, Brotherton, Rupert.
+- A–7222366, Cantua-Bracamonte, Jesus.
+- A–7188531, Gonzalez, Juan De Dios.
+- A–5934065, Juarez, Miguel.
+- A–7398912, Sifuentes, Exiquio Lopez.
+- A–7985770, Nisbeth, Carol Lloyd.
+- A–6402334, Patrice, Lillian Mary.
+- A–7083988, Sifuentes, Pedro.
+- A–7439585, Smart, Hubert.
+- A–6919721, Barreto-Larios, Natividad.
+- A–7083972, Contreras, Jose Luis.
+
+
+*Agreed to August 4, 1954.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- August 4, 1954 [S. Con. Res. 83]
