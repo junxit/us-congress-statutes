@@ -1,0 +1,136 @@
+---
+volume: 39
+citation: 39 Stat. 218
+type: Chapter
+number: 137
+congress: 64
+session: 1
+scope: public
+approved: 1916-06-09
+bills: 64/hr-14864
+---
+
+# Chapter 137
+
+> An Act To alter and amend an Act entitled “An Act granting lands to aid in the construction of a railroad and telegraph line from the Central Pacific Railroad, in California, to Portland, in Oregon,” approved July twenty-fifth, eighteen hundred and sixty-six, as amended by the Acts of eighteen hundred and sixty-eight and eighteen hundred and sixty-nine, and to alter and amend an Act entitled “An Act granting lands to aid in the construction of a railroad and telegraph line from Portland to Astoria and McMinnville, in the State of Oregon,” approved May fourth, eighteen hundred and seventy, and for other purposes.
+
+Whereas by the Acts of Congress approved April tenth, eighteen hundred and sixty-nine (Fourteenth Statutes at Large, page two hundred and thirty-nine), and May fourth, eighteen hundred and seventy (Sixteenth Statutes at Large, page ninety-four), it was provided that the lands granted to aid in the construction of certain railroads from Portland, in the State of Oregon, to the northern boundary of the State of California, and from Portland to Astoria and McMinnville, in the State of Oregon, should be sold to actual settlers only, in quantities not exceeding one hundred and sixty acres to each person and at prices not greater than $2.50 per acre; and Whereas the Oregon and California Railroad Company, beneficiary of said acts, has violated the terms under which the said lands were granted by selling certain of said lands to persons other than actual settlers, by selling in quantities of more than one-quarter section to each person, by selling at prices in excess of $2.50 per acre, and by refusing to sell any further portions of such lands to actual settlers at any price, and in so doing has willfully violated the terms of the statutes by which the said lands were granted; and Whereas in the suit instituted by the Attorney General of the United States, pursuant to the authority and direction contained in the joint resolution of April thirtieth, nineteen hundred and eight (Thirty-fifth Statutes at Large, page five hundred and seventy-one), the Supreme Court of the United States, in its decision rendered June twenty-first, nineteen hundred and fifteen (Two hundred and thirty-eighth United States, page three hundred and ninety-three), ordered that the Oregon and California Railroad Company be enjoined from making further sales of lands in violation of the law, and that the said railroad company be further enjoined from making any sales whatever of either the land or the timber thereon until Congress should have a reasonable opportunity to provide for the disposition of said lands in accordance with such policy as Congress might deem fitting under the circumstances and at the same time secure to the railroad company all the value conferred by the granting Acts; and Whereas it was expressly provided by section twelve of the Act of July twenty-fifth, eighteen hundred and sixty-six (Fourteenth Statutes at Large, page two hundred and thirty-nine), that Congress might at any time, having due regard for the rights of the grantee railroad company, add to, alter, amend, or repeal the Act making the grant; and Whereas the Oregon and California Railroad Company and its predecessors in interest received a large sum of money from sales of said land for prices in excess of $2.50 per acre, and from leases, interest on contracts, and so forth; and Whereas the aforesaid granting Acts conferred upon the said railroad company the right to receive not more than $2.50 per acre for each acre of land so granted: Therefore Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+That the title to so much of the lands granted by the Act of July twenty-fifth, eighteen hundred and sixty-six, entitled “An Act granting lands to aid in the construction of a railroad and telegraph line from the Central Pacific Railroad in California to Portland, in Oregon,” as amended by the Acts of eighteen hundred and sixty-eight and eighteen hundred and sixty-nine, for which patents have been issued by the United States, or for which the grantee is entitled to receive patents under said grant, and to so much of the lands granted by the Act of May fourth, eighteen hundred and seventy, entitled “An Act granting lands to aid in the construction of a railroad and telegraph line from Portland to Astoria and McMinnville, in the State of Oregon,” for which patents have been issued by the United States, or for which the grantee is entitled to receive patents under said grant, as had not been sold by the Oregon and California Railroad Company prior to July first, nineteen hundred and thirteen, be, and the same is hereby, revested in the United States: Provided, That the provisions of this Act shall not apply to the right of way to the extent of one hundred feet in width on each side of the railroad and all lands in actual use by said railroad company on December ninth, nineteen hundred and fifteen, for depots, sidetracks, wood yards, and standing grounds.
+
+## § 2.
+
+That the Secretary of the Interior, in cooperation with the Secretary of Agriculture, or otherwise, is hereby authorized and directed, after due examination in the field, to classify said lands by the smallest legal subdivisions thereof into three classes, as follows:
+
+- **(1)** Power-site lands, which shall include only such lands as are chiefly valuable for water-power sites, which lands shall be subject to withdrawal and such use and disposition as has been or may be provided by law for other public lands of like character.
+- **(2)** Timberlands, which shall include lands bearing a growth of timber not less than three hundred thousand feet board measure on each forty-acre subdivision.
+- **(3)**
+  - Agricultural lands, which shall include all lands not falling within either of the two other classes:
+  - Provided, That any of said lands, however classified, may be reclassified, if, because of a change of conditions or other reasons, such action is required to denote properly the true character and class of such lands: Provided further, That all the general laws of the United States now existing or hereafter enacted relating to the granting of rights of way over or permits for the use of public lands shall be applicable to all lands title to which is revested in the United States under the provisions of this Act. All lands disposed of under the provisions of this Act shall be subject to all rights of way which the Secretary of the Interior shall at any time deem necessary for the removal of the timber from any lands of class two.
+
+## § 3.
+
+That the classification provided for by the preceding section shall not operate to exclude from exploration, entry, and disposition, under the mineral-land laws of the United States, any of said lands, except power sites, which are chiefly valuable for the mineral deposits contained therein, and the general mineral laws are hereby extended to all of said lands, except power sites: Provided, That any person entering mineral lands of class two shall not acquire title to the timber thereon, which shall be sold as hereinafter provided in section four, but he shall have the right to use so much of the timber thereon as may be necessary in the development and operation of his mine until such time as such timber is sold by the United States.
+
+## § 4.
+
+That nonmineral lands of class two shall not be disposed of until the Secretary of the Interior has determined and announced that the merchantable timber thereon has been removed, and thereupon said lands shall fall into class three and be disposed of in the manner hereinafter provided for the disposal of lands of that class.
+
+The timber on lands of class two shall be sold for cash by the Secretary of the Interior, in cooperation with the Secretary of Agriculture, or otherwise, to citizens of the United States, associations of such citizens, and corporations organized under the laws of the United States, or any State, Territory, or District thereof, at such times, in such quantities, and under such plan of public competitive bidding as in the judgment of the Secretary of the Interior may produce the best results: Provided, That said Secretary shall have the right to reject any bid where he has reason to believe that the price offered is inadequate, and may reoffer the timber until a satisfactory bid is received: Provided further, That upon application of a qualified purchaser that any legal subdivision shall be separately offered for sale such subdivision shall be separately offered before being included in any offer of a larger unit, if such application be filed within ninety days prior to such offer: And provided further, That said timber shall be sold as rapidly as reasonable prices can be secured therefor in a normal market.
+
+The Secretary of the Interior shall as soon as the purchase price is fully paid by any person purchasing under the provisions of this section issue to such purchaser a patent conveying the timber and expressly reserving the land to the United States. The timber thus purchased may be cut and removed by the purchaser, his heirs or assigns, within such period as may be fixed by the Secretary of the Interior, which period shall be designated in the patent; all rights under said patent shall cease and terminate at the expiration of said period: Provided, That in the event the timber is removed prior to the expiration of said period the Secretary of the Interior shall make due announcement thereof, whereupon all rights under the patent shall cease.
+
+No timber shall be removed until the issuance of patent therefor. All timber sold under this Act shall be subject to the taxing power of the States apart from the land as soon as patents are issued as provided for herein.
+
+## § 5.
+
+That nonmineral lands of class three shall be subject to entry under the general provisions of the homestead laws of the United States, except as modified herein, and opened to entry in accordance with the provisions of the Act of September thirtieth, nineteen hundred and thirteen (Thirty-eighth Statutes at Large, page one hundred and thirteen). Fifty cents per acre shall be paid at the time the original entry is allowed and $2 per acre when final proof is made. The provisions of section twenty-three hundred and one, Revised Statutes, shall not apply to any entry hereunder and no patent shall issue until the entryman has resided upon and cultivated the land for a period of three years, proof of which shall be made at any time within five years from date of entry. The area cultivated shall be such as to satisfy the Secretary of the Interior that the entry is made in good faith for the purpose of settlement and not for speculation: Provided, That the payment of $2.50 per acre shall not be required from homestead entrymen upon lands of class two when the same shall become subject to entry as agricultural lands in class three: Provided further, That during the period fixed for the submission of applications to make entry under this section any person duly qualified to enter such lands who has resided thereon, to the same extent and in the same manner as is required under the homestead laws, since the first day of December, nineteen hundred and thirteen, and who has improved the land and devoted some portion thereof to agricultural use, and who shall have maintained his residence to the date of such application, shall have the preferred right to enter the quarter section upon which he was so residing whether such lands shall be of class two or class three and where such quarter section does not contain more than one million two hundred thousand feet board measure of timber, and where the quarter section contains more than the said quantity of timber such person may enter the forty-acre tract, or lot or lots containing approximately forty acres, upon which his improvements, or the greater part thereof, are situated: Provided further, That a prior exercise of the homestead right by any such person shall not be a bar to the exercise of such preference rights: And provided further, That all of the following described lands which may become revested in the United States by operation of this Act, to-wit: Township one south, range five east, sections twenty-three and thirty-five; township one south, range six east, sections three, five, seven, nine, seventeen, nineteen, twenty-nine, thirty-one, and thirty-three; township two south, range five east, sections one and three; township two south, range six east, sections one, three, five, seven, nine, and eleven; township two south, range seven east, section seven; township three south, range three east, section fifteen; township four south, range four east, sections eleven and thirteen; township four south, range five east, sections nineteen and twenty-nine; and township twelve south, range seven west, sections fifteen, twenty-one, twenty-three, twenty-seven, thirty-three, and thirty-five, Willamette meridian and base, State of Oregon, shall be withheld from entry or other disposition for a period of two years after the approval hereof.
+
+## § 6.
+
+That persons who purchase timber on lands of class two shall be required to pay a commission of one-fifth of one per centum of the purchase price paid, to be divided equally between the register and receiver, within the maximum compensation allowed them by law; and the register and receiver shall receive no other compensation whatever for services rendered in connection with the sales of timber under the provisions of section four of this Act.
+
+## § 7.
+
+That the Attorney General of the United States be, and he is hereby, authorized and directed to institute and prosecute any and all suits in equity and actions at law against the Oregon and California Railroad Company, and any other proper party which he may deem appropriate, to have determined the amount of moneys which have been received by the said railroad company or its predecessors from or on account of any of said granted lands, whether sold or unsold, patented or unpatented, and which should be charged against it as a part of the “full value” secured to the grantees under said granting Acts as heretofore interpreted by the Supreme Court. In making this determination the court shall take into consideration and give due and proper legal effect to all receipts of money from sales of land or timber, forfeited contracts, rent, timber depreciations, and interest on contracts, or from any other source relating to said lands; also to the value of timber taken from said lands and used by said grantees or their successor or successors. In making this determination in the aforementioned suit or suits the court shall also determine, on the application of the Attorney General, the amount of the taxes on said lands paid by the United States, as provided in this Act, and which should in law have been paid by the said Oregon and California Railroad Company, and the amount thus determined shall be treated as money received by said railroad company.
+
+## § 8.
+
+That the title to all money arising out of said grant lands and now on deposit to await the final outcome of said suit commenced by the United States in pursuance of said joint resolution of nineteen hundred and eight is hereby vested in the United States, and the United States is subrogated to all the rights and remedies of the obligee or obligees, and especially of Louis L. Sharp as commissioner, under any contract for the purchase of timber on the grant lands.
+
+## § 9.
+
+That the taxes accrued and now unpaid on the lands revested in the United States, whether situate in the State of Oregon or State of Washington, shall be paid by the Treasurer of the United States, upon the order of the Secretary of the Interior, as soon as maybe after the approval of this Act, and a sum sufficient to make such payment is hereby appropriated, out of any money in the Treasury not otherwise appropriated.
+
+## § 10.
+
+That all moneys received from or on account of said lands and timber under the provisions of this Act shall be deposited in the Treasury of the United States in a special fund, to be designated “The Oregon and California land-grant fund,” which fund shall be disposed of in the following manner: The Secretary of the Interior shall ascertain as soon as may be the exact number of acres of said lands, sold or unsold, patented to the Oregon and California Railroad Company, or its predecessors, and the number of acres of unpatented lands which said railroad company is entitled to receive under the terms of said grants and the value of said lands at $2.50 per acre. From the sum thus ascertained he shall deduct the amount already received by the said railroad company and its predecessors in interest on account of said lands and which should be charged against it as determined under section seven of this Act; and a sum equal to the balance thus resulting shall be paid, as herein provided, to the said railroad company, its successors or assigns, and to those having liens on the land, as their respective interests may appear. The amount due hen holders shall be evidenced either by the consent, in writing, of the railroad company or by a judgment of a court of competent jurisdiction in a suit to which the railroad company and the lien holders are parties. Payments shall be made from time to time, as the fund accumulates, by the Treasurer of the United States upon the order of the Secretary of the Interior: Provided, however, That if, upon the expiration of ten years from the approval of this Act, the proceeds derived from the sale of lands and timber are not sufficient to pay the full amount which the said railroad company, its successors or assigns, are entitled to receive, the balance due shall be paid from the general funds in the Treasury of the United States, and an appropriation shall be made therefor. After the said railroad company, its successors or assigns, and the lien holders shall have been paid the amount to which they are entitled, as provided herein, an amount equal to that paid for accumulated taxes, as provided in section nine hereof, shall be deposited in the Treasury to the credit of the United States, thereafter all other moneys received from the sales of land and timber shall be distributed as follows:
+
+A separate account shall be kept in the General Land Office of the sales of land and timber within each county in which any of said lands are situated, and, after deducting from the amount of the proceeds arising from such sales in each county a sum equal to that applied to pay the accrued taxes in that county and a sum equal to $2.50 per acre for each acre of such land therein title to which is revested in the United States under this Act, twenty-five per centum of the remainder shall be paid to the State treasurer of the State in which the land is located, to be and become a part of the irreducible school fund of the State; twenty-five per centum shall be paid to the treasurer of the county for common schools, roads, highways, bridges, and port districts, to be apportioned by the county courts for the several purposes above named; forty per centum shall be paid into, reserved, and appropriated as a part of the fund created by the Act of Congress approved June seventeenth, nineteen hundred and two, known as the reclamation Act; ten per centum shall become a part of the general fund in the Treasury of the United States; and of the balance remaining in said Oregon and California land grant fund from whatsoever source derived twenty-five per centum shall be paid to the State treasurer of the State in which the land is located, to be and become a part of the irreducible school fund of the State; twenty-five per centum shall be paid to the treasurer of the county for common schools, roads, highways, bridges, and port districts, to be apportioned by the county courts for the several purposes above named; and the remainder shall become a part of the general fund in the Treasury of the United States. The payments herein authorized shall be made to the treasurers of the States and counties, respectively, by the Treasurer of the United States, upon the order of the Secretary of the Interior, as soon as may be after the close of each fiscal year during which the moneys were received: Provided, That none of the payments to the States and counties and to the reclamation fund in this section provided for shall be made until the amount due the Oregon and California Railroad Company, its successors or assigns, has been fully paid, and the Treasury reimbursed for all taxes paid pursuant to the provisions of section nine of this Act.
+
+## § 11.
+
+That the Secretary of the Interior is hereby authorized to perform any and all acts and to make such rules and regulations as may be necessary and proper for the purpose of carrying the provisions of this Act into full force and effect; and any person, applicant, purchaser, entryman, or witness who shall swear falsely in any affidavit or proceeding required hereunder or under the regulations issued by the Secretary of the Interior shall be guilty of perjury and liable to the penalties prescribed therefor.
+
+## § 12.
+
+That the sum of $100,000 be, and the same is hereby, appropriated, out of any moneys in the Treasury not otherwise appropriated, to enable the Secretary of the Interior, in cooperation with the Secretary of Agriculture, or otherwise, to complete the classification of the lands as herein provided, which amount shah be immediately available and shall remain available until such classification shall have been completed.
+
+
+*Approved, June 9, 1916.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- June 9, 1916. [H.R. 14864.] [Public, No. 86.]
+- Oregon-California land grant acts. Preamble. Vol. 14, p. 239. Vol. 16, pp. 47, 94.
+- Vol. 35, p. 571.
+- Vol. 14, p. 242.
+- Oregon and California Railroad Company. Land grants to, revested in United States. Vol. 14, p. 239. Vol. 15, p. 80; Vol. 16, p. 47.
+- Vol. 16, p. 94.
+- Proviso. Rights of way, etc., excepted.
+- Classification of restored lands.
+- Power-site lands.
+- Timberlands.
+- Agricultural lands.
+- Provisos. Reclassification.
+- Rights of way, etc., allowed.
+- Mineral entries, etc.
+- Proviso. Timber reserved.
+- Timber lands. Opened to horn estead entry, etc., when timber removed.
+- Sales of timber by competitive bidding.
+- Provisos. Rejection of unsatisfactory bids.
+- Sale of small units.
+- Timber sales.
+- Issue of timber patents.
+- Cutting, removal, etc.
+- Proviso. Termination.
+- Tax, etc.
+- Agricultural lands. Opening to entry.
+- Vol. 38, p. 113.
+- No commutation,. R.S., sec. 2301, p. 421. Cultivation, etc., required.
+- Provisos. Cleared timberlands.
+- Preference to present residents.
+- On timber lands.
+- Prior homestead not a bar.
+- Special reservation for two years.
+- Description.
+- Commissions for timber sales.
+- Legal proceedings to determine amount due railroad company.
+- Matters to be considered.
+- Determination as to taxes due.
+- Title to moneys now in court.
+- Payment of accrued State taxes.
+- Receipts from lands and timber to constitute special fund.
+- Disposition of.
+- Payment to railroad company, etc.
+- Proviso. Balance if receipts insufficient.
+- Distribution after paying railroad company, etc.
+- From sales of lands and timber.
+- Vol. 32, p. 388.
+- Payments authorized.
+- Proviso. Conditions.
+- Regulations, etc.
+- Punishment for false swearing.
+- Appropriation for classification.

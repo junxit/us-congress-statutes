@@ -1,0 +1,33 @@
+---
+volume: 39
+citation: 39 Stat. 899
+type: Chapter
+number: 32
+congress: 64
+session: 2
+scope: public
+approved: 1917-02-06
+bills: 64/sjres-203, 64/pubres-48
+---
+
+# Chapter 32
+
+> Joint Resolution To provide for the maintenance of public order and the protection of life and property in connection with the presidential inaugural ceremonies in nineteen hundred and seventeen.
+
+*Resolved by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+That $23,000, or so much thereof as may be necessary, payable from any money in the Treasury not otherwise appropriated and from the revenues of the District of Columbia in equal parts, is hereby appropriated to enable the Commissioners of the District of Columbia to maintain public order and protect fife and property in said District from the twenty-eighth of February to the tenth of March, nineteen hundred and seventeen, both inclusive, including the employment of personal services, payment of allowances, traveling expenses, hire of means of transportation, and other incidental expenses in the discretion of the commissioners. Said commissioners are hereby authorized and directed to make all reasonable regulations necessary to secure such preservation of public order and protection of life and property and fixing fares by public conveyance, and to make special regulations respecting the standing, movements, and operating of vehicles of whatever character or kind during said period and fixing fares to be charged for the use of the same. Such regulations shall be in force one week prior to said inauguration, during said inauguration, and one week subsequent thereto, and shall be published in one or more of the daily newspapers published in the District of Columbia; and in such other manner as the commissioners may deem best to acquaint the public with the same; and no penalty prescribed for the violation of any of such regulations shall be enforced until five days after such publication. Any person violating any of such regulations shall be liable for each such offense to a fine not to exceed $100 in the police court of said District, and in default of payment thereof to imprisonment in the workhouse of said District for not longer than sixty days. And the sum of $2,000, or so much thereof as may be necessary, is hereby likewise appropriated, to be expended by the Commissioners of the District of Columbia for the construction, rent, maintenance, and expenses incident to the operation of temporary public-comfort stations, first-aid stations, and information booths during the period aforesaid, including the employment of personal services.
+
+
+*Approved, February 6, 1917.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- February 6, 1917. [S. J. Res. 203.] [Pub. Res., No. 48.]
+- District of Columbia. Appropriation for maintenance of order, etc., inaugural ceremonies.
+- Regulations, etc., authorized.
+- Duration, etc.
+- Penalty for violations.
+- Public convenience stations, etc.
