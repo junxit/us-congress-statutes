@@ -1,0 +1,40 @@
+---
+volume: 106
+citation: 106 Stat. 2291
+type: Public Law
+number: 472
+congress: 102
+session: 2
+scope: public
+approved: 1992-10-23
+bills: 102/hjres-529
+---
+
+# Public Law 102–472
+
+> Joint Resolution Supporting the planting of 500 redwood trees from California in Spain in commemoration of the quincentenary of the voyage of Christopher Columbus and designating the trees as a gift to the people of Spain.
+
+Whereas the voyage of Christopher Columbus across the Atlantic Ocean in 1492 established permanent communications between the Eastern and the Western Hemispheres and launched the greatest migration of human beings in the history of the world; Whereas such voyage stimulated the first circumnavigation of the globe and other explorations that gave humankind its first genuine understanding of the Earth's geography; Whereas such voyage inaugurated a new world that led to the formation of the United States; and Whereas the quincentenary of such voyage is an appropriate time for its commemoration by the planting of a grove of redwood trees from California on the northwest coast of Spain, facing the Atlantic Ocean, so that during the next 5 centuries, as the trees grow from seedlings to their full noble grandeur in the soil of the Eastern Hemisphere, they will give to each individual who visits them an experience of the awesome potentials and wondrous beauty of Creation and represent the hope for a future of growing friendship among the peoples of the Eastern and the Western Hemispheres: Now, therefore, be it Resolved by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+That—
+
+- **(1)** the Congress supports the planting of 500 redwood trees from California on the northwest coast of Spain that is being organized by persons in the United States in cooperation with agencies of the Government of Spain in commemoration of the quincentenary of the voyage of Christopher Columbus to the New World; and
+- **(2)** such trees, which will be planted in December 1992 on land set aside for that purpose by authority of the Council of Galicia and the community of Montes de San Xoan in the Province of Pontevedra and supervised by the forestry service of such Province, are designated as a gift to the people of Spain made in the name of the people of the United States.
+
+
+*Approved October 23, 1992.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- Oct. 23, 1992 [H.J. Res. 529]
+
+## Legislative history
+
+**LEGISLATIVE HISTORY—H.J. Res. 529:**
+
+*CONGRESSIONAL RECORD, Vol. 138 (1992):*
+
+- Oct. 4, considered and passed House.
+- Oct. 7, considered and passed Senate.

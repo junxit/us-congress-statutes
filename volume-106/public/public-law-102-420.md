@@ -1,0 +1,48 @@
+---
+volume: 106
+citation: 106 Stat. 2149
+type: Public Law
+number: 420
+congress: 102
+scope: public
+approved: 1992-10-16
+bills: 102/hr-5258
+---
+
+# Public Law 102–420
+
+> An Act An Act to provide for the withdrawal of most favored nation status from Serbia and Montenegro and to provide for the restoration of such status if certain conditions are fulfilled.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+## § 1. WITHDRAWAL OF MOST FAVORED NATION STATUS FROM SERBIA AND MONTENEGRO.
+
+- **(a)** *Findings.—* The Congress finds that Serbia or Montenegro are not complying with the provisions of the Final Act of the Conference on Security and Cooperation in Europe (also known as the “Helsinki Final Act”), particularly the provisions regarding human rights and humanitarian affairs and are not respecting minority rights in Kosovo and Vojvodina.
+- **(b)** *Withdrawal of MFN Status.—* Except as provided in subsection (c), nondiscriminatory treatment shall not apply with respect to any goods that—
+  - **(1)** are the product of Serbia or Montenegro; and
+  - **(2)** are entered into the customs territory of the United States on or after the 15th day after the date of the enactment of this Act.
+- **(c)** *Restoration of Nondiscriminatory Treatment.—* Notwithstanding subsection (b), the President may restore nondiscriminatory treatment to goods that are the product of Serbia or Montenegro, as the case may be, 30 days after he certifies to the Congress that Serbia or Montenegro, as the case may be—
+  - **(1)** has ceased its armed conflict with the other ethnic peoples of the region formerly comprising the Socialist Federal Republic of Yugoslavia;
+  - **(2)** has agreed to respect the borders of the 6 republics that comprised the Socialist Federal Republic of Yugoslavia under the 1974 Yugoslav Constitution; and
+  - **(3)** has ceased all support of Serbian forces inside Bosnia-Hercegovina.
+
+
+*Approved October 16, 1992.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- Oct. 16, 1992 [H.R. 5258]
+- 19 USC 2432 note.
+
+## Legislative history
+
+**LEGISLATIVE HISTORY—H.R. 5258:**
+
+
+*CONGRESSIONAL RECORD, Vol. 138 (1992):*
+
+- Sept. 22, considered and passed House.
+- Sept. 30, considered and passed Senate, amended.
+- Oct. 5, House concurred in Senate amendments.

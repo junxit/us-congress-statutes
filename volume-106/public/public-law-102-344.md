@@ -1,0 +1,65 @@
+---
+volume: 106
+citation: 106 Stat. 921
+type: Public Law
+number: 344
+congress: 102
+session: 2
+scope: public
+approved: 1992-08-26
+bills: 102/hr-4312, 102/s-2236
+---
+
+# Public Law 102–344
+
+> An Act To amend the Voting Rights Act of 1965 with respect to bilingual election requirements.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+## § 1. SHORT TITLE.
+
+This Act may be cited as the “Voting Rights Language Assistance Act of 1992”.
+
+## § 2. EXTENSION OF LANGUAGE MINORITY PROVISIONS.
+
+Subsection (b) of section 203 of the Voting Rights Act of 1965 (42 U.S.C. 1973aala(b)) is amended to read as follows:
+
+> - **(b)** *Bilingual Voting Materials Requirement.—*
+>   - **(1)** *Generally.—* Before August 6, 2007, no covered State or political subdivision shall provide voting materials only in the English language.
+>   - **(2)** *Covered states and political subdivisions.—*
+>     - **(A)** *Generally.—* A State or political subdivision is a covered State or political subdivision for the purposes of this subsection if the Director of the Census determines, based on census data, that—
+>       - **(i)**
+>         - **(I)** more than 5 percent of the citizens of voting age of such State or political subdivision are members of a single language minority and are limited-English proficient;
+>         - **(II)** more than 10,000 of the citizens of voting age of such political subdivision are members of a single language minority and are limited-English proficient; or
+>         - **(III)** in the case of a political subdivision that contains all or any part of an Indian reservation, more than 5 percent of the American Indian or Alaska Native citizens of voting age within the Indian reservation are members of a single language minority and are limited-English proficient; and
+>       - **(ii)** the illiteracy rate of the citizens in the language minority as a group is higher than the national illiteracy rate.
+>     - **(B)** *Exception.—* The prohibitions of this subsection do not apply in any political subdivision that has less than 5 percent voting age limited-English proficient citizens of each language minority which comprises over 5 percent of the statewide limited-English proficient population of voting age citizens, unless the political subdivision is a covered political subdivision independently from its State.
+>   - **(3)** *Definitions.—* As used in this section—
+>     - **(A)** the term Voting materials’ means registration or voting notices, forms, instructions, assistance, or other materials or information relating to the electoral process, including ballots;
+>     - **(B)** the term ‘limited-English proficient’ means unable to speak or understand English adequately enough to participate in the electoral process;
+>     - **(C)** the term ‘Indian reservation’ means any area that is an American Indian or Alaska Native area, as defined by the Census Bureau for the purposes of the 1990 decennial census;
+>     - **(D)** the term ‘citizens’ means citizens of the United States; and
+>     - **(E)** the term ‘illiteracy’ means the failure to complete the 5th primary grade.
+>   - **(4)** *Special rule.—* The determinations of the Director of the Census under this subsection shall be effective upon publication in the Federal Register and shall not be subject to review in any court.”.
+
+
+*Approved August 26, 1992.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- Aug. 26, 1992 [H.R. 4312]
+- Voting Rights Language Assistance Act of 1992. 42 USC 1971 note.
+- Effective date. Federal Register, publication.
+
+## Legislative history
+
+**LEGISLATIVE HISTORY—H.R. 4312 (S. 2236 ):**
+
+
+
+*CONGRESSIONAL RECORD, Vol. 138 (1992):*
+
+- July 23, 24, considered and passed House.
+- Aug. 6, 7, considered and passed Senate.

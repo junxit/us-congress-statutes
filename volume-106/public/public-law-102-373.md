@@ -1,0 +1,54 @@
+---
+volume: 106
+citation: 106 Stat. 1184
+type: Public Law
+number: 373
+congress: 102
+session: 2
+scope: public
+approved: 1992-09-30
+bills: 102/sjres-337
+---
+
+# Public Law 102–373
+
+> Joint Resolution Designating September 18, 1992, as “National POW/MIA Recognition Day”, and authorizing display of the National League of Families POW/MIA flag.
+
+*Resolved by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+Whereas the United States has fought in many wars, most recently in unprecedented unity with Allied forces in the Persian Gulf; Whereas thousands of Americans who served in those wars were captured by the enemy or listed as missing in action; Whereas many American prisoners of war were subjected to brutal and inhumane treatment by their enemy captors in violation of international codes and customs for the treatment of prisoners of war, and many such prisoners of war died from such treatment; Whereas many of these Americans are still listed as missing and unaccounted for, and the uncertainty surrounding their fates has caused their families to suffer acute and continuing hardships; Whereas, in Public Law 101–355, the Federal Government officially recognized and designated the National League of Families POW/ MIA flag as the symbol of the Nation’s concern and commitment to resolving as fully as possible the fates of Americans still prisoner, missing in action, or unaccounted for in Southeast Asia; and Whereas the sacrifices of Americans still missing and unaccounted for from all our Nation’s wars and their families are deserving of national recognition and support for continued priority efforts to determine the fate of those missing Americans: Now, therefore, be it
+
+## § 1. DESIGNATION OF NATIONAL POW/MIA RECOGNITION DAY.
+
+September 18, 1992, is designated as “National POW/MIA Recognition Day”, and the President is authorized and requested to issue a proclamation calling on the people of the United States to observe the day with appropriate ceremonies and activities.
+
+## § 2. REQUIREMENT TO DISPLAY NATIONAL LEAGUE OF FAMILIES POW/MIA FLAG.
+
+- **(a)** *In General.—* The POW/MIA flag shall be displayed— as the symbol of our Nation’s concern and commitment to resolving as fully as possible the fates of Americans still prisoner, missing, and unaccounted for, thus ending the uncertainty for their families and the Nation.
+  - **(1)** at all national cemeteries and the National Vietnam Veterans Memorial on May 30, 1993 (Memorial Day), September 18, 1992 (National POW/MIA Recognition Day), and November 11, 1992 (Veteran’s Day); and
+  - **(2)** on, or on the grounds of, the buildings specified in subsection (b) on September 18, 1992;
+- **(b)** *Buildings.—* The buildings specified in this subsection are—(1) the White House; and
+  - **(2)** the buildings containing the primary offices of the—
+    - **(A)** Secretary of State;
+    - **(B)** Secretary of Defense;
+    - **(C)** Secretary of Veterans Affairs; and
+    - **(D)** Director of the Selective Service Commission.
+- **(c)** *POW/MIA Flag.—* As used in this section, the term “POW/ MIA flag” means the National League of Families POW/MIA flag recognized officially and designated by section 2 of Public Law 101–355.
+
+
+*Approved September 30, 1992.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- Sept. 30, 1992 [S.J. Res. 337]
+
+## Legislative history
+
+**LEGISLATIVE HISTORY—S.J. Res. 337:**
+
+*CONGRESSIONAL RECORD, Vol. 138 (1992):*
+
+- Sept. 15, considered and passed Senate.
+- Sept. 16, considered and passed House.
