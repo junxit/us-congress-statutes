@@ -1,0 +1,29 @@
+---
+volume: 66
+citation: 66 Stat. a91
+type: Private Law
+number: 685
+congress: 82
+session: 2
+scope: private
+approved: 1952-06-11
+bills: 82/hr-3132
+---
+
+# Private Law 685
+
+> AN ACT For the relief of Sister Apolonia Gerarda Sokolowska.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+That, for the purposes of the immigration and naturalization laws, Sister Apolonia Gerarda Sokolowska, who entered the United States on December 6, 1949, for a temporary stay, shall be held and considered to have been lawfully admitted to the United States for permanent residence as of the date of the enactment of this Act, upon payment of the required visa fee and head tax. Upon the granting of permanent residence to the said Sister Apolonia Gerarda Sokolowska as provided for in this Act, the Secretary of State shall instruct the proper quota-control officer to deduct one number from the appropriate quota for the first year such quota is available.
+
+
+*Approved June 11, 1952.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- June 11, 1952 [H. R. 3132]
+- Quota deduction.

@@ -1,0 +1,30 @@
+---
+volume: 66
+citation: 66 Stat. a66
+type: Private Law
+number: 611
+congress: 82
+session: 2
+scope: private
+approved: 1952-05-13
+bills: 82/hr-6088
+---
+
+# Private Law 611
+
+> AN ACT For the relief of Hisako Suzuki.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+That, in the administration of the immigration laws, section 13 (c) of the Immigration Act of 1924, as amended, shall not apply to Hisako Suzuki. Japanese minor child in the care of Sergeant and Mrs. James Jenkins, citizens of the United States. For the purposes of sections 4 (a) and 9 of the Immigration Act of 1924, as amended, the said Hisako Suzuki shall be held and considered to be the natural-born alien minor child of the said Sergeant and Mrs. James Jenkins.
+
+
+*Approved May 13, 1952.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- May 13, 1952 [H. R. 6088]
+- 43 Stat. 162. 8 USC 213(c).
+- 43 Stat. 155, 157. 8 USC 204(a), 209.
