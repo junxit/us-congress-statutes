@@ -1,0 +1,152 @@
+---
+volume: 48
+citation: 48 Stat. 643
+type: Chapter
+number: 168
+congress: 73
+session: 2
+scope: public
+approved: 1934-04-27
+bills: 73/s-2999
+---
+
+# Chapter 168
+
+> AN ACT To guarantee the bonds of the Home Owners’ Loan Corporation, to amend the Home Owners’ Loan Act of 1933, and for other purposes.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+That
+
+- **(a)**
+  - section 4(c) of the Home Owners’ Loan Act of 1933 is amended to read as follows:
+  > - **(c)** The Corporation is authorized to issue bonds in an aggregate amount not to exceed $2,000,000,000, which may be sold by the Corporation to obtain funds for carrying out the purposes of this section, or exchanged as hereinafter provided. Such bonds shall be in such forms and denominations, shall mature within such periods of not more than eighteen years from the date of their issue, shall bear such rates of interest not exceeding 4 per centum per annum, shall be subject to such terms and conditions, and shall be issued in such manner and sold at such prices, as may be prescribed by the Corporation, with the approval of the Secretary of the Treasury. Such bonds shall be fully and unconditionally guaranteed both as to interest and principal by the United States, and such guaranty shall be expressed on the face thereof, and such bonds shall be lawful investments, and may be accepted as security, for all fiduciary, trust, and public funds, the investment or deposit of which shall be under the authority or control of the United States or any officer or officers thereof. In the event that the Corporation shall be unable to pay upon demand, when due, the principal of, or interest on, such bonds, the Secretary of the Treasury shall pay to the holder the amount thereof which is hereby authorized to be appropriated out of any moneys in the Treasury not otherwise appropriated, and thereupon to the extent of the amount so paid the Secretary of the Treasury shall succeed to all the rights of the holders of such bonds. The Secretary of the Treasury, in his discretion, is authorized to purchase any bonds of the Corporation issued under this subsection which are guaranteed as to interest and principal, and for such purpose the Secretary of the Treasury is authorized to use as a public-debt transaction the proceeds from the sale of any securities hereafter issued under the Second Liberty Bond Act, as amended, and the purposes for which securities may be issued under such Act, as amended, are extended to include any purchases of the Corporation’s bonds hereunder. The Secretary of the Treasury may, at any time, sell any of the bonds of the Corporation acquired by him under this subsection. All redemptions, purchases, and sales by the Secretary of the Treasury of the bonds of the Corporation shall be treated as public-debt transactions of the United States. The bonds issued by the Corporation under this subsection shall be exempt, both as to principal and interest, from all taxation (except surtaxes, estate, inheritance, and gift taxes) now or hereafter imposed by the United States or any District, Territory, dependency, or possession thereof, or by any State, county, municipality, or local taxing authority. The Corporation, including its franchise, its capital, reserves and surplus, and its loans and income, shall likewise be exempt from such taxation; except that any real property of the Corporation shall be subject to taxation to the same extent, according to its value, as other real property is taxed. No such bonds shall be issued in excess of the assets of the Corporation, including the assets to be obtained from the proceeds of such bonds, but a failure to comply with this provision shall not invalidate the bonds or the guaranty of the same. The Corporation shall have power to purchase in the open market at any time and at any price not to exceed par any of the bonds issued by it. Any such bonds so purchased may, with the approval of the Secretary of the Treasury, be sold or resold at any time and at any price. For a period of six months after the date this subsection, as amended, takes effect, the Corporation is authorized to refund any of its bonds issued prior to such date or any bonds issued after such date in compliance with commitments of the Corporation outstanding on such date, upon application of the holders thereof, by exchanging therefor bonds of an equal face amount issued by the Corporation under this subsection as amended, and bearing interest at such rate as may be prescribed by the Corporation with the approval of the Secretary of the Treasury; but such rate shall not be less than that first fixed after this subsection, as amended, takes effect on bonds exchanged by the Corporation for home mortgages. For the purpose of such refunding the Corporation is further authorized to increase its total bond issue in an amount equal to the amount of the bonds so refunded. Nothing in this subsection, as amended, shall be construed to prevent the Corporation from issuing bonds in compliance with commitments of the Corporation on the date this subsection, as amended, takes effect.”
+
+- **(b)** The amendments made by subsection (a) of this section (except with respect to refunding) shall not apply to any bonds heretofore issued by the Home Owners’ Loan Corporation under such section 4 (c), or to any bonds hereafter issued in compliance with commitments of the Corporation outstanding on the date of enactment of this Act.
+
+## § 2.
+
+Section 4 of the Home Owners’ Loan Act is further amended by adding at the end thereof the following new subsections:
+
+> - **(l)** No home mortgage or other obligation or lien shall be acquired by the Corporation under subsection (d), and no cash advance shall be made under subsection (f), unless the applicant was in involuntary default on June 13, 1933, with respect to the indebtedness on his real estate and is unable to carry or refund his present mortgage indebtedness: Provided, That the foregoing limitation shall not apply in any case in which it is specifically shown to the satisfaction of the Corporation that a default after such date was due to unemployment or to economic conditions or misfortune beyond the control of the applicant, or in any case in which the home mortgage or other obligation or lien is held by an institution which is in liquidation.
+> - **(m)** In all cases where the Corporation is authorized to advance cash to provide for necessary maintenance and to make necessary repairs it is also authorized to advance cash or exchange bonds for the rehabilitation, modernization, rebuilding and enlargement of the homes financed; and in all cases where the Corporation has acquired a home mortgage or other obligation or lien it is authorized to advance cash or exchange bonds to provide for the maintenance, repair, rehabilitation, modernization, rebuilding, and enlargement of the homes financed and to take an additional lien, mortgage, or conveyance to secure such additional advance or to take a new home mortgage for the whole indebtedness; but the total amount advanced shall in no case exceed the respective amounts or percentages of value of the real estate as elsewhere provided in this section. Not to exceed $200,000,000 of the proceeds derived from the sale of bonds of the Corporation shall be used in making cash advances to provide for necessary maintenance and necessary repairs and for the rehabilitation, modernization, rebuilding and enlargement of real estate securing the home mortgages and other obligations and liens acquired by the Corporation under this section.
+
+## § 3.
+
+The sixth sentence of section 4 (d) of the Home Owners’ Loan Act of 1933 is amended to read as follows: “The Corporation may at any time grant an extension of time to any home owner for the payment of any installment of principal or interest owed by him to the Corporation if, in the judgment of the Corporation, the circumstances of the home owner and the condition of the security justify such extension.”
+
+## § 4.
+
+Subsection (g) of section 4 of the Home Owners’ Loan Act of 1933 is hereby amended to read as follows:
+
+> - **(g)** The Corporation is further authorized to exchange bonds and to advance cash to redeem or recover homes lost by the owners by foreclosure or forced sale by a trustee under a deed of trust or under power of attorney, or by voluntary surrender to the mortgagee subsequent to January 1, 1930, subject to the limitations provided in subsection (d) of this section.”
+
+## § 5.
+
+Section 5 of the Home Owners’ Loan Act of 1933 is amended by adding at the end thereof the following new subsections:
+
+> - **(j)** In addition to the authority to subscribe for preferred shares in Federal savings and loan associations, the Secretary of the Treasury is authorized on behalf of the United States to subscribe for any amount of full paid income shares in such associations, and it shall be the duty of the Secretary of the Treasury to subscribe for such full paid income shares upon the request of the Federal Home Loan Bank Board. Payment on such shares may be called from time to time by the association, subject to the approval of said Board and the Secretary of the Treasury, and such payments shall be made from the funds appropriated pursuant to subsection (g) of this section; but the amount paid in by the Secretary of the Treasury for shares under this subsection and such subsection (g), together shall at no time exceed 75 per centum of the total investment in the shares of such association by the Secretary of the Treasury and other shareholders. Each such association shall issue receipts for such payments by the Secretary of the Treasury in such form as may be approved by said Board and such receipts shall be evidence of the interest of the United States in such full paid income shares to the extent of the amount so paid. No request for the repurchase of the full paid income shares purchased by the Secretary of the Treasury shall be made for a period of five years from the date of such purchase, and thereafter requests by the Secretary of the Treasury for the repurchase of such shares by such associations shall be made at the discretion of the Board; but no such association shall be requested to repurchase any such shares in any one year in an amount in excess of 10 per centum of the total amount invested in such shares by the Secretary of the Treasury. Such repurchases shall be made in accordance with the rules and regulations prescribed by the Board for such associations.
+> - **(k)** When designated for that purpose by the Secretary of the Treasury, any Federal savings and loan association or member of any Federal Home Loan Bank may be employed as fiscal agent of the Government under such regulations as may be prescribed by said Secretary and shall perform all such reasonable duties as fiscal agent of the Government as may be required of it. Any Federal savings and loan association or member of any Federal Home Loan Bank may act as agent for any other instrumentality of the United States when designated for that purpose by such instrumentality of the United States.”
+
+## § 6.
+
+Section 5(i) of the Home Owners’ Loan Act of 1933 is amended to read as follows:
+
+> - **(i)** Any member of a Federal Home Loan Bank may convert itself into a Federal savings and loan association under this Act upon a vote of 51 per centum or more of the votes cast at a legal meeting called to consider such action; but such conversion shall be subject to such rules and regulations as the Board may prescribe, and thereafter the converted association shall be entitled to all the benefits of this section and shall be subject to examination and regulation to the same extent as other associations incorporated pursuant to this Act.”
+
+## § 7.
+
+- **(a)** The first sentence of the eighth paragraph of section 13 of the Federal Reserve Act, as amended, is further amended by inserting before the semicolon, after the words “Federal Farm Mortgage Corporation Act”, a comma and the following: “or by the deposit or pledge of bonds issued under the provisions of subsection (c) of section 4 of the Home Owners’ Loan Act of 1933, as amended.”
+- **(b)** Paragraph (b) of section 14 of the Federal Reserve Act, as amended, is further amended by inserting after the words “bonds of the Federal Farm Mortgage Corporation having maturities from date of purchase of not exceeding six months”, a comma and the following: “bonds issued under the provisions of subsection (c) of section 4 of the Home Owners’ Loan Act of 1933, as amended, and having maturities from date of purchase of not exceeding six months.”
+
+## § 8.
+
+The Federal Reserve banks are authorized, with the approval of the Secretary of the Treasury, to act as depositaries, custodians, and fiscal agents for the Home Owners’ Loan Corporation.
+
+## § 9.
+
+The Home Owners’ Loan Corporation is authorized to buy bonds or debentures of Federal Home Loan Banks upon such terms as may be agreed upon or to loan money to Federal Home Loan Banks upon such terms as may be agreed upon but not to exceed $50,000,000 shall be invested or advanced under this section.
+
+## § 10.
+
+The first sentence of section 10(b) of the Federal Home Loan Bank Act, as amended, is amended by inserting before the period at the end thereof a comma and the following: “unless the amount of the debt secured by such home mortgage is less than 50 per centum of the value of the real estate with respect to which the home mortgage was given, as such real estate was appraised when the home mortgage was made”,
+
+## § 11.
+
+Section 6 of the Home Owners’ Loan Act of 1933 is amended by adding at the end thereof the following new sentences: “For the purposes of this section the Secretary of the Treasury is authorized and directed to allocate and make immediately available to the Board, out of the funds appropriated pursuant to section 5 (g), the sum of $500,000. Such sum shall be in addition to the funds appropriated pursuant to this section, and shall be subject to the call of the Board and shall remain available until expended.”
+
+## § 12.
+
+Subsection (e) of section 8 of the Home Owners’ Loan Act of 1933, is hereby amended to read as follows:
+
+> - **(e)** No person, partnership, association, or corporation shall, directly or indirectly, solicit, contract for, charge or receive, or attempt to solicit, contract for, charge or receive any fee, charge, or other consideration from any person applying to the Corporation for a loan, whether bond or cash except ordinary fees authorized and required by the Corporation for services actually rendered for examination and perfection of title, appraisal, and like necessary services. Any person, partnership, association, or corporation violating the provisions of this subsection shall, upon conviction thereof, be fined not more than $10,000, or imprisoned not more than five years or both.”
+
+## § 13.
+
+Subsection (k) of section 4 of the Home Owners’ Loan Act of 1933 is hereby amended by inserting a new sentence after the second sentence of such subsection as follows: “All payments upon principal of loans made by the Corporation shall under regulations made by the Corporation be applied to the retirement of the bonds of the Corporation.”
+
+## § 14.
+
+The eighth sentence of section 4 (a) of the Act entitled “An Act to provide for the establishment of a Corporation to aid in the refinancing of farm debts, and for other purposes”, approved January 31, 1934, is amended to read as follows: “No such bonds shall be issued in excess of the assets of the Corporation, including the assets to be obtained from the proceeds of such bonds, but a failure to comply with this provision shall not invalidate the bonds or the guaranty of the same.”
+
+## § 15.
+
+If any provision of this Act, or the application thereof to any person or circumstance, is held invalid, the remainder of the Act, and the application of such provision to other persons or circumstances, shall not be affected thereby.
+
+
+*Approved, April 27, 1934.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- April 27, 1934. [S. 2999.] [Public, No. 178.]
+- Home Owners’ Loan Act of 1933, amendments. Ante, p. 129; Post, p. 1264. Bonds; issue of, authorized. Aggregate amount.
+- Character of.
+- Payment provisions.
+- Appropriation authorized.
+- Purchase of bonds by Secretary of the Treasury.
+- Fund available. Vol. 40, p. 288.
+- Sale.
+- Treatment of, as public-debt transactions.
+- Tax exemptions.
+- Exception.
+- Real property.
+- Bond issue not to exceed assets.
+- Open market transactions.
+- Resale, refund, and exchange.
+- Interest rate.
+- Increase of issue to amount refunded.
+- Existing commitments.
+- Bonds heretofore issued by Corporation not affected.
+- Ante, p. 132.
+- Bond exchange for mortgages or cash loans; when may have.
+- Proviso. Waiver of limitations.
+- Cash advances for home maintenance.
+- Rehabilitation, etc.
+- Limitation.
+- Maximum allowance for maintenance of real property.
+- Extension to home owner authorized.
+- Ante, p. 131.
+- Redemption of homes lost since January 1, 1930.
+- Federal savings and loan associations. Ante, p. 134. Investment in full paid income shares of, on call of Home Loan Board.
+- Payments.
+- Maximum investment.
+- Receipts.
+- Retirement, after 5 years, permitted.
+- Employment as fiscal agents.
+- Agents for any other Federal instrumentality.
+- Federal Home Loan Bank. Ante, p. 134. Conversion into Federal savings and loan association authorized.
+- Federal Reserve Act, amendment. Ante, p. 180. Advances by reserve banks on Home Owners’ Loan Corporation bonds. Ante, p. 348.
+- Purchase and sale of corporation bonds. Ante, p. 348.
+- Reserve bank as fiscal agent for corporation.
+- Bonds of Federal Home Loan Banks, purchase by corporation.
+- Home mortgages, acceptance as collateral security. Vol. 47, p. 732.
+- Encouragement of home financing and saving. Appropriation for, allocated.
+- Ante, p. 133.
+- Ante, p. 135. Soliciting unauthorized charges.
+- Punishment for.
+- Administrative rules, etc. Ante, p. 132. Application of payments to retirement of bonds.
+- Federal Farm Mortgage Corporation Act.
+- Bonds of, not to issue in excess of assets.
+- Separability of provisions.
