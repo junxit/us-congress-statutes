@@ -1,0 +1,45 @@
+---
+volume: 41
+citation: 41 Stat. 738
+type: Chapter
+number: 222
+congress: 66
+session: 2
+scope: public
+approved: 1920-06-03
+bills: 66/hr-400
+---
+
+# Chapter 222
+
+> An Act Authorizing the Sioux Tribe of Indians to submit claims to the Court of Claims.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+That all claims of whatsoever nature which the Sioux Tribe of Indians may have against the United States, which have not heretofore been determined by the Court of Claims, may be submitted to the Court of Claims with the right of appeal to the Supreme Court of the United States by either party, for determination of the amount, if any, due said tribe from the United States under any treaties, agreements, or laws of Congress, or for the misappropriation of any of the funds or lands of said tribe or band or bands thereof, or for the failure of the United States to pay said tribe any money or other property due; and jurisdiction is hereby conferred upon the Court of Claims, with the right of either party to appeal to the Supreme Court of the United States, to hear and determine all legal and equitable claims, if any, of said tribe against the United States, and to enter judgment thereon.
+
+## § 2.
+
+That if any claim or claims be submitted to said courts they shall settle the rights therein, both legal and equitable, of each and all the parties thereto, notwithstanding lapse of time or statutes of limitation, and any payment which may nave been made upon any claim so submitted shall not be pleaded as an estoppel, but may be pleaded as an offset in such suits or actions, and the United States shall be allowed credit for all sums heretofore paid or expended for the benefit of said tribe or any band thereof. The claim or claims of the tribe or band or bands thereof may be presented separately orjointly by petition, subject, however, to amendment, suit to be filed within five years after the passage of this Act; and such action shall make the petitioner or petitioners party plaintiff or plaintiffs and the United States party defendant, and any band or bands of said tribe or any other tribe or band of Indians the court may deem necessary to a final determination of such suit or suits may be joined therein as the court may order. Such petition, which shall be verified by the attorney or attorneys employed by said Sioux Tribe or any bands thereof, shall set forth all the facts on which the claims for recovery are based, and said petition shall be signed by the attorney or attorneys employed, and no other verification shall be necessary. Official letters, papers, documents, and public records, or certified copies thereof, may be used in evidence, and the departments of the Government shall give access to the attorney or attorneys of said tribe or bands thereof to such treaties, papers, correspondence, or records as may be needed by the attorney or attorneys for said tribe or bands of Indians.
+
+## § 3.
+
+That upon the final determination of such suit, cause, or action the Court of Claims shall decree such fees as it shall find reasonable to be paid the attorney or attorneys employed therein by said tribe or bands of Indians under contracts negotiated and approved as provided by existing law, and in no case shall the fee decreed by said Court of Claims be in excess of the amounts stipulated in the contracts approved by the Commissioner of Indian Affairs and the Secretary of the Interior, and no attorney shall have a right to represent the said tribes or any band thereof in any suit, cause, or action under the provisions of this Act until his contract shall have been approved as herein provided. The fees decreed by the court to the attorney or attorneys of record shall be paid out of any sum or sums recovered in such suits or actions, and no part of such fees shall be taken from any money in the Treasury of the United States belonging to such tribe or bands of Indians in whose behalf the suit is brought unless specifically authorized in the contract approved by the Commissioner of Indian Affairs and the Secretary of the Interior as herein provided: Provided, That in no case shall the fees decreed by said court amount to more than 10 per centum of the amount of the judgment recovered in such cause.
+
+
+*Approved, June 3, 1920.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- June 3, 1920. [H. R. 400.] [Public, No. 237.]
+- Sioux Indians. Claims of, against United States submitted to Court of Claims.
+- Jurisdiction.
+- Statutes of limitations, etc., waived.
+- Procedure.
+- Petition, etc.
+- Evidence admitted.
+- Attorneys’ fees, restricted.
+- Payment from sums recovered, etc.
+- Proviso. Maximum allowed.
