@@ -1,0 +1,174 @@
+---
+volume: 62
+citation: 62 Stat. 101
+type: Chapter
+number: 166
+congress: 80
+session: 2
+scope: public
+approved: 1948-03-31
+bills: 80/hr-5314
+---
+
+# Chapter 166
+
+> AN ACT To strengthen national security and the common defense by providing for the maintenance of an adequate domestic rubber-producing industry, and for other purposes.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+That this Act may be cited as the “Rubber Act of 1948”.
+
+## § 2. DECLARATION OF POLICY
+
+It is the policy of the United States that there shall be maintained at all times in the interest of the national security and common defense, in addition to stock piles of natural rubber which are to be acquired, rotated, and retained pursuant to the Strategic and Critical Materials Stock Piling Act (Public Law 520, Seventy-ninth Congress, approved July 23, 1946), a technologically advanced and rapidly expandible rubber-producing industry in the United States of sufficient productive capacity to assure the availability in times of national emergency of adequate supplies of synthetic rubber to meet the essential civilian, military, and naval needs of the country. It is further declared to be the policy of the Congress that the security interests of the United States can and will best be served by the development within the United States of a free, competitive synthetic-rubber industry. In order to strengthen national security through a sound industry it is essential that Government ownership of production facilities, Government production of synthetic rubber, regulations requiring mandatory use of synthetic rubber, and patent pooling be ended and terminated whenever consistent with national security, as provided in this Act.
+
+## § 3. AUTHORITY TO EXERCISE CERTAIN CONTROLS OVER NATURAL RUBBER AND SYNTHETIC RUBBER AND PRODUCTS CONTAINING NATURAL AND SYNTHETIC RUBBER
+
+To effectuate the policies set forth in section 2 of this Act, the President is authorized to exercise allocation, specification, and inventory controls of natural rubber and synthetic rubber, and specification controls of products containing natural rubber and synthetic rubber, notwithstanding any changes in the supply or estimated supply of natural rubber or synthetic rubber; and he shall exercise such controls by issuing such regulations as are required to insure (a) the consumption in the United States of general-purpose synthetic rubber in a specified percentage of the combined total estimated annual consumption of natural rubber and general-purpose synthetic rubber consumed within the United States, and (b) the consumption in the United States of any or all types of special-purpose synthetic rubber in specified percentages of the combined total estimated annual consumption of natural rubber, general-purpose synthetic rubber, and special-purpose synthetic rubber consumed within the United States. Such percentages shall be established so as to assure the production and consumption of general-purpose synthetic rubber and special-purpose synthetic rubber in quantities determined by the President to be necessary to carry out the policy of section 2 of this Act, and the provisions of Public Law 520, Seventy-ninth Congress, approved July 23, 1946: Provided, That the minimum percentages established by the President shall result in a total annual tonnage consumption of synthetic rubber of at least the amounts specified in section 5 (d) of this Act, and that any mandatory consumption in excess of the quantities specified in section 5 (d) of this Act shall not be more than is deemed by the President to be necessary in the interest of national security and the common defense.
+
+## § 4. IMPORTATION AND EXPORTATION
+
+- **(a)** The President may impose such import restrictions on finished and semifinished rubber products as he deems necessary to assure equality with like or similar products produced within the United States in accordance with regulations issued under this Act.
+- **(b)** The President may exempt from the regulations issued under this Act finished and semifinished rubber products manufactured in the United States exclusively for export outside the United States.
+
+## § 5. DOMESTIC RUBBER-PRODUCING CAPACITY
+
+- **(a)** There shall be maintained at all times within the United States rubber-producing facilities having a rated production capacity of not less than six hundred thousand long tons per annum of general-purpose synthetic rubber and not less than sixty-five thousand long tons per annum of special-purpose synthetic rubber.
+- **(b)** Of the sixty-five-thousand-long-ton rated production capacity for special-purpose synthetic rubber, specified in section 5 (a) of this Act, at least forty-five thousand long tons shall be of a type suitable for use in pneumatic inner tubes.
+- **(c)** The synthetic rubber used to satisfy the mandatory consumption provided in section 3 of this Act shall be produced by the Government or for the Government account, or purchased from others for resale by the Government or for the Government account.
+- **(d)** Facilities in operation by the Government or private persons shall produce annually not less than one-third of the rated production capacities specified in section 5 (a) and (b) of this Act.
+- **(e)** The facilities to be maintained in operation by the Government and those to be maintained in adequate stand-by condition shall be determined from time to time by the President.
+- **(f)** At least one facility for making butadiene from alcohol shall be maintained in operation or in adequate stand-by condition.
+
+## § 6. RESEARCH AND DEVELOPMENT
+
+- **(a)** To effectuate further the policies set forth in section 2 of this Act with respect to a technologically advanced domestic rubber-producing industry, continuous and extensive research by private parties and the Government is essential. The Government is hereby authorized to undertake research in rubber and allied fields and the powers, functions, duties, and authority of the Government to undertake research and development in rubber and allied fields shall be exercised and performed by such departments, agencies, officers, Government corporations, or instrumentalities of the United States as the President may designate, whether or not existing at the date of enactment of this Act.
+- **(b)** The cost of undertaking and maintaining the research and development authorized in section 6 (a) of this Act may be paid from such sums as the Congress, from time to time, may appropriate to carry out the provisions of this Act.
+
+## § 7. OPERATION OF RUBBER-PRODUCING FACILITIES BY THE UNITED STATES GOVERNMENT
+
+- **(a)** The powers, functions, duties, and authority to produce and sell synthetic rubber conferred in section 7 (b) of this Act shall be exercised and performed by such department, agency, officer, Government corporation, or instrumentality of the United States as the President may designate, whether or not existing at the date of enactment of this Act.
+- **(b)** The department, agency, officer, Government corporation, or instrumentality of the United States designated by the President pursuant to section 7 (a) of this Act shall have the powers, functions, duties, and authority to produce and sell synthetic rubber, including the component materials thereof, in amounts sufficient to assure the production of synthetic rubber as required by the President in section 3 of this Act: Provided, That so far as practicable the President shall authorize such production of synthetic rubber, including the component materials thereof, as may be necessary to satisfy voluntary usage of synthetic rubber, including the component materials thereof.
+- **(c)** The aforesaid powers, functions, duties, and authority to produce and sell include all power and authority in such department, agency, officer, Government corporation, or instrumentality of the United States to do all things necessary and proper in connection with and related to such production and sale, including but not limited to the power and authority to make repairs, replacements, alterations, improvements, or betterments to the rubber-producing facilities owned by the Government or in connection with the operation thereof and to make capital expenditures as may be necessary for the efficient and proper operation and maintenance of the rubber-producing facilities owned by the Government and performance of said powers, functions, duties, and authority.
+- **(d)** Notwithstanding the provisions of this or any other Act, the aforesaid powers, functions, duties, and authority to produce and sell include the power and authority in such department, agency, officer, Government corporation, or instrumentality of the United States to (1) lease for operation for Government account all or any part of the Government-owned rubber-producing facilities in connection with the performance of said powers, functions, duties, and authority to produce and sell; (2) lease, for a period not extending beyond the termination date of this Act, Government-owned rubber-producing facilities for private purposes if such lease contains adequate provisions for the recapture thereof for the purposes set forth in section 7 (b) of this Act and if such lease provides that any synthetic rubber or component material as may be produced by the leased facilities shall not be used to satisfy mandatory requirements established by section 3; (3) grant permanent easements or licenses for private purposes in, on, or over land comprising part of the Government-owned rubber-producing facilities if such grant provides that such easement or license shall not interfere with the use at any time of the rubber-producing facilities involved; and (4) sell or otherwise dispose of obsolete or other property not necessary for the production of the rated capacity of the particular plant to which such property is charged.
+
+## § 8. STAND-BY FACILITIES
+
+- **(a)** To effectuate further the policies set forth in section 2 of this Act, the President is authorized to place in adequate stand-by condition such rubber-producing facilities as he shall determine necessary to maintain the continued existence of rubber-producing facilities capable of producing the tonnage of synthetic rubber required by section 5 (a) of this Act.
+- **(b)** Rubber-producing facilities placed in stand-by condition by the President pursuant to section 8 (a) of this Act may be maintained by such department, agency, officer, Government corporation, or instrumentality of the United States, whether or not existing on the date of enactment of this Act, as the President may designate: Provided, That nothing contained in section 8 (b) of this Act shall preclude such department, agency, officer, Government corporation, or instrumentality of the United States from entering into contracts with private persons for the maintenance of stand-by facilities: Provided further, That the cost of placing facilities in stand-by condition, maintaining such facilities in adequate stand-by condition, and, when necessary, reactivating such facilities, may be paid from such sums as the Congress, from time to time, may appropriate to carry out the provisions of this Act.
+
+## § 9. DISPOSAL OF GOVERNMENT-OWNED RUBBER-PRODUCING FACILITIES
+
+- **(a)** The department, agency, officer, Government corporation, or instrumentality of the United States designated by the President pursuant to section 7 (a) of this Act shall undertake immediate study, conducting such hearings as may be necessary, in order to determine and formulate a program for disposal to private industry by sale or lease of the Government-owned rubber-producing facilities other than those authorized to be disposed of pursuant to section 9 (b) of this Act. A report with respect to the development of such a disposal program shall be made to the President and to Congress not later than April 1, 1949. On or before January 15, 1950, the President, after consultation with the National Security Resources Board, shall recommend to the Congress legislation with respect to the disposal of the Government-owned rubber-producing facilities other than those authorized to be sold, leased, or otherwise disposed of under the provisions of section 9 (b) of this Act, together with such other recommendations as he deems desirable and appropriate: Provided, That the Government shall maintain the ownership of a rated rubber-producing capacity of six hundred thousand long tons of general-purpose rubber and a rated rubber-producing capacity of sixty-five thousand long tons of special-purpose rubber until a program is formulated and adopted for the sale or lease of such facilities as provided in this section.
+- **(b)** Notwithstanding the provisions of this or any other Act, the department, agency, officer, Government corporation, or instrumentality of the United States designated by the President pursuant to section 7 (a) of this Act may, after consultation with the National Security Resources Board, sell, lease, or otherwise dispose of to private persons any rubber-producing facility, including such facilities as have been declared surplus pursuant to the Surplus Property Act of 1944, as amended, not required to fulfill the capacity set forth in section 5 (a) of this Act upon such terms and conditions as it may determine providing that such sale or lease shall be on the condition that any synthetic rubber or component materials produced in such facility shall not be used to satisfy the mandatory requirements established by section 3 of this Act.
+
+## § 10. ADMINISTRATION
+
+- **(a)** The President may issue such rules and regulations as he deems necessary and appropriate to carry out the provisions of this Act.
+- **(b)** The President may exercise any or all of the powers, authority, and discretion conferred upon him by this Act, including but not limited to the powers and authority conferred in section 12 of this Act, through such departments, agencies, officers, Government corporations, or instrumentalities of the United States, whether or not existing at the date of the enactment of this Act, as he may direct.
+- **(c)** The President, insofar as practical, shall consolidate all of the powers, functions, and authority contained in this Act in one department, agency, officer, Government corporation, or instrumentality of the United States, whether or not existing at the date of enactment of this Act. The President is authorized to cause a corporation to be organized for the purpose of producing and selling synthetic rubber. Any such corporation so organized shall be authorized, subject to the Government Corporation Control Act and to pertinent provisions of law affecting Government corporations, to sue and be sued, to acquire, hold, and dispose of property, to use its revenues, to determine the character of and necessity for its obligations and expenditures and the manner in which they shall be incurred, allowed and paid, and to exercise such other powers as may be necessary or appropriate to carry out the purposes of the corporation. The Secretary of the Treasury is authorized, out of appropriations made for that purpose, to subscribe to the capital stock of such corporation.
+- **(d)** The President may transfer to the departments, agencies, officers, Government corporations, or instrumentalities of the United States, or to any of them, which he directs to exercise the powers, authority, and discretion conferred upon him by this Act, such rubber-producing facilities, personnel, property, and records relating to such powers, authority, and discretion, as he deems necessary; and he may so transfer all appropriations or other funds available for carrying out such powers, authority, and discretion.
+- **(e)** In addition to the reports required by section 9 (a) of this Act, each department, agency, officer, Government corporation, or instrumentality of the United States to whom the President may delegate any powers, authority, and discretion conferred by this Act shall make an annual report to the President and to the Congress of operations under this Act.
+
+## § 11. PATENT POOLING AND USE OF TECHNICAL INFORMATION
+
+- **(a)** To effectuate further the policies of this Act, the President is authorized and directed to take such action as may be appropriate with respect to patent pooling, patent licensing and exchange of information agreements entered into with the Government as a part of the wartime synthetic rubber program and, insofar as practicable and consistent with the purposes of this Act, to effectuate immediate cessation of further accumulation of technical information or rights to patents under the agreement dated December 19, 1941, as supplemented June 12, 1942, between the Government and others.
+- **(b)** Any department, agency, officer, Government corporation, or instrumentality of the United States as the President may designate to perform the powers, functions, duties, and authority referred to in section 7 (b) of this Act shall be entitled to the benefits of the Act of June 25, 1910 (36 Stat. 851), as amended July 1, 1918 (40 Stat. 705), or any similar Act.
+
+## § 12. INFORMATION, REPORTS, SUBPENAS, WITNESSES, AND TESTIMONY
+
+- **(a)** The President shall be entitled to obtain such information from, require such reports and the keeping of such records by, make such inspection of the books, records, and other writings, premises, or property of, any person and make such investigations, as may be necessary or appropriate, in his discretion, to the enforcement or administration of the provisions of this Act.
+- **(b)** For the purpose of obtaining any information, verifying any report required, or making any investigation pursuant to section 12 (a) of this Act, the President may administer oaths and affirmations, and may require by subpena or otherwise the attendance and testimony of witnesses and the production of any books or records or any other documentary or physical evidence which may be relevant to the inquiry. Such attendance and testimony of witnesses and the production of such books, records, or other documentary or physical evidence may be required at any designated place from any State, Territory, or other place subject to the jurisdiction of the United States: Provided, That the production of a person’s books, records, or other documentary evidence shall not be required at any place other than the place where such person resides or transacts business, if, prior to the return date specified in the subpena issued with respect thereto, such person furnishes the President with a true copy of such books, records, or other documentary evidence (certified by such person under oath to be a true and correct copy) or enters into a stipulation with the President as to the information contained in such books, records, or other documentary evidence. Witnesses shall be paid the same fees and mileage that are paid witnesses in the courts of the United States. No person shall be excused from attending and testifying or from producing any books, records, or other documentary evidence or certified copies thereof, or physical evidence, in obedience to any such subpena, or in any action or proceeding which may be instituted under this Act on the ground that the testimony or evidence, documentary or otherwise, required of him may tend to incriminate him or subject him to a penalty or forfeiture; but no individual shall be subject to prosecution and punishment, or to any penalty or forfeiture, for or on account of any transaction, matter, or thing concerning which he is compelled to testify or produce evidence, documentary or otherwise, after having claimed his privilege against self-incrimination, except that any such individual so testifying shall not be exempt from prosecution and punishment for perjury committed in so testifying. The President shall not publish or disclose any information obtained under this section which the President deems confidential or with reference to which a request for confidential treatment is made by the person furnishing such information, unless the President determines that the withholding thereof is contrary to the interest of the national defense and security; and anyone violating this provision shall be guilty of a felony and, upon conviction thereof, shall be fined not exceeding $1,000 or be imprisoned not exceeding two years, or both.
+
+## § 13. PENALTIES
+
+Any person who willfully performs any act prohibited, or willfully fails to perform any act required by any provision of this Act or any rule, regulation, or order thereunder, shall upon conviction be fined not more than $10,000 or imprisoned for not more than two years, or both.
+
+## § 14. JURISDICTION OF THE UNITED STATES COURTS
+
+- **(a)** The district courts of the United States, and the United States courts of any Territory or other place subject to the jurisdiction of the United States, shall have jurisdiction of violations of this Act or any rule, regulation, or order or subpena thereunder, and of all civil actions under this Act to enforce any liability or duty created by, or to enjoin any violation of this Act or any rule, regulation, order, or subpena thereunder.
+- **(b)** Any criminal proceeding on account of any such violation may be Drought in any district in which any act, failure to act, or transaction constituting the alleged violation occurred. Any such civil action may be brought in any such district or in the district in which the defendant resides or transacts business. Process in such cases, criminal or civil, may be served in any district wherein the defendant resides or transacts business or wherever the defendant may be found; and subpenas for witnesses who are required to attend a court in any district in any such cases may run into any other district. No costs shall be assessed against the United States in any proceeding under this Act.
+
+## § 15. EXCULPATORY CLAUSE
+
+No person shall be held liable for damages or penalties for any default under any contract or order which shall result directly or indirectly from compliance with this Act or any rule, regulation, or order issued thereunder, notwithstanding that any such rule, regulation, or order shall thereafter be declared by judicial or other competent authority to be invalid.
+
+## § 16. EXEMPTION FROM ADMINISTRATIVE PROCEDURE ACT
+
+Functions exercised under this Act shall be excluded from the operation of the Administrative Procedure Act except as to the requirements of sections 3 and 10 thereof.
+
+## § 17. SEPARABILITY
+
+If any provision of this Act or the application thereof to any person or circumstance is held invalid, the validity of the remainder of the Act and of the application of such provision to other persons and circumstances shall not be affected thereby.
+
+## § 18. DEFINITIONS
+
+For the purposes of this Act—
+
+- **(a)** The term “natural rubber” means all forms and types of tree, vine, or shrub rubber, including guayule and natural rubber latex, but excluding reclaimed natural rubber;
+- **(b)** The term “synthetic rubber” means any product of chemical synthesis similar in general properties and applications to natural rubber, and specifically capable of vulcanization, produced in the United States, not including reclaimed synthetic rubber;
+- **(c)** The term “general-purpose synthetic rubber” means a synthetic rubber of the butadiene-styrene type generally suitable for use in the manufacture of transportation items such as tires or camel-back, as well as any other type of synthetic rubber equally or better suited for use in the manufacture of transportation items such as tires or camel-back as determined from time to time by the President;
+- **(d)** The term “special-purpose synthetic rubber” means a synthetic rubber of the types now known as butyl, neoprene, or N-types (butadiene-acrylonitrile types) as well as any synthetic rubber of similar or improved quality applicable to similar uses, as determined from time to time by the President;
+- **(e)** The term “rubber-producing facilities” means facilities, in whole or in part, for the manufacture of synthetic rubber, and the component materials thereof, including, but not limited to, buildings and land in which or on which such facilities may be located and all machinery and utilities associated therewith;
+- **(f)** The term “rated production capacity” means the actual productive capacity assigned to any rubber-producing facilities at time of authorization of construction or as thereafter amended in authorizations of additional construction or alterations thereto and used in published reports and in the records of the Office of Rubber Reserve, Reconstruction Finance Corporation, or successor agency, or privately owned plants, determined by the President based upon operating experience and records as determined from time to time by the President;
+- **(g)** The term “component materials” means the material, raw, semifinished, and finished, necessary for the manufacture of synthetic rubber;
+- **(h)** The term “stand-by condition” means the condition in which rubber-producing facilities, in whole or in part, are placed when determined to be not needed for current operations, but are maintained so as to be readily available for the production of synthetic rubber or component materials;
+- **(i)** The term “person” means any individual, firm, copartnership, business trust, corporation, or any organized group of persons whether incorporated or not, and except for the provisions of section 13 any Government department, agency, officer, corporation, or instrumentality of the United States; and
+- **(j)** The term “United States” includes the several States, the District of Columbia, the Territories of Alaska and Hawaii, and Puerto Rico.
+
+## § 19. AUTHORIZATION FOR APPROPRIATIONS
+
+- **(a)** There are hereby authorized to be appropriated such sums as may be necessary and appropriate to carry out the provisions and purposes of this Act.
+- **(b)** Until such time as appropriations herein authorized are made, any department, agency, officer, Government corporation, or instrumentality of the United States may, in order to carry out its functions, powers, and duties under this Act, continue to incur obligations and make expenditures in accordance with laws in effect on March 31, 1948.
+
+## § 20. EFFECTIVE DATE
+
+This Act shall become effective on April 1, 1948, and shall remain in effect until June 30, 1950.
+
+
+*Approved March 31, 1948.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- March 31, 1948 [H. R. 5314] [Public Law 469]
+- Rubber Act of 1948.
+- 60 Stat. 506. 50 U. S. C. §§98–98h, app. § 1623 (b); Supp. I, § 98 note.
+- 60 Stat. 596. 50 U.S. C. §§98–98h, app. § 1623 (b); Supp. I, §98 note. Minimum percentages.
+- Pneumatic inner tubes.
+- Butadiene.
+- Cost.
+- Exercise of authority.
+- Voluntary usage;
+- Related powers.
+- Capital expenditures.
+- Leases.
+- Permanent easements or licenses.
+- Disposal of property.
+- Contracts for stand-by facilities.
+- Maintenance costs.
+- Reports.
+- Recommendation of legislation.
+- Government ownership.
+- Sale of surplus facilities. 58 Stat. 765. 50 U. S. C. app. §§ 1611–1646; Supp. I, § 1612 et seq. Post, pp. 350, 1103.
+- Rules and regulations.
+- Consolidation of powers, etc.
+- 59 Stat. 597. 31 U. S. C. §§ 841–869; Supp. I, § 846 et seq. Post, p. 1283.
+- Transfer of facilities, etc.
+- Annual report.
+- 35 U. S. C. § 68. Post, p. 996.
+- Production of records.
+- Witnesses.
+- Disclosure of information.
+- 60 Stat. 237. 5 U. S. C. §§ 1001–1011; Supp. I, § 1001. Ante, p. 99. 5 U. S. C. §§ 1002, 1009.
+- “Natural rubber.”
+- “Synthetic rubber.”
+- “General-purpose synthetic rubber?’
+- “Special-purpose synthetic rubber?”
+- “Rubber-producing facilities.”
+- “Rated production capacity.”
+- “Component materials.” “Stand-by condition.”
+- “Person.”
+- “United States.”
+- Post, p. 1039.
