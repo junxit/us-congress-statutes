@@ -1,0 +1,28 @@
+---
+volume: 17
+citation: 17 Stat. 675
+type: Chapter
+number: CCCIII
+congress: 42
+session: 2
+scope: private
+approved: 1872-06-04
+---
+
+# Chapter CCCIII
+
+> An Act granting a Pension to Samuel Shaffer, late a Private in Company I, seventy-eighth Regiment of Pennsylvania Infantry Volunteers.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+That the Secretary of the Interior be, and hereby is, authorized and directed to place upon the pension roll, subject to the provisions and limitations of the pension laws, the name of Samuel Shaffer, late a private in company I of the seventy-eighth regiment of Pennsylvania infantry volunteers, and that he be paid a pension at the rate of eight dollars per month from the passage of this act.
+
+
+*Approved, June 4, 1872.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- June 4, 1872.
+- Pension to Samuel Shaffer.
