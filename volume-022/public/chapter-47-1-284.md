@@ -1,0 +1,68 @@
+---
+volume: 22
+citation: 22 Stat. 157
+type: Chapter
+number: 284
+congress: 47
+session: 1
+scope: public
+approved: 1882-07-10
+---
+
+# Chapter 284
+
+> An Act to accept and ratify an agreement with the Crow Indians for the sale of a portion of their reservation in the Territory of Montana required for the use of the Northern Pacific Railroad, and to make the necessary appropriations for carrying out the same.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+That a certain agreement made between the United States of America, represented by Llewellyn A. Luce, William II. Walker, and Charles A. Maxwell, special agents duly appointed in that behalf by the Secretary of the Interior, of the one part, and the Crow tribe of Indians resident on the Crow Reservation, in the Territory of Montana, acting under the supervision and with the approval of the Secretary of the interior, of the other part, be, and the same is hereby, ratified and confirmed. Said agreement is executed by a majority of all the adult male Indians of the Crow tribe occupying or interested in the lands therein more particularly described, in conformity with the provisions contained in article eleven of the treaty with the Crow Indians of May seventh, eighteen hundred and sixty-eight, and is in the words following, namely:
+
+> “Whereas by section one of an act of Congress approved July second, eighteen hundred and sixty-four, entitled An act granting lands to aid in the construction of a railroad and telegraph line from Lake Superior to Puget Sound, on the Pacific coast, by the northern route’ (thirteenth Statutes at Large, page three hundred and sixty-five), the Northern Pacific Railroad Company was authorized and empowered to lay out, locate, construct, furnish, maintain, and enjoy a continuous railroad and telegraph line, with the appurtenances, namely: Beginning at a point on Lake Superior in the State of Minnesota or Wisconsin, thence westerly by the most eligible railroad route, as shall be determined by said company, within the territory of the United States, on a line north of the forty-fifth degree of latitude, to some point on Puget Sound; and “Whereas by section two of said act Congress granted to said Company the right of way for the construction of said railroad and telegraph line to the extent of two hundred feet in width on each side of said railroad where it may pass through the public domain, including all necessary ground for station-bail dings, workshops, depots, machine-shops, switches, sidetracks, turntables, and water-stations; and “Whereas by said section two Congress provided that the United States should extinguish as rapidly as may be consistent with public policy and the welfare of the Indians the Indian titles to all lauds falling under the operation of this act and acquired in the donation to the road named in the act; and “Whereas by treaty between the United States and the Crow Indians concluded at Fort Laramie, May seventh, eighteen hundred and sixty- eight, and duly ratified and proclaimed (fifteenth Statutes at Large, page six hundred and forty-nine), a district of country in the Territory of Montana was set apart as a reservation for the absolute and undisturbed use and occupation of said Indians; and “Whereas there is no provision or stipulation in said treaty authorizing said company or recognizing its right to construct its road through said reservation; and “Whereas the said company did, on the twenty-fifth day of June, eighteen hundred and eighty-one, file in the Department of the Interior a map showing the definite location of its line of railroad from the one hundred and seventh degree of longitude west from Greenwich west- wardly through said reservation and adjacent, territory to the western boundary of the said resei ve, as provided by said act of eighteen hundred and sixty-four, the company having first obtained the permission of the Secretary of the Interior to survey its line in said reservation; and “Whereas the said company desires to construct its line of railroad upon such designated route, and claims the right by virtue of said act so to do:
+>
+> “Now, therefore, in order to fulfill the obligations of the government in the premises, this agreement, made this twenty-second day of August anno Domini eighteen hundred and eighty-one, between the Crow tribe of Indians resident on the Crow Reservation, in the Territory of Montana, represented by their chiefs, headmen^ and heads of a majority of families, and being a majority of all the adult male Indians occupying or interested in the lands hereinafter described, the said Indians acting under the supervision and with the approval of the Secretary of the Interior of the United States, of the one part, and the United States of America, represented by Llewellyn A. Luce, William H. Walker, and Charles A. Maxwell, special agents duly appointed in this behalf by the Secretary of the Interior, of the other part, witnesseth. That for the consideration hereinafter mentioned the Crow tribe of Indians do hereby surrender and relinquish to the United States all their right, title and interest in and to all that part of the Crow Reservation situate in the Territory of Montana and described as follows, namely:
+>
+> “A strip of land not exceeding font; hundred feet in width, that is to say, two hundred feet on each side of the line laid down on the map of definite location hereinbefore mentioned, wherever said line runs through said reservation between the one hundred and seventh degree of longitude west of Greenwich on the east and the mid-channel of the Big Boulder River on the west, containing five thousand three hundred and eighty-four acres, more or less. An official copy of said map of definite location was, on this twenty-second day of August, anno Dom-ini eighteen hundred and eighty-one, produced before said special agents and the Indians in council, was fully explained to said Indians, and is hereunto attached, marked A, and made a part of this agreement. Also the several parcels of land situate along and adjoining the said strip of land hereinbefore mentioned between the one hundred and seventh degree of longitude west of Greenwich on the east and the mid-channel of the Big Boulder River on the west, as defined and described on a map produced before said special agents and the Indians in council on the day and date above mentioned, and fully explained to and understood by said Indians; said tracts being designated on the aforesaid map by the letters A, B, C, D, E, F, G, H, I, J, and K, and containing, respectively, the following area, that is to say: Tract A, twenty-six and twenty- three hundredths acres; tract B, twenty-eight and fifty-four hundredths acres; tract C, twenty-six and twenty-three hundredths acres; tract E, twenty-six and twenty-three hundredths acres; tract F, twenty-six and twenty-three hundredths acres; tract G, twenty-six and twenty-three hundredths acres; tract H, twenty-six and twenty-three hundredths acres; tract I, twenty-six and twenty-three hundredths acres; tract J, twenty-eight and thirty-two hundredths acres; tract K, twenty-six and twenty-three hundredths acres, aggregating two hundred and sixty-six acres, more or less, said map being hereunto attached, marked B, and made a part of this agreement; which last-mentioned tracts are intended for the use of said Northern Pacific Railroad Company for station-houses, depots, switches, and so forth. It is further stipulated and agreed that the United States will not permit the said railroad company, its employees or agents, to trespass upon any part of the lands of the Grow Indian Reservation not hereby relinquished, nor permit said company, its employees or agents, to cut any timber, wood, or hay from the lands embraced in said reservation,
+>
+> “And it is further stipulated and agreed that the Secretary of the Interior, upon such terms as he may see fit to impose, may permit to be constructed, maintained, and used within said Crow Indian Reservation wagon roads not exceeding three in number, in addition to any established wagon-roads which may be now in use therein; the said three roads to connect with the line of said railroad at such points as the Secretary of the Interior may designate; all of which wagon-roads shall be under the control of the Government of the United States.
+>
+> “In consideration for the lands hereby relinquished, amounting in the aggregate to five thousand six hundred and fifty acres, more or less, and for the privileges herein granted, the United States stipulates and agrees to pay to the Crow tribe of Indians the sum of twenty-five thousand dollars, to be deposited in the Treasury of the United States to the credit of the said tribe of Indians upon the ratification of this agreement by Congress, and the necessary appropriation made therefor, the sum aforesaid to be expended for the benefit of said Indians in such manner as the Secretary of the Interior may direct; the same to be in addition to any and all moneys to which the said Indians are entitled under the provisions of the treaty of May seventh, eighteen hundred and sixty-eight, hereinbefore mentioned.
+>
+> “ All provisions of existing treaties with the Crow Indians not affected by this agreement are to remain in full force and effect, and this agreement is to be subject to ratification by Congress.
+>
+> “Executed at Crow Agency, in the Territory of Montana, this twenty- second day of August, anno Domini eighteen hundred and eighty-one, as witness the following signatures.”
+
+## § 2.
+
+That for the purpose of carrying the provisions of this act into effect the sum of twenty-five thousand dollars is hereby set aside, out of any moneys in the United States Treasury not otherwise appropriated, to be deposited in the United States Treasury to the credit of the Crow tribe of Indians, and to be expended for the benefit if the said Indians in such manner as the Secretary of the Interior may direct.
+
+## § 3.
+
+That the right of way over the land relinquished by said agreement to the United States for the construction of said Northern Pacific Railroad, and the use of the several parcels of laud so relinquished intended to be used for depots, stations, sidings, and so forth, for said railroad, are hereby granted to said Northern Pacific Railroad Company, its successors and assigns, for the uses and purposes in said agreement set forth; but the land, or any part thereof, relinquished to the United States by said agreement shall not be used for railroad purposes by or for the said Northern Pacific Railroad Company, its successors or assigns, except upon the condition precedent .that the said company, its successors or assigns, shall, within sixty days from the taking effect of this act, pay to the Treasurer of the United States said sum of twenty-five thousand dollars hereby appropriated to be paid by the United States for the lands relinquished to the United States by said agreement, and shall within the same time file with the Secretary of the Interior its written acceptance of the conditions of this section; nor shall said land, or any part thereof, be continued to be used for railroad purposes by or for said Northern Pacific Railroad Company, its successors or assigns, except upon the further condition that said company, its successors or assigns, will pay any and all damages which the United States or said Indians, individually or in their tribal capacity, or any other Indians lawfully occupying said reservation, may sustain by reason or on account of the act or acts of said company, its successors or assigns, its agents or employees, or on account of fires originating by or in the construction or operation of said railroad, the damages in all cases to be recovered in any court of the Territory of Montana having jurisdiction of the amount claimed, upon suit or action instituted by the proper United States attorney in the name of the United States: Provided, That the said United States attorney may accept such sum of money in satisfaction of any such injury or damages as in his discretion may be just; and if so accepted before suit or action is commenced, no suit or action shall be instituted, and if accepted after commencement of suit or action, the same shall be dismissed at the cost of said company, its successors or assigns.
+
+## § 4.
+
+That all moneys accepted or recovered under the provisions of section three of this act shall be covered into the Treasury of the United States, and if accepted or recovered on account of damages sustained by said Indians as aforesaid, they shall be placed to the credit of said Indians in their tribal-names, to be expended by the Secretary of the Interior for the benefit of said Indians in such manner as he may deem for their best interest, except in the case of an individual Indian, when the amount covered into the Treasury shall be expended for his sole benefit.
+
+
+*Approved, July 10, 1882.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- July 10, 1882 .
+- Acceptance and ratification of agreement with Crow Indians for sale of portion of reservation in Montana to tho United States for use of Northern Pacific Railroad. 15 Stat., 652. Preamble. 13 Stat., 365
+- 15 Stat., 649.
+- Agreement.
+- Description o f land relinquished.
+- Trespass.
+- Wagon-roads.
+- Payment to
+- Crows,
+- Appropriation.
+- Right of way.
+- Pay moot to the United States.
+- Acceptance filed with Secretary of Interior.
+- Damages.
+- Proviso.
+- Moneys accepted or recovered to be covered into Treasury; if for damages, credited to Crow Indians; exceptions.
