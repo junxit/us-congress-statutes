@@ -1,0 +1,25 @@
+---
+volume: 55
+type: House Concurrent Resolution
+number: 21
+bills: 77/hconres-21
+---
+
+# House Concurrent Resolution 21
+
+> department of agriculture appropriation bill, 1942
+
+*Resolved by the House of Representatives (the Senate concurring),*
+
+That, in accordance with paragraph 3 of section 2 of the Printing Act approved March 1, 1907, the Committee on Appropriations of the House of Representatives be, and is hereby, authorized and empowered to have printed for its use one thousand additional copies of the hearings held before said committee on the bill (H. R. 3735) entitled “A bill making appropriations for the Department of Agriculture for the fiscal year ending June 30, 1942, and for other purposes”.
+
+
+*Passed March 24, 1941.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- March 24, 1941 [H. Con. Res. 21]
+- Printing of additional copies of House committee hearings. 34 Stat. 1012. 44 U. S. C. § 154.
+- Ante, p. 408.

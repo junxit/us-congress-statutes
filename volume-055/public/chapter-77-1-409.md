@@ -1,0 +1,603 @@
+---
+volume: 55
+citation: 55 Stat. 669
+type: Chapter
+number: 409
+congress: 77
+session: 1
+scope: public
+approved: 1941-08-25
+bills: 77/hr-5412
+---
+
+# Chapter 409
+
+> Making supplemental appropriations for the national defense for the fiscal year ending June 30, 1942, and for other purposes.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+That the following sums are appropriated, out of any money in the Treasury not otherwise appropriated, for the national defense for the fiscal year ending June 30, 1942, and for other purposes, namely:
+
+## TITLE I — WAR DEPARTMENT
+
+## Military Activities
+
+For additional amounts for appropriations for the Military Establishment, fiscal year 1942, to be supplemental to, and merged with, the appropriations under the same heads in the Military Appropriation Act, 1942, including the objects and subject to the limitations and conditions specified in that Act, as follows:
+
+## quartermaster corps
+
+Regular supplies of the Army: For regular supplies of the Army, $6,670,631.
+
+Clothing and equipage, Army: For clothing and equipage, $443,123,275.
+
+Army transportation: For Army transportation, $98,043,861.
+
+Horses, draft, and pack animals: For horses, draft, and pack animals, $1,054,810.
+
+Military posts: For construction of buildings, utilities, and appurtenances at military posts, $172,679,400: Provided, That this appropriation, the appropriation under this head in the Military Appropriation Act, 1942, the appropriations under this head made and merged in the Fifth Supplemental National Defense Appropriation Act, 1941, and all funds transferred to the appropriations under this head out of other appropriations for the Military Establishment for the fiscal year 1941, under the authority contained in the Second Deficiency Appropriation Act, 1940, shall remain available until June 30, 1943.
+
+## signal corps
+
+Signal Service of the Army: For Signal Service of the Army, $347,150,825.
+
+## air corps
+
+Air Corps, Army: For Air Corps, Army, $204,007,800.
+
+## medical department
+
+Medical and Hospital Department, Army: For Medical and Hospital Department, Army, $3,852,437.
+
+## corps of engineers
+
+Engineer Service, Army: For Engineer Service, Army, $61,118,970.
+
+## ordnance department
+
+Ordnance service and supplies, Army: For ordnance service and supplies, Army, $2,888,980,486.
+
+The second proviso under the caption “Ordnance service and supplies, Army”, in the Military Appropriation Act, 1942, is hereby repealed.
+
+## chemical warfare service
+
+Chemical Warfare Service, Army: For Chemical Warfare Service, Army, $27,275,168.
+
+This title may be cited as “Title II, Military Appropriation Act, 1942”.
+
+## TITLE II — NAVY DEPARTMENT
+
+For additional amounts for appropriations for the Navy Department and the naval service, fiscal year 1942, to be supplemental and additional to the appropriations and funds in the Naval Appropriation Act for the fiscal year ending June 30, 1942, including the objects and subject to the limitations and conditions specified under the respective headings and subject to the provisions under the heading “General Provisions” contained in said Act, and except as otherwise provided herein, as follows:
+
+## NAVAL ESTABLISHMENT
+
+## office of the secretary
+
+Miscellaneous expenses, Navy, including the maintenance of attachés and others abroad and not to exceed $15,000 for the temporary employment of persons or organizations by contract or otherwise without regard to section 3709 of the Revised Statutes, or the classification laws, or section 5 of the Act of April 6, 1914 (38 Stat. 335), $3,392,543.
+
+Naval Research Laboratory, including the temporary employment of such scientific and technical civilian assistants as may be required at rates of pay not exceeding $25 per diem for any person so employed, and the employment of twelve group IV (b) employees at rates of pay in excess of $5,000 per annum, $565,000.
+
+## bureau of navigation
+
+Training, Education, and Welfare, Navy:
+
+- Naval Training Station, San Diego, California, $760,000;
+- Naval Training Station, Newport, Rhode Island, $358,000;
+- Naval Training Station, Great Lakes, Illinois, $500,000;
+- Naval Training Station, Norfolk, Virginia, $200,000;
+- Fleet training, $83,500;
+- Instruction, including the rental, maintenance, and operation of property for instruction purposes, $575,000;
+- Libraries, $128,659;
+- Welfare and recreation, $270,000;
+In all, training, education, and welfare, Navy, $2,875,159.
+
+Miscellaneous expenses, Bureau of Navigation, $174,000.
+
+Ocean and Lake Surveys, Navy, $40,000.
+
+Naval Reserve, $8,868,340.
+
+Pay, Naval Academy: For pay of other employees, $50,000.
+
+Maintenance and repairs, Naval Academy, $31,000.
+
+Pay of employees, Naval Home, $10,300.
+
+Maintenance, Naval Home, $2,000.
+
+## bureau of ships
+
+Maintenance, Bureau of Ships, including maintenance and repair of defense installations in Government or privately owned merchant ships, $380,000,000.
+
+## bureau of ordnance
+
+Ordnance and ordnance stores, Navy, $247,872,665.
+
+## bureau of supplies and accounts
+
+**pay, subsistence, and transportation of naval personnel**
+
+Pay of naval personnel, $77,000,000;
+
+Subsistence of naval personnel, $12,769,000;
+
+Transportation and recruiting of naval personnel, $11,240,000;
+
+Naval Reserve personnel on active duty, $46,991,000;
+
+In all, $148,000,000.
+
+Maintenance, Bureau of Supplies and Accounts, $21,234,778.
+
+Clothing and small stores fund, $13,320,000.
+
+Naval supply account fund, $90,000,000.
+
+Fuel and transportation, Navy, $10,121,000.
+
+## bureau of medicine and surgery
+
+Medical Department, including the employment at the Naval Medical Center, Washington, District of Columbia, of two group IV (b) employees at rates of pay in excess of $5,000 per annum, $7,350,000.
+
+Care of the dead, including care of the dead as authorized in the Act of July 8, 1940 (54 Stat. 743), $27,000, of which not to exceed $10,000 shall be available for obligations incurred during the fiscal year 1941.
+
+## bureau of yards and docks
+
+Maintenance, Bureau of Yards and Docks, $13,203,500, including the purchase (not to exceed $71,300) of motor-propelled passenger-carrying vehicles, including eight at a cost of not to exceed $1,200 each: Provided, That the limitation on the appropriation contained in the Naval Appropriation Act for the fiscal year 1942 for the purchase, maintenance, repair, and operation of passenger-carrying vehicles for the Navy Department is hereby increased during the fiscal year 1942 from ten to twelve, and the limitation on expenditures for the maintenance, operation, and repair of motor-propelled passenger-carrying vehicles is hereby increased from $130,000 to $200,000: Provided further, That the limitation of cost of $600 for the purchase of passenger-carrying vehicles contained in the Naval Appropriation Act for the fiscal year 1942 is hereby modified to permit the purchase of passenger-carrying vehicles authorized in that Act within the limit of cost fixed by law.
+
+Public works, Bureau of Yards and Docks: For public works and public utilities, Bureau of Yards and Docks, $294,528,500, which, together with unexpended balances of the appropriations heretofore made under this head, shall be disbursed and accounted for in accordance with existing law and shall constitute one fund: Provided, That the Secretary of the Navy is only authorized to commence, continue, or complete the construction of, or make provision for, by contract or otherwise, projects heretofore authorized and appropriated for under this head, and, in addition, the following public works and public utilities projects, at a cost not to exceed the amount stated for each project enumerated, respectively:
+
+- Navy Yard, Charleston, South Carolina: Ordnance-shop storehouse and accessories, $200,000.
+- Navy Yard, Mare Island, California: Quarters for officers, $200,000; roads, walks, and services, $125,000.
+- Navy Yard, New York, New York: Housing for enlisted men, $250,000.
+- Navy Yard, Norfolk, Virginia: Housing for enlisted men, recreation facilities and radio-laboratory facilities, $810,000.
+- Navy Yard, Pearl Harbor, Hawaii: Housing for officers and enlisted men, $625,000.
+- Navy Yard, Philadelphia, Pennsylvania: Acquisition of land and development of housing for enlisted men, $550,000.
+- Navy Yard, Portsmouth, New Hampshire: Ordnance-storage facilities and housing for enlisted men, $422,500.
+- Navy Yard, Puget Sound, Washington: Improvement of fuel-oil handling facilities, $150,000; extension of general storehouse, $500,000; extension of supply pier, $500,000; extension of building Numbered 434, $145,000.
+- Navy Yard, Washington, District of Columbia: Five finger piers, $150,000; extension of waterfront improvement, $100,000.
+- Naval Station, Guam: Housing for insular guard, $170,000; extension and improvement to sewer system, $160,000; extension of military roads, $200,000.
+- Naval Station, Guantanamo, Cuba: Two swimming pools, $100,000.
+- Naval Station, Key West, Florida: Housing for enlisted men, laundry-, and ammunition-storage facilities, $332,000; floating crane, $400,000; 35-ton locomotive crane, $50,000.
+- Naval Station, New Orleans, Louisiana: Rehabilitation of station buildings, $350,000: rehabilitation of waterfront, $250,000; development of receiving ship facilities, including buildings and accessories, $800,000.
+- Naval Station, Tutuila, Samoa: Additional defense facilities, housing and water-front development, $1,305,000.
+- Naval operating base, Balboa, Canal Zone: Housing for officers, enlisted men, laundry and school facilities, $900,000.
+- Naval Operating Base, Bermuda: Development of anchorage in Murrey Bay, $3,000,000; fueling station, including buildings, structures and accessories, $1,800,000.
+- Naval Operating Base, Norfolk, Virginia: Fleet-school facilities, magazines, and storage facilities, $3,335,000.
+- Naval Operating Base, Pearl Harbor, Hawaii: Dispensary, $245,000.
+- Roosevelt Roads (Vieques) Puerto Rico: Additional development of protected fleet anchorage, including acquisition of land, $21,970,000.
+- Submarine Base, Charlotte Amalie, Virgin Islands: Additional development of submarine facilities, $2,195,000.
+- Submarine Base, Coco Solo, Canal Zone: Additional power plant, shore-patrol headquarters, and school facilities, $885,000; improvement of water supply, $36,000; signal station, $5,000; improvement of power plant, $200,000; gas chamber, $3,000; railroad tracks for Pier Numbered 1, $20,000; storage for salvage pontoons, $10,000; marginal wharf on north side of north mole, $100,000.
+- Submarine Base, Kodiak, Alaska: Additional submarine-operating facilities, including ammunition-storage facilities, $3,413,000.
+- Submarine Base, Midway Island: Additional submarine-operating facilities, including buildings and accessories, $4,761,000.
+- Submarine Base, New London, Connecticut: Additional submarine-operating and repair facilities, $1,715,000.
+- Submarine Base, Pearl Harbor, Hawaii: Additional submarine-operating, repair, and torpedo-storage facilities, $385,000; additional battery overhaul and charging facilities, $125,000; extension of quay wall, $110,000.
+- Submarine Base, Unalaska Area, Alaska: Cold-storage facilities, $200,000.
+- Submarine Base, Wake Island: Submarine-operating and repair facilities, including buildings and accessories, $4,679,000.
+- Destroyer Base, San Diego, California: Fleet-school facilities, quarters for officers, and torpedo storage, $855,000.
+- Naval Academy, Annapolis, Maryland: Additional instruction facilities, boat-repair facilities and acquisition of additional land, $1,720,000.
+- Naval Training Station, Great Lakes, Illinois: Additional training facilities, including housing and instruction buildings and accessories, $5,595,000.
+- Naval Training Station, Newport, Rhode Island: Additional training facilities, including housing and instruction buildings and accessories, $480,500.
+- Naval Training Station, Norfolk, Virginia: Quarters for bachelor chief petty officers, $175,000.
+- Naval Training Station, San Diego, California: Additional training facilities, including housing and instruction buildings and accessories, $3,359,000.
+- Naval Ammunition Depot, Balboa, Canal Zone: Additional ammunition-storage facilities, including buildings and accessories, $165,000.
+- Naval Ammunition Depot, Burns City, Indiana: Additional ammunition-and ordnance-storage facilities, including buildings and accessories, $10,250,000.
+- Naval Ammunition Depot, Charleston, South Carolina: Additional ammunition-storage facilities, including buildings and accessories, $747,000.
+- Naval Ammunition Depot, Coco Solo, Canal Zone: Additional ammunition-storage facilities, including buildings and accessories, $160,000.
+- Naval Ammunition Depot, Fort Mifflin, Pennsylvania: Additional ammunition-storage facilities, including buildings and accessories, $228,000.
+- Naval Ammunition Depot, Hawthorne, Nevada: Additional ammunition-storage facilities, including buildings and accessories, $4,349,000.
+- Naval Ammunition Depot, Hingham, Massachusetts: Storehouse, $80,000.
+- Naval Ammunition Depot, Iona Island, New York: Additional ammunition-storage facilities, including acquisition of additional land, $121,500.
+- Naval Ammunition Depot, Lake Denmark, New Jersey: Storage for ordnance materials, $645,000.
+- Naval Ammunition Depot, Mare Island, California: Ammunition loading and storage and mine-handling facilities, $595,000.
+- Naval Ammunition Depot, Oahu, Hawaii: Additional ammunition-storage facilities, including buildings and accessories, $2,316,500.
+- Naval Ammunition Depot, Puget Sound, Washington: Additional ammunition-storage facilities, including buildings and accessories, $336,000.
+- Naval Ammunition Depot, St. Juliens Creek, Virginia: Additional ammunition-storage facilities, including buildings and accessories, $390,000; fire-protection equipment, $27,000; extension of locomotive shed, $10,000; extension of wharf Numbered 2 and storehouse, $140,000; fireproofing magazine buildings, $147,000.
+- Naval Magazine, Bellevue, District of Columbia: Ordnance store-houses, $90,000.
+- Naval Magazine, Indian Island, Washington: Additional ammunition-storage facilities, $1,100,000.
+- Naval Magazine, Gulf Coast Area: Development of ammunition-storage facilities, including buildings and acquisition of land, $2,300,000.
+- Naval Torpedo Station, Newport, Rhode Island: Torpedo-testing facilities, including building and accessories and magazines, $600,000; extension of East Dock and dredging, $175,000; new telephone cable to Gould Island, Rose Island, and Government Landing, $50,000; ferry slips north end of Goat Island and Long Wharf, $130,000; floating crane, $150,000.
+- Naval Torpedo Range, Piney Point, Maryland: Improvement of torpedo-testing facilities, including quarters for officers, $170,000.
+- Naval Mine Depot, Yorktown, Virginia: Additional storage facilities, $550,000; relocate fire house, $20,000; extension of ammunition-loading plants, $450,000; extension of railroad tracks, $170,000; temporary guardhouse and outpost house, $6,000; extension of pier, $600,000.
+- Naval Mine Warfare School, Yorktown, Virginia: Additional roads, services, and facilities, $60,000.
+- Naval Proving Ground, Dahlgren, Virginia: Fire station, post office, and gate house, $60,000; reconditioning and improvement of power plant, $335,000; extension of dispensary, $42,000; extension of supply building and oil storage, $56,000; extension of water system, $10,000; gantry crane and runway, $500,000; extension of school building, accessories and services, $65,000; extension of service systems, roads and walks, $100,000; dredging approach channel, $200,000; extension of barracks, $150,000; railroad connection to Fredericksburg, Virginia, including acquisition of rights-of-way, $1,500,000.
+- Naval Powder Factory, Indianhead, Maryland: Extension and improvement of power plant, $100,000; extension of Marine Barracks, $65,000; extension of fire alarm and police protection system, $50,000; repairs to wharf, $50,000; temporary barracks for bachelor officers, $40,000; extension to Building No. 379 and accessories, $35,000; extension to Machine Shop Building No. 268, $12,000; extension to high-school building, $50,000; extension to carpenter shop, $20,000; cafeteria, $15,000.
+- Naval Hospital, Annapolis, Maryland: Major repairs and improvements, $30,000.
+- Naval Hospital, Balboa, Canal Zone: Expansion of hospital facilities, $250,000.
+- Naval Hospital, Brooklyn, New York: Major repairs and alterations, $200,000.
+- Naval Hospital, Charleston, South Carolina: Two H-type buildings and accessories, $190,000.
+- Naval Hospital, Chelsea, Massachusetts: Renovating buildings, Old Marine Hospital, $350,000; construction of intercepting sewer connection, $40,000; major repairs to buildings, $318,000.
+- Naval Hospital, Corpus Christi, Texas: Expansion of hospital facilities, $450,000.
+- Naval Hospital, Great Lakes, Illinois: Major repairs and alterations, $28,000.
+- Naval Hospital, Guam: Expansion of hospital facilities, $100,000.
+- Naval Hospital, Jacksonville, Florida: Expansion of hospital facilities, $344,500.
+- Naval Hospital, Mare Island, California: Major repairs and alterations, $22,000; fireproofing old building, $40,000.
+- Naval Hospital, Newport, Rhode Island: Expansion of hospital facilities and medical-supply storehouse, $783,000; pier replacement and roads, $95,000; major repairs and replacements, $28,000; fencing reservation, $20,000.
+- Naval Hospital, Norfolk, Virginia: Expansion of hospital facilities, $485,000; rehabilitating nurses’ quarters, $65,000; rehabilitating Building Numbered 59, $80,000; service utility lines, $10,000; fencing, $12,000.
+- Naval Hospital, Pensacola, Florida: Boilerhouse and utility building and equipment, $300,000; repair and overhaul of heating system, including extra boiler, $40,000.
+- Naval Hospital, Philadelphia, Pennsylvania: Expansion of hospital facilities, $280,000; major repairs and alterations to hospital buildings, $120,000.
+- Naval Hospital, Portsmouth, New Hampshire: Quarters for nurses, $56,000; conversion of current, $34,000; major repairs and alterations, $150,000.
+- Naval Hospital, Puget Sound, Washington: Additional wing on main building, and accessories, $475,000; major repairs and alterations to hospital buildings, $35,000; extension of dispensary, $60,000.
+- Naval Hospital, San Diego, California: Expansion of hospital facilities, $405,000; extend messing facilities, $75,000; purchase and installation, fire alarm system, $32,000; major repairs and replacements, $58,000.
+- Medical Supply Depot, Brooklyn, New York: Additional medical-supply storage, including acquisition of land, $600,000.
+- Naval Medical Center, Washington (Bethesda), District of Columbia: Expansion of medical and hospital facilities, $1,680,000.
+- Naval Air Station, Anacostia, District of Columbia: Additional radio facilities, including buildings and accessories, $125,000.
+- Naval Air Station, Banana River, Florida: Additional aviation facilities, including buildings and accessories, $280,000.
+- Naval Air Station, Barbers Point, Hawaii: Aviation facilities, including buildings and accessories, $18,605,000.
+- Naval Air Station, Bermuda: For completion of projects, $3,000,000.
+- Naval Air Station, Cape May, New Jersey: Ammunition storage facilities, $25,000.
+- Marine aviation facilities, Charlotte Amalie, Virgin Islands: Ammunition-storage facilities, including buildings and accessories, $576,000.
+- Naval Air Station, Charleston, South Carolina: Extension of roads, walks, and services, $25,000; dredging and filling, $150,000.
+- Naval Air Station, Corpus Christi, Texas: Additional aviation facilities, including buildings and accessories, $8,522,500.
+- Naval Air Station, Floyd Bennett Field, New York: Ammunition-storage facilities, including buildings and accessories, $41,000.
+- Naval Air Station, Guantanamo, Cuba: Additional ammunition-storage facilities, including buildings and accessories, $286,000.
+- Naval Air Station, Jacksonville, Florida: Additional aviation facilities, including buildings and accessories, $2,281,100.
+- Naval Air Station, Johnston Island: Additional aviation facilities, including buildings and accessories, $1,618,500.
+- Naval Air Station, Kaneohe Bay, Hawaii: Additional aviation facilities, including buildings and accessories, $3,970,000.
+- Naval Air Station, Key West, Florida: Additional aviation facilities, including buildings and accessories, $375,000.
+- Naval Air Station, Kodiak, Alaska: Additional aviation facilities, including buildings and accessories, $3,266,000.
+- Naval Air Station, Lahaina Roads, Hawaii: Ammunition-storage facilities, including buildings and accessories, $174,500.
+- Naval Air Station, Miami, Florida: Additional aviation facilities, including buildings and accessories, $1,222,000.
+- Naval Air Station, Midway Island: Additional aviation facilities, including buildings and accessories, $2,820,000.
+- Naval Air Station, Newfoundland: For completion of projects now under construction, $10,000,000; for additional facilities, including buildings and accessories, $3,017,500.
+- Naval Air Station, Norfolk, Virginia: Additional aviation facilities, including buildings and accessories, $2,560,000; general storehouse, $800,000.
+- Naval Air Station, Palmyra Island: Additional aviation facilities, including buildings and accessories, $543,500.
+- Naval Air Station, Pearl Harbor, Hawaii: Temporary mess hall, galley, and lavatory building, $90,000.
+- Naval Air Station, Pensacola, Florida: Expansion of radio facilities, $20,000.
+- Naval Air Station, Quonset Point, Rhode Island: Additional aviation facilities, including buildings and accessories, $1,030,000.
+- Naval Air Station, San Diego, California: Additional aviation facilities, including buildings and accessories, $560,000.
+- Naval Air Station, San Juan, Puerto Rico: Additional aviation facilities, including buildings and accessories, $752,000.
+- Naval Air Station, San Pedro, California: Radio facilities, including buildings and accessories, $75,000.
+- Naval Air Station, Seattle, Washington: Additional aviation facilities, including buildings and accessories, $540,000.
+- Naval Air Station, Sitka, Alaska: Additional aviation facilities, including buildings and accessories, $2,654,200.
+- Naval Air Station, Squantum, Massachusetts: Ammunition-storage facilities, including buildings and accessories, $44,000.
+- Naval Air Station, Tongue Point, Oregon: Additional aviation facilities, including buildings and accessories, $450,000.
+- Naval Air Station, Trinidad: Ammunition storage, $45,000; fleet anchorage, including buildings and facilities, $15,000,000.
+- Naval Air Station, Tutuila, Samoa: Additional aviation facilities and ammunition storage, including buildings and accessories, $553;000.
+- Naval Air Station, Unalaska, Alaska: Additional aviation facilities, including buildings and accessories, $4,346,000.
+- Naval Air Station, Wake Island: Additional aviation facilities, including buildings and accessories, $2,601,200.
+- Naval Air Station, Whidby Island, Washington: Aviation facilities, including buildings and accessories and acquisition of land, $3,790,000.
+- Reserve Aviation Base, Anacostia, District of Columbia: Additional aviation facilities, including buildings and accessories, $120,000.
+- Reserve Aviation Base, Atlanta, Georgia: Additional aviation facilities, including buildings and accessories, $145,000.
+- Reserve Aviation Base, Dallas, Texas: Additional aviation facilities, including buildings and accessories, $145,000.
+- Reserve Aviation Base, Floyd Bennett Field, New York: Additional aviation facilities, including buildings and accessories, $120,000.
+- Reserve Aviation Base, Glenview, Illinois: Additional aviation facilities, including buildings and accessories, $120,000.
+- Reserve Aviation Base, Grosse lie, Michigan: Additional aviation facilities, including buildings and accessories, $150,000.
+- Reserve Aviation Base, Kansas City, Kansas: Additional aviation facilities, including buildings and accessories, $170,000.
+- Reserve Aviation Base, Long Beach, California: Additional aviation facilities, including buildings and accessories, $1,635,000.
+- Reserve Aviation Base, Minneapolis, Minnesota: Additional aviation facilities, including buildings and accessories, $120,000.
+- Reserve Aviation Base, New Orleans, Louisiana: Additional aviation facilities, including buildings and accessories, $145,000.
+- Reserve Aviation Base, Oakland, California: Additional aviation facilities, including buildings and accessories, $120,000.
+- Reserve Aviation Base, Squantum, Massachusetts: Additional aviation facilities, including buildings and accessories, $120,000.
+- Reserve Aviation Base, St. Louis, Missouri: Additional aviation facilities, including buildings and accessories, $120,000.
+- Naval Radio Station, Annapolis, Maryland: Additional radio facilities, including buildings and accessories, $40,000.
+- Naval Radio Station, Astoria, Oregon: Quarters and accessories and services for officer in charge, $12,500.
+- Naval Radio Station, Bainbridge Island, Washington: Quarters for married operators, $72,000.
+- Naval Radio Station, Balboa, Canal Zone: Utility building and accessories, $25,000.
+- Naval Radio Station, Cape May, New Jersey: Additional radio facilities, including buildings, towers, and acquisitions of land, $132,500.
+- Naval Radio Station, Charlotte Amalie, Virgin Islands: Radio facilities, including buildings and accessories, $130,000.
+- Naval Radio Station, Cheltenham, Maryland: Additional radio facilities, including buildings and accessories, $235,000.
+- Radio Station, Marine Detachment, Chinwangtao, China: Replacement of operating building, $5,000.
+- Naval Radio Station, Chollas Heights, California: Utility building and accessories, $20,000.
+- Naval Radio Station, National Airport, David, Panama: Quarters for officer in charge and operators, $30,000.
+- Naval Radio Station, Gatun, Canal Zone: Additional radio facilities, including buildings and accessories, $200,000.
+- Naval Radio Station, Guantanamo, Cuba: Additional radio facilities, including buildings and accessories, $210,000.
+- Naval Radio Station, Key West, Florida: Additional radio facilities, including buildings and accessories, $21,000.
+- Naval Radio Station, Libugon, Guam: Quarters for operators, $60,000.
+- Naval Radio Station, Lualualei, Hawaii: Additional radio facilities, including buildings and accessories, $296,000.
+- Naval Radio Station, Mare Island, California: Additional radio facilities, including buildings and accessories, $640,000.
+- Naval Radio Station, New Orleans, Louisiana: Radio facilities, including buildings and accessories, $140,000.
+- Naval Radio Station, Oahu, Hawaii: Additional radio facilities, including buildings and accessories, $150,000.
+- Naval Radio Station, Point Loma, California: Quarters for operators, $112,000.
+- Naval Radio Station, Marine Barracks, Quantico, Virginia: Additional facilities, including buildings and accessories, $125,000.
+- Naval Radio Station, Summit, Canal Zone: Additional radio facilities, including buildings and accessories, $350,000.
+- Naval Radio Station, Vaitogi, Samoa: Quarters for officer in charge, $10,000.
+- Marine Barracks, New River, North Carolina: Radio facilities, including buildings and accessories, $120,000.
+- Naval Research Laboratory, Bellevue, District of Columbia: Storehouse and accessories, $235,000; extension of machine shop, $225,000; alterations to heating plant and steam distribution system, $130,000.
+- Naval Fuel Depot, Melville, Rhode Island: Acquisition of additional land, $61,000; improvement of power plant, $225,000; reserve electric power supply, $70,000; replacement of fuel-oil lines, $165,000.
+- Naval Fuel Depot, Pearl Harbor, Hawaii: Development of additional underground fuel storage, $16,000,000.
+- Naval Supply Depot, Bayonne, New Jersey: Additional development of fleet-supply facilities, including buildings and accessories, $7,300,000.
+- Naval Supply Depot, Norfolk, Virginia: Additional fleet-supply facilities, including buildings and accessories, $2,125,000.
+- Naval Supply Depot, Oakland, California: Additional fleet-supply facilities, including buildings and accessories, $1,300,000.
+- Naval Supply Depot, Pearl Harbor, Hawaii: Additional fleet-supply facilities, including buildings and accessories. $6,850,000.
+- Naval Supply Depot, San Diego, California: Extension of supply pier, $600,000.
+- Marine Barracks, Charleston, South Carolina: Utility and guard building and accessories, $90,000.
+- Marine Barracks, New River, North Carolina: Development of landing field for training parachute troops, $800,000.
+- Marine Barracks, Parris Island, South Carolina: Magazines at Hilton Head Island, $25,000.
+- Marine Barracks, Quantico, Virginia: Additional ammunition-storage facilities, $58,000.
+- Marine Barracks, San Diego, California: Quarters for bachelor officers, $100,000.
+- Sixth naval district: Development of fleet-landing facilities, including acquisition and acceptance of land, $100,000; moorings for inshore patrol, $25,000.
+- Tenth naval district: Fleet-fuel and storage facilities, including buildings and accessories, $800,000.
+- Eleventh Naval District: Floating crane, $450,000.
+- Thirteenth Naval District: Barracks and officers’ quarters, rifle range, $90,000.
+- Fourteenth Naval District: Improvement of harbors and channels, including provision of fixed moorings, $3,000,000.
+- Fifteenth Naval District: Temporary housing for Marine guards at radio stations, $60,000.
+- Photographic facilities at various locations: Photographic laboratories, housing, buildings, and accessories, $510,000.
+- Floating equipment for servicing naval vessels at naval districts and bases, $3,250,000.
+- Dredging and mooring material for emergency berthing of ships, $500,000.
+- Mobile power-plant units: Development of two mobile power plants, railway mounted, $2,500,000.
+- Internal security at navy yards and naval stations: Development of flood lighting, fencing, booms, nets, protection of services, fire protection, and the like, $14,500,000.
+- Reserve storage for gasoline: Development of reserve storage for gasoline at various locations, including buildings and accessories, $2,500,000.
+- Fuel storage: Development of storage facilities for fuel and Diesel oil at various locations, including buildings and accessories, $12,000,000.
+- Hospital corps training schools: Hospital corps training facilities, at various locations, including buildings and accessories, $1,440,000.
+- Emergency expansion of hospital facilities: Emergency expansion of hospital facilities at various locations, including buildings and accessories, $3,000,000.
+The provisions of section 4 of the Act approved April 25, 1939 (53 Stat. 590–592), as amended, shall be applicable to all public works and public utilities provided in this title regardless of location: Provided, That the fixed fee to be paid the contractor as a result of any contract hereafter entered into under the authority of the above-mentioned Act shall not exceed 6 per centum of the estimated cost of the contract, exclusive of the fee, as determined by the Secretary of the Navy.
+
+## bureau of aeronautics
+
+Aviation, Navy, $90,000,000.
+
+## marine corps
+
+**pay, marine corps**
+
+- Pay of officers, active list, $166,915;
+- Pay of enlisted men, active list, $11,252,742;
+- Pay and allowances of the Marine Corps Reserve, $3,437,421;
+- Mileage and travel expenses of officers, $142,922;
+- In all, $15,000,000.
+
+## general expenses, marine corps
+
+- Provisions, $6,474,000;
+- Clothing, $14,000,000;
+- Fuel, $1,000,000;
+- Military supplies and equipment, $42,000,000;
+- Transportation of troops and applicants for enlistment, $1,640,000;
+- Repairs of barracks, $2,600,000;
+- Forage, $6,000;
+- Miscellaneous supplies and expenses, $5,220,000;
+- In all, $72,940,000, including care and operation of a school at Saint Thomas, Virgin Islands, and including transportation of dependents of retired and Reserve officers and of retired and Reserve enlisted men (of the grades entitled to transportation of dependents in the Regular Marine Corps) when ordered to active duty (other than training) and upon release therefrom.
+
+## increase and replacement of naval vessels
+
+Construction and machinery: The limitation on obligations for tools, facilities, and equipment for building or equipping any complete naval vessel or portion thereof contained in title VI of the Naval Appropriation Act for the fiscal year 1941 (Fourth Supplemental National Defense Appropriation Act, 1941) is increased to $800,000,000.
+
+Armor, armament, and ammunition: The Secretary of the Navy is authorized to transfer $11,000,000 of the funds heretofore appropriated under this heading to the War Department for War Department facilities for the loading and assembling of 20-millimeter ammunition and the limitation of obligations for the necessary tools, equipment, and facilities at naval establishments or private plants for the manufacture or production of ordnance material, munitions, and armor contained in title VI of the Naval Appropriation Act for the fiscal year 1941 (Fourth Supplemental National Defense Appropriation Act, 1941) is increased to $425,000,000.
+
+## repair facilities, navy
+
+Repair facilities, Navy: For essential equipment and facilities of all kinds at either private or naval establishments for the repair and conversion of ships, including the necessary purchase of land, to remain available until expended, $160,000,000.
+
+## naval emergency fund
+
+Naval emergency fund: For local and passive defense installations, and the rental, acquisition, and construction of section bases, station ships, or barracks, and of training and defense facilities and equipment of all kinds, including the necessary purchase of land, to remain available until expended, $5,000,000.
+
+## navy department
+
+Contingent and miscellaneous expenses, Hydrographic Office, $190,000.
+
+Contingent and miscellaneous expenses, Naval Observatory: The appropriation of $1,400 contained in the Second Deficiency Appropriation Act, 1941, under the heading “Naval Observatory”, is hereby reappropriated and made available until June 30, 1942.
+
+Relief of Marijo McMillan Williams: For the relief of Marijo McMillan Williams, as authorized by the Act approved June 3, 1941 (Private Law 73, Seventy-seventh Congress), $868.01, to be paid from the appropriation “Maintenance, Bureau of Ships, 1942.”
+
+## § 201.
+
+That there is hereby created and established in the Office of the Secretary of the Navy an Office of Budget and Reports, which shall be charged with such duties pertaining to naval budgetary matters and statistical and work reporting as may be prescribed by the Secretary of the Navy. All of the duties of this Office shall be performed under the authority of the Secretary of the Navy, and its orders shall be considered as emanating from him, and shall have full force and effect as such.
+
+- **(a)** At the head of the Office of Budget and Reports there shall be a director of Budget and Reports, appointed by the President, by and with the advice and consent of the Senate, for a term of three years, from among line officers not below the grade of lieutenant commander on the active list of the Navy. The Director of Budget and Reports shall have the same rank and shall be entitled to the same pay, allowances, and privileges of retirement as are now or may hereafter be prescribed by or in pursuance of law for chiefs of bureaus in the Navy Department.
+- **(b)** An officer of the line of the Navy may be detailed as assistant to the Director of Budget and Reports, and, in case of death, resignation, absence, or sickness of such Director, shall perform the duties of such Director until his successor is appointed or such absence or sickness shall cease. The assistant to the Director of Budget and Reports shall, while so serving, receive the highest pay of his rank.
+
+## § 202.
+
+This title may be cited as “Title III, Naval Appropriation Act for the fiscal year 1942”.
+
+## TITLE III — UNITED STATES MARITIME COMMISSION
+
+Construction fund, United States Maritime Commission, Act of June 29, 1936, revolving fund: For an additional amount to increase the construction fund established by the “Merchant Marine Act, 1936”, and for (1) the construction in the United States of merchant vessels of such type, size, and speed as the United States Maritime Commission (hereafter referred to in this title as the “Commission”) may determine to be useful for carrying on the commerce of the United States and suitable for conversion into naval or military auxiliaries; (2) the production and procurement of parts, equipment, material, and supplies for such vessels; (3) the establishment, acquisition, construction, enlargement, or extension of plants or facilities, on land, whether owned by the Government or otherwise owned (including the acquisition by purchase or condemnation of real property or any interest therein), to be used for the construction of vessels or for the production of parts, equipment, supplies, or material therefor, and the maintenance, repair, operation (under lease or otherwise), and management of such plants and facilities; and (4) the purchase, requisition, charter, operation, repair, reconstruction, and reconditioning of vessels acquired, or the use or possession of which is acquired by the Act of June 6, 1941 (Public Law 101), or otherwise; $698,650,000, of which $2,000,000 shall be available for administrative expenses of the Commission, including the objects specified under the heading “United States Maritime Commission” in the Independent Offices Appropriation Act, 1942, of which $2,000,000 not to exceed $40,000 shall be available for the transfer of household goods and effects, as provided by the Act of October 10, 1940 (Public Act Numbered 839), and regulations promulgated thereunder, including such expenses of persons employed by the Commission in furtherance of the program authorized by the Act of February 6, 1941 (Public Law 5), and $150,000 shall be available for the employment on a contract or fee basis of persons, firms, and corporations for the performance of special services, without regard to section 3709 of the Revised Statutes: Provided, That said construction fund so supplemented shall be available for the foregoing purposes: Provided further, That there may be transferred from this appropriation to the “Emergency Ship Construction Fund, United States Maritime Commission”, created by the said Act of February 6, 1941, such amounts as the Commission may deem necessary for the completion of the program authorized by said Act: Provided further, That whenever the President deems it to be in the interest of national defense, he may authorize the Commission to lease vessels constructed or acquired with funds appropriated by this title to the Government of any country whose defense the President deems vital to the defense of the United States, in accordance with the provisions of the Act of March 11, 1941 (Public Law 11): Provided further, That in addition to contract authorizations contained in previous Acts, the Commission is authorized to enter into contracts for the construction of vessels, production and procurement of parts, equipment, material, and supplies for such vessels, and the establishment, acquisition, construction, enlargement, or extension of plants or facilities as provided herein in an amount not to exceed $1,296,650,000 (for which $296,650,000 is included in the amount appropriated herein): Provided further, That the provisions of sections 2 and 4, and the several proviso clauses contained in section 1 of said Act of February 6, 1941, shall apply to all the activities and functions which the Commission is authorized to perform under this title.
+
+## TITLE IV — MISCELLANEOUS CIVIL ACTIVITIES
+
+## LEGISLATIVE
+
+## senate
+
+For payment to Ariadne Houston, Marguerite Houston, and Josephine Houston Paulus, daughters of Andrew Jackson Houston, late a Senator from the State of Texas, $10,000.
+
+For payment to Mary Sumter Lumpkin, widow of Alva M. Lumpkin, late a Senator from the State of South Carolina, $10,000.
+
+## house of representatives
+
+For payment to the widow of Stephen Bolles, late a Representative from the State of Wisconsin, $10,000.
+
+For payment to the widow of Albert G. Rutherford, late a Representative from the State of Pennsylvania, $10,000.
+
+The two foregoing sums to be disbursed by the Sergeant at Arms of the House.
+
+## EMERGENCY FUNDS FOR THE PRESIDENT
+
+Emergency Fund for the President: The appropriation entitled “Emergency Fund for the President”, contained in the Independent Offices Appropriation Act, 1942, is hereby amended by adding the following: “: Provided further, That, when deemed proper, the President may authorize, in amount stipulated by him, but not exceeding in the aggregate $2,500,000, unvouchered expenditures, and report the gross sums so authorized not itemized”.
+
+## INDEPENDENT AGENCIES
+
+## board of investigation and research—transportation
+
+Board of Investigation and Research: For all necessary expenses to enable the Board of Investigation and Research to perform the duties authorized under part 1 of title III of the Transportation Act of 1940, including personal services in the District of Columbia and elsewhere, traveling expenses, printing and binding, fiscal year 1942, $100,000.
+
+## federal communications commission
+
+National-defense activities: For an additional amount for national-defense activities, fiscal year 1942, to enable the Federal Communications Commission to continue to perform the functions or activities for the performance of which, during the fiscal year 1941, the Commission received allocations of funds from the appropriation “Emergency fund for the President” contained in the Military Appropriation Act, 1941, including the objects for which and subject to the conditions under which such allocations were expended during the fiscal year 1941, $209,000.
+
+## federal loan agency
+
+Electric Home and Farm Authority: The amount of funds of the Authority which may be used for administrative expenses during the fiscal year 1942, fixed by the Second Deficiency Appropriation Act, 1941, at $400,000, is hereby increased to $600,000.
+
+## federal security agency
+
+Civilian Conservation Corps: The twelfth paragraph under the caption “Civilian Conservation Corps” in the Federal Security Appropriation Act, 1942, is hereby amended to read as follows:
+
+> “In the expenditure of funds appropriated herein under the heading ‘Civilian Conservation Corps’, the over-all expenditure per enrollee per year shall not exceed $1,000: Provided, That such limit of $1,000 may be exceeded if the average enrollee strength is below two hundred and ten thousand enrollees, but in such event the total expenditures from such appropriation shall not exceed $200,000,000.”
+
+## federal works agency
+
+Public Buildings Administration: Authority is hereby conferred upon the Administrator of Federal Works Agency to proceed, upon a cost-plus-a-fixed-fee basis, with the construction of Federal Office Building No. 3, the construction of which was authorized by the appropriation “Sites and buildings, Federal office buildings (Nos. 2 and 3)” contained in the First Supplemental Civil Functions Appropriation Act, 1941; and said appropriation is hereby increased to the extent of $900,000 by the transfer of said sum from the appropriation “Public Buildings Administration, construction of temporary office buildings” contained in the Fifth Supplemental National Defense Appropriation Act, 1941.
+
+## maritime labor board
+
+Salaries and expenses: For three Board members and for all other authorized and necessary expenditures of the Maritime Labor Board in performing the duties imposed by law, fiscal year 1942, $30,000, to be used for winding up and terminating the affairs of the Board.
+
+## DISTRICT OF COLUMBIA
+
+## public schools
+
+Buildings and grounds: The Commissioners of the District of Columbia are authorized to enter into contract or contracts for the construction of a new extensible senior high-school building to be located at Twenty-fourth Street and Benning Road Northeast, at a total cost not to exceed the limit of cost fixed for such project by the District of Columbia Appropriation Act, 1942.
+
+## DEPARTMENT OF COMMERCE
+
+## office of administrator of civil aeronautics
+
+Maintenance and operation of air-navigation facilities: For an additional amount for maintenance and operation of air-navigation facilities, fiscal year 1942, including the objects specified under this heading in the Department of Commerce Appropriation Act, 1942, $1,100,000, of which not to exceed $500,000 shall be available for the maintenance and operation of airport traffic-control towers whenever the Secretary of War or Secretary of the Navy shall certify that the accomplishment of such work is essential to the national defense: Provided, That the limitation on the purchase and exchange of passenger-carrying automobiles under this heading in the Commerce Department Appropriation Act, 1942, is hereby increased from $13,550 to $29,300.
+
+Establishment of air-navigation facilities: For an additional amount for the establishment of air-navigation facilities, fiscal year 1942, including the objects specified under this heading in the Department of Commerce Appropriation Act, 1942, $5,586,000, of which not to exceed $500,000 shall be available for the establishment of airport traffic-control towers whenever the Secretary of War or Secretary of the Navy shall certify that the accomplishment of such work is essential to the national defense.
+
+Development of landing areas: For an additional amount for the appropriation “Development of Landing Areas”, $5,500,000, of which $300,000 shall be available for administrative expenses, including engineering services and supervision of construction.
+
+## INTERIOR DEPARTMENT
+
+## bureau of mines
+
+Testing fuel: For an additional amount for testing fuel, fiscal year 1942, including the objects specified under this head in the Interior Department Appropriation Act, 1942, $28,500, and the limitation of $35,000 contained in said Act under this head for personal services in the District of Columbia is hereby increased to $40,250.
+
+Investigation of domestic sources of mineral supply: For an additional amount for investigation of domestic sources of mineral supply, fiscal year 1942, including the objects specified under this head in the Interior Department Appropriation Act, 1942, $300,000, and the limitation of $25,000 contained in said Act under this head for personal services in the District of Columbia is hereby increased to $32,500.
+
+Investigation of raw material resources for western steel production: For all expenses necessary to enable the Bureau of Mines to investigate by subsurface exploration the amount and quality of iron ores, limestone, and coking coals essential to expanding steel production in States in which such deposits may exist, including all necessary laboratory research; preliminary examination and subsurface exploration of raw materials; supplies and equipment; traveling expenses; not to exceed $13,000 for personal services in the District of Columbia; printing and binding; purchase in the District of Columbia and elsewhere of furniture and equipment, professional and scientific books and publications, stationery and supplies, typewriting, adding, computing, and addressing machines, and other labor-saving devices, accessories, and repairs, including exchange and maintenance thereof, and purchase of such personal wearing apparel or equipment as may be required for the protection of employees while engaged in their work, fiscal year 1942, $350,000: Provided, That the Secretary of the Interior, acting through the Director of the Bureau of Mines, is hereby authorized to accept buildings, equipment, and other contributions from public or private sources offering to cooperate in carrying out the purposes of this appropriation, and to carry out the projects in cooperation with other departments or agencies of the Federal Government, States, and State agencies, and other organizations: Provided further, That section 3709 of the Revised Statutes shall not be construed to apply to this appropriation.
+
+Construction and equipment of helium plants: To enable the Secretary of the Interior to increase and improve the capacity for the production of helium, as authorized by the Act approved September 1, 1937 (50 Stat. 885), by the acquirement, by purchase, lease, or condemnation, of lands or interests therein or options thereon, the making of contracts and agreements (with optional provisions where necessary) for the acquisition, processing, or conservation of helium-bearing gas, the construction and equipment of buildings or additions to existing buildings, the drilling of wells and construction of pipe lines, and other appurtenant facilities, and to conduct investigations with respect to available resources of helium-bearing gas and the transportation of helium, and for all necessary expenses incident to the foregoing, including the employment by contract or otherwise, at such rates of compensation as the Secretary of the Interior may determine, of engineers, architects, or firms or corporations thereof necessary to design and construct the buildings, structures, and equipment; supplies and equipment; travel expenses; purchase in the District of Columbia and elsewhere of furniture and equipment; professional and scientific books and publications, stationery and supplies, typewriting, adding, and computing machines, accessories, and repairs, including exchange and maintenance thereof, purchase, not to exceed $5,500 (including exchange as part payment), operation, maintenance, and repair of passenger-carrying automobiles for official use in field work; and not to exceed $16,000 for personal services in the District of Columbia, fiscal year 1942, $1,250,000, to remain available until June 30, 1943: Provided, That section 3709 of the Revised Statutes shall not be construed to apply to expenditures under this appropriation: Provided further, That the Secretary of the Interior, acting through the Director of the Bureau of Mines, is hereby authorized to accept lands, buildings, equipment, and other contributions from public or private sources offering to cooperate in carrying out the purposes of this appropriation.
+
+## WAR DEPARTMENT
+
+## Civil Functions
+
+## quartermaster corps
+
+For the construction by and for the use of the War Department on Government-owned land comprising the site formerly occupied by the Department of Agriculture Experimental Farm and land adjacent thereto in Arlington County, Virginia, of an office building and appurtenances thereto, including interior facilities, fixed equipment, necessary services, roads, connections to water, sewer, gas, and electric mains, preparation of an automobile parking area, purchase and installation of telephone and radio equipment, and similar improvements, and other expenses in connection therewith, $35,000,000, to be expended in accordance with laws relating to the construction of military post projects but without reference to the laws suspended in connection with such projects in the Military Appropriation Act, 1942, and to remain available until expended: Provided, That the maintenance and operation of such building shall be under the jurisdiction of the Public Buildings Administration and such Administration may assign any space therein surplus to the needs of the War Department to any other Federal agency pending the need thereof by such Department.
+
+## § 2.
+
+It shall be the duty of the Secretary of War and the Secretary of the Navy, respectively, to file with the Congress prior to the end of each fiscal year a full and complete list of all contracts in excess of $10,000 in value, including contracts for the purchase of land, which may be undertaken for the expenditure of the funds appropriated by this or any other Act, together with a summary of the subject matter of such contracts, the names of the contractors and of the persons who negotiated any such contract either on behalf of the Government or of the contractor, and, if any such contract was awarded without competitive bidding, a statement of the reasons for the selection of the contractor.
+
+## § 3.
+
+This Act may be cited as the “First Supplemental National Defense Appropriation Act, 1942”.
+
+
+*Approved, August 25, 1941.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- August 25, 1941 [H. R. 5412] [Public Law 247]
+- First Supplemental National Defense Appropriation Act, 1942. Post, p. 745.
+- Title II, Military Appropriation Act, 1942. Ante, p. 366.
+- Ante, p. 372.
+- Proviso. Ante, p. 375. Ante, p. 125. 54 Stat. 360. 54 Stat. 566.
+- Ante, p. 377.
+- Ante, p. 378.
+- Ante, p. 379.
+- Ante, p. 380.
+- Ante, p. 381.
+- Proviso repealed. Ante, p. 382.
+- Ante, p. 382.
+- Citation of title.
+- Title III, Naval Appropriation Act for the fiscal year 1942.
+- Ante, p. 151. Ante, p. 172.
+- Ante, p. 151.
+- 41 U. S. C. § 5. 5 U. S. C. §§ 661–674, 55. Ante, p. 613.
+- Ante, p. 152.
+- Ante, p. 153.
+- Ante, p. 156.
+- Ante, p. 157.
+- Ante, p. 158.
+- Ante, p. 162.
+- Provisos. Number of vehicles. Ante, p. 162. Maintenance, etc. Ante, p. 162. Limitation of cost. Ante, p. 162.
+- Ante, p. 163. Proviso. Construction of authorized projects. Ante, p. 658.
+- Charleston, S. C.
+- Mare Island, Calif.
+- New York, N. Y.
+- Norfolk, Va.
+- Pearl Harbor, T. H.
+- Philadelphia, Pa.
+- Portsmouth, N. H.
+- Puget Sound, Wash.
+- Washington, D. C.
+- Guam.
+- Guantanamo, Cuba.
+- Key West, Fla.
+- New Orleans, La.
+- Tutuila, Samoa.
+- Balboa, C. Z.
+- Bermuda.
+- Roosevelt Roads (Vieques), P. R. Charlotte Amalie, V. I. Coco Solo, C. Z.
+- Kodiak, Alaska.
+- Midway Island.
+- New London, Conn.
+- Pearl Harbor, T. H. Unalaska Area, Alaska.
+- Wake Island.
+- San Diego, Calif.
+- Annapolis, Md.
+- Great Lakes, Ill.
+- Newport, R. I.
+- Burns City, Ind.
+- Coco Solo, C. Z.
+- Fort Mifflin, Pa.
+- Hawthorne, Nev.
+- Hingham, Mass.
+- Iona Island, N. Y.
+- Lake Denmark, N. J.
+- Oahu, T. H.
+- St. Juliens Creek, Va.
+- Bellevue, D. C.
+- Indian Island, Wash.
+- Gulf Coast Area.
+- Piney Point, Md.
+- Yorktown, Va.
+- Dahlgren, Va.
+- Indianhead, Md.
+- Brooklyn, N. Y.
+- Chelsea, Mass.
+- Corpus Christi, Tex.
+- Jacksonville, Fla.
+- Pensacola, Fla.
+- Washington (Bethesda), D. C. Anacostia, D. C. Banana River, Fla. Barbers Point, T. H.
+- Cape May, N. J.
+- Charlotte Amalie, V. I.
+- Charleston, S. C. Corpus Christi, Tex. Floyd Bennett Field, N. Y. Guantanamo, Cuba. Jacksonville, Fla. Johnston Island. Kaneohe Bay, T. H. Key West, Fla. Kodiak, Alaska. Lahaina Roads, T.H. Miami, Fla. Midway Island. Newfoundland. Norfolk, Va. Palmyra Island. Pearl Harbor, T. H. Pensacola, Fla. Quonset Point, R. I. San Diego, Calif. San Juan, P. R. San Pedro, Calif. Seattle, Wash. Sitka, Alaska. Squantum, Mass. Tongue Point, Oreg.
+- Trinidad. Tutuila, Samoa. Unalaska, Alaska. Wake Island. Whidby Island, Wash. Anacostia, D. C. Atlanta, Ga. Dallas, Tex. Floyd Bennett Field, N. Y. Glenview, Ill. Grosse Ile, Mich. Kansas City, Kans. Long Beach, Calif. Minneapolis, Minn. New Orleans, La. Oakland, Calif. Squantum, Mass. St. Louis, Mo. Annapolis, Md. Astoria, Oreg. Bainbridge Island, Wash. Balboa, C. Z. Cape May, N. J. Charlotte Amalie, V. I. Cheltenham, Md. Chinwangtao, China. Chollas Heights, Calif. David, Panama.
+- Gatun, C. Z. Guantanamo, Cuba. Key West, Fla. Libugon, Guam. Lualualei, T. H. Mare Island, Calif. New Orleans, La. Oahu, T. H. Point Loma, Calif. Quantico, Va. Summit, C. Z. Vaitogi, Samoa. New River, N. C. Bellevue, D. C. Melville, R. I. Pearl Harbor, T. H. Bayonne, N. J. Norfolk, Va. Oakland, Calif. Pearl Harbor, T. H. San Diego, Calif. Charleston, S. C. New River, N. C. Parris Island, S. C. Quantico, Va. San Diego, Calif. Sixth Naval District.
+- Tenth Naval District. Eleventh Naval District. Thirteenth Naval District. Fourteenth Naval District. Fifteenth Naval District. Photographic facilities. Floating equipment. Dredging and mooring material. Mobile power-plant units. Internal security at navy yards, etc. Reserve storage for gasoline. Fuel storage. Hospital corps training schools. Hospital facilities. Contracts on a cost-plus-a-fixed-fee basis. Proviso. Ante, p. 168. Ante, p. 169.
+- School at Saint Thomas, V. I.
+- Ante, pp. 171, 608.
+- Ante, p. 41.
+- Transfer of funds. Ante, p. 171. Limitation increased. Ante, p. 41.
+- Ante, p. 608.
+- Ante, p. 558.
+- Ante, p. 174.
+- Ante, p. 175. Ante, p. 556.
+- Marijo McMillan Williams. Ante, p. 156.
+- Office of Budget and Reports. Establishment, duties, etc.
+- Director of Budget and Reports.
+- Assistant to Director.
+- Construction fund. 49 Stat. 1985. 46 U. S. C. §§ 1101–1279. Construction of merchant vessels. Parts, material, and supplies. Plants or facilities on land. Purchase, requisition, etc., of certain vessels. Ante, p. 242. Ante, p. 119. 54 Stat. 1105. 5 U. S. C. § 73c–l. Ante, p. 5. 41 U. S. C. § 5. Provisos. Availability. Transfer of funds. Ante, p. 5. Lease of vessels to designated governments. Ante, p. 31. Additional contract authorization. Applicability of designated provisions. Ante, p. 6.
+- Ante, p. 94. Unvouchered expenditures.
+- Post, p. 819.
+- 54 Stat. 952. 49 U. S. C. ch. 1, prec. § 1 note.
+- Ante, pp. 98, 545. 54 Stat. 377.
+- Ante, p. 98.
+- Ante, p. 545.
+- Ante, p. 473.
+- Over-all expenditure per enrollee. Proviso.
+- Federal Office Building No. 3. Construction on cost-plus-a-fixed-fee basis. 54 Stat. 1036. Appropriation increased. Ante, p. 129.
+- Senior high school, 24th Street and Benning Road NE. Ante, p. 512.
+- Ante, p. 279. Airport traffic-control towers. Proviso. Automobiles. Ante, p. 279.
+- Ante, p. 280. Airport traffic-control towers.
+- Ante, p. 281.
+- Ante, p. 342.
+- Ante, p. 343.
+- Personal services.
+- Provisos. Acceptance of contributions. 41 U. S. C. § 5.
+- Helium plants, construction, etc. 50 U. S. C. §§ 161–166. Investigations. Automobiles. Provisos. 41 U. S. C. § 5. Acceptance of contributions.
+- Ante, p. 190.
+- Construction of office building in Arlington County, Va.
+- Ante, p. 375. Proviso.
+- Contracts in excess of $10,000.
+- Short title.
