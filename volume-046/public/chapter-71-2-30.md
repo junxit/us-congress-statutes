@@ -1,0 +1,43 @@
+---
+volume: 46
+citation: 46 Stat. 61
+type: Chapter
+number: 30
+congress: 71
+session: 2
+scope: public
+approved: 1930-01-24
+bills: 71/hr-3392
+---
+
+# Chapter 30
+
+> An Act Granting the consent of Congress to the highway department of the State of Tennessee to construct, maintain, and operate a bridge across the Tennessee River on the Dayton-Decatur Road between Rhea and Meigs Counties, Tennessee.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+That the consent of Congress is hereby granted to the highway department of the State of Tennessee to construct, maintain, and operate a bridge and approaches thereto across the Tennessee River, at a point suitable to the interests of navigation, on the Dayton-Decatur Road between Rhea and Meigs Counties, in the State of Tennessee, in accordance with the provisions of the Act entitled “An Act to regulate the construction of bridges over navigable waters,” approved March 23, 1906, and subject to the conditions and limitations contained in this Act.
+
+## § 2.
+
+If tolls are charged for the use of such bridge, the rates of toll shall be so adjusted as to provide a fund sufficient to pay the reasonable cost of maintaining, repairing, and operating the bridge and its approaches under economical management, and to provide a: sinking fund which, together with the sinking fund created from the tolls from other bridges authorized by the law of the State of Tennessee which provides for the construction of the bridge to be built under this Act, shall be sufficient to amortize the bonds issued, under the laws of the State of Tennessee, as soon as possible under reasonable charges, but within a period of not to exceed twenty-five years from the completion thereof. After a sinking fund sufficient for such amortization shall have been so provided, such bridge shall thereafter be maintained and operated free of tolls, or the rates of toll shall thereafter be sq adjusted, as to provide a fund of not to exceed the amount necessary for the proper maintenance, repair, and operation of the bridge and its approaches under economical management. An accurate record of the costs of the bridge and its approaches, the expenditures for maintaining, repairing, and operating the same, and of the daily tolls collected shall be kept and shall be available for the information of all persons interested.
+
+## § 3.
+
+That the right to alter, amend, or repeal this Act is hereby expressly reserved.
+
+
+*Approved, January 24, 1930.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- January 24, 1930. [H. R. 3392.] [Public, No. 39.]
+- Tennessee River. Tennessee may bridge, between Rhea and Meigs Counties.
+- Post, p. 1056.
+- Construction. Vol. 34, p. 84.
+- Rates of tolls applied to operation, sinking fund, etc.
+- Maintenance as free bridge, etc., after amortizing costs, etc.
+- Record of expenditures and receipts to be kept.
+- Amendment.

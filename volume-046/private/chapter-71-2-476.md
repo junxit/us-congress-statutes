@@ -1,0 +1,30 @@
+---
+volume: 46
+citation: 46 Stat. 2139
+type: Chapter
+number: 476
+congress: 71
+session: 2
+scope: private
+approved: 1931-03-03
+bills: 71/hr-5932
+---
+
+# Chapter 476
+
+> An Act For the relief of J. Walter Smith.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+That in the administration of the pension laws and all other laws conferring rights, privileges, and benefits upon persons honorably discharged from the military service of the United States J. Walter Smith, late of Company H, Fourth Regiment Tennessee Volunteer Infantry, shall be held and considered to have been honorably discharged from such military service on the 6th day of May, 1899: Provided, That no back pay, bounty, pension, or allowance shall be held to have accrued prior to the passage of this Act.
+
+
+*Approved, March 3, 1931.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- March 3, 1931 [H. R. 5932] [Private, No. 435]
+- J. Walter Smith. Military record corrected.
+- Proviso. No back pay, etc.
