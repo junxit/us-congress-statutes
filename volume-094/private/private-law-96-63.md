@@ -1,0 +1,677 @@
+---
+volume: 94
+citation: 94 Stat. 3599
+type: Private Law
+number: 63
+congress: 96
+session: 2
+scope: private
+approved: 1980-10-19
+bills: 96/s-707
+---
+
+# Private Law 96–63
+
+> An Act For the relief of certain aliens.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+That, for the purposes of the Immigration and Nationality Act, the following named aliens shall be held and considered to have been lawfully admitted to the United States for permanent residence as of the date of the enactment of this Act upon payment of the required visa fees. Upon the granting of permanent residence to such aliens as provided for in this Act, the Secretary of State shall instruct the proper officer to reduce by the required numbers, during the current fiscal year or the fiscal year next following, the total number of immigrant visas and conditional entries which are made available to natives of the countries of the aliens birth upon paragraphs (1) through (8) of section 203(a) of the Immigration and Nationality Act:
+
+- BANMAN-Redecop, Diedrich
+  - Banman-Redecop, Aganetha
+  - Ban man-Red ecop, Agatha
+  - Banman-Redecop, Hallena
+  - Banman-Redecop, Mary
+- BERGEN-Neudorf, Bernard
+  - Bergen-Guenther, Susana
+  - Bergen-Guenther, Justina
+  - Bergen-Guenther, Helena
+  - Bergen-Guenther, Bernhard
+- BERGEN-Reddekopp, Bernhard
+  - Bergen-Neudorf, Helena
+  - Bergen-Neudorf, Elizabeth
+- BERGEN-Neudorf, John
+- Bergen-Wall, Elisa
+- DUECK-Loewen, Cornelius
+  - Plett-de Dueck, Anna
+  - Dueck-Plett, Cornelius
+  - Dueck-Plett, Frederick
+  - Dueck-Plett, John
+  - Dueck-Plett, Anita
+  - Dueck-Plett, Dennis
+  - Dueck-Plett, Klaas
+  - Dueck-Plett, Elizabeth
+- DUECK-Loewen, Edwin
+  - Plett-de Dueck, Margaretha
+  - Dueck-Plett, Bernard
+  - Dueck-Plett, Norman
+  - Dueck-Plett, Harold
+  - Dueck-Plett, Peter
+  - Dueck-Plett, Irene
+  - Dueck-Plett, Raymond
+  - Dueck-Plett, Robert
+- DUECK-Loewen, Henry
+  - Komelson-de Dueck, Mary
+  - Dueck-Kornelson, Milton
+  - Dueck-Kornelson, Dale
+  - Dueck-Kornelson, Elizabeth
+  - Dueck-Kornelson, Paul
+  - Dueck-Kornelson, Kenneth
+  - Dueck-Kornelson, Myrtle
+- DUECK-Plett, Lorenzo
+  - Dueck-de Dueck, Ema
+- DUECK-Loewen, Norman
+  - Komelson-de Dueck, Elvira
+  - Dueck-Kornelson, Glenn
+  - Dueck-Kornelson, Carol
+- DUECK-Loewen, Peter
+  - Wolfe-de Dueck, Maria
+  - Dueck-Wolfe, Loma
+  - Dueck-Wolfe, Richard
+  - Dueck-Wolfe, Terry
+  - Dueck-Wolfe, Garland
+- DYCK-Quiring, Francisco
+  - Dyck-Wolfe, Agatha
+  - Dyck- Wolfe, Aganetha
+  - Dyck-Wolfe, Daniel
+  - Dyck-Wolfe, Franz
+  - Dyck-Wolfe, Susana
+- DYCK-Teichroeb, Heinrich
+  - Dyck-Martens, Aganetha
+- DYCK-Neudorf, Jacob
+  - DyckWiebe-Froessen, Helen
+- DYCK-Dyck, Peter
+  - Dyck-Loewen, Katharina
+  - Dyck-Quiring, Aganetha
+  - Dyck-Quiring, Aganetha
+  - Dyck-Quiring, Benjamin
+  - Dyck-Quiring, Elizabeth
+  - Dyck-Quiring, Heinrich
+  - Dyck-Quiring, Jacob
+  - Dyck-Quiring, Margarita
+  - Dyck-Quiring, Maria
+- DYCK-Loewen, Peter
+  - Dyck-Freesse, Agatha
+  - Dyck-Freesse, Franz
+  - Dyck-Froesse, David
+  - Dyck-Froesse, Helena
+  - Dyck-Froesses, Abram
+  - Dyck-Froesses, Aganetha
+  - Dyck-Froesses, Bernhard
+  - Dyck-Froesses, Guillermo
+  - Dyck-Froesse, Helena
+  - Dyck-Froesses, Peter
+  - Dyck-Martins, Johan
+  - Dyck-Martins, Margarita
+- FEHR-Friesen, Peter
+  - Peters-Friesen, Aganetha
+- FRIESSEN-Peters, Abraham
+  - Dyck-de Friessen, Getrudis
+  - Friessen-Dyck, Elizabeth
+- FRIESEN-Friesen, Edward
+  - Komelson-de Friesen, Elizabeth
+  - Friesen-Kornelson, Jim
+  - Friesen-Kornelson, Dennis
+  - Friesen-Kornelson, Ronald
+  - Friesen-Kornelson, Floyd
+- FRIESEN-Friesen, Jacob
+  - Friesen-Teichroeb, Elisabeth
+  - Friesen-Teichroeb, Jacob
+- FRIESEN-Friesen, Johan
+- FRIESSEN-Peters, Corny
+  - De Friessen-Dyck, Aganetha
+  - Friessen-Dyck, Abraham
+- FROESE-Hamm, Cornelio
+  - Froese-Bergen, Helena
+  - Froese-Bergen, Jacob
+  - Froese-Bergen, Katharina
+  - Froese-Bergen, Katharina
+  - Froese-Bergen, Margarita
+- FROESE-Peters, Pedro
+  - Froese-Froesse, Elizabeth
+  - Froese-Froesse, Pedro
+  - Froese-Froesse, Jacob
+  - Froese-Froesse, Elizabeth
+- GIESBRECHT-Bikert, Abraham
+  - Giesbrecht-Klassen, Judith
+  - Giesbrecht-Klassen, Abraham
+- GIESBRECHT-Friesen, Jacob
+- GIESBRECHT-Friesen, Peter
+  - Froese, Katharina
+- GOERTZEN-Giesbrecht, Isaak
+  - Goertzen-Knelsen, David
+  - Goertzen-Knelsen, Francisc
+  - Goertzen-Knelsen, Isaak
+  - Goertzen-Knelsen, Katharina
+  - Goertzen-Knelsen, Maria
+  - Goertzen-Knelsen, Susana
+- GUENTHER-Fehr, Jacob
+  - Guenther-Hiebert, Katharina
+- GUENTHER-Zacharias, Jacob
+- HARMS-Dyck, Abraham
+  - Harms-Reimer, Abraham
+  - Harms-Reimer, Maria
+  - Harms-Reimer, Martha
+- HARMS-Andres, Abram
+  - Harms-Neufeld, Abram
+  - N. Harms-Neufeld, George
+  - Harms-Neufeld, Helena
+  - Harms-Neufeld, Jake
+  - Harms-Neufeld, Johan
+  - Harms-Neufeld, Margaretha
+  - Harms-Neufeld, Maryann
+  - Harms-Neufeld, Sara
+  - Harms-Neufeld, Sara
+  - Harms-Neufeld, Tina
+- HARMS-Dyck, Isaac
+  - Harms-Rempel, Ana
+  - Harms-Rempel, Abraham
+  - Harms-Rempel, Bernardo
+  - Harms-Rempel, Isack
+  - Harms-Rempel, Katharina
+  - Harms-Rempel, Susana
+  - Harms-Rempel, Susana
+- HARMS-Dyke, Johan
+  - Harms-Guenther, Elizabeth
+  - Harms-Guenther, Margaret
+  - Harms-Guenther, Elizabeth
+- HARMS-Andres, Peter
+  - Harms-Thiessen, Helena
+  - Harms-Thiessen, Abram
+  - Harms-Thiessen, Jacob
+  - Harms-Thiessen, Helen
+  - Harms-Thiessen, Johann
+  - Harms-Thiessen, Berman
+  - Harms-Thiessen, David
+  - Harms-Thiessen, Gerherd
+  - Harms-Thiessen, Peter
+- HARMS-Dyck, Peter
+  - Harms-Wall, Abraham
+  - Harms-Wall, Anna
+  - Harms-Wall, Helena
+  - Harms-Wall, Helena
+  - Harms-Wall, Johan
+  - Harms-Wall, Maria
+  - Harms-Wall, Pedro
+- KLASSEN-Rempel, David
+  - Rempel-de Klassen, Margarita
+  - Klassen-Rempel, Heinrich
+  - Klassen-Rempel, Franz
+  - Klassen-Rempel, David
+- KLASSEN-Dyck, John
+  - Klassen-Kroeker, Elisabeth
+  - Klassen-Kroeker, Katharina
+  - Klassen-Kroeker, Peter
+- KLASSEN-Wolf, Martin
+- KNELSEN-Hamm, David
+  - Knelsen- Wieler, Aganetha
+  - Knelsen-Wieler, David
+  - Knelsen-Wieler, Franz
+  - Knelsen-Wieler, John
+- KORNELSON-Dueck, Francisco
+  - Plett-de Komelson, Roseline
+  - Kornelson-Plett, Rhonda
+- KRAHN-Rempel, Johan
+  - Neufeld-Biekert de Krahn, Maria
+  - Katharina
+  - Helena
+  - Maria
+  - John
+  - Margaretha
+- KRHAN-Martens, Wilhelm
+  - Krhan-Neufeld, Elisabeth
+  - Krhan-Neufeld, Jacob
+  - Krhan-Neufeld, Katharina
+  - Krhan-Neufeld, Maria
+  - Krhan-Neufeld, Maria
+  - Krhan-Neufeld, Susana
+- LOEPPKY, Wiebe, Cornelius
+  - KLoeppky-Penner, Susan
+- LOEWEN-Wiebe, Cornelius
+  - Peters-Friessen, Maria
+  - Loewen-Peters, Heinrich
+  - Loewen-Peters, Kathrina
+  - Loewen-Peters, Cornelius
+- LOWEN-Dueck, Edwin David
+  - Plett-de Loewen, Irma
+- MARTENS-Schmitt, Heinrich
+  - Martens-Schmitt, Anna
+  - Martens-Schmitt, Abraham
+  - Martens-Schmitt, Anna
+  - Martens-Schmitt, Frans
+  - Martens-Schmitt, Johan
+  - Martens-Schmitt, Peter
+- MARTENS-Schmitt, Katherina
+  - Martens-Dyck, Katherina
+- MARTINS-Smitt, David
+  - Martins-Zacharias, Margaret
+  - Martins, Annie
+- NEUDORF-Bergen, Cornelius
+  - Neudorf-Friessen, Anna
+  - Neudorf-Friessen, Anna
+  - Neudorf-Friessen, Cornelio
+  - Neudorf-Friessen, Jacobo
+  - Neudorf-Friessen, Katharina
+- NEUFELD-Schmitt, Cornelius
+  - Neufeld-Bergen, Hellen
+- NEUFELD-Loewen, Heinrich
+  - Klassen-Niefeld de Neufeld, Justina
+  - Neufeld-Klassen, Jacob
+- NEUFELD-Giesbrecht, Herman
+  - Neufeld-Wiebe, Elma
+  - Neufeld-Wiebe, Richard Herman
+  - Neufeld-Wiebe, Susana
+- NEUFELD-Wieler, Johan
+  - Neufeld-Wieler, Anna
+  - Neufeld-Wieler, David
+  - Neufeld-Wieler, Enrique
+  - Neufeld-Wieler, Getruda
+  - Neufeld-Wieler, Juan
+  - Neufeld-Wieler, Mary
+  - Neufeld-Wieler, Patricia Lynn
+- NEUSTATER-Henrichs, Johan
+  - Neustater-Loewen, Elena
+  - Neustater-Loewen, Katharina
+  - Neustater-Loewen, Tina
+- NEUSTATER-Klassen, Peter
+  - Neustater-Friessen, Gerardo
+  - Neustater-Friessen, Pedro
+  - Friessen-de Neustater, Elizabeth
+- PETERS-Bergen, Abram
+  - Peters-Redakopp, Aganetha
+  - Pedekopp-de Peters, Katharina
+- PETERS-Heide, Aron
+  - Fehr-de Peters, Elisa
+  - Peters-Fehr, Mary
+- PETERS-Beisbrecht, David
+- PETERS-Thiessen, Isaak
+  - Peters-Kreeker, Anna
+  - Peters-Kreeker, Abraham
+  - Peters-Kreeker, Elizabeth
+  - Peters-Kreeker, Katharina
+  - Peters-Kroeker, Franz
+  - Peters-Kroeker, Isaak
+- PETERS-Geisbrecht, John
+  - Peters-Peters, Anna
+  - Peters-Neufeld, Peter
+  - Peters-Peters, Anna
+  - Peters-Peters, Margaret
+  - Peters-Peters, Tina
+- PLETT-Plett, Gerhard
+  - Petkau-de Plett, Helena
+  - Plett-Petkau, Wayne
+  - Plett-Petkau, Burne
+- REDECOP-Wiens, Peter
+  - Redecop-Zacharias, Anna
+  - Redecop-Zacharias, Abram
+  - Redecop-Zacharias, David
+  - Redecop-Zacharias, Franz
+  - Redecop-Zacharias, Isaac
+  - Redecop-Zacharias, John
+  - Redecop-Zacharias, Margareta
+  - Redecop-Zacharias, Susanna
+- REDDEKOPP-Unrau, Jakob
+  - Reddekopp-Bergen, Susana
+  - Reddekopp-Bergen, Jakob
+  - Reddekopp-Bergen, Lena
+- REDEKOPP-de Berg, Margaretha
+- REIMER-Friesen, Diedrich
+  - Reimer-Fehr, Anna
+  - Reimer-Fehr, Cornelius
+  - Reimer-Fehr, Eva
+  - Reimer-Fehr, Isidro
+  - Reimer-Fehr, Jacob
+  - Reimer-Fehr, Johan
+  - Reimer-Fehr, Maria
+  - Reimer-Fehr, Maria
+  - Reimer-Fehr, Martha
+  - Reimer-Fehr, Sara
+- REIMER-Rempel, Diedrich
+  - Reimer-Froese, Anna Jake
+- REIMER-Wiebe, Heinrich
+  - Fehr-de Reimer, Sara
+  - Reimer-Fehr, Helena
+  - Reimer-Fehr, Jacobo
+  - Reimer-Fehr, Johan
+  - Reimer-Fehr, Katharina
+  - Reimer-Fehr, Peter
+- REIMER-Fehr, Henry
+  - Reimer-Friesen, Helena
+- REIMER-Friesen, Jacob
+  - Reimer-Peters, Anna
+  - Reimer-Peters, Cornelius
+  - Reimer-Peters, Margaretha
+  - Reimer-Peters, Mana
+  - Reimer-Peters, Margaretha
+  - Reimer-Peters, Abraham
+- REIMER, Johan
+- REIMER-Schellemberg, Johann
+  - Reimer-Froese, Helena
+  - Reimer-Froese, Jacob
+  - Reimer-Froese, Bernard
+- REIMER-Frosese, Peter
+  - Reimer-Fehr, Aganetha
+  - Reimer-Fehr, Cornelius
+  - Reimer-Fehr, Elizabeth
+  - Reimer-Fehr, Heinrich
+  - Reimer-Fehr, Juan
+  - Reimer-Fehr, Pedro
+  - Reimer-Fehr, Sara
+  - Reimer-Fehr, Sarah Weibe
+- REMPEL-Enns, Cornelius
+  - Plett-de Rempel, Elda
+  - Rempel-Plett, Steven
+- REMPEL-Giesbrecht, David
+  - Rempel-Friesen, Aganetha
+  - Rempel-Friesen, Anna
+  - Rempel-Friesen, David
+  - Rempel-Friesen, Elizabeth
+  - Rempel-Friesen, Katharina
+  - REMPEL-Giesbrecht, Jacob
+    - Wieler-Rempel, Elizabeth
+    - Rempel-Wieler, Jacob
+    - Rempel-Wieler, Anna
+    - Rempel-Wieler, Johan
+  - SCHMITT-Penner, Jacob
+    - Schmitt-Thiessen, Helena
+    - Schmitt-Thiessen, Maria
+    - Schmitt-Thiessen, Gierhord
+    - Schmitt-Thiessen, Bernard
+    - Schmitt-Thiessen, Katharina
+    - Schmitt-Thiessen, Helena
+    - Schmitt-Thiessen, Peter
+    - Schmitt-Thiessen, Franz
+  - SCHMITT-Thiessen, Johann
+    - Schmitt-Friessen, Margaretha
+    - Schmitt-Friessen, Heinrich
+    - Schmitt-Friessen, David
+  - SCMITT-Sall, Johan
+    - Scmitt-Klassen, Katharina
+    - Scmitt-Klassen, Franz
+    - Scmitt-Klassen, David
+    - Scmitt-Klassen, Anna
+    - Scmitt-Klassen, Aganetha
+    - Scmitt-Klassen, Abraham
+  - SIEMENS-Hine, William
+    - Siemens-Peters, Margaretha
+    - Siemens-Peters, George
+    - Siemens-Peters, Nettie Colleen
+  - TEICHROEB-Weibe, Bernardo
+  - Teichroeb-Neufeld, Helena
+  - Teichroeb-Neufeld, Monica Lyn
+- TEICHROEB-Knelsen, Johan
+  - Teichroeb, Peter Siemens
+  - Teichroeb-Siemens, Elizabeth
+  - Teichroeb-Siemens, Johan
+  - Teichroeb-Siemens, Katharina
+  - Teichroeb-Siemens, Mary
+- TEICHROEB-Weibe, Johan
+  - Teichroeb-Goertzen, Anna
+  - Teichroeb-Goertzen, Bernardo
+  - Teichroeb-Goertzen, Franz
+  - Teichroeb-Goertzen, Maria
+  - Teichroeb-Goertzen, Peter
+  - Teichroeb-Goertzen, Susana
+- TEICHROEB-Siemens, William
+  - Teichroeb, Anna Guenter
+- WALL-Bergen, Isaak
+  - Fehr-de Wall, Justina
+  - Wall-Fehr, Isaak
+  - Wall-Fehr, Jacob
+  - Wall-Fehr, Johan
+  - WALL-Smith, Jacob
+- WIEBE-Dyck, Bernhard
+  - Wiebe, Tina Neufeld
+- WIEBE-Klassen, Franz
+  - Wiebe-Redekop, Maria
+  - Wiebe-Redekop, Jake
+  - Wiebe-Redekop, Peter
+  - Wiebe-Redekop, Susana
+  - Wiebe-Redekop, Teena
+- WIEBE-Dyck, Gerardo
+  - Klassen-Wiebe, Susana
+- WIEBE-Klassen, Henrich
+- WIEBE-Gunter, Issac
+- WIEBE-Peters, Isaak
+- WIEBE-Gunther, Jacob
+  - Wiebe-Neufeld, Helena
+  - Wiebe-Neufeld, Jacob
+  - Wiebe-Neufeld, Tina
+- WIELER-Wiens, Benhamin
+  - Wieler-Enns, Anna
+  - Wieler-Enns, Cornel io
+  - Wieler-Enns, Helena
+- WIELER-Klassen, Enrique
+  - Wieler-Hiebert, Anna
+  - Wieler-Hieberth, Francisco
+- WIELER-Wiebe, Peter
+  - Wieler-Klassen, Anna
+  - Wieler-Klassen, David
+  - Wieler-Klassen, Elena
+  - Wieler-Klassen, Katharina
+  - Wieler-Klassen, Maria
+- FEHR-Klassen, Johan
+  - Fehr-Peters, Agatha
+  - Fehr-Peters, Agatha
+  - Fehr-Peters, Ana
+  - Fehr-Peters, Henrich
+  - Fehr-Peters, Katharina
+  - Fehr-Peters, Maria
+  - Fehr-Peters, Peter
+  - Fehr-Peters, Susana
+- NEUDORF-Buercker, Henry
+  - Neudorf-Dyck, Aganetha
+  - Neudorf-Dyck, Christina
+  - Neudorf-Dyck, Henry
+  - Neudorf-Dyck, Jake
+  - Neudorf-Dyck, John
+  - Neudorf-Dyck, Mary
+  - Neudorf-Dyck, Peter
+  - Neudorf-Dyck, Sysan
+- KLASSEN-Klassen, David
+  - Wiebe-Klassen, Elizabeth
+  - Klassen-Wiebe, David
+  - Klassen-Wiebe, Hentry
+  - Klassen-Wiebe, Peter
+  - Klassen-Wiebe, Benjamin
+  - Klassen-Wiebe, Helena
+- BANMANN, Diedrich
+  - Banmann-Reddekopp, Susanna
+  - Banmann, Maria
+  - Banmann, John
+  - Banmann, Jacob
+- BASCHMAN, Jacob Friesen
+  - Baschman, Elizabeth Wieler
+  - Baschman, Benjamin Wieler
+  - Baschman, Jacob Wieler
+- BERGEN, Herman Neudorf
+  - Bergen, Elisabeth Loewen
+  - Bergen, Elisabeth
+  - Bergen, Herman
+  - Bergen, John
+  - Bergen, Helena
+  - Bergen, Jacob
+  - Bergen, Susan
+  - Bergen, Judy
+- DUECK-Barkman, Peter
+  - Dueck-de Dueck, Marlene
+- DYCK, Abram Froese
+- FEHR-Neufeld, Jacob
+  - Fehr-Penner, Aganetha
+  - Fehr-Penner, Maria
+  - Fehr-Penner, Johnny
+- FRIESEN, Bernhard Giesbrecht
+  - Friesen, Katharina Funk
+  - Friesen, Franz Funk
+  - Friesen, Maria Funk
+  - Friesen, Peter Funk
+  - Friesen, Susana Funk
+- FRIESEN-Dyck, Clarence
+  - Friesen-Dyck, Marolyn
+- FRIESEN-Teichroeb, David
+  - Dyck-de Friesen, Anna
+  - Friesen-Duck, Marlene
+  - Friesen-Dyck, Ricky
+- FRIESEN, Gerhard Heidi
+- FRIESEN, Isaac Reimer
+- FRIESEN, Jacob Hiebert
+  - Friesen, Anna Wieler
+  - Friesen, Aganetha Wieler
+  - Friesen, Jacob Wieler
+- FROESE, Johan Bergen
+  - Froese, Aganetha Rempel
+  - Froese, Aganetha
+  - Rempel Froese, Bernhard
+  - Rempel Froese, Gerhard
+  - Rempel Froese, Jacob
+  - Rempel Froese, Johan
+  - Rempel Froese, Judith
+  - Rempel Peters, Susana
+- Knelsen FROESE, Johan Hamm
+  - Froese, Helena Ketler
+  - Froese, Elisabeth Ketler
+  - Froese, Helena Ketler
+  - Froese, Johan Ketler
+- GIESBRECHT, David Dyck
+  - Giesbrecht, Sara Redekop
+  - Giesbrecht, Susie Redekop
+  - Giesbrecht, Willie Redekop
+- GIESBRECHT, Peter Friesen
+  - Giesbrecht, Elizabeth Neustaeter
+  - Giesbrecht, Henrich Neustaeter
+  - Giesbrecht, Jacob Neustaeter
+  - Giesbrecht, Maria Neustaeter
+- GUENTHER-Friesen, Jacob
+  - Doerksen-Wall, Katherina
+  - Guenther, Helena O.
+  - Guenther, Heinrich
+  - Guenther, Eva
+  - Guenther, Katharina
+  - Guenther, Elizabeth
+  - Guenther, Jacob
+  - Guenther, Ana
+  - Guenther, David
+  - Guenther, Johann
+- HARDER, Peter
+  - Harder, Anna Wiens
+  - Harder, Agatha Wiens
+  - Harder, Jake Wiens
+  - Harder, Katherina Wiens
+- HIEBERT, Jacob Rempel
+- KLASSEN, Jacob Thiessen
+  - Klassen, Helena Peters
+  - Klassen, Anna Peters
+  - Klassen, Elizabeth Peters
+  - Klassen, Eva Peters
+  - Klassen, Isaac Peters
+  - Klassen, Jacob Peters
+  - Klassen, Maria Peters
+  - Klassen, Martha Peters
+  - Klassen, Neta Peters
+  - Klassen, Sara Peters
+  - Klassen, Susana Peters
+- KLASSEN-Wiebe, Herman
+  - Peters-Martens de Klassen Helena
+  - Johan
+  - Herman
+  - Sara
+  - Jacob
+  - Maria
+  - Peter
+  - Helena Anna Aganetha
+- LETKEMAN, Peter Harms
+  - Letkeman, Maria Martens
+  - Letkeman, Elizabeth Martens
+- LOEWEN, Frank Wiens
+  - Loewen-Heide, Agatha
+- MARTENS, Frank Broese
+  - Martens, Katerina
+  - Martens, Frank Neufeld
+  - Martens, David
+  - Martens, Jacob
+- NEUFELD, David Teichroeb
+  - Neufeld-Bergen, Judy
+- PETERS, Abram Guenther
+  - Peters, Maria Bergen
+  - Peters, David Bergen
+  - Peters, Margareta Bergen
+- REDECOP, Benjamin Peters
+- REDDEKOPP-Zacharias, Jacob
+  - Reddekopp-Wall, Helen
+  - Cornelius Margaret Jacob
+- REDEKOP-Peters, Benjamin
+  - Redekop-Klassen, Sara
+  - Redekop-Klassen, Peter
+  - Benjamin
+  - Martin
+  - Sara Margartha
+  - Susana
+  - Helena
+  - Maria
+  - Franz
+  - Abram
+  - David
+  - Heinrich
+  - Cornelius
+  - Wilhelm
+- REDEKOPP-Zacharias, Peter
+  - Redekopp-Neufeld, Nancy
+  - Redekopp-Neufeld, Maria
+- REIMER-Kornelson, Gustav
+  - Petkau-de Reimer, Mary
+  - Reimer-Petkau, Susie
+  - Reimer-Petkau, Edward
+  - Reimer-Petkau, Lena
+  - Reimer-Petkau, John
+  - Reimer-Petkau, Gustav
+  - Reimer-Petkau, Alvina
+  - Reimer-Petkau, Shirley
+- REIMER, Jacke
+- REIMER, Johan Fehr
+- REIMER-Fehr, Johan
+  - Friesen-de Reimer, Elizabeth F.
+  - Reimer-Friesen, Cornelius
+  - Reimer, Friesen, Abram
+- REMPEL, Jacob Siemons
+  - Teichroeb, Nattie Dyck
+- REMPEL-Siemons, Gerhardt
+  - Rempel-Reimer, Justina
+  - Rempel-Reimer, Susanna
+  - Rempel-Reimer, Sara
+  - Rempel-Reimer, Wilhelm
+  - Rempel-Reimer, Abraham
+  - Rempel-Reimer, Annie
+- REMPEL-Seinons, John
+  - Rempel-Bueckert, Nettie
+- SIEMENS, Wilhelm Peters
+- THIESSEN, Wilhelm Reimer
+  - Thiessen, Helena Siemons
+- WALL, Jacob Fast
+  - Wall, Agatha Peters
+  - Wall, Anna Peters
+  - Wall, Nicolas Peters
+  - Wall, Susana Peters
+- WIEBE, Abram Unrau
+  - Wiebe, Margaret Hamm
+  - Wiebe, Aganetha
+  - Wiebe, John
+  - Wiebe, Peter
+  - Wiehe, Susie
+- WIEBE, Isaak Klassen
+- WIEBE-Klassen, Ben
+  - Wiebe-Neufeld, Anna
+- WIEBE-Klassen, Katherin
+  - Wiebe-Klassen, Agatha
+  - Wiebe-Klassen, Eva
+
+
+*Approved October 19, 1980.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- Oct. 19, 1980 [S. 707]
+- Permanent residence for certain aliens. 8 USC 1101 note.
+- 8 USC 1153.
