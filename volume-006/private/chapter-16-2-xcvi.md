@@ -1,0 +1,30 @@
+---
+volume: 6
+citation: 6 Stat. 616
+type: Chapter
+number: XCVI
+congress: 16
+session: 2
+scope: private
+approved: 1835-03-03
+---
+
+# Chapter XCVI
+
+> An Act for the relief of the children of Dominick Lynch.
+
+*Be it enacted, &c.,*
+
+That the Secretary of the Treasury be, and he is hereby, authorized, on behalf of the United States, to cause to be released and assigned to the children of Dominick Lynch the interest in the estate of his father, heretofore assigned by the said Dominick for the use of the United States, upon obtaining the benefit of the act for the relief of certain insolvent debtors of the United States, passed the second of March, eighteen hundred and thirty-one, and the act in addition thereto, passed the fourteenth of July, eighteen hundred and thirty-two.
+
+
+*Approved, March 3, 1835.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- March 3, 1835.
+- Certain estate to be released and assigned to them.
+- Act of March 2, 1831, ch. 62.
+- Act of July 14, 1832, ch. 230.
