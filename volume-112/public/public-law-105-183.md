@@ -1,0 +1,104 @@
+---
+volume: 112
+citation: 112 Stat. 517
+type: Public Law
+number: 183
+congress: 105
+scope: public
+approved: 1998-06-19
+bills: 105/s-1244, 105/hr-1244, 105/hr-2604
+---
+
+# Public Law 105–183
+
+> An Act To amend title 11, United States Code, to protect certain charitable contributions, and for other purposes.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+## § 1. SHORT TITLE.
+
+This Act may be cited as the “Religious Liberty and Charitable Donation Protection Act of 1998”.
+
+## § 2. DEFINITIONS.
+
+Section 548(d) of title 11, United States Code, is amended by adding at the end the following:
+
+> - **(3)** In this section, the term ‘charitable contribution’ means a charitable contribution, as that term is defined in section 170(c) of the Internal Revenue Code of 1986, if that contribution—
+>   - **(A)** is made by a natural person; and
+>   - **(B)** consists of—
+>     - **(i)** a financial instrument (as that term is defined in section 731(c)(2)(C) of the Internal Revenue Code of 1986); or
+>     - **(ii)** cash.
+> - **(4)** In this section, the term ‘qualified religious or charitable entity or organization’ means—
+>   - **(A)** an entity described in section 170(c)(1) of the Internal Revenue Code of 1986; or
+>   - **(B)** an entity or organization described in section 170(c)(2) of the Internal Revenue Code of 1986.”.
+
+## § 3. TREATMENT OF PRE-PETITION QUALIFIED CHARITABLE CONTRIBUTIONS.
+
+- **(a)** *In General.—* Section 548(a) of title 11, United States Code, is amended—
+  - **(1)** by inserting “(1)” after “(a)”;
+  - **(2)** by striking “(1) made” and inserting “(A) made”;
+  - **(3)** by striking “(2)(A)” and inserting “(B)(i)”;
+  - **(4)** by striking “(B)(i)” and inserting “(ii)(I)”;
+  - **(5)** by striking “(ii) was” and inserting “(II) was”;
+  - **(6)** by striking “(iii)” and inserting “(III)”; and
+  - **(7)** by adding at the end the following:
+    > - **(2)** A transfer of a charitable contribution to a qualified religious or charitable entity or organization shall not be considered to be a transfer covered under paragraph (1)(B) in any case in which—
+    >   - **(A)** the amount of that contribution does not exceed 15 percent of the gross annual income of the debtor for the year in which the transfer of the contribution is made; or
+    >   - **(B)** the contribution made by a debtor exceeded the percentage amount of gross annual income specified in subparagraph (A), if the transfer was consistent with the practices of the debtor in making charitable contributions.”.
+
+- **(b)** *Trustee as Lien Creditor and as Successor to Certain Creditors and Purchasers.—* Section 544(b) of title 11, United States Code, is amended—
+  - **(1)** by striking “(b) The trustee” and inserting “(b)(1) Except as provided in paragraph (2), the trustee”; and
+  - **(2)** by adding at the end the following:
+    > - **(2)** Paragraph (1) shall not apply to a transfer of a charitable contribution (as that term is defined in section 548(d)(3)) that is not covered under section 548(a)(1)(B), by reason of section 548(a)(2). Any claim by any person to recover a transferred contribution described in the preceding sentence under Federal or State law in a Federal or State court shall be preempted by the commencement of the case.”.
+
+- **(c)** *Conforming Amendments.—* Section 546 of title 11, United States Code, is amended—
+  - **(1)** in subsection (e)—
+    - **(A)** by striking “548(a)(2)” and inserting “548(a)(1)(B)”; and
+    - **(B)** by striking “548(a)(1)” and inserting “548(a)(1)(A)”;
+  - **(2)** in subsection (f)—
+    - **(A)** by striking “548(a)(2)” and inserting “548(a)(1)(B)”; and
+    - **(B)** by striking “548(a)(1)” and inserting “548(a)(1)(A)”; and
+  - **(3)** in subsection (g)—
+    - **(A)** by striking “section 548(a)(1)” each place it appears and inserting “section 548(a)(1)(A)”; and
+    - **(B)** by striking “548(a)(2)” and inserting “548(a)(1)(B)”.
+
+## § 4. TREATMENT OF POST-PETITION CHARITABLE CONTRIBUTIONS.
+
+- **(a)** *Confirmation of Plan.—* Section 1325(b)(2)(A) of title 11, United States Code, is amended by inserting before the semicolon the following:
+  > “, including charitable contributions (that meet the definition of ‘charitable contribution’ under section 548(d)(3)) to a qualified religious or charitable entity or organization (as that term is defined in section 548(d)(4)) in an amount not to exceed 15 percent of the gross income of the debtor for the year in which the contributions are made”.
+
+- **(b)** *Dismissal.—* Section 707(b) of title 11, United States Code, is amended by adding at the end the following:
+  > “In making a determination whether to dismiss a case under this section, the court may not take into consideration whether a debtor has made, or continues to make, charitable contributions (that meet the definition of ‘charitable contribution’ under section 548(d)(3)) to any qualified religious or charitable entity or organization (as that term is defined in section 548(d)(4)).”.
+
+## § 5. APPLICABILITY.
+
+This Act and the amendments made by this Act shall apply to any case brought under an applicable provision of title 11, United States Code, that is pending or commenced on or after the date of enactment of this Act.
+
+## § 6. RULE OF CONSTRUCTION.
+
+Nothing in the amendments made by this Act is intended to limit the applicability of the Religious Freedom Restoration Act of 1993 (42 U.S.C. 2002bb et seq.).
+
+
+*Approved June 19, 1998.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- June 19, 1998 [S. 1244]
+- Religious Liberty and Charitable Donation Protection Act of 1998. 11 USC 101 note.
+- 11 USC 544 note.
+
+## Legislative history
+
+**LEGISLATIVE HISTORY—S. 1244 (H.R. 2604):**
+
+
+*CONGRESSIONAL RECORD, Vol. 144 (1998):*
+
+- May 13, considered and passed Senate.
+- June 3, considered and passed House.
+
+*WEEKLY COMPILATION OF PRESIDENTIAL DOCUMENTS, Vol. 34 (1998):*
+
+- June 19, Presidential statement.
