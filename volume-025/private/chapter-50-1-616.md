@@ -1,0 +1,25 @@
+---
+volume: 25
+citation: 25 Stat. 1121
+type: Chapter
+number: 616
+congress: 50
+session: 1
+scope: private
+approved: 1888-07-11
+---
+
+# Chapter 616
+
+> An Act granting a pension to Julius C. Monson.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+That the Secretary of the Interior be, and he is hereby, authorized and directed to place on the pension-roll, subject to the provisions and limitations of the pension laws, the name of Julius C. Monson, late a sergeant in Company D, of the Fifteenth Regiment of Wisconsin Volunteers.
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- July 11, 1888 .
+- Julius C. Monson. Pension.

@@ -1,0 +1,28 @@
+---
+volume: 25
+citation: 25 Stat. 1041
+type: Chapter
+number: 120
+congress: 50
+session: 1
+scope: private
+approved: 1888-04-16
+---
+
+# Chapter 120
+
+> An Act for the relief of Joseph Driskill.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+That Joseph Driskill, late a soldier in Company C, Fifty-fourth Regiment Ohio Volunteer Infantry, be. and he is hereby, relieved from all charges of desertion or of giving aid and comfort to the enemy during the late war of the rebellion, and that the Commissioner of Pensions be, and he is hereby, authorized to reopen said application of said Joseph Driskill for pension, and that he ignore the aforesaid charges of misconduct against said Driskill, so that they be not used against him.
+
+
+*Approved, April 16, 1888.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- April 16, 1888.
+- Joseph Driskill. Charge of desertion removed.
