@@ -1,0 +1,453 @@
+---
+volume: 83
+citation: 83 Stat. 14
+type: Public Law
+number: 21
+congress: 91
+session: 1
+scope: public
+approved: 1969-06-03
+bills: 91/s-278
+---
+
+# Public Law 91–21
+
+> AN ACT To consent to the New Hampshire-Vermont Interstate School Compact.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+That the Congress consents to the New Hampshire-Vermont Interstate School Compact which is substantially as follows:
+
+> ## “Article I — “general provisions
+>
+> ## “A. — Statement of Policy.—
+>
+> It is the purpose of this compact to increase the educational opportunities within the states of New Hampshire and Vermont by encouraging the formation of interstate school districts which will each be a natural social and economic region with adequate financial resources and a number of pupils sufficient to permit the efficient use of school facilities within the interstate district and to provide improved instruction. The state boards of education of New Hampshire and Vermont may formulate and adopt additional standards consistent with this purpose and with these standards; and the formation of any interstate school district and the adoption of its articles of agreement shall be subject to the approval of both state boards as hereinafter set forth.
+>
+> ## “B. — Requirement of Congressional Approval.—
+>
+> This compact shall not become effective until approved by the United States Congress.
+>
+> ## “C. — Definitions.—
+>
+> The terms used in this compact shall be construed as follows, unless a different meaning is clearly apparent from the language or context:
+>
+> - **(a)** ‘Interstate school district’ and ‘interstate district’ shall mean a school district composed of one or more school districts located in the state of New Hampshire associated under this compact with one or more school districts located in the state of Vermont, and may include either the elementary schools, the secondary schools, or both.
+> - **(b)** ‘Member school district’ and ‘member district’ shall mean a school district located either in New Hampshire or Vermont which is included within the boundaries of a proposed or established interstate school district. In the case of districts located in Vermont, it shall include city school districts, town school districts, union school districts and incorporated school districts. Where appropriate, the term ‘member district clerk’ shall refer to the clerk of the city in which a Vermont school district is located, the clerk of the town in which a Vermont town school district is located, or the clerk of an incorporated school district.
+> - **(c)** ‘Elementary school’ shall mean a school which includes all grades from kindergarten or grade one through not less than grade six nor more than grade eight.
+> - **(d)** ‘Secondary school’ shall mean a school which includes all grades beginning no lower than grade seven and no higher than grade twelve.
+> - **(e)** ‘Interstate board’ shall refer to the board serving an interstate school district.
+> - **(f)** ‘New Hampshire board’ shall refer to the New Hampshire state board of education.
+> - **(g)** ‘Vermont board’ shall refer to the Vermont state board of education.
+> - **(h)** ‘Commissioner’ shall refer to commissioner of education.
+> - **(i)** Where joint action by both state boards is required, each state board shall deliberate and vote by its own majority, but shall separately reach the same result or take the same action as the other state board.
+> - **(j)** The terms ‘professional staff personnel’ and ‘instructional staff personnel’ shall include superintendents, assistant superintendents, administrative assistants, principals, guidance counsellors, special education personnel, school nurses, therapists, teachers, and other certified personnel.
+> - **(k)** The term ‘warrant’ or ‘warning’ to mean the same for both states.
+>
+> ## “Article II — “procedure for formation of an interstate school district
+>
+> ## “A. — Creation of Planning Committee.—
+>
+> The New Hampshire and Vermont commissioners of education shall have the power, acting jointly to constitute and discharge one or more interstate school district planning committees. Each such planning committee shall consist of at least two voters from each of a group of two or more neighboring member districts. One of the representatives from each member district shall be a member of its school board, whose term on the planning committee shall be concurrent with his term as a school board member. The term of each member of a planning committee who is not also a school board member shall expire on June thirtieth of the third year following his appointment. The existence of any planning committee may be terminated either by vote of a majority of its members or by joint action of the commissioners. In forming and appointing members to an interstate school district planning board, the commissioners shall consider and take into account recommendations and nominations made by school boards of member districts. No member of a planning committee shall be disqualified because he is at the same time a member of another planning board or committee created under the provisions of this compact or under any other provisions of law. Any existing informal interstate school planning committee may be reconstituted as a formal planning committee in accordance with the provisions hereof, and its previous deliberations adopted and ratified by the reorganized formal planning committee. Vacancies on a planning committee shall be filled by the commissioners acting jointly.
+>
+> ## “B. — Operating Procedures of Planning Committee.—
+>
+> Each interstate school district planning committee shall meet in the first instance at the call of any member, and shall organize by the election of a chairman and clerk-treasurer, each of whom shall be a resident of a different state. Subsequent meetings may be called by either officer of the committee. The members of the committee shall serve without pay. The member districts shall appropriate money on an equal basis at each annual meeting to meet the expenses of the committee, including the cost of publication and distribution of reports and advertising. From time to time the commissioners may add additional members and additional member districts to the committee, and may remove members and member districts from the committee. An interstate school district planning committee shall act by majority vote of its membership present and voting.
+>
+> ## “C. — Duties of Interstate School District Planning Committee.—
+>
+> It shall be the duty of an interstate school district planning committee, in consultation with the commissioners and the state departments of education: to study the advisability of establishing an inter-state school district in accordance with the standards set forth in paragraph A of Article I of this compact, its organization, operation and control, and the advisability of constructing, maintaining and operating a school or schools to serve the needs of such interstate district; to estimate the construction and operating costs thereof; to investigate the methods of financing such school or schools, and any other matters pertaining to the organization and operation of an interstate school district; and to submit a report or reports of its findings and recommendations to the several member districts.
+>
+> ## “D. — Recommendations and Preparation of Articles of Agreement.—
+>
+> An interstate school district planning committee may recommend that an interstate school district composed of all the member districts represented by its membership, or any specified combination of such member districts, be established. If the planning committee does recommend the establishment of an interstate school district, it shall include in its report such recommendation, and shall also prepare and include in its report proposed articles of agreement for the proposed interstate school district, which shall be signed by at least a majority of the membership of the planning committee, which set forth the following:
+>
+> - **(a)** The name of the interstate school district.
+> - **(b)** The member districts which shall be combined to form the proposed interstate school district.
+> - **(c)** The number, composition, method of selection and terms of office of the interstate school board, provided that:
+>   - **(1)** The interstate school board shall consist of an odd number of members, not less than five nor more than fifteen;
+>   - **(2)** The terms of office shall not exceed three years;
+>   - **(3)** Each member district shall be entitled to elect at least one member of the interstate school board. Each member district shall either vote separately at the interstate school district meeting by the use of a distinctive ballot, or shall choose its member or members at any other election at which school officials may be chosen;
+>   - **(4)** The method of election shall provide for the filing of candidacies in advance of election and for the use of a printed nonpartisan ballot;
+>   - **(5)** Subject to the foregoing, provision may be made for the election of one or more members at large,
+> - **(d)** The grades for which the interstate school district shall be responsible.
+> - **(e)** The specific properties of member districts to be acquired initially by the interstate school district and the general location of any proposed new schools to be initially established or constructed by the interstate school district.
+> - **(f)** The method of apportioning the operating expenses of the interstate school district among the several member districts, and the time and manner of payments of such shares.
+> - **(g)** The indebtedness of any member district which the interstate district is to assume.
+> - **(h)** The method of apportioning the capital expenses of the interstate school district among the several member districts, which need not be the same as the method of apportioning operating expenses, and the time and manner of payment of such shares. Capital expenses shall include the cost of acquiring land and buildings for school purposes; the construction, furnishing and equipping of school buildings and facilities; and the payment of the principal and interest of any indebtedness which is incurred to pay for the same.
+> - **(i)** The manner in which state aid, available under the laws of either New Hampshire or Vermont, shall be allocated, unless otherwise expressly provided in this compact or by the laws making such aid available.
+> - **(j)** The method by which the articles of agreement may be amended, which amendments may include the annexation of territory, or an increase or decrease in the number of grades for which the interstate district shall be responsible, provided that no amendment shall be effective until approved by both state boards in the same manner as required for approval of the original articles of agreement.
+> - **(k)** The date of operating responsibility of the proposed interstate school district and a proposed program tor the assumption of operating responsibility for education by the proposed interstate school district, and any school construction; which the interstate school district shall have the power to vary by vote as circumstances may require.
+> - **(l)** Any other matters, not incompatible with law, which the interstate school district planning committee may consider appropriate to include in the articles of agreement, including, without limitation:
+>   - **(1)** The method of allocating the cost of transportation between the interstate district and member districts;
+>   - **(2)** The nomination of individual school directors to serve until the first annual meeting of the interstate school district.
+>
+> ## “E. — Hearings.—
+>
+> If the planning committee recommends the formation of an interstate school district, it shall hold at least one public hearing on its report and the proposed articles of agreement within the proposed interstate school district in New Hampshire, and at least one public hearing thereon within the proposed interstate school district in Vermont. The planning committee shall give such notice thereof as it may determine to be reasonable, provided that such notice shall include at least one publication in a newspaper of general circulation within the proposed interstate school district not less than fifteen days (not counting the date of publication and not counting the date of the hearing) before the date of the first hearing. Such hearings may be adjourned from time to time and from place to place. The planning committee may revise the proposed articles of agreement after the date of the hearings. It shall not be required to hold further hearings on the revised articles of agreement but may hold one or more further hearings after notice similar to that required for the first hearings if the planning committee in its sole discretion determines that the revisions are so substantial in nature as to require further presentation to the public before submission to the state boards of education.
+>
+> ## “F. — Approval by State Boards.—
+>
+> After the hearings a copy of the proposed articles of agreement, as revised, signed by a majority of the planning committee, shall be submitted by it to each state board. The state boards may (a) if they find that the articles of agreement are in accord with the standards set forth in this compact and in accordance with sound educational policy, approve the same as submitted, or (b) refer them back to the planning committee for further study. The planning committee may make additional revisions to the proposed articles of agreement to conform to the recommendations of the state boards. Further hearings on the proposed articles of agreement shall not be required unless ordered by the state boards in their discretion. In exercising such discretion, the state boards shall take into account whether or not the additional revisions are so substantial in nature as to require further presentation to the public. If both state boards find that the articles of agreement as further revised are in accord with the standards set forth in this compact and in accordance with sound educational policy, they shall approve the same. After approval by both state boards, each state board shall cause the articles of agreement to be submitted to the school boards of the several member districts in each state for acceptance by the member districts as provided in the following paragraph. At the same time, each state board shall designate the form of warrant, date, time, place, and period of voting for the special meeting of the member district to be held in accordance with the following paragraph.
+>
+> ## “G. — Adoption by Member Districts.—
+>
+> Upon receipt of written notice from the state board in its state of the approval of the articles of agreement by both state boards, the school board of each member district shall cause the articles of agreement to be filed with the member district clerk. Within ten days after receipt of such notice, the school board shall issue its warrant for a special meeting of the member district, the warrant to be in the form, and the meeting to be held at the time and place and in the manner prescribed by the state board. No approval of the superior court shall be required for such special school district meeting in New Hampshire. Voting shall be with the use of the check list by a ballot substantially in the following form:
+>
+> “‘Shall the school district accept the provisions of the New Hampshire-Vermont Interstate School Compact providing for the establishment of an interstate school district, together with the school districts of and , etc., in accordance with the provisions of the proposed articles of agreement filed with the school district (town, city or incorporated school district) clerk?
+>
+> | “‘Yes (□) | No (□)’ |
+> |---|---|
+>
+> “If the articles of agreement included the nomination of individual school directors, those nominated from each member district shall be included in the ballot and voted upon, such election to become effective upon the formation of an interstate school district.
+>
+> “If a majority of the voters present and voting in a member district vote in the affirmative, the clerk for such member district shall forthwith send to the state board in its state a certified copy of the warrant, certificate of posting, and minutes of the meeting of the district. If the state boards of both states find that a majority of the voters present and voting in each member district have voted in favor of the establishment of the interstate school district, they shall issue a joint certificate to that effect; and such certificate shall be conclusive evidence of the lawful organization and formation of the interstate school district as of its date of issuance.
+>
+> ## “H. — Resubmission.—
+>
+> If the proposed articles of agreement are adopted by one or more of the member districts but rejected by one or more of the member districts, the state boards may resubmit them, in the same form as previously submitted, to the rejecting member districts, in which case the school boards thereof shall resubmit them to the voters in accordance with paragraph G of this article. An affirmative vote in accordance therewith shall have the same effect as though the articles of agreement had been adopted in the first instance. In the alternative, the state boards may either (a) discharge the planning committee, or (b) refer the articles of agreement back for further consideration to the same or a reconstituted planning committee, which shall have all of the powers and duties as the planning committee as originally constituted.
+>
+> ## “Article III — “powers of interstate school districts
+>
+> ## “A. — Powers.—
+>
+> Each interstate school district shall be a body corporate and politic, with power to:
+>
+> - **(a)** To acquire, construct, extend, improve, staff, operate, manage and govern public schools within its boundaries;
+> - **(b)** To sue and be sued, subject to the limitations of liability hereinafter set forth;
+> - **(c)** To have a seal and alter the same at pleasure;
+> - **(d)** To adopt, maintain and amend bylaws not inconsistent with this compact, and the laws of the two states;
+> - **(e)** To acquire by purchase, condemnation, lease or otherwise, real and personal property for the use of its schools;
+> - **(f)** To enter into contracts and incur debts;
+> - **(g)** To borrow money for the purposes hereinafter set forth, and to issue its bonds or notes therefor;
+> - **(h)** To make contracts with and accept grants and aid from the United States, the state of New Hampshire, the state of Vermont, any agency or municipality thereof, and private corporations and individuals for the construction, maintenance, reconstruction, operation and financing of its schools; and to do any and all things necessary in order to avail itself of such aid and cooperation;
+> - **(i)** To employ such assistants, agents, servants, and independent contractors as it shall deem necessary or desirable for its purposes; and
+> - **(j)** To take any other action which is necessary or appropriate in order to exercise any of the foregoing powers.
+>
+> ## “Article IV — “district meetings
+>
+> ## “A. — General.—
+>
+> Votes of the district shall be taken at a duly warned meeting held at any place in the district, at which all of the eligible legal voters of the member districts shall be entitled to vote, except as otherwise provided with respect to the election of directors.
+>
+> ## “B. — Eligibility or Voters.—
+>
+> Any resident who would be eligible to vote at a meeting of a member district being held at the same time, shall be eligible to vote at a meeting of the interstate district. The board of civil authority in each Vermont member district and the supervisors of the check list of each New Hampshire district shall respectively prepare a check list of eligible voters for each meeting of the interstate district in the same manner, and they shall have all the same powers and duties with respect to eligibility of voters in their districts as for a meeting of a member district.
+>
+> ## “C. — Warning of Meetings.—
+>
+> A meeting shall be warned by a warrant addressed to the residents of the interstate school district qualified to vote in district affairs, stating the time and place of the meeting and the subject matter of the business to be acted upon. The warrant shall be signed by the clerk and by a majority of the directors. Upon written application of ten or more voters in the district, presented to the directors or to one of them, at least twenty-five days before the day prescribed for an annual meeting, the directors shall insert in their warrant for such meeting any subject matter specified in such application.
+>
+> ## “D. — Posting and Publication of Warrant.—
+>
+> The directors shall cause an attested copy of the warrant to be posted at the place of meeting, and a like copy at a public place in each member district at least twenty days (not counting the date of posting and the date of meeting) before the date of the meeting. In addition, the directors shall cause the warrant to be advertised in a newspaper of general circulation on at least one occasion, such publication to occur at least ten days (not counting the date of publication and not counting the date of the meeting) before the date of the meeting. Although no further notice shall be required, the directors may give such further notice of the meeting as they in their discretion deem appropriate under the circumstances.
+>
+> ## “E. — Return of Warrant.—
+>
+> The warrant with a certificate thereon, verified by oath, stating the time and place when and where copies of the warrant were posited and published, shall be given to the clerk of the interstate school district at or before the time of the meeting, and shall be recorded by him in the records of the interstate school district.
+>
+> ## “F. — Organization Meeting.—
+>
+> The commissioners, acting jointly, shall fix a time and place for a special meeting of the qualified voters within the interstate school district for the purpose of organization, and shall prepare and issue the warrant for the meeting after consultation with the interstate school district planning board and the members-elect, if any, of the interstate school board of directors. Such meeting shall be held within sixty days after the date of issuance of the certificate of formation, unless the time is further extended by the joint action of the state boards. At the organization meeting the commissioner of education of the state where the meeting is held, or his designate, shall preside in the first instance, and the following business shall be transacted:
+>
+> - **(a)** A temporary moderator and temporary clerk shall be elected from among the qualified voters who shall serve until a moderator and clerk respectively have been elected and qualified.
+> - **(b)** A moderator, a clerk, a treasurer, and three auditors shall be elected to serve until the next annual meeting and thereafter until their successors are elected and qualified. Unless previously elected, a board of school directors shall be elected to serve until their successors are elected and qualified.
+> - **(c)** The date for the annual meeting shall be established.
+> - **(d)** Provision shall be made for the payment of any organizational or other expense incurred on behalf of the district before the organization meeting, including the cost of architects, surveyors, contractors, attorneys, and educational or other consultants or experts.
+> - **(e)** Any other business, the subject matter of which has been included in the warrant, and which the voters would have had power to transact at an annual meeting.
+>
+> ## “G. — Annual Meetings.—
+>
+> An annual meeting of the district shall be held between January fifteenth and June first of each year at such time as the interstate district may by vote determine. Once determined, the date of the annual meeting shall remain fixed until changed by vote of the interstate district at a subsequent annual or special meeting. At each annual meeting the following business shall be transacted:
+>
+> - **(a)** Necessary officers shall be elected.
+> - **(b)** Money shall be appropriated for the support of the interstate district schools for the fiscal year beginning the following July first.
+> - **(c)** Such other business as may properly come before the meeting.
+>
+> ## “H. — Special Meetings.—
+>
+> A special meeting of the district shall be held whenever, in the opinion of the directors, there is occasion therefor, or whenever written application shall have been made by five per cent or more of the voters (based on the check lists as prepared for the last preceding meeting) setting forth the subject matter upon which such action is desired. A special meeting may appropriate money without compliance with RSA 33:8 or RSA 197:3 which would otherwise require the approval of the New Hampshire superior court.
+>
+> ## “I. — Certification of Records.—
+>
+> The clerk of an interstate school district shall have the power to certify the record of the votes adopted at an interstate school district meeting to the respective commissioners and state boards and (where required) for filing with a secretary of state.
+>
+> ## “J. — Method of Voting at School District Meetings.—
+>
+> Voting at meetings of interstate school districts shall take place as follows:
+>
+> - **(a)** *School Directors.—* A separate ballot shall be prepared for each member district, listing the candidates for interstate school director to represent such member district; and any candidates for interstate school director at large; and the voters of each member district shall register on a separate ballot their choice for the office of school director or directors. In the alternative, the articles of agreement may provide for the election of school directors by one or more of the member districts at an election otherwise held for the choice of school or other municipal officers.
+> - **(b)** *Other Votes.—* Except as otherwise provided in the articles of agreement or this compact, with respect to all other votes (1) the voters of the interstate school district shall vote as one body irrespective of the member districts in which they are resident, and (2) a simple majority of those present and voting at any duly warned meeting shall carry the vote. Voting for officers to be elected at any meeting, other than school directors, shall be by ballot or voice, as the interstate district may determine, either in its articles of agreement or by a vote of the meeting.
+>
+> ## “Article V — “officers
+>
+> ## “A. — Officers: General.—
+>
+> The officers of an interstate school district shall be a board of school directors, a chairman of the board, a vice-chairman of the board, a secretary of the board, a moderator, a clerk, a treasurer and three auditors. Except as otherwise specifically provided, they shall be eligible to take office immediately following their election; they shall serve until the next annual meeting of the interstate district and until their successors are elected and qualified. Each shall take oath for the faithful performance of his duties before the moderator, or a notary public or a justice of the peace of the state in which the oath is administered. Their compensation shall be fixed by vote of the district. No person shall be eligible to any district office unless he is a voter in the district. A custodian, school teacher, principal, superintendent or other employee of an interstate district acting as such shall not be eligible to hold office as a school director.
+>
+> ## “B. — Board of Directors.—
+>
+> - **(a)** *How chosen.—* Each member district shall be represented by at least one resident on the board of school directors of an interstate school district. A member district shall be entitled to such further representation on the interstate board of school directors as provided in the articles of agreement as amended from time to time. The articles of agreement as amended from time to time may provide for school directors at large, as above set forth. No person shall be disqualified to serve as a member of an interstate board because he is at the same time a member of the school board of a member district.
+> - **(b)** *Term.—* Interstate school directors shall be elected for terms in accordance with the articles of agreement.
+> - **(c)** *Duties of board of directors.—* The board of school directors of an interstate school district shall have and exercise all of the powers of the district not reserved herein to the voters of the district.
+> - **(d)** *Organization.—* The clerk of the district shall warn a meeting of the board of school directors to be held within ten days following the date of the annual meeting, for the purpose of organizing the boards including the election of its officers.
+>
+> ## “C. — Chairman of the Board.—
+>
+> The chairman of the board of interstate school directors shall be elected by the interstate board from among its members at its first meeting following the annual meeting. The chairman shall preside at the meetings of the board and shall perform such other duties as the board may assign to him.
+>
+> ## “D. — Vice-Chairman of the Board of Directors.—
+>
+> The vice-chairman of the interstate board shall be elected in the same manner as the chairman. He shall represent a member district in a state other than that represented by the chairman. He shall preside in the absence of the chairman and shall perform such other duties as may be assigned to him by the interstate board.
+>
+> ## “E. — Secretary of the Board.—
+>
+> The Secretary of the interstate board shall be elected in the same manner as the chairman. Instead of electing one of its members, the interstate board may appoint the interstate district clerk to serve as secretary of the board in addition to his other duties. The secretary of the interstate board (or the interstate district clerk, if so appointed) shall keep the minutes of its meetings, shall certify its records, and perform such other duties as may be assigned to him by the board.
+>
+> ## “F. — Moderator.—
+>
+> The moderator shall preside at the district meetings, regulate the business thereof, decide questions of order, and make a public declaration of every vote passed. He may prescribe rules of procedure; but such rules may be altered by the district. He may administer oaths to district officers in either state.
+>
+> ## “G. — Clerk.—
+>
+> The clerk shall keep a true record of all proceedings at each district meeting, shall certify its records, shall make an attested copy of any records of the district for any person upon request and tender of reasonable fees therefor, if so appointed, shall serve as secretary of the board of school directors, and shall perform such other duties as may be required by custom or law.
+>
+> ## “H. — Treasurer.—
+>
+> The treasurer shall have custody of all of the monies belonging to the district and shall pay out the same only upon the order of the interstate board. He shall keep a fair and accurate account of all sums received into and paid from the interstate district treasury, and at the close of each fiscal year he shall make a report to the interstate district, giving a particular account of all receipts and payments during the year. He shall furnish to the interstate directors, statements from his books and submit his books and vouchers to them and to the district auditors for examination whenever so requested. He shall make all returns called for by laws relating to school districts. Before entering on his duties, the treasurer shall give a bond with sufficient sureties and in such sum as the directors may require. The treasurer’s term of office is from July 1 to the following June 30.
+>
+> ## “I. — Auditors.—
+>
+> At the organization meeting of the district, three auditors shall be chosen, one to serve for a term of one year, one to serve for a term of two years, and one to serve for a term of three years. After the expiration of each original term, the successor shall be chosen for a three year term. At least one auditor shall be a resident of New Hampshire, and one auditor shall be a resident of Vermont. An interstate district may vote to employ a certified public accountant to assist the auditors in the performance of their duties. The auditors shall carefully examine the accounts of the treasurer and the directors at the close of each fiscal year, and at such other times whenever necessary, and report to the district whether the same are correctly cast and properly vouched.
+>
+> ## “J. — Superintendent.—
+>
+> The superintendent of schools shall be selected by a majority vote of the board of school directors of the interstate district with the approval of both commissioners.
+>
+> ## “K. — Vacancies.—
+>
+> Any vacancy among the elected officers of the district shall be filled by the interstate board until the next annual meeting of the district or other election, when a successor shall be elected to serve out the remainder of the unexpired term, if any. Until all vacancies on the interstate board are filled, the remaining members shall have full power to act.
+>
+> ## “Article VI — “appropriation and apportionment of funds
+>
+> ## “A. — Budget.—
+>
+> Before each annual meeting, the interstate board shall prepare a report of expenditures for the preceding fiscal year, an estimate of expenditures for the current fiscal year, and a budget for the succeeding fiscal year.
+>
+> ## “B. — Appropriation.—
+>
+> The interstate board of directors shall present the budget report of the annual meeting. The interstate district shall appropriate a sum of money for the support of its schools and for the discharge of its obligations for the ensuing fiscal year.
+>
+> ## “C. — Apportionment of Appropriation.—
+>
+> Subject to the provisions of article VII hereof, the interstate board shall first apply against such appropriation any income to which the interstate district is entitled, and shall then apportion the balance among the member districts in accordance with one of the following formulas as determined by the articles of agreement as amended from time to time:
+>
+> - **(a)** All of such balance to be apportioned on the basis of the ratio that the fair market value of the taxable property in each member district bears to that of the entire interstate district; or
+> - **(b)** All of such balance to be apportioned on the basis that the average daily resident membership for the preceding fiscal year of each member district bears to that of the average daily resident membership of the entire interstate school district; or
+> - **(c)**
+>   - A formula based on any combination of the foregoing factors. The term ‘fair market value of taxable property’ shall mean the last locally assessed valuation of a member district in New Hampshire, as last equalized by the New Hampshire state tax commission.
+>   - “The term ‘fair market value of taxable property’ shall mean the equalized grand list of a Vermont member district, as determined by the Vermont department of taxes.
+>   - “Such assessed valuation and grand list may be further adjusted (by elimination of certain types of taxable property from one or the other or otherwise) in accordance with the articles of agreement, in order that the fair market value of taxable property in each state shall be comparable.
+>   - “‘Average daily resident membership’ of the interstate district in the first instance shall be the sum of the average daily resident membership of the member districts in the grades involved for the preceding fiscal year where no students were enrolled in the interstate district schools for such preceding fiscal year.
+>
+> ## “D. — Share of New Hampshire Member District.—
+>
+> The interstate board shall certify the share of a New Hampshire member district of the total appropriation to the school board of each member district which shall add such sum to the amount appropriated by the member district itself for the ensuing year and raise such sum in the same man-ner as though the appropriation had been voted at a school district meeting of the member district. The interstate district shall not set up its own capital reserve funds; but a New Hampshire member district may set up a capital reserve fund in accordance with RSA 35, to be turned over to the interstate district in payment of the New Hampshire member district’s share of any anticipated obligations.
+>
+> ## “E. — Share of Vermont Member District.—
+>
+> The interstate board shall certify the share of a Vermont member district of the total appropriation to the school board of each member district which shall add sum to the amount appropriated by the member district itself for the ensuing year and raise such sum in the same manner as though the appropriation had been voted at a school district meeting of the member district.
+>
+> ## “Article VII — “borrowing
+>
+> ## “A. — Interstate District Indebtedness.—
+>
+> Indebtedness of an interstate district shall be a general obligation of the district and shall also be a joint and several general obligation of each member district, except that such obligations of the district and its member districts shall not be deemed indebtedness of any member district for the purposes of determining its borrowing capacity under New Hampshire or Vermont law. A member district which withdraws from an interstate district shall remain liable for indebtedness of the interstate district which is outstanding at the time of withdrawal and shall be responsible for paying its share of such indebtedness to the same extent as though it had not been withdrawn.
+>
+> ## “B. — Temporary Borrowing.—
+>
+> The interstate board may authorize the borrowing of money by the interstate district (1) in anticipation of payments of operating and capital expenses by the member districts to the interstate districts and (2) in anticipation of the issue of bonds or notes of the interstate district which have been authorized for the purpose of financing capital projects. Such temporary borrowing shall be evidenced by interest bearing or discounted notes of the interstate district. The amount of notes issued in any fiscal year in anticipation of expense payments shall not exceed the amount of such payments received by the interstate district in the preceding fiscal year. Notes issued under this paragraph shall be payable within one year in the case of notes under clause (1) and three years in the case of notes under clause (2) from their respective dates, but the principal of and interest on notes issued for a shorter period may be renewed or paid from time to time by the issue of other notes, provided that the period from the date of an original note to the maturity of any note issued to renew or pay the same debt shall not exceed the maximum period permitted for the original loan.
+>
+> ## “C. — Borrowing for Capital Projects.—
+>
+> An interstate district may incur debt and issue its bonds or notes to finance capital projects. Such projects may consist of the acquisition or improvement of land and buildings for school purposes, the construction, reconstruction, alteration, or enlargement of school buildings and related school facilities, the acquisition of equipment of a lasting character and the payment of judgments. No interstate district may authorize indebtedness in excess of ten percent of the total fair market value of taxable property in its member districts as defined in article VI of this compact. The primary obligation of the interstate district to pay indebtedness of member districts shall not be considered indebtedness of the interstate district for the purpose of determining its borrowing capacity under this paragraph. Bonds or notes issued under this paragraph shall mature in equal or diminishing installments of principal payable at least annually commencing- no later than two years and ending not later than thirty years after their dates.
+>
+> ## “D. — Authorization Proceedings.—
+>
+> An interstate district shall authorize the incurring of debts to finance capital projects by a majority vote of the district passed at an annual or special district meeting. Such vote shall be taken by secret ballot after full opportunity for debate, and any such vote shall be subject to reconsideration and further action by the district at the same meeting or at an adjourned session thereof.
+>
+> ## “E. — Sale of Bonds and Notes.—
+>
+> Bonds and notes which have been authorized under this article may be issued from time to time and shall be sold at not less than par and accrued interest at public or private sale by the chairman of the school board and by the treasurer. Interstate district bonds and notes shall be signed by the said officers, except that either one of the two required signatures may be a facsimile. Subject to this compact and the authorizing vote, they shall be in such form, bear such rates of interest and mature at such times as the said officers may determine. Bonds shall, but notes need not, bear the seal of the interstate district, or a facsimile of such seal. Any bonds or notes of the interstate district which are properly executed by the said officers shall be valid and binding according to their terms notwithstanding that before the delivery thereof such officers may have ceased to be officers of the interstate district.
+>
+> ## “F. — Proceeds of Bonds.—
+>
+> Any accrued interest received upon delivery of bonds or notes of an interstate district shall be applied to the payment of the first interest which becomes due thereon. The other proceeds of the sale of such bonds or notes, other than temporary notes, including any premiums, may be temporarily invested by the interstate district pending their expenditure; and such proceeds, including any income derived from the temporary investment of such proceeds, shall be used to pay the costs of issuing and marketing the bonds or notes and to meet the operating expenses or capital expenses in accordance with the purposes for which the bonds or notes were issued or, by proceedings taken in the manner required for the authorization of such debt, for other purposes for which such debt could be incurred. No purchaser of any bonds or notes of an interstate district shall be responsible in any way to see to the application of the proceeds thereof.
+>
+> ## “G. — State Aid Programs.—
+>
+> As used in this paragraph the term ‘initial aid’ shall include New Hampshire and Vermont financial assistance with respect to a capital project, or the means of financing a capital project, which is available in connection with construction costs of a capital project or which is available at the time indebtedness is incurred to finance the project. Without limiting the generality of the foregoing definition, initial aid shall specifically include a New Hampshire state guarantee under RSA 195-B with respect to bonds or notes and Vermont construction aid under chapter 128 of 16 V.S.A. As used in this paragraph the term ‘long-term aid’ shall include New Hampshire and Vermont financial assistance which is payable periodically in relation to capital costs incurred by an interstate district. Without limiting the generality of the foregoing definition, long-term aid shall specifically include New Hampshire school building aid under RSA 198 and Vermont school building aid under chapter 128 of Title 16 V.S.A. For the purpose of applying for, receiving and expending initial aid and long-term aid an interstate district shall be deemed a native school district by each state, subject to the following provisions. When an interstate district has appropriated money for a capital project, the amount appropriated shall be divided into a New Hampshire share and a Vermont share in accordance with the capital expense apportionment formula in the articles of agreement as though the total amount appropriated for the project was a capital expense requir-ing apportionment in the year the appropriation is made. New Hampshire initial aid shall be available with respect to the amount of the New Hampshire share as though it were authorized indebtedness of a New Hampshire cooperative school district. In the case of a state guarantee of interstate districts bonds or notes under RSA 195–B, the interstate district shall be eligible to apply for and receive an unconditional state guarantee with respect to an amount of its bonds or notes which does not exceed fifty per cent of the amount of the New Hampshire share as determined above. Vermont initial aid shall be available with respect to the amount of the Vermont share as though it were funds voted by a Vermont school district. Payments of Vermont initial aid shall be made to the interstate district, and the amount of any borrowing authorized to meet the appropriation for the capital project shall be reduced accordingly. New Hampshire and Vermont long-term aid shall be payable to the interstate district. The amounts of longterm aid in each year shall be based on the New Hampshire and Vermont shares of the amount of indebtedness of the interstate district which is payable in that year and which has been apportioned in accordance with the capital expense apportionment formula in the articles of agreement. The New Hampshire aid shall be payable at the rate of forty-five per cent, if there are three or less New Hampshire members in the interstate district, and otherwise it shall be payable as though the New Hampshire members were a New Hampshire cooperative school district. New Hampshire and Vermont long-term aid shall be deducted from the total capital expenses for the fiscal year in which the long-term aid is payable, and the balance of such expenses shall be apportioned among the member districts. Notwithstanding the foregoing provisions, New Hampshire and Vermont may at any time change their state school aid programs that are in existence when this compact takes effect and may establish new programs, and any legislation for these purposes may specify how such programs shall be applied with respect to interstate districts.
+>
+> ## “H. — Tax Exemption.—
+>
+> Bonds and notes of an interstate school district shall be exempt from local property taxes in both states, and the interest or discount thereon and any profit derived from the disposition thereof shall be exempt from personal income taxes in both states.
+>
+> ## “Article VIII — “taking over of existing property
+>
+> ## “A. — Power To Acquire Property of Member District.—
+>
+> The articles of agreement, or an amendment thereof, may provide for the acquisition by an interstate district from a member district of all or a part of its existing plant and equipment.
+>
+> ## “B. — Valuation.—
+>
+> The articles of agreement, or the amendment, shall provide for the determination of the value of the property to be acquired in one or more of the following ways:
+>
+> - **(a)** A valuation set forth in the articles of agreement or the amendment.
+> - **(b)** By appraisal, in which case, one appraiser shall be appointed by each commissioner, and a third appraiser appointed by the first two appraisers.
+>
+> ## “C. — Reimbursement to Member District.—
+>
+> The articles of agreement shall specify the method by which the member district shall be reimbursed by the interstate district for the property taken over, in one or more of the following ways:
+>
+> - **(a)** By one lump sum, appropriated, allocated, and raised by the interstate district in the same manner as an appropriation for operating expenses.
+> - **(b)** In installments over a period of not more than twenty years, each of which is appropriated, allocated, and raised by the interstate district in the same manner as an appropriation for operating expenses.
+> - **(c)**
+>   - By an agreement to assume or reimburse the member district for all principal and interest on any outstanding indebtedness originally incurred by the member district to finance the acquisition and improvement of the property, each such installment to be appropriated, allocated, and raised by the interstate district in the same manner as an appropriation for operating expenses.
+>   - “The member district transferring the property shall have the same obligation to pay to the interstate district its share of the cost of such acquisition, but may offset its right to reimbursement.
+>
+> ## “Article IX — “amendments to articles of agreement
+>
+> ## “A.
+>
+> Amendments to the articles of agreement may be adopted in the same manner provided for the adoption of the original articles of agreement, except that:
+>
+> - **(a)** Unless the amendment calls for the addition of a new member district, the functions of the planning committee shall be carried out by the interstate district board of directors.
+> - **(b)** If the amendment proposes the addition of a new member district, the planning committee shall consist of all of the members of the interstate board and all of the members of the school board of the proposed new member district or districts. In such case the amendment shall he submitted to the voters at an interstate district meeting, at which an affirmative vote of two-thirds of those present and voting shall be required. The articles of agreement together with the proposed amendment shall be submitted to the voters of the proposed new member district at a meeting thereof, at which a simple majority of those present and voting shall be required.
+> - **(c)** In all cases an amendment may be adopted on the part of an interstate district upon the affirmative vote of voters thereof at a meeting voting as one body. Except where the amendment proposes the admission of a new member district, a simple majority of those present and voting shall be required for adoption.
+> - **(d)** No amendment to the articles of agreement may impair the rights of bond or note holders or the power of the interstate district to procure the means for their payment.
+>
+> ## “Article X — “applicability of new hampshire laws
+>
+> ## “A. — General School Laws.—
+>
+> With respect to the operation and maintenance of any school of the district located in New Hampshire, the provisions of New Hampshire law shall apply except as otherwise provided in this compact and except that the powers and duties of the school board shall be exercised and discharged by the interstate board and the powers and duties of the union superintendent shall be exercised and discharged by the interstate district superintendent.
+>
+> ## “B. — New Hampshire State Aid.—
+>
+> A New Hampshire school district shall be entitled to receive an amount of state aid for operating expenditures as though its share of the interstate district’s expenses were the expenses of the New Hampshire member district, and as though the New Hampshire member district pupils attending the interstate school were attending a New Hampshire cooperative school district’s school. The state aid shall be paid to the New Hampshire member school district to reduce the sums which would otherwise be required to be raised’ by taxation within the member district.
+>
+> ## “C. — Continued Existence of the New Hampshire Member School District.—
+>
+> A New Hampshire member school district shall continue in existence, and shall have all of the powers and be subject to all of the obligations imposed by law and not herein delegated to the interstate district. If the interstate district incorporates only a part of the schools in the member school district, then the school board of the member school district shall continue in existence and it shall have all of the powers and be subject to all of the obligations imposed by law on it and not herein delegated to the district. However, if all of the schools, in the member school district are incorporated into the interstate school district, then the member or members of the interstate board representing the member district shall have all of the powers and be subject to all of the obligations imposed by law on the members of a school board for the member district and not herein delegated to the interstate district. The New Hampshire member school district shall remain liable on its existing indebtedness; and the interstate school district shall not become liable therefor, unless the indebtedness is specifically assumed in accordance with the articles of agreement. Any trust funds or capital reserve funds and any property not taken over by the interstate district shall be retained by the New Hampshire member district and held or disposed of according to law. If all of the schools in a member district are incorporated into an interstate district, then no annual meeting of the member district shall be required unless the members of the interstate board from the member district shall determine that there is occasion for such an annual meeting.
+>
+> ## “D. — Suit and Service of Process in New Hampshire.—
+>
+> The courts of New Hampshire shall have the same jurisdiction over the district as though a New Hampshire member district were a party instead of the interstate district. The service necessary to institute suit in New Hampshire shall be made on the district by leaving a copy of the writ or other proceedings in hand or at the last and usual place of abode of one of the directors who reside in New Hampshire, and by mailing a like copy to the clerk and to one other director by certified mail with return receipt requested.
+>
+> ## “E. — Employment.—
+>
+> Each employee of an interstate district assigned to a school located in New Hampshire shall be considered an employee of a New Hampshire school district for the purpose of the New Hampshire teachers’ retirement system, the New Hampshire state employees’ retirement system, the New Hampshire workmen’s compensation law and any other law relating to the regulation of employment or the provision of benefits for employees of New Hampshire school districts except as follows:
+>
+> - **(1)** A teacher in a New Hampshire member district may elect to remain a member of the New Hampshire teachers’ retirement system, even though assigned to teach in an interstate school in Vermont.
+> - **(2)** Employees of interstate districts designated as professional or instructional staff members, as defined in article I hereof, may elect to participate in the teachers’ retirement system of either the state of New Hampshire or the state of Vermont but in no case will they participate in both retirement systems simultaneously.
+> - **(3)** It shall be the duty of the superintendent in an interstate district to: (a) advise teachers and other professional staff employees contracted for the district about the terms of the contract and the policies and procedure of the retirement systems; (b) see that each teacher or professional staff employee selects the retirement system of his choice at the time his contract is signed; (c) provide the commissioners of education in New Hampshire and in Vermont with the names and other pertinent information regarding each staff member under his jurisdiction so that each may be enrolled in the retirement system of his preference.
+>
+> ## “Article XI — “applicability of vermont laws
+>
+> ## “A. — General School Laws.—
+>
+> With respect to the operation and maintenance of any school of the district located in Vermont, the provisions of Vermont law shall apply except as otherwise provided in this compact and except that the powers and duties of the school board shall be exercised and discharged by the interstate board and the powers and duties of the union superintendent shall be exercised and discharged by the interstate district superintendent.
+>
+> ## “B. — Vermont State Aid.—
+>
+> A Vermont school district shall be entitled to receive such amount of state aid for operating expenditures as though its share of the interstate district’s expenses were the expenses of the Vermont member district, and as though the Vermont member district pupils attending the interstate schools were attending a Vermont union school district’s schools. Such state aid shall be paid to the Vermont member school district to reduce the sums which would otherwise be required to be raised by taxation within the member district.
+>
+> ## “C. — Continued Existence of Vermont Member School District.—
+>
+> A Vermont member school district shall continue in existence, and shall have all of the powers and be subject to all of the obligations imposed by law and not herein delegated to the interstate district. If the interstate district incorporates only a part of the schools in the member school district, then the school board of the member school district shall continue in existence and it shall have all of the powers and be subject to all of the obligations imposed by law on it and not herein delegated to the district. However, if all of the schools in the member school district are incorporated into the interstate school district, then the member or members of the interstate board representing the member district shall have all of the powers and be subject to all of the obligations imposed by law on the members of a school board for the member district and not herein delegated to the interstate district. The Vermont member school district shall remain liable on its existing indebtedness; and the interstate school district shall not become liable therefor. Any trust funds and any property not taken over shall be retained by the Vermont member school district and held or disposed of according to law.
+>
+> ## “D. — Suit and Service of Process in Vermont.—
+>
+> The Courts of Vermont shall have the same jurisdiction over the districts as though a Vermont member district were a party instead of the interstate district. The service necessary to institute suit in Vermont shall be made on the district by leaving a copy of the writ or other proceedings in hand or at the last and usual place of abode of one of the directors who resides in Vermont, and by mailing a like copy to the clerk and to one other director by certified mail with return receipt requested.
+>
+> ## “E. — Employment.—
+>
+> Each employee of an interstate district assigned to a school located in Vermont shall be considered an employee of a Vermont school district for the purpose of the state teachers’ retirement system of Vermont, the state employees’ retirement system, the Vermont workmen’s compensation law, and any other law relating to the regulation of employment or the provision of benefits for employees of Vermont school districts except as follows:
+>
+> - **(1)** A teacher in a Vermont member district may elect to remain a member of the state teachers’ retirement system of Vermont, even though assigned to teach in an interstate school in New Hampshire.
+> - **(2)** Employees of interstate districts designated as professional or instructional staff members, as defined in article I hereof, may elect to participate in the teachers’ retirement system of either the state of Vermont or the state of New Hampshire but in no case will they participate in both retirement systems simultaneously.
+> - **(3)** It shall be the duty of the superintendent in an interstate district to: (a) advise teachers and other professional staff employees contracted for the district about the terms of the contract and the policies and procedures of the retirement system; (b) see that each teacher or professional staff employee selects the retirement system of his choice at the time his contract is signed; (c) provide the commissioners of education in New Hampshire and in Vermont with the names and other pertinent information regarding each staff member under his jurisdiction so that each may be enrolled in the retirement system of his preference.
+>
+> ## “Article XII — “adoption of compact by dresden school district
+>
+> “The Dresden School District, otherwise known as the Hanover-Norwich Interstate School District, authorized by New Hampshire laws of 1961, chapter 116, and by the laws of Vermont, is hereby authorized to adopt the provisions of this compact and to become an interstate school district within the meaning hereof, upon the following conditions and subject to the following limitations:
+>
+> - **(a)** Articles of agreement shall be prepared and signed by a majority of the directors of the interstate school district.
+> - **(b)** The articles of agreement shall be submitted to an annual or special meeting of the Dresden district for adoption.
+> - **(c)** An affirmative vote of two-thirds of those present and voting shall be required for adoption.
+> - **(d)** Nothing contained therein, or in this compact, as it affects the Dresden School District shall affect adversely the rights of the holders of any bonds or other evidences of indebtedness then outstanding, or the rights of the district to procure the means for payment thereof previously authorized.
+> - **(e)** The corporate existence of the Dresden School District shall not be terminated by such adoption of articles of amendment, but shall be deemed to be so amended that it shall thereafter be governed by the terms of this compact.
+>
+> ## “Article XIII — “miscellaneous provisions
+>
+> ## “A. — Studies.—
+>
+> Insofar as practicable, the studies required by the laws of both states shall be offered in an interstate school district.
+>
+> ## “B. — Textbooks.—
+>
+> Textbooks and scholar’s supplies shall be provided at the expense of the interstate district for pupils attending its schools.
+>
+> ## “C. — Transportation.—
+>
+> The allocation of the cost of transportation in an interstate school district, as between the interstate district and the member districts, shall be determined by the articles of agreement.
+>
+> ## “D. — Location of Schoolhouses.—
+>
+> In any case where a new school-house or other school facility is to be constructed or acquired, the interstate board shall first determine whether it shall be located in New Hampshire or in Vermont. If it is to be located in New Hampshire, RSA 199, relating to schoolhouses, shall apply. If it is to be located in Vermont, the Vermont law relating to schoolhouses shall apply.
+>
+> ## “E. — Fiscal Year.—
+>
+> The fiscal year of each interstate district shall begin on July first of each year and end on June thirtieth of the following year.
+>
+> ## “F. — Immunity From Tort Liability.—
+>
+> Notwithstanding the fact that an interstate district may derive income from operating profit, fees, rentals, and other services, it shall be immune from suit and from liability for injury to persons or property and for other torts caused by it or its agents, servants, or independent contractors, except insofar as it may have undertaken such liability under RSA 281:7 relating to workmen’s compensation, or RSA 412:3 relating to the procurement of liability insurance by a governmental agency and except insofar as it may have undertaken such liability under 21 V.S.A. Section 621 relating to workmen’s compensation or 29 V.S.A. Section 1403 relating to the procurement of liability insurance by a governmental agency.
+>
+> ## “G. — Administrative Agreement Between Commissioners of Education.—
+>
+> The commissioners of education of New Hampshire and Vermont may enter into one or more administrative agreements prescribing the relationship between the interstate districts, member districts, and each of the two state departments of education, in which any conflicts between the two states in procedure, regulations, and administrative practices may be resolved.
+>
+> ## “H. — Amendment.—
+>
+> Neither state shall amend its legislation or any agreement authorized thereby without the consent of the other in such manner as to substantially adversely affect the rights of the other state or its people hereunder, or as to substantially impair the rights of the holders of any bonds or notes or other evidences of indebtedness then outstanding or the rights of an interstate school district to procure the means for payment thereof. Subject to the foregoing, any reference herein to other statutes of either state shall refer to such statute as it may be amended or revised from time to time.
+>
+> ## “I. — Separability.—
+>
+> If any of the provisions of this compact, or legislation enabling the same, shall be held invalid or unconstitutional in relation to any of the applications thereof, such invalidity or unconstitutionality shall not affect other applications thereof or other provisions thereof; and to this end the provisions of this compact are declared to be severable.
+>
+> ## “J. — Inconsistency of Language.—
+>
+> The validity of this compact shall not be affected by any insubstantial differences in its form or language as adopted by the two states.
+>
+> ## “Article XIV — “effective date
+>
+> “This compact shall become effective when agreed to by the States of New Hampshire and Vermont and approved by the United States Congress.”
+
+## § 2.
+
+The right is hereby reserved by the Congress or any of its standing committees to require the disclosure and the furnishing of such information and data by or concerning any school district created under the New Hampshire-Vermont Interstate School Compact as is deemed appropriate by the Congress or such committee.
+
+## § 3.
+
+The right to alter, amend, or repeal this Act is expressly reserved.
+
+
+*Approved June 3, 1969.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- June 3, 1969 [S. 278]
+- New Hampshire-Vermont Interstate School Compact.
