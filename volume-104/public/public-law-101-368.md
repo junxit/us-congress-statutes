@@ -1,0 +1,59 @@
+---
+volume: 104
+citation: 104 Stat. 446
+type: Public Law
+number: 368
+congress: 101
+session: 2
+scope: public
+approved: 1990-08-15
+bills: 101/hr-4273, 101/s-2630
+---
+
+# Public Law 101–368
+
+> An Act To amend the Public Health Service Act to extend the program of grants for preventive health services with respect to tuberculosis, and for other purposes.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+## § 1. SHORT TITLE.
+
+This Act may be cited as the “Tuberculosis Prevention Amendments of 1990”.
+
+## § 2. EXTENSION OF PROGRAM OF GRANTS FOR PREVENTIVE HEALTH SERVICES WITH RESPECT TO TUBERCULOSIS.
+
+- **(a)** *Program for Eliminating Tuberculosis.—* Section 317 of the Public Health Service Act (42 U.S.C. 247b) is amended—
+  - **(1)** in subsection (j)(2), in the first sentence, by striking “preventive health service programs for tuberculosis” and inserting the following: “preventive health service programs for the prevention, control, and elimination of tuberculosis”; and
+  - **(2)** in subsection (k)(2), in each of subparagraphs (A) through (D), by striking “prevention and control” each place such term appears and inserting “prevention, control, and elimination”.
+- **(b)** *Advisory Council on Eliminating Tuberculosis.—* Section 317 of the Public Health Service Act (42 U.S.C. 247b) is amended by adding at the end the following new subsection:
+  > - **(l)**
+  >   - **(1)** The Secretary shall establish an advisory council to be known as the Advisory Council for the Elimination of Tuberculosis (hereafter in this subsection referred to as the ‘Council’). The Council shall provide advice and recommendations regarding the elimination of tuberculosis to the Secretary, the Assistant Secretary for Health, and the Director of the Centers for Disease Control.
+  >   - **(2)** With respect to the elimination of tuberculosis, the Council shall—
+  >     - **(A)** in making recommendations under paragraph (1), make recommendations regarding policies, strategies, objectives, and priorities;
+  >     - **(B)** address the development and application of new technologies; and
+  >     - **(C)** review the extent to which progress has been made toward eliminating tuberculosis.
+  >   - **(3)** The Secretary shall determine the size and composition of the Council, and the frequency and scope of official meetings of the Council.
+  >   - **(4)** The Secretary shall provide to the Council such staff, information, and other assistance as may be necessary to carry out the duties of the Council.”.
+
+- **(c)** *Authorization of Appropriations.—* Section 317(j)(2) of the Public Health Service Act (42 U.S.C. 247b(j)(2)) is amended in the first sentence by striking “and” after “1989,”, and by inserting before the period the following: “, $36,000,000 for fiscal year 1991, and such sums as may be necessary for each of the fiscal years 1992 through 1995”.
+
+
+*Approved August 15, 1990.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- Aug. 15, 1990 [H.R. 4273]
+- Tuberculosis Prevention Amendments of 1990 42 USC 201 note.
+
+## Legislative history
+
+**LEGISLATIVE HISTORY—H.R. 4273 (S. 2630):**
+
+
+
+*CONGRESSIONAL RECORD, Vol. 136 (1990):*
+
+- June 18, considered and passed House.
+- Aug. 4, considered and passed Senate.

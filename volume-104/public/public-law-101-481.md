@@ -1,0 +1,36 @@
+---
+volume: 104
+citation: 104 Stat. 1162
+type: Public Law
+number: 481
+congress: 101
+scope: public
+approved: 1990-10-31
+bills: 101/hjres-519
+---
+
+# Public Law 101–481
+
+> Joint Resolution Designating August 29, 1990, as “National Sarcoidosis Awareness Day”.
+
+Whereas sarcoidosis is a systemic disease of unknown causes that can affect any part of the body; Whereas sarcoidosis affects between 20 and 50 individuals in the United States in 100,000; Whereas most victims of the disease range in age between 20 and 40 years, with blacks being affected at least 10 times more often than other ethnic groups in the United States; Whereas between 10 to 20 percent of individuals stricken with sarcoidosis eventually develop serious disabling conditions caused by damage to vital organs, such as lungs, heart, and central nervous system; Whereas sarcoidosis is an enigma in the realm of medicine and disease requires extensive and ongoing study and research in an effort to develop an effective treatment and eventually a cure; Whereas individuals with sarcoidosis and family members across the United States are seeking treatment and support services to assist in controlling the effects of the disease; Whereas grassroots support groups and nonprofit organizations are forming across the United States to encourage public awareness of the mysterious and debilitating disease; Whereas the Federal Government has a responsibility to lead a nationwide effort to find a cure for the disabling disease; and Whereas the Federal Government should make research into the causes of the life-threatening ailment a greater priority and provide the public with more information about potential treatments for individuals with sarcoidosis: Now, therefore, be it Resolved by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+That August 29, 1990, is designated as “National Sarcoidosis Awareness Day”, and the President is authorized and requested to issue a proclamation calling upon the people of the United States to observe the week with appropriate ceremonies and activities.
+
+
+*Approved October 31, 1990.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- Oct. 31, 1990 [H.J. Res. 519]
+
+## Legislative history
+
+**LEGISLATIVE HISTORY—H.J. Res. 519:**
+
+*CONGRESSIONAL RECORD. Vol. 136 (1990):*
+
+- Aug. 3, considered and passed House.
+- Oct. 16, considered and passed Senate.

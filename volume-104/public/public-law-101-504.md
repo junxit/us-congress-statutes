@@ -1,0 +1,71 @@
+---
+volume: 104
+citation: 104 Stat. 1298
+type: Public Law
+number: 504
+congress: 101
+session: 2
+scope: public
+approved: 1990-11-03
+bills: 101/hr-5794
+---
+
+# Public Law 101–504
+
+> An Act To amend the Age Discrimination Claims Assistance Act of 1988 to extend the statute of limitations applicable to certain additional claims under the Age Discrimination in Employment Act of 1967.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+## § 1. SHORT TITLE.
+
+This Act may be cited as the “Age Discrimination Claims Assistance Amendments of 1990”.
+
+## § 2. AMENDMENTS.
+
+- **(a)** *Extension of Statute of Limitations.—* Section 3 of the Age Discrimination Claims Assistance Act of 1988 (Public Law 100–283; 29 U.S.C. 626 note) is amended—
+  - **(1)** by inserting “(a) Extension.—” before “Notwithstanding”,
+  - **(2)** in the matter preceding paragraph (1) by striking “540-day period beginning on the date of the enactment of this Act” and inserting “applicable extension period”,
+  - **(3)** in paragraph (1)—
+    - **(A)** by inserting “(A)” after “(1)”, and
+    - **(B)** by adding at the end the following:
+      > - **(B)** with respect to the alleged unlawful practice on which the claim in such civil action is based, a charge was timely filed under such Act with the Commission after April 6, 1985,”,
+
+  - **(4)** by amending paragraph (3) to read as follows:
+    > - **(3)**
+    >   - **(A)** with respect to a claim described in paragraph (1)(A) the statute of limitations applicable under such section 7(e) ran before the date of the enactment of this Act, or
+    >   - **(B)** with respect to a claim described in paragraph (1)(B) the statute of limitations applicable under such section 7(e) runs after April 6, 1988, but before the expiration of the 180-day period beginning on the date of the enactment of the Age Discrimination Claims Assistance Amendments of 1990.”, and
+
+  - **(5)** by adding at the end the following:
+    > - **(b)** *Definition.—* The term ‘extension period’ means—
+    >   - **(1)** with respect to a charge described in paragraph (1)(A), the 450-day period beginning on the date of the enactment of this Act, and
+    >   - **(2)** with respect to a charge described in paragraph (1)(B), the 450-day period beginning on the date of the enactment of the Age Discrimination Claims Assistance Amendments of 1990, and”.
+
+- **(b)** *Notice of Statute of Limitations.—* Section 4 of the Age Discrimination Claims Assistance Act of 1988 (Public Law 100–283; 29 U.S.C. 626 note) is amended—
+  - **(1)** in subsection (a)—
+    - **(A)** by striking “Not” and inserting “(1) Not”,
+    - **(B)** by inserting “before April 7, 1985,” after “filed”, and
+    - **(C)** by adding at the end the following:
+      > - **(2)** Not later than 60 days after the date of the enactment of the Age Discrimination Claims Assistance Amendments of 1990, the Commission shall provide the notice specified in subsection (b) to each person who filed after April 6, 1985, a charge to which section 3 applies and with respect to which the statute of limitation ran before the date of the enactment of the Age Discrimination Claims Assistance Amendments of 1990.
+      > - **(3)** Not later than 60 days after the expiration of the 180-day period beginning on the date of the enactment of the Age Discrimination Claims Assistance Amendments of 1990, the Commission shall provide the notice specified in subsection (b) to each person who filed after April 6, 1985, a charge to which section 3 applies and with respect to which the statute of limitations runs in such 180-day period.”, and
+
+  - **(2)** in subsection (b)(2) by striking “(which is 540 days after the date of the enactment of this Act)”.
+- **(c)** *Reports.—* Section 5(a) of the Age Discrimination Claims Assistance Act of 1988 (Public Law 100–283; 29 U.S.C. 626 note) is amended by inserting “and each 150-day period in the 450-day period beginning on the date of the enactment of the Age Discrimination Claims Assistance Amendments of 1990,” after “this Act,”.
+
+
+*Approved November 3, 1990.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- Nov. 3, 1990 [H.R. 5794]
+- Age Discrimination Claims Assistance Amendments of 1990. 29 USC 626 note.
+
+## Legislative history
+
+**LEGISLATIVE HISTORY—H.R 5794:**
+
+*CONGRESSIONAL RECORD, Vol. 136 (1990):*
+
+- Oct. 11, considered and passed House.
+- Oct. 18, considered and passed Senate.

@@ -1,0 +1,41 @@
+---
+volume: 104
+citation: 104 Stat. 2396
+type: Public Law
+number: 547
+congress: 101
+scope: public
+approved: 1990-11-14
+bills: 101/hjres-673, 101/s-3108
+---
+
+# Public Law 101–547
+
+> Joint Resolution To designate November 2, 1990, as a national day of prayer for members of American military forces and American citizens stationed or held hostage in the Middle East, and for their families.
+
+Whereas the United States has responded decisively to the crisis in the Middle East created by the invasion and occupation of Kuwait by Iraqi military forces, the threat of Iraqi aggression against Saudi Arabia and other countries, and the unlawful hostagetaking by Iraqi military forces; Whereas President Bush, in order to preserve international order and protect American interests and lives in the Middle East, has deployed American military forces to counter Iraqi aggression; Whereas American civilian reservists called to active duty are making great personal sacrifices to serve in the Middle East and, like other American military forces serving there, are at great personal risk; Whereas those taken hostage by Iraqi military forces are in daily danger; Whereas families of American military and civilian personnel serving in the Middle East face terrible anxiety; Whereas a strong majority of Americans support the deployment of American military forces by President Bush in the Middle East, and all Americans hope that a just outcome may be reached in the Middle East without war; Whereas Americans are willing to accept sacrifices resulting from the use of military force, fight armed aggression, defend national interests, and protect the lives and welfare of American citizens; and Whereas Americans have traditionally recognized that military strength alone is not sufficient, and now should also trust in Providence, and remembering that, according to the Scriptures, “unless the Lord keeps the city, the watchman worketh but in vain”: Now, therefore, be it Resolved by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+That—
+
+- **(1)** it is the sense of the Congress that the President should declare November 2, 1990, a national day of prayer for members of American military forces and American citizens stationed or held hostage in the Middle East, and for their families;
+- **(2)** all Americans should pray for President Bush, his advisors, the leaders of American military forces in the Middle East, and the leaders of other countries which have deployed military forces in the Middle East to stop Iraqi aggression, that they retain the wisdom and courage to bring about a just resolution to the Middle East crisis;
+- **(3)** all Americans should pray for Iraqi President Hussein, his advisors, and the leaders of the Iraqi military forces, that they remove their military forces from Kuwait, release all hostages unharmed from their current captivity, resist further acts of aggression against other countries, meet the conditions of applicable United Nations resolutions, and act prudently in the furtherance of peace; and
+- **(4)** all Americans should observe such day in prayer and meditation at churches, in groups, and as individuals.
+
+
+*Approved November 14, 1990.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- Nov. 14, 1990 [H.J. Res. 673]
+
+## Legislative history
+
+**LEGISLATIVE HISTORY—H.J. Res. 673 (S. 3108):**
+
+*CONGRESSIONAL RECORD, Vol. 136 (1990):*
+
+- Oct. 24, considered and passed House.
+- Oct. 27, considered and passed Senate.

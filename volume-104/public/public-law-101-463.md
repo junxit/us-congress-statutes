@@ -1,0 +1,36 @@
+---
+volume: 104
+citation: 104 Stat. 1080
+type: Public Law
+number: 463
+congress: 101
+scope: public
+approved: 1990-10-25
+bills: 101/hjres-214
+---
+
+# Public Law 101–463
+
+> Joint Resolution Designating the week of October 22 through October 28, 1990, as “Eating Disorders Awareness Week ”.
+
+Whereas anorexia nervosa (also known as starvation sickness) and bulimia (also known as binge-purge syndrome) are emotional disorders that can lead to serious physical illness and even death; Whereas experts estimate that 1 out of every 100 women between the ages of 12 and 25 suffers from anorexia nervosa, that 1 out of every 7 women in that age group develops bulimia, and that nearly 10 percent of all patients who are referred to eating disorder clinics are men; Whereas there has been a dramatic increase in the number of reported cases of anorexia nervosa and bulimia, making the need to provide effective treatment to the victims of these disorders much larger than in the past; and Whereas public awareness about the personal and familial tragedies caused by anorexia nervosa and bulimia must be raised in order to promote continued research into the causes and treatments of these and other eating disorders: Now, therefore, be it Resolved by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+That the week of October 22 through October 28, 1990, is designated as “Eating Disorders Awareness Week”. The President is authorized and requested to issue a proclamation calling upon the people of the United States to observe that week with appropriate programs and activities.
+
+
+*Approved October 25, 1990.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- Oct. 25, 1990 [H.J. Res. 214]
+
+## Legislative history
+
+**LEGISLATIVE HISTORY—H.J. Res. 214:**
+
+*CONGRESSIONAL RECORD, Vol. 136 (1990):*
+
+- Oct. 16, considered and passed House.
+- Oct. 17, considered and passed Senate.

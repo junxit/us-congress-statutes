@@ -1,0 +1,114 @@
+---
+volume: 104
+citation: 104 Stat. 1063
+type: Public Law
+number: 454
+congress: 101
+scope: public
+approved: 1990-10-24
+bills: 101/s-2017, 101/hr-4054
+---
+
+# Public Law 101–454
+
+> An Act To provide a permanent endowment for the Eisenhower Exchange Fellowship Program.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+## § 1. SHORT TITLE.
+
+This Act may be cited as the “Eisenhower Exchange Fellowship Act of 1990”.
+
+## § 2. PURPOSES.
+
+The purposes of this Act are—
+
+- **(1)** to provide a permanent endowment for the Eisenhower Exchange Fellowship Program;
+- **(2)** to honor Dwight D. Eisenhower for his character, courage, and patriotism, and for his leadership based on moral integrity and trust;
+- **(3)** to pay tribute to President Eisenhower’s leadership in war and peace, through his diverse understanding of history, practical affairs, and the hearts of humankind;
+- **(4)** to address America’s need for the best possible higher education of its young talent for a competitive world which shares a common and endangered environment;
+- **(5)** to advance the network of friendship and trust already established in President Eisenhower’s name, so that it may continue to grow to the imminent challenges of the 21st century;
+- **(6)** to complete Dwight David Eisenhower’s crusade to liberate the people’s of Europe from oppression;
+- **(7)** to deepen and expand relationships with European nations developing democracy and self-determination; and
+- **(8)** to honor President Dwight D. Eisenhower on the occasion of the centennial of his birth through permanent endowment of an established fellowship program, the Eisenhower Exchange Fellowships, to increase educational opportunities for young leaders in preparation for and enhancement of their professional careers, and advancement of peace through international understanding.
+
+## § 3. EISENHOWER EXCHANGE FELLOWSHIP PROGRAM TRUST FUND.
+
+- **(a)** *Establishment.—* There is established in the Treasury of the United States a trust fund to be known as the Eisenhower Exchange Fellowship Program Trust Fund (hereinafter in this Act referred to as the “fund”). The fund shall consist of amounts authorized to be appropriated under section 5 of this Act.
+- **(b)** *Investment in Interest Bearing Obligations.—* It shall be the duty of the Secretary of the Treasury to invest in full amounts appropriated to the fund. Such investments may be made only in interest-bearing obligations of the United States or in obligations guaranteed as to both principal and interests by the United States. For such purpose, such obligations may be acquired (1) on original issue at the issue price, or (2) by purchase of outstanding obligations at the market price. The purposes for which obligations of the United States may be issued under chapter 31 of title 31, are hereby extended to authorize the issuance at par of special obligations exclusively to the fund. Such special obligations shall bear interest at a rate equal to the average rate of interest, computed as to the end of the calendar month next preceding the date of such issue borne by all marketable interest-bearing obligations of the United States then forming a part of the public debt; except that where such average rate is not a multiple of one-eighth of 1 percent, the rate of interest of such special obligations shall be the multiple of one-eighth of 1 percent next lower than such average rate. Such special obligations shall be issued only if the Secretary determines that the purchase of other interest-bearing obligations of the United States, or of obligations guaranteed as to both principal and interest by the United States or original issue or at the market price, is not in the public interest.
+- **(c)** *Sale and Redemption of Obligations.—* Any obligation acquired by the fund (except special obligations issued exclusively to the fund) may be sold by the Secretary of the Treasury at the market price, and such special obligations may be redeemed at par plus accrued interest.
+- **(d)** *Credit to the Fund of Interest and Proceeds of Sale or Redemption.—* The interest on, and the proceeds from the sale or redemption of, any obligations held in the fund shall be credited to and form a part of the fund.
+
+## § 4. EXPENDITURE AND AUDIT OF TRUST FUND.
+
+- **(a)** *Authorization of Funding.—* For each fiscal year, there is authorized to be appropriated from the fund to Eisenhower Ex-change Fellowships, Incorporated, the interest and earnings of the fund.
+- **(b)** *Access to Books, Records, Etc. by General Accounting Office.—* The activities of Eisenhower Exchange Fellowships, Incorporated, may be audited by the General Accounting Office under such rules and regulations as may be prescribed by the Comptroller General of the United States. The representatives of the General Accounting Office shall have access to all books, accounts, records, reports, and files and all other papers, things, or property belonging to or in use by Eisenhower Exchange Fellowships, Incorporated, pertaining to such activities and necessary to facilitate the audit.
+
+## § 5. AUTHORIZATION OF APPROPRIATIONS.
+
+To provide a permanent endowment for the Eisenhower Exchange Fellowship Program, there are authorized to be appropriated to the Eisenhower Exchange Fellowships Program Trust Fund—
+
+- **(1)** $5,000,000; and
+- **(2)** the lesser of—
+  - **(A)** $2,500,000, or
+  - **(B)** an amount equal to contributions to Eisenhower Exchange Fellowships, Incorporated, from private sector sources during the 4-year period beginning on the date of enactment of this Act.
+
+## § 6. USE OF INCOME ON THE ENDOWMENT.
+
+- **(a)** *Requirement for Funding of United States Fellows in Emerging European Democracies.—* For any fiscal year, not less than 50 percent of the amounts made available to Eisenhower Exchange Fellowships, Incorporated, pursuant to section 4(a) shall be available only to assist United States fellows in traveling to and studying in emerging European democracies.
+- **(b)** *Limitation on Study in United States.—* For any fiscal year, not more than 50 percent of the amounts made available to Eisenhower Exchange Fellowships, Incorporated, pursuant to section 4(a) shall be available to assist foreign fellows in traveling to and studying in the United States.
+- **(c)** *Agricultural Exchange Program.—* For any fiscal year, as may be determined by Eisenhower Exchange Fellowships, Incorporated, a portion of the amounts made available to Eisenhower Exchange Fellowships, Incorporated, pursuant to section 4(a) shall be used to provide fellowships for agricultural exchange programs for farmers from the United States and foreign countries.
+- **(d)** *Participation by United States Minority Populations.—* In order to ensure that the United States fellows participating in programs of the Eisenhower Exchange Fellowships, Incorporated, are representative of the cultural, ethnic, and racial diversity of the American people, of the amounts made available to Eisenhower Exchange Fellowships, Incorporated, pursuant to section 4(a) which are obligated and expended for United States fellowship programs, not less than 10 percent shall be available only for participation by individuals who are representative of United States minority populations.
+
+## § 7. REPORT TO CONGRESS.
+
+For any fiscal year for which Eisenhower Exchange Fellowships, Incorporated, receive funds pursuant to section 4(a) of this Act, Eisenhower Exchange Fellowships, Incorporated, shall prepare and transmit to the President and the Congress a report of its activities for such fiscal year.
+
+## § 8. EXTENSION OF AU PAIR PROGRAMS.
+
+The United States Information Agency shall continue to implement the au pair programs designated by the Director of United States Information Agency as of July 10, 1990, until such au pair programs are authorized and implemented by another agency of the United States Government.
+
+## § 9. FASCELL FELLOWSHIP PROGRAM.
+
+- **(a)** *Short Title.—* This section may be cited as the “Fascell Fellowship Amendments Act of 1990”.
+- **(b)** *Service of Fascell Fellows.—*
+  - **(1)** *Establishment.—* Section 1002(a) of the Fascell Fellowship Act (22 U.S.C. 4901(a); hereinafter in this section referred to as “the Act”) is amended—
+    - **(A)** by striking out “formerly” and inserting in lieu thereof “which would otherwise be”; and
+    - **(B)** by striking out “in the Soviet Union or Eastern European countries” and inserting in lieu thereof “abroad”.
+  - **(2)** *Purpose of the fellowships.—* Section 1002(c) of the Act (22 U.S.C. 4901(c)) is amended—
+    - **(A)** by striking out “in the Soviet Union or an Eastern European country” and inserting in lieu thereof “abroad”; and
+    - **(B)** by striking out “Soviet or Eastern European” and inserting in lieu thereof “that country’s”.
+  - **(3)** *Individuals who may receive a fellowship.—* Section 1002(d) of the Act (22 U.S.C. 4901(d)) is amended by striking out “Soviet or Eastern European area studies or languages” and inserting in lieu thereof “international affairs, foreign languages, or career and professional experience or interest in international affairs,”.
+- **(c)** *Fellowship Board.—*
+  - **(1)** *Membership.—* Section 1003(b) of the Act (22 U.S.C. 4902(b)) is amended in paragraph (4) by striking out “Soviet or Eastern European area studies or languages,” and inserting in lieu thereof “international affairs or foreign languages,”.
+  - **(2)** *Transition.—* The amendment made by paragraph (1) shall apply only to appointments to the Fascell Fellowship Board after the date of the enactment of this section and shall not affect the service of members of such board on the date of the enactment of this section.
+- **(d)** *Posting of Fellows.—* Section 1005(a) of the Act (22 U.S.C. 4904(a)) is amended by striking out “in the Soviet Union or Eastern Europe” and inserting in lieu thereof “abroad”.
+
+
+*Approved October 24, 1990.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- Oct. 24, 1990 [S. 2017]
+- Eisenhower Exchange Fellowship Act of 1990. 20 USC 5201.
+- 20 USC 5201 note.
+- 20 USC 5202.
+- 20 USC 5203.
+- 20 USC 5204.
+- 20 USC 5205.
+- 20 USC 5206.
+- Fascell Fellowship Amendments Act of 1990. 22 USC 4901 note.
+- 22 USC 4902 note.
+
+## Legislative history
+
+**LEGISLATIVE HISTORY—S. 2017 (H.R. 4054):**
+
+
+*CONGRESSIONAL RECORD, Vol. 136 (1990):*
+
+- Sept. 27, considered and passed Senate.
+- Oct. 3, considered and passed House, amended.
+- Oct. 8, Senate concurred in House amendment.
