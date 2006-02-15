@@ -1,0 +1,43 @@
+---
+volume: 119
+citation: 119 Stat. 2285
+type: Public Law
+number: 104
+congress: 109
+scope: public
+approved: 2005-11-19
+bills: 109/hr-4326
+---
+
+# Public Law 109–104
+
+> An Act To authorize the Secretary of the Navy to enter into a contract for the nuclear refueling and complex overhaul of the U.S.S. Carl Vinson (CVN–70).
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+## § 1. REFUELING AND COMPLEX OVERHAUL OF THE U.S.S. CARL VINSON.
+
+- **(a)** *Contract Authorized.—* Notwithstanding section 1502 of title 31, United States Code, the Secretary of the Navy may, subject to subsection (c), enter into a contract for the nuclear refueling and complex overhaul of the U.S.S. Carl Vinson (CVN–70).
+- **(b)** *Fiscal Year 2006 Limitation.—* Funds available to the Secretary of the Navy for fiscal year 2006 may be used for the commencement of work on the contract authorized by subsection (a) during fiscal year 2006, but only for obligations in an amount not to exceed $89,000,000. Additional amounts may be obligated for such work for fiscal year 2006 only to the extent to which authority is expressly provided by law, and funds are appropriated by law, for such obligations after the date of the enactment of this Act.
+- **(c)** *Condition on Subsequent Contract Payments.—* A contract entered into under subsection (a) shall provide that any obligation of the United States to make a payment under the contract—
+  - **(1)** for fiscal year 2006 for an amount that would result in the total of the amounts so paid being in excess of the amount specified in subsection (b) is subject to the availability of appropriations for that purpose made in an Act making appropriations for the Department of Defense for that fiscal year; and
+  - **(2)** for a fiscal year after fiscal year 2006 is subject to the availability of appropriations for that purpose for that fiscal year.
+- **(d)** *Waiver of Prohibition of New Starts Under Continuing Resolution Authority.—* The contract authorized by this section may be entered into without regard to section 102(a) of Public Law 109–77 (119 Stat. 2038).
+
+
+*Approved November 19, 2005.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- Nov. 19, 2005 [H.R. 4326]
+
+## Legislative history
+
+**LEGISLATIVE HISTORY—H.R. 4326:**
+
+*CONGRESSIONAL RECORD, Vol. 151 (2005):*
+
+- Nov. 16, considered and passed House.
+- Nov. 17, considered and passed Senate.
