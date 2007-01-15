@@ -1,0 +1,38 @@
+---
+volume: 120
+citation: 120 Stat. 3484
+type: Public Law
+number: 466
+congress: 109
+scope: public
+approved: 2006-12-22
+bills: 109/s-4092
+---
+
+# Public Law 109–466
+
+> An Act To clarify certain land use in Jefferson County, Colorado.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+## § 1. CLARIFICATION OF CERTAIN LAND USE IN JEFFERSON COUNTY, COLORADO.
+
+Notwithstanding any applicable State or local land use or condemnation laws or regulations, and subject to all applicable Federal laws and regulations, any person that holds an approved Federal Communications Commission permit to construct or install either a digital television broadcast station antenna or tower, or both, located on Lookout Mountain in Jefferson County in the State of Colorado, may, at such location, construct, install, use, modify, replace, repair, or consolidate such antenna or tower, or both, and all accompanying facilities and services associated with such digital television broadcasts, if such antenna or tower is of the same height or lower than the tallest existing analog broadcast antenna or tower at such location.
+
+
+*Approved December 22, 2006.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- Dec. 22, 2006 [S. 4092]
+
+## Legislative history
+
+**LEGISLATIVE HISTORY—S. 4092:**
+
+*CONGRESSIONAL RECORD, Vol. 152 (2006):*
+
+- Dec. 6, considered and passed Senate.
+- Dec. 8, considered and passed House.

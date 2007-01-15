@@ -1,0 +1,38 @@
+---
+volume: 120
+citation: 120 Stat. 3197
+type: Public Law
+number: 434
+congress: 109
+scope: public
+approved: 2006-12-20
+bills: 109/hr-6316
+---
+
+# Public Law 109–434
+
+> An Act To extend through December 31, 2008, the authority of the Secretary of the Army to accept and expend funds contributed by non-Federal public entities to expedite the processing of permits.
+
+*Be it enacted by the Senate and House of Representa­tives of the United States of America in Congress assembled,*
+
+## § 1. FUNDING TO PROCESS PERMITS.
+
+Section 214(c) of the Water Resources Development Act of 2000 (33 U.S.C. 2201 note; 114 Stat. 2594; 117 Stat. 1836; 119 Stat. 2169; 120 Stat. 318) is amended by striking “December 31, 2006” and inserting “December 31, 2008”.
+
+
+*Approved December 20, 2006.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- Dec. 20, 2006 [H.R. 6316]
+
+## Legislative history
+
+**LEGISLATIVE HISTORY—H.R. 6316:**
+
+*CONGRESSIONAL RECORD, Vol. 152 (2006):*
+
+- Dec. 5, considered and passed House.
+- Dec. 6, considered and passed Senate.

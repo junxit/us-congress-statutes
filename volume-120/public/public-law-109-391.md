@@ -1,0 +1,51 @@
+---
+volume: 120
+citation: 120 Stat. 2701
+type: Public Law
+number: 391
+congress: 109
+scope: public
+approved: 2006-12-12
+bills: 109/hr-5690
+---
+
+# Public Law 109–391
+
+> An Act To adjust the boundaries of the Ouachita National Forest in the States of Oklahoma and Arkansas.
+
+*Be it enacted by the Senate and House of Representa­tives of the United States of America in Congress assembled,*
+
+## § 1. SHORT TITLE.
+
+This Act may be cited as the “Ouachita National Forest Boundary Adjustment Act of 2006”.
+
+## § 2. BOUNDARY ADJUSTMENT, OUACHITA NATIONAL FOREST, OKLAHOMA AND ARKANSAS.
+
+- **(a)** *Boundary Adjustment.—* The boundaries of the Ouachita National Forest in the States of Oklahoma and Arkansas are hereby modified as generally depicted on the following maps, all dated May 15, 2001, and more particularly delineated and described according to the final boundary adjustment maps and boundary descriptions filed in the Office of the Chief of the Forest Service:
+  - **(1)** The map entitled “Ouachita National Forest Boundary Extension for the Broken Bow Area”.
+  - **(2)** The map entitled “Ouachita National Forest Boundary Extension for the Southern Tiak Area”.
+  - **(3)** The map entitled “Ouachita National Forest Boundary Extension for the Northern Ouachita Area”.
+  - **(4)** The map entitled “Ouachita National Forest Boundary Extension for the Southern Ouachita Area”.
+  - **(5)** The map entitled “Ouachita National Forest Boundary Extension for the Eastern Ouachita Area”.
+- **(b)** *Availability and Correction.—* The maps referred to in subsection (a) shall be on file and available for public inspection in the Office of the Chief of the Forest Service. The Secretary of Agriculture may make minor corrections to the maps.
+- **(c)** *Management of Acquired Land.—* Any federally-owned lands that have been or hereafter may be acquired for National Forest System purposes within the boundaries of the Ouachita National Forest, as modified by subsection (a), shall be managed as lands acquired under the Act of March 1, 1911 (commonly known as the Weeks Act), and in accordance with the other laws and regulations pertaining to the National Forest System. Nothing in this subsection shall limit the authority of the Secretary of Agriculture to adjust the boundaries of the Ouachita National Forest pursuant to section 11 of such Act (16 U.S.C. 521).
+- **(d)** *Relation to Land and Water Conservation Fund Act.—* For purposes of section 7 of the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460l–9), the boundaries of the Ouachita National Forest, as modified by subsection (a), shall be considered to be boundaries of the Ouachita National Forest as of January 1, 1965.
+
+
+*Approved December 12, 2006.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- Dec. 12, 2006 [H.R. 5690]
+- Ouachita National Forest Boundary Adjustment Act of 2006.
+
+## Legislative history
+
+**LEGISLATIVE HISTORY—H.R. 5690:**
+
+*CONGRESSIONAL RECORD, Vol. 152 (2006):*
+
+- Sept. 27, considered and passed House.
+- Nov. 16, considered and passed Senate.
