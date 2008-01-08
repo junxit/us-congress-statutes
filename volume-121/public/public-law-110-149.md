@@ -1,0 +1,55 @@
+---
+volume: 121
+citation: 121 Stat. 1819
+type: Public Law
+number: 149
+congress: 110
+scope: public
+approved: 2007-12-21
+bills: 110/hjres-72
+---
+
+# Public Law 110–149
+
+> Joint Resolution Making further continuing appropriations for the fiscal year 2008, and for other purposes.
+
+*Resolved by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+That Public Law 110–92 is further amended by striking the date specified in section 106(3) and inserting “December 31, 2007”.
+
+## § 2.
+
+Public Law 110–92 is further amended by adding at the end the following new sections:
+
+> ## § 160.
+>
+> Notwithstanding any other provision of this joint resolution, there is appropriated for payment to the heirs at law of Julia Carson, late a Representative from the State of Indiana, $165,200.
+>
+> ## § 161.
+>
+> Notwithstanding section 106, the authority to provide care and services under section 1710(e)(1)(E) of title 38, United States Code, shall continue in effect through September 30, 2008.
+>
+> ## § 162.
+>
+> Notwithstanding section 106, the authority provided by section 2306(d)(3) of title 38, United States Code, shall continue in effect through September 30, 2008.”.
+
+
+*Approved December 21, 2007.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- Dec. 21, 2007 [H.J. Res. 72]
+- Ante, 1454.
+- Julia Carson.
+- Termination date. 38 USC 1710 note.
+- Termination date. 38 USC 2300 note.
+
+## Legislative history
+
+**LEGISLATIVE HISTORY—H.J. Res. 72:**
+
+*CONGRESSIONAL RECORD, Vol. 153 (2007):*
+
+- Dec. 19, considered and passed House and Senate.
