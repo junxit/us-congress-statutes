@@ -1,0 +1,53 @@
+---
+volume: 122
+citation: 122 Stat. 879
+type: Public Law
+number: 232
+congress: 110
+scope: public
+approved: 2008-05-19
+bills: 110/hr-6022
+---
+
+# Public Law 110–232
+
+> An Act To suspend the acquisition of petroleum for the Strategic Petroleum Reserve, and for other purposes.
+
+*Be it enacted by the Senate and House of Representa­tives of the United States of America in Congress assembled,*
+
+## § 1. SHORT TITLE.
+
+This Act may be cited as the “Strategic Petroleum Reserve Fill Suspension and Consumer Protection Act of 2008”.
+
+## § 2. SUSPENSION OF PETROLEUM ACQUISITION FOR STRATEGIC PETROLEUM RESERVE.
+
+- **(a)** *In General.—* Except as provided in subsection (b) and notwithstanding any other provision of law, during the period beginning on the date of enactment of this Act and ending on December 31, 2008—
+  - **(1)** the Secretary of the Interior shall suspend acquisition of petroleum for the Strategic Petroleum Reserve through the royalty-in-kind program; and
+  - **(2)** the Secretary of Energy shall suspend acquisition of petroleum for the Strategic Petroleum Reserve through any acquisition method.
+- **(b)** *Resumption in Calendar Year 2008.—* During the period specified in subsection (a) but not earlier than 30 days after the date on which the President notifies Congress that the President has determined that the weighted average price of petroleum in the United States for the most recent 90-day period is $75 or less per barrel—
+  - **(1)** the Secretary of the Interior may resume acquisition of petroleum for the Strategic Petroleum Reserve through the royalty-in-kind program; and
+  - **(2)** the Secretary of Energy may resume acquisition of petroleum for the Strategic Petroleum Reserve through any acquisition method.
+- **(c)** *Existing Contracts.—*
+  - **(1)** *Department of the interior contracts.—* In the case of any royalty-in-kind oil scheduled to be delivered to the Department of Energy for the Strategic Petroleum Reserve pursuant to a contract entered into by the Secretary of Interior prior to, and in effect on, the date of enactment of this Act, the Secretary of Energy shall accept delivery of such oil.
+  - **(2)** *Department of energy contracts.—* In the case of any oil scheduled to be delivered to the Strategic Petroleum Reserve pursuant to a contract entered into by the Secretary of Energy prior to, and in effect on, the date of enactment of this Act, the Secretary shall, to the maximum extent practicable, negotiate a deferral of the delivery of the oil in accordance with procedures of the Department of Energy in effect on the date of enactment of this Act for deferrals of oil.
+
+
+*Approved May 19, 2008.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- May 19, 2008 [H.R. 6022]
+- Strategic Petroleum Reserve Fill Suspension and Consumer Protection Act of 2008.
+- Time period.
+- Deadline. President. Notification.
+
+## Legislative history
+
+**LEGISLATIVE HISTORY—H.R. 6022:**
+
+*CONGRESSIONAL RECORD, Vol. 154 (2008):*
+
+- May 13, considered and passed House.
+- May 14, considered and passed Senate.

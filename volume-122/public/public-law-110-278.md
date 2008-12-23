@@ -1,0 +1,55 @@
+---
+volume: 122
+citation: 122 Stat. 2602
+type: Public Law
+number: 278
+congress: 110
+scope: public
+approved: 2008-07-17
+bills: 110/hr-814
+---
+
+# Public Law 110–278
+
+> An Act To require the Consumer Product Safety Commission to issue regulations mandating child-resistant closures on all portable gasoline containers.
+
+*Be it enacted by the Senate and House of Representa­tives of the United States of America in Congress assembled,*
+
+## § 1. SHORT TITLE.
+
+This Act may be cited as the “Children’s Gasoline Burn Prevention Act”.
+
+## § 2. CHILD-RESISTANT PORTABLE GASOLINE CONTAINERS.
+
+- **(a)** *Consumer Product Safety Rule.—* The provision of subsection (b) shall be considered to be a consumer product safety rule issued by the Consumer Product Safety Commission under section 9 of the Consumer Product Safety Act (15 U.S.C. 2058).
+- **(b)** *Requirements.—* Effective 6 months after the date of enactment of this Act, each portable gasoline container manufactured on or after that date for sale in the United States shall conform to the child-resistance requirements for closures on portable gasoline containers specified in the standard ASTM F2517-05, issued by ASTM International.
+- **(c)** *Definition.—* As used in this Act, the term “portable gasoline container” means any portable gasoline container intended for use by consumers.
+- **(d)** *Revision of Rule.—* If, after the enactment of this Act, ASTM International proposes to revise the child resistance requirements of ASTM F2517-05, ASTM International shall notify the Consumer Product Safety Commission of the proposed revision and the proposed revision shall be incorporated in the consumer product safety rule under subsection (a) unless, within 60 days of such notice, the Commission notifies ASTM International that the Commission has determined that such revision does not carry out the purposes of subsection (b).
+- **(e)** *Implementing Regulations.—* Section 553 of title 5, United States Code, shall apply with respect to the issuance of any regulations by the Consumer Product Safety Commission to implement the requirements of this section, and sections 7 and 9 of the Consumer Product Safety Act shall not apply to such issuance.
+- **(f)** *Report.—* Not later than 2 years after the date of enactment of this Act, the Consumer Product Safety Commission shall transmit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on—
+  - **(1)** the degree of industry compliance with the standard promulgated under subsection (a);
+  - **(2)** any enforcement actions brought by the Commission to enforce such standard; and
+  - **(3)** incidents involving children interacting with portable gasoline containers (including both those that are and are not in compliance with the standard promulgated under subsection (a)).
+
+
+*Approved July 17, 2008.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- July 17, 2008 [H.R. 814]
+- Children’s Gasoline Burn Prevention Act. 15 USC 2056 note.
+- Effective date.
+- Notification. Deadline.
+- Applicability.
+
+## Legislative history
+
+**LEGISLATIVE HISTORY—H.R. 814:**
+
+
+*CONGRESSIONAL RECORD:*
+
+- Oct. 9, considered and passed House.
+- June 16, considered and passed Senate.

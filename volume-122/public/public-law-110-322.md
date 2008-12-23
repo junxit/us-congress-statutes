@@ -1,0 +1,74 @@
+---
+volume: 122
+citation: 122 Stat. 3537
+type: Public Law
+number: 322
+congress: 110
+scope: public
+approved: 2008-09-19
+bills: 110/s-2450
+---
+
+# Public Law 110–322
+
+> An Act To amend the Federal Rules of Evidence to address the waiver of the attorney-client privilege and the work product doctrine.
+
+*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+## § 1. ATTORNEY-CLIENT PRIVILEGE AND WORK PRODUCT; LIMITATIONS ON WAIVER.
+
+- **(a)** *In General.—* Article V of the Federal Rules of Evidence is amended by adding at the end the following:
+  > “Rule 502. Attorney-Client Privilege and Work Product; Limitations on Waiver
+  >
+  > “The following provisions apply, in the circumstances set out, to disclosure of a communication or information covered by the attorney-client privilege or work-product protection.
+  >
+  > “(a) Disclosure Made in a Federal Proceeding or to a Federal Office or Agency; Scope of a Waiver.—When the disclosure is made in a Federal proceeding or to a Federal office or agency and waives the attorney-client privilege or work-product protection, the waiver extends to an undisclosed communication or information in a Federal or State proceeding only if:
+  >
+  > - the waiver is intentional;
+  > - the disclosed and undisclosed communications or information concern the same subject matter; and
+  > - they ought in fairness to be considered together.
+  > “(b) Inadvertent Disclosure.—When made in a Federal proceeding or to a Federal office or agency, the disclosure does not operate as a waiver in a Federal or State proceeding if:
+  >
+  > - the disclosure is inadvertent;
+  > - the holder of the privilege or protection took reasonable steps to prevent disclosure; and
+  > - the holder promptly took reasonable steps to rectify the error, including (if applicable) following Federal Rule of Civil Procedure 26(b)(5)(B).
+  > “(c) Disclosure Made in a State Proceeding.—When the disclosure is made in a State proceeding and is not the subject of a State-court order concerning waiver, the disclosure does not operate as a waiver in a Federal proceeding if the disclosure:
+  >
+  > - would not be a waiver under this rule if it had been made in a Federal proceeding; or
+  > - is not a waiver under the law of the State where the disclosure occurred.
+  > “(d) Controlling Effect of a Court Order.—A Federal court may order that the privilege or protection is not waived by disclosure connected with the litigation pending before the court—in which event the disclosure is also not a waiver in any other Federal or State proceeding.
+  >
+  > “(e) Controlling Effect of a Party Agreement.—An agreement on the effect of disclosure in a Federal proceeding is binding only on the parties to the agreement, unless it is incorporated into a court order.
+  >
+  > “(f) Controlling Effect of This Rule.—Notwithstanding Rules 101 and 1101, this rule applies to State proceedings and to Federal court-annexed and Federal court-mandated arbitration proceedings, in the circumstances set out in the rule. And notwithstanding Rule 501, this rule applies even if State law provides the rule of decision.
+  >
+  > “(g) Definitions.—In this rule:
+  >
+  > “(1) ‘attorney-client privilege’ means the protection that applicable law provides for confidential attorney-client communications; and
+  >
+  > “(2) ‘work-product protection’ means the protection that applicable law provides for tangible material (or its intangible equivalent) prepared in anticipation of litigation or for trial.”.
+
+- **(b)** *Technical and Conforming Changes.—* The table of contents for the Federal Rules of Evidence is amended by inserting after the item relating to rule 501 the following:
+  > - “502. Attorney-client privilege and work-product doctrine; limitations on waiver.”.
+
+- **(c)** *Effective Date.—* The amendments made by this Act shall apply in all proceedings commenced after the date of enactment of this Act and, insofar as is just and practicable, in all proceedings pending on such date of enactment.
+
+
+*Approved September 19, 2008.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- Sept. 19, 2008 [S. 2450]
+- 28 USC app.
+
+## Legislative history
+
+**LEGISLATIVE HISTORY—S. 2450:**
+
+
+*CONGRESSIONAL RECORD, Vol. 154 (2008):*
+
+- Feb. 27, considered and passed Senate.
+- Sept. 8, considered and passed House.

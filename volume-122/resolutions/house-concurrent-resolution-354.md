@@ -1,0 +1,27 @@
+---
+volume: 122
+type: House Concurrent Resolution
+number: 354
+bills: 122/hconres-354
+---
+
+# House Concurrent Resolution 354
+
+> LYNDON BAINES JOHNSON—100TH BIRTHDAY ANNIVERSARY RECOGNITION
+
+Whereas August 27, 2008, marks the 100th birthday of Lyndon Baines Johnson; Whereas Lyndon B. Johnson was born in Stonewall, Texas, to Samuel Ealy Johnson, Jr., a Texas representative, and Rebekah Baines, on August 27, 1908; Whereas upon graduation, Lyndon B. Johnson enrolled in Southwest Texas State Teachers’ College, where he vigorously participated in debate, campus politics, and edited the school newspaper; Whereas Lyndon B. Johnson had several teaching positions throughout Texas, including at the Welhausen School in La Salle County, at Pearsall High School, and as a public speaking teacher at Sam Houston High School in Houston; Whereas Lyndon B. Johnson went to work as a congressional assistant at the age of 23; Whereas Lyndon B. Johnson served the 10th Congressional District in the Texas House of Representatives from April 10, 1937, to January 3, 1949; Whereas Lyndon B. Johnson became a commissioned officer in the Navy Reserves in December 1941; Whereas during World War II, Lyndon B. Johnson was recommended by Undersecretary of the Navy James Forrestal to President Franklin D. Roosevelt, who assigned Johnson to a three-man survey team in the southwest Pacific; Whereas Lyndon B. Johnson was conferred the Silver Star, which is the military’s third highest medal, by General Douglas MacArthur; Whereas in 1948, Lyndon B. Johnson was elected to the Senate at the age of 41; Whereas in 1951, Lyndon B. Johnson was elected Senate minority leader at the age of 44 and elected Senate majority leader at the age of 46, the youngest in our history; Whereas Lyndon B. Johnson was elected Vice President at the age of 52, becoming president of the Senate; Whereas Lyndon B. Johnson’s congressional career and his leadership spanned the stock market crash, the Great Depression, World War II, the nuclear age, the Cold War, the space age, and the civil rights movement, some of the most turbulent years in American history; Whereas Vice President Lyndon B. Johnson was appointed as head of the President’s Committee on Equal Employment Opportunities, through which he worked with African Americans and other minorities; Whereas an hour and 38 minutes after the assassination of President Kennedy, Lyndon B. Johnson was sworn in as President aboard Air Force One; Whereas Lyndon B. Johnson was a bold leader; Whereas as President, Lyndon B. Johnson believed that government could guarantee human rights, could lift people out of poverty, and provide access to quality education and health care throughout the Nation; Whereas Lyndon B. Johnson was an idealist, a force of nature, and had the energy and determination and leadership to turn those dreams into reality; Whereas Lyndon B. Johnson was a “can-do” President because no matter how difficult and daunting the task at hand, he never rested until it was completed; Whereas in 1964, the Johnson Administration passed the landmark Civil Rights Act of 1964, which banned de jure segregation in the Nation’s schools and public places; Whereas the Johnson Administration passed the Voting Rights Act of 1965, which outlawed obstructive provisions that were rendered impractical and impartial to potential voters; Whereas in January of 1965, the Johnson Administration introduced the Great Society, which included provisions for aid to education, Medicare, urban renewal, beautification, conservation, the development of depressed regions, a wide-scale fight against poverty, and the removal of obstacles to the right to vote; Whereas in 1967, President Johnson nominated Thurgood Marshall as the first African-American to serve on the Supreme Court; Whereas during Johnson’s presidency, the National Aeronautics and Space Administration made spectacular steps forward in space exploration when 3 astronauts successfully orbited the moon in December 1968; Whereas Lyndon B. Johnson died at 4:33 p.m. on January 22, 1973, at his ranch in Johnson City, Texas, at the age of 64; Whereas Lyndon B. Johnson was posthumously awarded the Presidential Medal of Freedom in 1980; Whereas Lyndon B. Johnson is honored, venerated, and revered for his drive to establish equality for all Americans, illustrated in the momentous legislation passed during his Administration; Whereas Congress recognizes the 100th birthday of Lyndon B. Johnson, the 36th president; Whereas Congress extols the contributions of Lyndon B. Johnson to the United States and his commitment to the War on Poverty through the Economic Opportunity Act; Whereas Congress commends Lyndon B. Johnson for establishing the Medicare Act of 1965 that has helped millions of Americans; and Whereas Congress requests that the President issue a proclamation calling upon the American people to observe the Centennial Celebration of Lyndon B. Johnson and his “can-do spirit” with appropriate ceremonies, programs, and activities: Now, therefore, be it Resolved by the House of Representatives (the Senate concurring),
+
+That the Congress—
+
+- **(1)** reaffirms its support for the Civil Rights Act of 1964 and the Voting Rights Act of 1965;
+- **(2)** recognizes the significance of the Voting Rights Act of 1965; and
+- **(3)** honors Lyndon B. Johnson for his work as a civil rights enforcer.
+
+
+*Agreed to May 20, 2008*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- May 20, 2008 [H. Con. Res. 354]
