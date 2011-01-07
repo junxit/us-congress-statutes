@@ -1,0 +1,25 @@
+---
+volume: 124
+type: Senate Concurrent Resolution
+number: 75
+bills: 111/sconres-75
+---
+
+# Senate Concurrent Resolution 75
+
+> PRESIDENT JOHN F. KENNEDY’S INAUGURAL ADDRESS, 50TH ANNIVERSARY CEREMONY—CAPITOL ROTUNDA AUTHORIZATION
+
+Whereas John Fitzgerald Kennedy was elected to the United States House of Representatives and served from January 3, 1947, to January 3, 1953, until he was elected by the Commonwealth of Massachusetts to the Senate where he served from January 3, 1953, to December 22, 1960; Whereas on November 8, 1960, John Fitzgerald Kennedy was elected as the 35th President of the United States; and Whereas on January 20, 1961, President Kennedy was sworn in as President of the United States and delivered his inaugural address at 12:51pm, a speech that served as a clarion call to service for the Nation: Now, therefore, be it Resolved by the Senate (the House of Representatives concurring),
+
+## § 1. USE OF THE ROTUNDA OF THE CAPITOL FOR AN EVENT HONORING PRESIDENT KENNEDY.
+
+The rotunda of the United States Capitol is authorized to be used on January 20, 2011, for a ceremony in honor of the 50th anniversary of the inaugural address of President John F. Kennedy. Physical preparations for the conduct of the ceremony shall be carried out in accordance with such conditions as may be prescribed by the Architect of the Capitol.
+
+
+*Agreed to December 1, 2010.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- Dec. 1, 2010 [S.Con.Res.75]
