@@ -1,0 +1,62 @@
+---
+volume: 125
+citation: 125 Stat. 1275
+type: Public Law
+number: 76
+congress: 112
+scope: public
+approved: 2011-12-23
+bills: 112/hr-3421, 112/s-1239
+---
+
+# Public Law 112–76
+
+> An Act To award Congressional Gold Medals in honor of the men and women who perished as a result of the terrorist attacks on the United States on September 11, 2001.
+
+*Be it enacted by the Senate and House of Representa­tives of the United States of America in Congress assembled,*
+
+## § 1. SHORT TITLE.
+
+This Act may be cited as the “Fallen Heroes of 9/11 Act”.
+
+## § 2. CONGRESSIONAL FINDINGS.
+
+Congress finds that—
+
+- **(1)** the tragic deaths at the World Trade Center, at the Pentagon, and in rural Pennsylvania on September 11, 2001, have forever changed our Nation;
+- **(2)** the officers, emergency workers, and other employees of State and local government agencies, including the Port Authority of New York and New Jersey, and of the United States government and others, who responded to the attacks on the World Trade Center in New York City and perished as a result of the tragic events of September 11, 2001 (including those who are missing and presumed dead), took heroic and noble action on that day;
+- **(3)** the officers, emergency rescue workers, and employees of local and United States government agencies, who responded to the attack on the Pentagon in Washington, DC, took heroic and noble action to evacuate the premises and prevent further casualties of Pentagon employees;
+- **(4)** the passengers and crew of United Airlines Flight 93, recognizing the imminent danger that the aircraft that they were aboard posed to large numbers of innocent men, women and children, American institutions, and the symbols of American democracy, took heroic and noble action to ensure that the aircraft could not be used as a weapon; and
+- **(5)** given the unprecedented nature of the attacks against the United States of America and the need to properly demonstrate the support of the country for those who lost their lives to terrorism, it is fitting that their sacrifice be recognized with the award of an appropriate medal.
+
+## § 3. CONGRESSIONAL GOLD MEDAL.
+
+- **(a)** *Award.—*
+  - **(1)** *Authorized.—* The Speaker of the House of Representatives and the President pro tempore of the Senate shall make appropriate arrangements for the award, on behalf of Congress, of 3 gold medals of appropriate design in honor of the men and women who perished as a result of the terrorist attacks on the United States on September 11, 2001.
+  - **(2)** *Display.—* Following the award of the gold medals referred to in paragraph (1), one gold medal shall be given to each of—with the understanding that each medal is to be put on permanent, appropriate display.
+    - **(A)** the Flight 93 National Memorial in Pennsylvania,
+    - **(B)** the National September 11 Memorial and Museum in New York, and
+    - **(C)** the Pentagon Memorial at the Pentagon,
+  - **(3)** *Design and striking.—* For the purposes of the awards referred to in paragraph (1), the Secretary of the Treasury shall strike 3 designs of the gold medals with suitable emblems, devices, and inscriptions, to be determined by the Secretary.
+- **(b)** *Duplicate Medals.—* Under such regulations as the Secretary may prescribe, the Secretary may strike and sell duplicates in bronze of the gold medals struck under this Act, at a price sufficient to cover the costs of the medals, including labor, materials, dyes, use of machinery, and overhead expenses.
+- **(c)** *National Medals.—* Medals struck pursuant to this Act are national medals for purposes of chapter 51 of title 31, United States Code.
+- **(d)** *Proceeds of Sale.—* Amounts received from the sale of duplicate bronze medals under subsection (b) shall be deposited in the United States Mint Public Enterprise Fund.
+
+
+*Approved December 23, 2011.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- Dec. 23, 2011 [H.R. 3421]
+- Fallen Heroes of 9/11 Act. 31 USC 5111 note.
+
+## Legislative history
+
+**LEGISLATIVE HISTORY—H.R. 3421 (S. 1239):**
+
+*CONGRESSIONAL RECORD, Vol. 157 (2011):*
+
+- Dec. 13, 14, considered and passed House.
+- Dec. 15, considered and passed Senate.
