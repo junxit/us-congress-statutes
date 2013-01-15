@@ -1,0 +1,53 @@
+---
+volume: 126
+citation: 126 Stat. 1606
+type: Public Law
+number: 226
+congress: 112
+scope: public
+approved: 2012-12-28
+bills: 112/hr-6116
+---
+
+# Public Law 112–226
+
+> An Act To amend the Revised Organic Act of the Virgin Islands to provide for direct review by the United States Supreme Court of decisions of the Virgin Islands Supreme Court, and for other purposes.
+
+*Be it enacted by the Senate and House of Representa­tives of the United States of America in Congress assembled,*
+
+## § 1. DIRECT REVIEW BY U.S. SUPREME COURT OF DECISIONS OF VIRGIN ISLANDS SUPREME COURT.
+
+Section 23 of the Revised Organic Act of the Virgin Islands (48 U.S.C. 1613) is amended by striking “: Provided, That” and all that follows through the end and inserting a period.
+
+## § 2. JURISDICTION OF THE SUPREME COURT.
+
+- **(a)** *In General.—* Chapter 81 of title 28, United States Code, is amended by adding at the end the following:
+  > ## § 1260. Supreme Court of the Virgin Islands; certiorari
+  >
+  > “Final judgments or decrees rendered by the Supreme Court of the Virgin Islands may be reviewed by the Supreme Court by writ of certiorari where the validity of a treaty or statute of the United States is drawn in question or where the validity of a statute of the Virgin Islands is drawn in question on the ground of its being repugnant to the Constitution, treaties, or laws of the United States, or where any title, right, privilege, or immunity is specially set up or claimed under the Constitution or the treaties or statutes of, or any commission held or authority exercised under, the United States.”.
+
+- **(b)** *Conforming Amendment.—* The table of sections for chapter 81 of title 28, United States Code, is amended by adding at the end the following new item:
+  > - “1260. Supreme Court of the Virgin Islands; certiorari.”.
+
+## § 3. EFFECTIVE DATE.
+
+The amendments made by this Act apply to cases commenced on or after the date of the enactment of this Act.
+
+
+*Approved December 28, 2012.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- Dec. 28, 2012 [H.R. 6116]
+- 28 USC 1260.
+
+## Legislative history
+
+**LEGISLATIVE HISTORY—H.R. 6116:**
+
+*CONGRESSIONAL RECORD, Vol. 158 (2012):*
+
+- Nov. 14, considered and passed House.
+- Dec. 13, considered and passed Senate.

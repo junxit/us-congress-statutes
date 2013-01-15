@@ -1,0 +1,47 @@
+---
+volume: 126
+citation: 126 Stat. 1306
+type: Public Law
+number: 171
+congress: 112
+scope: public
+approved: 2012-08-16
+bills: 112/hr-3670
+---
+
+# Public Law 112–171
+
+> An Act To require the Transportation Security Administration to comply with the Uniformed Services Employment and Reemployment Rights Act.
+
+*Be it enacted by the Senate and House of Representa­tives of the United States of America in Congress assembled,*
+
+## § 1. APPLICABILITY OF THE UNIFORMED SERVICES EMPLOYMENT AND REEMPLOYMENT RIGHTS ACT TO THE TRANSPORTATION SECURITY ADMINISTRATION.
+
+- **(a)** *In General.—* Section 111(d) of the Aviation and Transportation Security Act (49 U.S.C. 44935 note; Public Law 107–71) is amended—
+  - **(1)** by striking “Notwithstanding” and inserting the following:
+    > - **(1)** *General authority.—* Except as provided in paragraph (2), and notwithstanding”; and
+
+  - **(2)** by adding at the end the following:
+    > - **(2)** *Uniformed services employment and reemployment rights act.—* In carrying out the functions authorized under paragraph (1), the Under Secretary shall be subject to the provisions set forth in chapter 43 of title 38, United States Code.”.
+
+- **(b)** *Effective Date.—* The amendments made by subsection (a) shall take effect on the date that is 270 days after the date of the enactment of this Act.
+
+
+*Approved August 16, 2012.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- Aug. 16, 2012 [H.R. 3670]
+- 49 USC 44935 note.
+
+## Legislative history
+
+**LEGISLATIVE HISTORY—H.R. 3670:**
+
+
+*CONGRESSIONAL RECORD, Vol. 158 (2012):*
+
+- May 30, considered and passed House.
+- Aug. 2, considered and passed Senate.

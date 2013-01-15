@@ -1,0 +1,39 @@
+---
+volume: 126
+citation: 126 Stat. 330
+type: Public Law
+number: 109
+congress: 112
+scope: public
+approved: 2012-05-15
+bills: 112/hr-2079
+---
+
+# Public Law 112–109
+
+> An Act To designate the facility of the United States Postal Service located at 10 Main Street in East Rockaway, New York, as the “John J. Cook Post Office”.
+
+*Be it enacted by the Senate and House of Representa­tives of the United States of America in Congress assembled,*
+
+## § 1. JOHN J. COOK POST OFFICE.
+
+- **(a)** *Designation.—* The facility of the United States Postal Service located at 10 Main Street in East Rockaway, New York, shall be known and designated as the “John J. Cook Post Office”.
+- **(b)** *References.—* Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in subsection (a) shall be deemed to be a reference to the “John J. Cook Post Office”.
+
+
+*Approved May 15, 2012.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- May 15, 2012 [H.R. 2079]
+
+## Legislative history
+
+**LEGISLATIVE HISTORY—H.R. 2079:**
+
+*CONGRESSIONAL RECORD, Vol. 158 (2012):*
+
+- Feb. 14, 15, considered and passed House.
+- Apr. 26, considered and passed Senate.
