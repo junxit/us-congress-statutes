@@ -1,0 +1,54 @@
+---
+volume: 127
+citation: 127 Stat. 441
+type: Public Law
+number: 8
+congress: 113
+scope: public
+approved: 2013-05-01
+bills: 113/hr-1246
+---
+
+# Public Law 113–8
+
+> An Act To amend the District of Columbia Home Rule Act to provide that the District of Columbia Treasurer or one of the Deputy Chief Financial Officers of the Office of the Chief Financial Officer of the District of Columbia may perform the functions and duties of the Office in an acting capacity if there is a vacancy in the Office.
+
+*Be it enacted by the Senate and House of Representa­tives of the United States of America in Congress assembled,*
+
+## § 1. SHORT TITLE.
+
+This Act may be cited as the “District of Columbia Chief Financial Officer Vacancy Act”.
+
+## § 2. AUTHORIZING DISTRICT OF COLUMBIA TREASURER OR DEPUTY CHIEF FINANCIAL OFFICER OF OFFICE OF CHIEF FINANCIAL OFFICER OF THE DISTRICT OF COLUMBIA TO SERVE AS ACTING CHIEF FINANCIAL OFFICER IN EVENT OF VACANCY IN OFFICE.
+
+- **(a)** *Authorizing Service in Acting Capacity in Event of Vacancy in Office.—* Section 424(b) of the District of Columbia Home Rule Act (sec. 1–204.24(b), D.C. Official Code) is amended by adding at the end the following new paragraph:
+  > - **(3)** *Authorizing treasurer or deputy cfo to perform duties in acting capacity in event of vacancy in office.—*
+  >   - **(A)** *Service as cfo.—*
+  >     - **(i)** *In general.—* Except as provided in clause (ii), if there is a vacancy in the Office of Chief Financial Officer because the Chief Financial Officer has died, resigned, or is otherwise unable to perform the functions and duties of the Office—
+  >       - **(I)** the District of Columbia Treasurer shall serve as the Chief Financial Officer in an acting capacity, subject to the time limitation of subparagraph (B); or
+  >       - **(II)** the Mayor may direct one of the Deputy Chief Financial Officers of the Office referred to in subparagraphs (A) through (D) of subsection (a)(3) to serve as the Chief Financial Officer in an acting capacity, subject to the time limitation of subparagraph (B).
+  >     - **(ii)** *Exclusion of certain individuals.—* Notwithstanding clause (i), an individual may not serve as the Chief Financial Officer under such clause if the individual did not serve as the District of Columbia Treasurer or as one of such Deputy Chief Financial Officers of the Office of the Chief Financial Officer (as the case may be) for at least 90 days during the 1-year period which ends on the date the vacancy occurs.
+  >   - **(B)** *Time limitation.—* A vacancy in the Office of the Chief Financial Officer may not be filled by the service of any individual in an acting capacity under subparagraph (A) after the expiration of the 210-day period which begins on the date the vacancy occurs.”.
+
+- **(b)** *Conforming Amendment.—* Section 424(b)(2)(D) of such Act (sec. 1–204.24(b)(2)(D), D.C. Official Code) is amended by striking “Any vacancy” and inserting “Subject to paragraph (3), any vacancy”.
+- **(c)** *Effective Date.—* The amendments made by this Act shall apply with respect to vacancies occurring on or after the date of the enactment of this Act.
+
+
+*Approved May 1, 2013.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- May 1, 2013 [H.R. 1246]
+- District of Columbia Chief Financial Officer Vacancy Act.
+
+## Legislative history
+
+**LEGISLATIVE HISTORY—H.R. 1246:**
+
+
+*CONGRESSIONAL RECORD, Vol. 159 (2013):*
+
+- Apr. 15, considered and passed House.
+- Apr. 18, considered and passed Senate.

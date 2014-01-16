@@ -1,0 +1,42 @@
+---
+volume: 127
+citation: 127 Stat. 1209
+type: Public Law
+number: 71
+congress: 113
+scope: public
+approved: 2013-12-26
+bills: 113/hr-3343
+---
+
+# Public Law 113–71
+
+> An Act To amend the District of Columbia Home Rule Act to clarify the rules regarding the determination of the compensation of the Chief Financial Officer of the District of Columbia.
+
+*Be it enacted by the Senate and House of Representa­tives of the United States of America in Congress assembled,*
+
+## § 1. CLARIFICATION OF DETERMINATION OF COMPENSATION OF CHIEF FINANCIAL OFFICER OF DISTRICT OF COLUMBIA.
+
+- **(a)** *Determination of Compensation.—* Section 424(b)(2)(E) of the District of Columbia Home Rule Act (sec. 1–204.24(b)(2)(E), D.C. Official Code) is amended to read as follows:
+  > - **(E)** *Pay.—* The Chief Financial Officer shall be paid at a rate such that the total amount of compensation paid during any calendar year does not exceed an amount equal to the limit on total pay which is applicable during the year under section 5307 of title 5, United States Code, to an employee described in section 5307(d) of such title.”.
+
+- **(b)** *Effective Date.—* The amendment made by subsection (a) shall apply with respect to pay periods beginning on or after the date of the enactment of this Act.
+
+
+*Approved December 26, 2013.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- Dec. 26, 2013 [H.R. 3343]
+
+## Legislative history
+
+**LEGISLATIVE HISTORY—H.R. 3343:**
+
+
+*CONGRESSIONAL RECORD, Vol. 159 (2013):*
+
+- Nov. 18, considered and passed House.
+- Dec. 20, considered and passed Senate.

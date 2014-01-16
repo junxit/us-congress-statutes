@@ -1,0 +1,45 @@
+---
+volume: 127
+citation: 127 Stat. 476
+type: Public Law
+number: 15
+congress: 113
+scope: public
+approved: 2013-06-25
+bills: 113/hr-475
+---
+
+# Public Law 113–15
+
+> An Act To amend the Internal Revenue Code of 1986 to include vaccines against seasonal influenza within the definition of taxable vaccines.
+
+*Be it enacted by the Senate and House of Representa­tives of the United States of America in Congress assembled,*
+
+## § 1. ADDITION OF VACCINES AGAINST SEASONAL INFLUENZA TO LIST OF TAXABLE VACCINES.
+
+- **(a)** *In General.—* Subparagraph (N) of section 4132(a)(1) of the Internal Revenue Code of 1986 is amended by inserting “or any other vaccine against seasonal influenza” before the period.
+- **(b)** *Effective Date.—*
+  - **(1)** *Sales, etc.—* The amendment made by this section shall apply to sales and uses on or after the later of—
+    - **(A)** the first day of the first month which begins more than 4 weeks after the date of the enactment of this Act, or
+    - **(B)** the date on which the Secretary of Health and Human Services lists any vaccine against seasonal influenza (other than any vaccine against seasonal influenza listed by the Secretary prior to the date of the enactment of this Act) for purposes of compensation for any vaccine-related injury or death through the Vaccine Injury Compensation Trust Fund.
+  - **(2)** *Deliveries.—* For purposes of paragraph (1) and section 4131 of the Internal Revenue Code of 1986, in the case of sales on or before the effective date described in such paragraph for which delivery is made after such date, the delivery date shall be considered the sale date.
+
+
+*Approved June 25, 2013.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- June 25, 2013 [H.R. 475]
+- 26 USC 4132.
+- Applicability. 26 USC 4132 note.
+
+## Legislative history
+
+**LEGISLATIVE HISTORY—H.R. 475:**
+
+*CONGRESSIONAL RECORD, Vol. 159 (2013):*
+
+- June 18, considered and passed House.
+- June 19, considered and passed Senate.
