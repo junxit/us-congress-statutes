@@ -1,0 +1,39 @@
+---
+volume: 128
+citation: 128 Stat. 1804
+type: Public Law
+number: 147
+congress: 113
+scope: public
+approved: 2014-08-08
+bills: 113/hr-606, 113/s-233
+---
+
+# Public Law 113–147
+
+> An Act To designate the facility of the United States Postal Service located at 815 County Road 23 in Tyrone, New York, as the “Specialist Christopher Scott Post Office Building”.
+
+*Be it enacted by the Senate and House of Representa­tives of the United States of America in Congress assembled,*
+
+## § 1. SPECIALIST CHRISTOPHER SCOTT POST OFFICE BUILDING.
+
+- **(a)** *Designation.—* The facility of the United States Postal Service located at 815 County Road 23 in Tyrone, New York, shall be known and designated as the “Specialist Christopher Scott Post Office Building”.
+- **(b)** *References.—* Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in subsection (a) shall be deemed to be a reference to the “Specialist Christopher Scott Post Office Building”.
+
+
+*Approved August 8, 2014.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- Aug. 8, 2014 [H.R. 606]
+
+## Legislative history
+
+**LEGISLATIVE HISTORY—H.R. 606 (S. 233):**
+
+*CONGRESSIONAL RECORD, Vol. 160 (2014):*
+
+- July 14, considered and passed House.
+- Aug. 1, considered and passed Senate.

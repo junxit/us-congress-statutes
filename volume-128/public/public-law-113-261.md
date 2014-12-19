@@ -1,0 +1,43 @@
+---
+volume: 128
+citation: 128 Stat. 2934
+type: Public Law
+number: 261
+congress: 113
+scope: public
+approved: 2014-12-18
+bills: 113/hr-4926
+---
+
+# Public Law 113–261
+
+> An Act To designate a segment of Interstate Route 35 in the State of Minnesota as the “James L. Oberstar Memorial Highway”.
+
+*Be it enacted by the Senate and House of Representa­tives of the United States of America in Congress assembled,*
+
+## § 1. DESIGNATION.
+
+The segment of Interstate Route 35 between milepost 133 at Forest Lake, Minnesota, and milepost 259 at Duluth, Minnesota, shall be known and designated as the “James L. Oberstar Memorial Highway”.
+
+## § 2. REFERENCES.
+
+Any reference in a law, map, regulation, document, paper, or other record of the United States to the segment of Interstate Route 35 referred to in section 1 shall be deemed to be a reference to the “James L. Oberstar Memorial Highway”.
+
+
+*Approved December 18, 2014.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- Dec. 18, 2014 [H.R. 4926]
+
+## Legislative history
+
+**LEGISLATIVE HISTORY—H.R. 4926:**
+
+
+*CONGRESSIONAL RECORD, Vol. 160 (2014):*
+
+- Dec. 8, considered and passed House.
+- Dec. 10, considered and passed Senate.

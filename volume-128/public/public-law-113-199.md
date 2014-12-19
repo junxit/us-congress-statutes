@@ -1,0 +1,40 @@
+---
+volume: 128
+citation: 128 Stat. 2058
+type: Public Law
+number: 199
+congress: 113
+scope: public
+approved: 2014-12-04
+bills: 113/hr-5441
+---
+
+# Public Law 113–199
+
+> An Act To amend the Federal charter of the Veterans of Foreign Wars of the United States to reflect the service of women in the Armed Forces of the United States.
+
+*Be it enacted by the Senate and House of Representa­tives of the United States of America in Congress assembled,*
+
+## § 1. REFLECTION OF SERVICE OF WOMEN IN THE ARMED FORCES IN THE FEDERAL CHARTER OF THE VETERANS OF FOREIGN WARS OF THE UNITED STATES.
+
+- **(a)** *Organization.—* Section 230101(a) of title 36, United States Code, is amended by striking “men” and inserting “veterans”.
+- **(b)** *Purposes.—* Section 230102(3) of such title is amended by striking “widows” and inserting “surviving spouses”.
+
+
+*Approved December 4, 2014.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- Dec. 4, 2014 [H.R. 5441]
+
+## Legislative history
+
+**LEGISLATIVE HISTORY—H.R. 5441:**
+
+
+*CONGRESSIONAL RECORD, Vol. 160 (2014):*
+
+- Nov. 17, considered and passed House.
+- Nov. 20, considered and passed Senate.

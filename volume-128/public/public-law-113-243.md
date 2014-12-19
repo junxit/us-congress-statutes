@@ -1,0 +1,43 @@
+---
+volume: 128
+citation: 128 Stat. 2863
+type: Public Law
+number: 243
+congress: 113
+scope: public
+approved: 2014-12-18
+bills: 113/hr-2591, 113/s-2614
+---
+
+# Public Law 113–243
+
+> An Act To amend certain provisions of the FAA Modernization and Reform Act of 2012.
+
+*Be it enacted by the Senate and House of Representa­tives of the United States of America in Congress assembled,*
+
+## § 1. ROLLOVER OF AMOUNTS RECEIVED IN AIRLINE CARRIER BANKRUPTCY.
+
+- **(a)** *Extension of Time To File Claim for Refund.—* Section 1106(a)(3) of the FAA Modernization and Reform Act of 2012 (26 U.S.C. 408 note) is amended by striking “2013” and inserting “2015”.
+- **(b)** *Definitions and Special Rules.—* Section 1106(c) of such Act is amended—
+  - **(1)** in paragraph (1)(A)(i) by inserting “or filed on November 29, 2011,” after “2007,”; and
+  - **(2)** in paragraph (2)(B)—
+    - **(A)** by striking “terminated or” and inserting “terminated,”; and
+    - **(B)** by inserting “, or was frozen effective November 1, 2012” after “Pension Protection Act of 2006”.
+
+
+*Approved December 18, 2014.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- Dec. 18, 2014 [H.R. 2591]
+
+## Legislative history
+
+**LEGISLATIVE HISTORY—H.R. 2591 (S. 2614):**
+
+*CONGRESSIONAL RECORD, Vol. 160 (2014):*
+
+- Dec. 11, considered and passed House.
+- Dec. 13, considered and passed Senate.

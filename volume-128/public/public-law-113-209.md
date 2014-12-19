@@ -1,0 +1,39 @@
+---
+volume: 128
+citation: 128 Stat. 2076
+type: Public Law
+number: 209
+congress: 113
+scope: public
+approved: 2014-12-16
+bills: 113/hr-2112
+---
+
+# Public Law 113–209
+
+> An Act To designate the facility of the United States Postal Service located at 787 State Route 17M in Monroe, New York, as the “National Clandestine Service of the Central Intelligence Agency NCS Officer Gregg David Wenzel Memorial Post Office”.
+
+*Be it enacted by the Senate and House of Representa­tives of the United States of America in Congress assembled,*
+
+## § 1. NATIONAL CLANDESTINE SERVICE OF THE CENTRAL INTELLIGENCE AGENCY NCS OFFICER GREGG DAVID WENZEL MEMORIAL POST OFFICE.
+
+- **(a)** *Designation.—* The facility of the United States Postal Service located at 787 State Route 17M in Monroe, New York, shall be known and designated as the “National Clandestine Service of the Central Intelligence Agency NCS Officer Gregg David Wenzel Memorial Post Office”.
+- **(b)** *References.—* Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in subsection (a) shall be deemed to be a reference to the “National Clandestine Service of the Central Intelligence Agency NCS Officer Gregg David Wenzel Memorial Post Office”.
+
+
+*Approved December 16, 2014.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- Dec. 16, 2014 [H.R. 2112]
+
+## Legislative history
+
+**LEGISLATIVE HISTORY—H.R. 2112:**
+
+*CONGRESSIONAL RECORD, Vol. 160 (2014):*
+
+- June 17, considered and passed House.
+- Dec. 8, considered and passed Senate.
