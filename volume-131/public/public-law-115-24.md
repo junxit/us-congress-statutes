@@ -1,0 +1,36 @@
+---
+volume: 131
+citation: 131 Stat. 90
+type: Public Law
+number: 24
+congress: 115
+scope: public
+approved: 2017-04-13
+bills: 115/hjres-67
+---
+
+# Public Law 115–24
+
+> Joint Resolution Disapproving the rule submitted by the Department of Labor relating to savings arrangements established by qualified State political subdivisions for non-governmental employees.
+
+*Resolved by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+That Congress disapproves the rule submitted by the Department of Labor relating to “Savings Arrangements Established by Qualified State Political Subdivisions for Non-Governmental Employees” (published at 81 Fed. Reg. 92639 (December 20, 2016)), and such rule shall have no force or effect.
+
+
+*Approved April 13, 2017.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- Apr. 13, 2017 [H.J. Res. 67]
+
+## Legislative history
+
+**LEGISLATIVE HISTORY—H.J. Res. 67:**
+
+*CONGRESSIONAL RECORD, Vol. 163 (2017):*
+
+- Feb. 15, considered and passed House.
+- Mar. 29, 30, considered and passed Senate.

@@ -1,0 +1,36 @@
+---
+volume: 131
+citation: 131 Stat. 81
+type: Public Law
+number: 17
+congress: 115
+scope: public
+approved: 2017-03-31
+bills: 115/hjres-42
+---
+
+# Public Law 115–17
+
+> Joint Resolution Disapproving the rule submitted by the Department of Labor relating to drug testing of unemployment compensation applicants.
+
+*Resolved by the Senate and House of Representatives of the United States of America in Congress assembled,*
+
+That Congress disapproves the rule submitted by the Department of Labor relating to “Federal-State Unemployment Compensation Program; Middle Class Tax Relief and Job Creation Act of 2012 Provision on Establishing Appropriate Occupations for Drug Testing of Unemployment Compensation Applicants” (published at 81 Fed. Reg. 50298 (August 1, 2016)), and such rule shall have no force or effect.
+
+
+*Approved March 31, 2017.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- Mar. 31, 2017 [H.J. Res. 42]
+
+## Legislative history
+
+**LEGISLATIVE HISTORY—H.J. Res. 42:**
+
+*CONGRESSIONAL RECORD, Vol. 163 (2017):*
+
+- Feb. 15, considered and passed House.
+- Mar. 13, 14, considered and passed Senate.
