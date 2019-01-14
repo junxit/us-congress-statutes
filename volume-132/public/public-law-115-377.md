@@ -1,0 +1,67 @@
+---
+volume: 132
+citation: 132 Stat. 5114
+type: Public Law
+number: 377
+congress: 115
+scope: public
+approved: 2018-12-21
+bills: 115/hr-6615, 115/s-3657
+---
+
+# Public Law 115–377
+
+> An Act To reauthorize the Traumatic Brain Injury program.
+
+*Be it enacted by the Senate and House of Representa­tives of the United States of America in Congress assembled,*
+
+## § 1. SHORT TITLE.
+
+This Act may be cited as the “Traumatic Brain Injury Program Reauthorization Act of 2018”.
+
+## § 2. PREVENTION AND CONTROL OF INJURIES.
+
+Part J of title III of the Public Health Service Act (42 U.S.C. 280b et seq.) is amended—
+
+- **(1)** in section 393C (42 U.S.C. 280b–1d) by adding at the end the following:
+  > - **(c)** *National Concussion Data Collection and Analysis.—* The Secretary, acting through the Director of the Centers for Disease Control and Prevention, may implement concussion data collection and analysis to determine the prevalence and incidence of concussion.”;
+
+- **(2)** in section 394A(b)(42 U.S.C. 280b–3(b)), by striking “$6,564,000 for each of fiscal years 2015 through 2019” and inserting “$11,750,000 for each of fiscal years 2020 through 2024”; and
+- **(3)** by striking section 393C–1 (42 U.S.C. 280b–1e).
+
+## § 3. STATE GRANTS FOR PROJECTS REGARDING TRAUMATIC BRAIN INJURY.
+
+Section 1252 of the Public Health Service Act (42 U.S.C. 300d–52) is amended—
+
+- **(1)** in subsection (a), by inserting “, acting through the Administrator for the Administration for Community Living,” after “The Secretary”;
+- **(2)** by striking subsection (e);
+- **(3)** by redesignating subsections (f) through (j) as subsections (e) through (i), respectively; and
+- **(4)** in subsection (i), as so redesignated, by striking “$5,500,000 for each of the fiscal years 2015 through 2019” and inserting “$7,321,000 for each of fiscal years 2020 through 2024”.
+
+## § 4. STATE GRANTS FOR PROTECTION AND ADVOCACY SERVICES.
+
+Section 1253 of the Public Health Service Act (42 U.S.C. 300d–53) is amended—
+
+- **(1)** in subsection (a), by inserting “, acting through the Administrator for the Administration for Community Living,” after “The Secretary”; and
+- **(2)** in subsection (l), by striking “$3,100,000 for each of the fiscal years 2015 through 2019” and inserting “$4,000,000 for each of fiscal years 2020 through 2024”.
+
+
+*Approved December 21, 2018.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- Dec. 21, 2018 [H.R. 6615]
+- Traumatic Brain Injury Program Reauthorization Act of 2018. 42 USC 201 note.
+- Determination.
+
+## Legislative history
+
+**LEGISLATIVE HISTORY—H.R. 6615 (S. 3657):**
+
+*CONGRESSIONAL RECORD, Vol. 164 (2018):*
+
+- Dec. 11, considered and passed House.
+- Dec. 18, considered and passed Senate, amended.
+- Dec. 19, House concurred in Senate amendment.

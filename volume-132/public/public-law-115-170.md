@@ -1,0 +1,70 @@
+---
+volume: 132
+citation: 132 Stat. 1286
+type: Public Law
+number: 170
+congress: 115
+scope: public
+approved: 2018-05-07
+bills: 115/hr-4300, 115/s-2213
+---
+
+# Public Law 115–170
+
+> An Act To authorize Pacific Historic Parks to establish a commemorative display to honor members of the United States Armed Forces who served in the Pacific Theater of World War II, and for other purposes.
+
+*Be it enacted by the Senate and House of Representa­tives of the United States of America in Congress assembled,*
+
+## § 1. SHORT TITLE.
+
+This Act may be cited as the “Admiral Lloyd R. ‘Joe’ Vasey Pacific War Commemorative Display Establishment Act”.
+
+## § 2. DEFINITIONS.
+
+In this Act:
+
+- **(1)** *Association.—* The term “Association” means Pacific Historic Parks, a corporation that is—
+  - **(A)** a cooperating association with the National Park Service;
+  - **(B)** organized under the laws of the State of Hawaii; and
+  - **(C)** described in section 501(c)(3) of the Internal Revenue Code of 1986 and exempt from taxation under section 501(a) of that Code.
+- **(2)** *Director.—* The term “Director” means the Director of the National Park Service.
+- **(3)** *Commemorative display.—* The term “commemorative display” means the Pacific Theater of World War II Commemorative Display authorized to be established under section 4(a).
+
+## § 3. PURPOSES.
+
+The purposes of this Act are to—
+
+- **(1)** honor the brave members of the United States Armed Forces who fought on behalf of the United States of America in the Pacific Theater during World War II;
+- **(2)** provide a place to mourn the more than 150,000 American and allied lives lost in the Pacific Theater during World War II; and
+- **(3)** educate the public about United States battles in the Pacific Theater and its role in World War II.
+
+## § 4. PACIFIC THEATER COMMEMORATIVE DISPLAY.
+
+- **(a)** *Authorization To Establish Commemorative Display.—* The Association may establish and maintain a commemorative display to honor the members of the United States Armed Forces and Allies who served in the Pacific Theater during World War II.
+- **(b)** *Use of Federal Funds Prohibited.—* Federal funds may not be used to design, procure, prepare, install, or maintain the commemorative display, but the Director may accept and expend contributions of non-Federal funds and resources for such purposes.
+- **(c)** *Location of Commemorative Display.—*
+  - **(1)** *In general.—* The Director may allow the commemorative display to be established at a suitable location at the Pearl Harbor site of the World War II Valor in the Pacific National Monument in Honolulu, Hawaii.
+  - **(2)** *Condition.—* The commemorative display may not be established at any location under the jurisdiction of the Director until the Director determines that an assured source of non-Federal funding has been established for the design, procurement, installation, and maintenance of the commemorative display.
+- **(d)** *Design of the Commemorative Display.—* The final design of the commemorative display shall be subject to the approval of the Director.
+
+
+*Approved May 7, 2018.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- May 7, 2018 [H.R. 4300]
+- Admiral Lloyd R. ‘Joe’ Vasey Pacific War Commemorative Display Establishment Act. Hawaii. 54 USC 320301 note.
+- Determination.
+
+## Legislative history
+
+**LEGISLATIVE HISTORY—H.R. 4300 (S. 2213):**
+
+
+
+*CONGRESSIONAL RECORD:*
+
+- Dec. 7, considered and passed House.
+- Apr. 23, considered and passed Senate.

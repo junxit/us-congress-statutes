@@ -1,0 +1,63 @@
+---
+volume: 132
+citation: 132 Stat. 5442
+type: Public Law
+number: 419
+congress: 115
+scope: public
+approved: 2019-01-03
+bills: 115/s-3031
+---
+
+# Public Law 115–419
+
+> An Act To amend chapter 5 of title 40, United States Code, to improve the management of Federal personal property.
+
+*Be it enacted by the Senate and House of Representa­tives of the United States of America in Congress assembled,*
+
+## § 1. SHORT TITLE.
+
+This Act may be cited as the “Federal Personal Property Management Act of 2018”.
+
+## § 2. FEDERAL PERSONAL PROPERTY MANAGEMENT.
+
+- **(a)** *Inventory Assessing and Identifying Excess Personal Property.—* Section 524(a) of title 40, United States Code, is amended—
+  - **(1)** in paragraph (11), by striking “and” at the end;
+  - **(2)** in paragraph (12), by striking the period at the end and inserting “; and”; and
+  - **(3)** by adding at the end the following:
+    > - **(13)** in accordance with guidance from the Administrator of General Services—
+    >   - **(A)** on an annual basis, conduct an inventory and assessment of capitalized personal property to identify excess capitalized personal property under its control, including evaluating—
+    >     - **(i)** the age and condition of the personal property;
+    >     - **(ii)** the extent to which the executive agency utilizes the personal property;
+    >     - **(iii)** the extent to which the mission of the executive agency is dependent on the personal property; and
+    >     - **(iv)** any other aspect of the personal property that the Administrator determines is useful or necessary for the executive agency to evaluate; and
+    >   - **(B)** on a regular basis, conduct an inventory and assessment of accountable personal property under its control, including evaluating—
+    >     - **(i)** the age and condition of the personal property;
+    >     - **(ii)** the extent to which the executive agency utilizes the personal property;
+    >     - **(iii)** the extent to which the mission of the executive agency is dependent on the personal property; and
+    >     - **(iv)** any other aspect of the personal property that the Administrator determines is useful or necessary for the executive agency to evaluate.”.
+
+- **(b)** *Thresholds for Capitalization and Accountability.—* Section 506(a)(1) of title 40, United States Code, is amended by adding at the end the following:
+  > - **(E)** *Capitalization thresholds.—* Establish thresholds for acquisitions of personal property for which executive agencies shall capitalize the personal property.
+  > - **(F)** *Accountability thresholds.—* Notwithstanding section 121(b), for the management and accountability of personal property, establish thresholds for acquisitions of personal property for which executive agencies shall establish and maintain property records in a centralized system.”.
+
+
+*Approved January 3, 2019.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- Jan. 3, 2019 [S. 3031]
+- Federal Personal Property Management Act of 2018. 40 USC 101 note.
+- Guidance. Evaluations.
+
+## Legislative history
+
+**LEGISLATIVE HISTORY—S. 3031:**
+
+
+*CONGRESSIONAL RECORD, Vol. 164 (2018):*
+
+- Dec. 12, considered and passed Senate.
+- Dec. 21, considered and passed House.
