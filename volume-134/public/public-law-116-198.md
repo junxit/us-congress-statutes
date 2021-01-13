@@ -1,0 +1,40 @@
+---
+volume: 134
+citation: 134 Stat. 989
+type: Public Law
+number: 198
+congress: 116
+scope: public
+approved: 2020-12-03
+bills: 116/hr-3317
+---
+
+# Public Law 116–198
+
+> An Act To permit the Scipio A. Jones Post Office in Little Rock, Arkansas, to accept and display a portrait of Scipio A. Jones, and for other purposes.
+
+*Be it enacted by the Senate and House of Representa­tives of the United States of America in Congress assembled,*
+
+## § 1. SCIPIO A. JONES POST OFFICE PORTRAIT.
+
+- **(a)** *In General.—* The postmaster of the Scipio A. Jones Post Office, located at 1700 Main Street in Little Rock, Arkansas, may accept and display, in the lobby of such Post Office, a painting, by artist Wade Hampton, of a portrait of Scipio A. Jones.
+- **(b)** *Costs; Gifts.—* The United States Postal Service shall not be responsible for any costs of carrying out subsection (a), including the costs of displaying the painting. The postmaster referred to in such subsection is authorized to accept on behalf of the Government the painting and any services necessary to display the painting.
+
+
+*Approved December 3, 2020.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- Dec. 3, 2020 [H.R. 3317]
+- Wade Hampton.
+
+## Legislative history
+
+**LEGISLATIVE HISTORY—H.R. 3317:**
+
+*CONGRESSIONAL RECORD, Vol. 166 (2020):*
+
+- Feb. 5, considered and passed House.
+- Nov. 18, considered and passed Senate.

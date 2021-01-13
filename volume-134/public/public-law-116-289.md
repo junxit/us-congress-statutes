@@ -1,0 +1,103 @@
+---
+volume: 134
+citation: 134 Stat. 4886
+type: Public Law
+number: 289
+congress: 116
+scope: public
+approved: 2021-01-05
+bills: 116/hr-1240
+---
+
+# Public Law 116–289
+
+> An Act To preserve United States fishing heritage through a national program dedicated to training and assisting the next generation of commercial fishermen.
+
+*Be it enacted by the Senate and House of Representa­tives of the United States of America in Congress assembled,*
+
+## § 1. SHORT TITLE.
+
+This Act may be cited as the “Young Fishermen’s Development Act”.
+
+## § 2. DEFINITIONS.
+
+In this Act:
+
+- **(1)** *Sea grant institution.—* The term “Sea Grant Institution” means a sea grant college or sea grant institute, as those terms are defined in section 203 of the National Sea Grant College Program Act (33 U.S.C. 1122).
+- **(2)** *Tribal organization.—* The term “Tribal organization” has the meaning given the term “tribal organization” in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304).
+- **(3)** *Young fisherman.—* The term “young fisherman” means an individual who—
+  - **(A)** desires to participate in the commercial fisheries of the United States, including the Great Lakes fisheries;
+  - **(B)** has worked as a captain, crew member, or deckhand on a commercial fishing vessel for not more than 10 years of cumulative service; or
+  - **(C)** is a beginning commercial fisherman.
+
+## § 3. ESTABLISHMENT OF PROGRAM.
+
+The Secretary of Commerce, acting through the National Sea Grant Office, shall establish a program to provide training, education, outreach, and technical assistance initiatives for young fishermen, to be known as the “Young Fishermen’s Development Grant Program” (referred to in this section as the “Program”).
+
+## § 4. GRANTS.
+
+- **(a)** *In General.—* In carrying out the Program, the Secretary shall make competitive grants to support new and established local and regional training, education, outreach, and technical assistance initiatives for young fishermen, including programs, workshops, and services relating to—
+  - **(1)** seamanship, navigation, electronics, and safety;
+  - **(2)** vessel and engine care, maintenance, and repair;
+  - **(3)** innovative conservation fishing gear engineering and technology;
+  - **(4)** sustainable fishing practices;
+  - **(5)** entrepreneurship and good business practices;
+  - **(6)** direct marketing, supply chain, and traceability;
+  - **(7)** financial and risk management, including vessel, permit, and quota purchasing;
+  - **(8)** State and Federal legal requirements for specific fisheries, including reporting, monitoring, licenses, and regulations;
+  - **(9)** State and Federal fisheries policy and management;
+  - **(10)** mentoring, apprenticeships, or internships; and
+  - **(11)** any other activities, opportunities, or programs, as the Secretary determines appropriate.
+- **(b)** *Eligibility.—*
+  - **(1)** *Applicants.—* To be eligible to receive a grant under the Program, a recipient shall be a collaborative State, Tribal, local, or regionally based network or partnership of public or private entities, which may include—
+    - **(A)** a Sea Grant Institution;
+    - **(B)** a Federal or State agency or a Tribal organization;
+    - **(C)** a community-based nongovernmental organization;
+    - **(D)** fishermen’s cooperatives or associations;
+    - **(E)** an institution of higher education (including an institution awarding an associate’s degree), or a foundation maintained by an institution of higher education; or
+    - **(F)** any other appropriate entity, as the Secretary determines appropriate.
+  - **(2)** *Participants.—* All young fishermen seeking to participate in the commercial fisheries of the United States and the Great Lakes are eligible to participate in the activities funded through grants provided for in this section, except that participants in such activities shall be selected by each grant recipient.
+- **(c)** *Maximum Term and Amount of Grant.—*
+  - **(1)** *In general.—* A grant under this section shall—
+    - **(A)** have a term of no more than 3 fiscal years; and
+    - **(B)** be in an amount that is not more than $200,000 for each fiscal year.
+  - **(2)** *Consecutive grants.—* An eligible recipient may receive consecutive grants under this section.
+- **(d)** *Matching Requirement.—* To be eligible to receive a grant under this section, a recipient shall provide a match in the form of cash or in-kind contributions from the recipient in the amount equal to or greater than 25 percent of the funds provided by the grant.
+- **(e)** *Regional Balance.—* In making grants under this section, the Secretary shall, to the maximum extent practicable, ensure geographic diversity.
+- **(f)** *Cooperation and Evaluation Criteria.—* In carrying out this section and in developing criteria for evaluating grant applications, the Secretary shall consult, to the maximum extent practicable, with—
+  - **(1)** Sea Grant Institutions and extension agents of such institutions;
+  - **(2)** community-based nongovernmental fishing organizations;
+  - **(3)** Federal and State agencies, including Regional Fishery Management Councils established under the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1851 et seq.);
+  - **(4)** institutions of higher education with fisheries expertise and programs; and
+  - **(5)** partners, as the Secretary determines.
+- **(g)** *Prohibition.—* A grant under this section may not be used to purchase any fishing license, permit, quota, or other harvesting right.
+
+## § 5. FUNDING.
+
+- **(a)** *Authorizations.—* There are authorized to be appropriated to carry out this Act $2,000,000 for each of fiscal years 2022 through 2026.
+- **(b)** *Derivation.—* Funds to carry out the activities under this Act shall be derived from amounts authorized to be appropriated pursuant to the preceding subsection that are enacted after the date of the enactment of this Act.
+
+
+*Approved January 5, 2021.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- Jan. 5, 2021 [H.R. 1240]
+- Young Fishermen’s Development Act. 33 USC 1101 note.
+- 33 USC 1141.
+- 33 USC 1142.
+- 33 USC 1143.
+- Consultation.
+- 33 USC 1144.
+
+## Legislative history
+
+**LEGISLATIVE HISTORY—H.R. 1240:**
+
+
+*CONGRESSIONAL RECORD, Vol. 166 (2020):*
+
+- Dec. 10, considered and passed House.
+- Dec. 20, considered and passed Senate.

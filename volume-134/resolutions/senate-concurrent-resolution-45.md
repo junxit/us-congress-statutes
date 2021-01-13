@@ -1,0 +1,22 @@
+---
+volume: 134
+type: Senate Concurrent Resolution
+number: 45
+---
+
+# Senate Concurrent Resolution 45
+
+> RUTH BADER GINSBURG—FUNERAL SERVICES—CATAFALQUE AUTHORIZATION
+
+*Resolved by the Senate (the House of Representatives concurring),*
+
+That the Architect of the Capitol is authorized and directed to transfer to the custody of the Supreme Court of the United States the catafalque which is situated in the crypt beneath the Rotunda of the Capitol so that such catafalque may be used in the Supreme Court Building in connection with services to be conducted there for the late honorable Ruth Bader Ginsburg, Associate Justice of the United States Supreme Court. The custody of the catafalque shall then be returned to the Architect of the Capitol to be used in connection with such services to be conducted in National Statuary Hall.
+
+
+*Agreed to September 24, 2020.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- Sept. 24, 2020 [S. Con. Res. 45]
