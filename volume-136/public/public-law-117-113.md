@@ -1,0 +1,72 @@
+---
+volume: 136
+citation: 136 Stat. 1173
+type: Public Law
+number: 113
+congress: 117
+scope: public
+approved: 2022-04-19
+bills: 117/hr-5681, 117/s-2541
+---
+
+# Public Law 117–113
+
+> An Act To authorize the reclassification of the tactical enforcement officers (commonly known as the “Shadow Wolves”) in the Homeland Security Investigations tactical patrol unit operating on the lands of the Tohono O’odham Nation as special agents, and for other purposes.
+
+*Be it enacted by the Senate and House of Representa­tives of the United States of America in Congress assembled,*
+
+## § 1. SHORT TITLE.
+
+This Act may be cited as the “Shadow Wolves Enhancement Act”.
+
+## § 2. RECLASSIFICATION OF SHADOW WOLVES AS GS–1811 SPECIAL AGENTS.
+
+The Director of U.S. Immigration and Customs Enforcement is authorized—
+
+- **(1)** to reclassify the GS–1801 tactical enforcement officers (commonly known as “Shadow Wolves”) assigned to the Homeland Security Investigations tactical patrol unit operating on the lands of the Tohono O’odham Nation, as of the date of the enactment of this Act, as GS–1811 special agents, upon the successful completion of—
+  - **(A)** the Federal Law Enforcement Training Center’s Criminal Investigator Training Program; and
+  - **(B)**
+    - **(i)** Customs Basic Enforcement School, if the officer was hired before March 2003; or
+    - **(ii)** U.S. Immigration and Customs Enforcement Homeland Security Investigations Special Agent Training, if the officer was hired during or after March 2003;
+- **(2)** to classify any Shadow Wolves who are assigned to the unit referred to in paragraph (1) after such date of enactment as GS–1811 special agents upon the successful completion of the training described in paragraph (1); and
+- **(3)** to classify as GS–1811 special agents upon the successful completion of the training described in paragraph (1) any Shadow Wolves who are hired as part of a comparable unit (regardless of location) established after such date of enactment with the approval and consent of the appropriate Indian tribe.
+
+## § 3. EXPANSION OF SHADOW WOLVES PROGRAM.
+
+Not later than 90 days after the date of the enactment of this Act, the Secretary of Homeland Security shall submit to the Comptroller General of the United States, the Committee on Homeland Security and Governmental Affairs of the Senate, and the Committee on Homeland Security of the House of Representatives a strategy for—
+
+- **(1)** retaining existing Shadow Wolves;
+- **(2)** recruiting new Shadow Wolves; and
+- **(3)** expanding comparable units referred to in section 2(3) to appropriate areas near the international border between the United States and Canada or the international border between the United States and Mexico, with the approval and consent of the appropriate Indian tribe.
+
+## § 4. GAO REPORT.
+
+Not later than 1 year after receiving the strategy required under section 3 and annually thereafter for the following two years, the Comptroller General of the United States shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security of the House of Representatives—
+
+- **(1)** an assessment of the effectiveness of such strategy; and
+- **(2)** any recommendations for improvements to the strategy that the Comptroller General determines to be appropriate.
+
+
+*Approved April 19, 2022.*
+
+## Marginal notes
+
+Printed in the margin of the volume beside the text above, not in it.
+
+- Apr. 19, 2022 [H.R. 5681]
+- Shadow Wolves Enhancement Act.
+- Deadline. Strategy.
+- Time period.
+- Assessment.
+- Recommenda- tions.
+
+## Legislative history
+
+**LEGISLATIVE HISTORY—H.R. 5681 (S. 2541):**
+
+
+
+*CONGRESSIONAL RECORD, Vol. 168 (2022):*
+
+- Mar. 7, 8, considered and passed House.
+- Apr. 5, considered and passed Senate.
