@@ -64,13 +64,13 @@ This is one of a set. The [pipeline](https://github.com/junxit/us-congress-pipel
 | [`us-congress-code`](https://github.com/junxit/us-congress-code) | 1 | The codified US Code. One commit per OLRC release point, tagged, with per-law attribution from Table III. | built |
 | `us-congress-bills-{congress}` | 2 | One branch per measure; one commit per bill text version. | 12 of these built |
 | [`us-congress-statutes`](https://github.com/junxit/us-congress-statutes) ← you are here | 5 | Statutes at Large — session laws as enacted, volumes 1–137. | built |
-| `us-congress-record-{congress}` | 6 | Congressional Record floor proceedings as text, 1994 to present, sharded by Congress and linked to bills by metadata. | 11 of these built |
+| `us-congress-record-{congress}` | 6 | Congressional Record floor proceedings as text, 1994 to present, sharded by Congress and linked to bills by metadata. | 12 of these built |
 
 `us-congress-bills-{congress}` — [`108`](https://github.com/junxit/us-congress-bills-108), [`109`](https://github.com/junxit/us-congress-bills-109), [`110`](https://github.com/junxit/us-congress-bills-110), [`111`](https://github.com/junxit/us-congress-bills-111), [`112`](https://github.com/junxit/us-congress-bills-112), [`113`](https://github.com/junxit/us-congress-bills-113), [`114`](https://github.com/junxit/us-congress-bills-114), [`115`](https://github.com/junxit/us-congress-bills-115), [`116`](https://github.com/junxit/us-congress-bills-116), [`117`](https://github.com/junxit/us-congress-bills-117), [`118`](https://github.com/junxit/us-congress-bills-118), [`119`](https://github.com/junxit/us-congress-bills-119)
 
-`us-congress-record-{congress}` — [`103`](https://github.com/junxit/us-congress-record-103), [`104`](https://github.com/junxit/us-congress-record-104), [`105`](https://github.com/junxit/us-congress-record-105), [`106`](https://github.com/junxit/us-congress-record-106), [`107`](https://github.com/junxit/us-congress-record-107), [`108`](https://github.com/junxit/us-congress-record-108), [`109`](https://github.com/junxit/us-congress-record-109), [`110`](https://github.com/junxit/us-congress-record-110), [`111`](https://github.com/junxit/us-congress-record-111), [`112`](https://github.com/junxit/us-congress-record-112), [`115`](https://github.com/junxit/us-congress-record-115)
+`us-congress-record-{congress}` — [`103`](https://github.com/junxit/us-congress-record-103), [`104`](https://github.com/junxit/us-congress-record-104), [`105`](https://github.com/junxit/us-congress-record-105), [`106`](https://github.com/junxit/us-congress-record-106), [`107`](https://github.com/junxit/us-congress-record-107), [`108`](https://github.com/junxit/us-congress-record-108), [`109`](https://github.com/junxit/us-congress-record-109), [`110`](https://github.com/junxit/us-congress-record-110), [`111`](https://github.com/junxit/us-congress-record-111), [`112`](https://github.com/junxit/us-congress-record-112), [`113`](https://github.com/junxit/us-congress-record-113), [`115`](https://github.com/junxit/us-congress-record-115)
 
-## Licence
+## License
 
 The federal text here is a work of the United States Government and is not subject to copyright under 17 U.S.C. § 105 — it is public domain, and no rights are asserted over it.
 
